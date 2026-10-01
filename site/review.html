@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Submit a review — AI-Assisted Medical Research Preprints</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+body{font-family:Helvetica,Arial,sans-serif;max-width:760px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.6}
+h1{font-size:1.5rem;border-bottom:2px solid #8a2b2b;padding-bottom:.4rem}
+label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
+input,select,textarea{width:100%;padding:.5rem;border:1px solid #ccc;border-radius:5px;font-size:.95rem;box-sizing:border-box}
+button{background:#1f4e79;color:#fff;border:0;padding:.6rem 1.2rem;border-radius:5px;font-size:.95rem;margin-top:1rem;cursor:pointer}
+#msg{margin-top:.8rem;font-size:.9rem}
+.reviewers{background:#eef2f7;border:1px solid #cdd6e0;border-radius:6px;padding:.7rem 1rem;font-size:.85rem;margin:.6rem 0}
+a{color:#1f4e79}
+</style>
+</head>
+<body>
+<p><a href="/">← All preprints</a></p>
+<h1>Submit a review</h1>
+<p>Select the paper, enter the email you registered with, complete the checklist, and submit. Reviews are stored in the public audit database. Your name and credentials are displayed publicly with the paper unless you untick the disclosure box.</p>
+<form id="reviewform">
+<label>Paper</label><select id="paper" required></select>
+<label>Your registered email *</label><input name="email" type="email" required>
+<fieldset style="border:1px solid #ccc;border-radius:6px;padding:.8rem;margin-top:1rem">
+<legend style="font-weight:600;font-size:.85rem">Review checklist</legend>
+<label style="margin:.4rem 0"><input type="checkbox" name="paper_suitable"> A. The listed papers are suitable for inclusion in this series/review</label>
+<label style="margin:.4rem 0"><input type="checkbox" name="extraction_checked"> B. I checked data extraction against the source papers (papers are linked in the GitHub audit trail)</label>
+<label style="margin:.4rem 0"><input type="checkbox" name="analysis_checked"> C. I checked the statistical analysis and figures</label>
+<label style="margin:.4rem 0"><input type="checkbox" name="manuscript_checked"> D. I reviewed the final manuscript (clinical interpretation, conclusions, disclosure)</label>
+<label>Overall rating (1–5) *</label><select name="rating" required><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select>
+<label>Decision *</label><select name="decision" required><option value="approve">Approve for publication</option><option value="revise">Revise (see suggestions)</option><option value="reject">Reject</option></select>
+<label>Suggestions / required revisions</label><textarea name="suggestions" rows="4" placeholder="Specific corrections, additions, data concerns..."></textarea>
+<label>Overall comment</label><textarea name="overall_comment" rows="3"></textarea>
+<label style="margin:.6rem 0"><input type="checkbox" name="disclosed" checked> Display my name and credentials publicly alongside this paper</label>
+</fieldset>
+<button type="submit">Submit review</button>
+<div id="msg"></div>
+</form>
+<div class="reviewers" id="reviewers">Loading reviewer directory…</div>
+<script>
+const sb=window.supabase.createClient("https://zihmokjuleecudhjmsyw.supabase.co","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppaG1va2p1bGVlY3VkaGptc3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA1ODE0ODAsImV4cCI6MjEwNjE1NzQ4MH0.p262PYnfC0r-Mk7pZm4G1Bwsoa8g0DVCB_cFqINXDEE");
+(async()=>{
+  const {data:papers}=await sb.from("papers").select("id,title,slug,status");
+  const sel=document.getElementById("paper");
+  sel.innerHTML=(papers||[]).map(p=>`<option value="${p.id}">${p.title} (${p.status})</option>`).join("");
+  const {data:rev}=await sb.from("reviewers").select("full_name,credentials,organisation,specialty,position").order("created_at");
+  document.getElementById("reviewers").innerHTML="<strong>Registered reviewer directory</strong><br>"+((rev||[]).map(r=>`• ${r.full_name} — ${r.credentials||""}${r.specialty?", "+r.specialty:""}${r.organisation?", "+r.organisation:""}`).join("<br>")||"No reviewers registered yet. Be the first.");
+})();
+document.getElementById("reviewform").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const f=Object.fromEntries(new FormData(e.target).entries());
+  const paperId=document.getElementById("paper").value;
+  const {data:me,error:meErr}=await sb.from("reviewers").select("id,status").eq("email",f.email.trim().toLowerCase());
+  const m=document.getElementById("msg");
+  if(meErr||!me||!me.length){m.style.color="#8a2b2b";m.textContent="No reviewer profile found for that email. Please register at reviewers.html first.";return;}
+  if(me[0].status!=="approved"){m.style.color="#8a2b2b";m.textContent="Your reviewer profile is not approved yet.";return;}
+  const row={paper_id:paperId,reviewer_id:me[0].id,
+    paper_suitable:!!f.paper_suitable,extraction_checked:!!f.extraction_checked,
+    analysis_checked:!!f.analysis_checked,manuscript_checked:!!f.manuscript_checked,
+    rating:parseInt(f.rating),decision:f.decision,suggestions:f.suggestions||null,
+    overall_comment:f.overall_comment||null,disclosed:!!f.disclosed};
+  const {error}=await sb.from("reviews").insert(row);
+  if(error){m.style.color="#8a2b2b";m.textContent="Submission failed: "+error.message;}
+  else{m.style.color="#1a6b2f";m.textContent="Review submitted — thank you. It is now part of the public audit record and will appear alongside the paper.";}
+});
+</script>
+</body></html>

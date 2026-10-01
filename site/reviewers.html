@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Become a reviewer — AI-Assisted Medical Research Preprints</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+body{font-family:Helvetica,Arial,sans-serif;max-width:720px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.6}
+h1{font-size:1.5rem;border-bottom:2px solid #8a2b2b;padding-bottom:.4rem}
+label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
+input,select,textarea{width:100%;padding:.5rem;border:1px solid #ccc;border-radius:5px;font-size:.95rem;box-sizing:border-box}
+button{background:#1f4e79;color:#fff;border:0;padding:.6rem 1.2rem;border-radius:5px;font-size:.95rem;margin-top:1rem;cursor:pointer}
+#msg{margin-top:.8rem;font-size:.9rem}
+a{color:#1f4e79}
+</style>
+</head>
+<body>
+<p><a href="/">← All preprints</a></p>
+<h1>Register as a reviewer</h1>
+<p>Reviewers verify data extraction against source papers, check analyses, and review the final manuscript. Your credentials (as provided) are displayed publicly alongside papers you review. Registration data is stored in our public audit database; you can opt out of public display during review submission.</p>
+<form id="signup">
+<label>Full name *</label><input name="full_name" required>
+<label>Email *</label><input name="email" type="email" required>
+<label>Credentials (e.g. MD, MMed, PhD) *</label><input name="credentials" required>
+<label>Medical council registration / licence no. *</label><input name="registration_no" required>
+<label>Organisation / institution *</label><input name="organisation" required>
+<label>Specialty *</label><input name="specialty" required placeholder="e.g. Clinical Haematology">
+<label>Position</label><input name="position" placeholder="e.g. Consultant, Lecturer, Senior Lecturer">
+<label>Country</label><input name="country">
+<label>ORCID (optional)</label><input name="orcid">
+<label>Short bio (optional)</label><textarea name="bio" rows="3"></textarea>
+<button type="submit">Create reviewer profile</button>
+<div id="msg"></div>
+</form>
+<script>
+const sb=window.supabase.createClient("https://zihmokjuleecudhjmsyw.supabase.co","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppaG1va2p1bGVlY3VkaGptc3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA1ODE0ODAsImV4cCI6MjEwNjE1NzQ4MH0.p262PYnfC0r-Mk7pZm4G1Bwsoa8g0DVCB_cFqINXDEE");
+document.getElementById("signup").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const f=Object.fromEntries(new FormData(e.target).entries());
+  try{
+    const {error}=await sb.from("reviewers").insert(f);
+    const m=document.getElementById("msg");
+    if(error){m.style.color="#8a2b2b";m.textContent="Registration failed: "+error.message;}
+    else{m.style.color="#1a6b2f";m.textContent="Profile created. You can now review papers at review.html — use the same email so your credentials are matched.";}
+  }catch(err){document.getElementById("msg").textContent="Error: "+err;}
+});
+</script>
+</body></html>

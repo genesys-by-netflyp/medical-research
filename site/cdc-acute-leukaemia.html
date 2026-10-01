@@ -62,4 +62,30 @@ a.back{font-family:Helvetica,sans-serif;font-size:.85rem}
 <p style="font-size:.85rem">S32: PMID 27408899 (PMC4938872) · S33: PMID 27800196 (PMC5075288) · S38: PMID 35968598 (PMC9800221, Chinese) · S39: PMID 37750159 (PMC10518137, Cureus) · S40: PMID 37089309 (PMC10113846, Heliyon) · S42: PMID 37476594 (PMC10354359, Clin Case Rep) · S46: PMID 38448809 (BMC Infect Dis, 10.1186/s12879-024-09172-9). Complete list with verification status: <a href="https://github.com/genesys-by-netflyp/medical-research/blob/main/2026-09_opportunistic-infections-haematology/references.md">references.md on GitHub</a>.</p>
 
 <p style="margin-top:2rem"><a class="back" href="/">← All preprints</a></p>
+
+<h2>Reviewers of this paper</h2>
+<div class="disclaimer" style="background:#eef2f7;border-color:#cdd6e0" id="reviewerlist">Loading reviewer directory…</div>
+<p style="font-size:.85rem">Want to review this paper? <a href="/reviewers.html">Register as a reviewer</a>, then <a href="/review.html">submit your review</a>. Reviews become part of the public audit record.</p>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+const sb=window.supabase.createClient("https://zihmokjuleecudhjmsyw.supabase.co","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppaG1va2p1bGVlY3VkaGptc3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA1ODE0ODAsImV4cCI6MjEwNjE1NzQ4MH0.p262PYnfC0r-Mk7pZm4G1Bwsoa8g0DVCB_cFqINXDEE");
+(async()=>{
+  const el=document.getElementById("reviewerlist");
+  const {data:papers}=await sb.from("papers").select("id").eq("slug","cdc-acute-leukaemia-case-series");
+  if(!papers||!papers.length){el.textContent="No paper record found.";return;}
+  const {data:reviews}=await sb.from("reviews").select("decision,rating,disclosed,created_at,reviewer_id").eq("paper_id",papers[0].id);
+  if(!reviews||!reviews.length){el.innerHTML="<strong>Not yet reviewed.</strong> This draft awaits human reviewer sign-off.";return;}
+  let html="<strong>"+reviews.length+" submitted review(s)</strong><br>";
+  for(const rv of reviews){
+    const {data:who}=await sb.from("reviewers").select("full_name,credentials,organisation,specialty,position").eq("id",rv.reviewer_id).single();
+    if(rv.disclosed && who){
+      html+=`• ${who.full_name} — ${who.credentials||""}${who.specialty?", "+who.specialty:""}${who.organisation?", "+who.organisation:""} · decision: <strong>${rv.decision}</strong> (rating ${rv.rating}/5)<br>`;
+    } else {
+      html+=`• An anonymous reviewer · decision: <strong>${rv.decision}</strong> (rating ${rv.rating}/5)<br>`;
+    }
+  }
+  el.innerHTML=html;
+})();
+</script>
 </body></html>
