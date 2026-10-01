@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Acute pesticide poisoning in agricultural workers — AI-assisted case series (DRAFT v0.1)</title>
+<style>
+body{font-family:Georgia,'Times New Roman',serif;max-width:820px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.65}
+h1{font-size:1.5rem}h2{font-size:1.2rem;margin-top:1.8rem}h3{font-size:1rem}
+.badge{display:inline-block;background:#8a2b2b;color:#fff;font-size:.72rem;padding:.15rem .55rem;border-radius:3px;font-family:Helvetica,sans-serif}
+table{border-collapse:collapse;width:100%;font-size:.78rem;margin:1rem 0}
+th,td{border:1px solid #ccc;padding:.3rem .45rem;text-align:left;vertical-align:top}
+th{background:#eef2f7}
+.disclaimer{background:#fdf3d8;border:1px solid #e6c96a;padding:.8rem 1rem;border-radius:6px;font-size:.85rem}
+a.back{font-family:Helvetica,sans-serif;font-size:.85rem}
+.btn{display:inline-block;background:#1f4e79;color:#fff;text-decoration:none;padding:.45rem .9rem;border-radius:5px;font-family:Helvetica,sans-serif;font-size:.85rem;margin-top:.6rem}
+.btn.secondary{background:#555}
+figure{margin:1.2rem 0;text-align:center}figure img{max-width:100%;height:auto}figcaption{font-size:.8rem;color:#555}
+</style>
+</head>
+<body>
+<p><a class="back" href="/">← All preprints</a> · <a class="back" href="https://github.com/genesys-by-netflyp/medical-research/tree/main/2026-10_ag-pesticide-toxidromes-case-series">Audit trail for this project on GitHub</a></p>
+<p><span class="badge">CASE SERIES (CARE) · DRAFT v0.1 · AI-ASSISTED · NOT PEER-REVIEWED</span></p>
+<div class="disclaimer"><strong>⚠ AI-assisted preprint — not peer-reviewed, not medical advice.</strong> Search, screening, full-text retrieval, extraction, analysis and drafting were performed autonomously by an AI agent (Hermes Agent, Nous Research) at the request of the investigator; publication was instructed by the investigator. All extracted values are traceable to verbatim quotes in the public extraction files (extraction/PMC*.json in the GitHub audit trail).</div>
+<h1>Acute pesticide poisoning in agricultural workers: an aggregated case-series synthesis of atypical toxidromes, presentation and outcomes from published case reports</h1>
+<p><a class="btn" href="/papers/manuscript_v01_agtox.pdf">Download PDF</a> <a class="btn secondary" href="https://github.com/genesys-by-netflyp/medical-research/tree/main/2026-10_ag-pesticide-toxidromes-case-series">GitHub audit trail</a></p>
+
+<h1>Abstract</h1>
+<p><strong>Background:</strong> Novel agricultural pesticides are producing toxidromes unfamiliar to prehospital and emergency clinicians. Aggregated syntheses of published case-level data can map these presentations. <strong>Methods:</strong> Following CARE guidelines, we searched Europe PMC for case reports and case series of acute human pesticide poisoning with an agricultural agent (no language restriction in scope). Of 186 records screened, 93 underwent full-text assessment; 88 full texts were retrieved (95%) and 73 sources with per-case clinical detail were included, yielding 102 individual published cases. Every extracted value is backed by a verbatim quotation from the source full text, or explicitly marked UNVERIFIED. <strong>Results:</strong> Cases clustered in bipyridyl herbicides (paraquat/diquat, n=28), organophosphates (n=19), glyphosate and other herbicides (n=19), neonicotinoids (n=7) and pyrethroids (n=7), with smaller groups for fumigants, amitraz, avermectins, indoxacarb, fipronil, anticoagulant rodenticides and copper sulfate. Documented toxidromes beyond classic cholinergic crisis (20 cases) included methemoglobinemia responsive to methylene blue (5 cases, indoxacarb/imidacloprid), delayed neuropathy and intermediate syndrome after organophosphates (4), toxic encephalopathy after fumigant inhalation, and thrombotic microangiopathy after avermectin ingestion. Overall, 75/102 cases survived or recovered and 27 died; mortality concentrated in paraquat (bipyridyl) and aluminium phosphide exposures. Only 8 of 102 cases were explicitly occupational/agricultural exposures; 85 were non-occupational (predominantly intentional ingestion) and 9 unstated. <strong>Conclusions:</strong> The published case literature at the emergency medicine/occupational health intersection is dominated by intentional ingestions of agricultural agents rather than occupational exposures; genuine occupational case reports are scarce. Emerging agents (indoxacarb, emamectin, chloropicrin, novel neonicotinoids) produce recognisable, treatment-relevant syndromes (methemoglobinemia, GABAergic coma, encephalopathy) that clinicians should know. Systematic prospective registries of occupational pesticide exposures are needed.</p>
+
+<h1>1. Background</h1>
+<p>Agricultural pesticides are among the most important acute poisons presenting to emergency services worldwide. While classic syndromes such as organophosphate-induced cholinergic crisis are well taught, newly marketed agents — oxadiazine indoxacarb, avermectin/emamectin insecticides, strobilurin and other novel fungicides, neonicotinoids, and soil fumigants such as chloropicrin — are producing presentations that are less familiar at the prehospital and emergency department level. Individual case reports and small case series are the primary published evidence for many of these rarer agents, but they are scattered across journals and languages. An aggregated, structured case series built from these primary reports can describe the spectrum of acute presentations, their management and their outcomes, and can quantify how much of this literature actually reflects occupational versus intentional exposure.</p>
+
+<h1>2. Methods</h1>
+<p>This is an aggregated (literature-based) case-series synthesis reported per the CARE guidelines. The protocol, search strings, raw search results and every automated action are published in the project repository (see audit_trail.md and search_log.md).</p>
+<p><strong>Search and selection:</strong> Europe PMC was searched on 2026-10-01 for case-type publications combining pesticide agent terms, agricultural-worker terms and poisoning terms (exact strings in search_log.md). 186 unique records were identified and screened on title/abstract; 93 proceeded to full-text assessment. Full texts of 88 were retrieved from Europe PMC (95%); 15 were excluded at full text because they contained only aggregate (non-per-case) data, were reviews or guidelines without case-level detail, described chronic rather than acute exposure, or concerned non-pesticide exposures. 73 sources with per-case clinical data were included.</p>
+<p><strong>Extraction and verification:</strong> For each source, per-case data were extracted into structured JSON (extraction/PMC*.json) covering demographics, exposure context, agent, route, circumstances, symptoms, investigations, treatment and outcome. Every extracted value is backed by a verbatim quotation from the source full text; values not present in the source are marked UNVERIFIED and were never inferred. All 708 quotation fields were programmatically verified to be exact substrings of the retrieved source texts. Non-English sources were in scope; the corpus retrieved was English-language. No pooled or inferential statistics were computed; analysis is descriptive counts.</p>
+
+<h1>3. Results</h1>
+<p>The 73 suitable sources yielded 102 individual published cases. Agent classes were: bipyridyl herbicides (paraquat/diquat) 28; organophosphates 19; glyphosate and other herbicides (including 2,4-D, pretilachlor, atrazine, bispyribac) 19; neonicotinoids 7; pyrethroids 7; fumigants (aluminium phosphide, chloropicrin) 6; amitraz 4; avermectin/emamectin 3; indoxacarb 2; fipronil 2; anticoagulant rodenticides 2; copper sulfate 2; carbamate 1 (Table 1, Figure 2).</p>
+<table>
+<tr><th>Agent class</th><th>Cases (n)</th><th>Notable documented presentations</th></tr>
+<tr><td>Paraquat/diquat (bipyridyl herbicides)</td><td>28</td><td>Mucosal/GI injury, AKI, pulmonary fibrosis/ARDS; high mortality</td></tr>
+<tr><td>Organophosphates</td><td>19</td><td>Cholinergic crisis; intermediate syndrome and delayed neuropathy (4); ATN/ARDS</td></tr>
+<tr><td>Glyphosate and other herbicides</td><td>19</td><td>GI injury, hypotension, AKI; 2,4-D presentations mimicking organophosphate poisoning</td></tr>
+<tr><td>Neonicotinoids</td><td>7</td><td>Methemoglobinemia (1 imidacloprid), ocular exposure with oculomotor palsy (1)</td></tr>
+<tr><td>Pyrethroids</td><td>7</td><td>Prolonged bradycardia, delayed laryngeal edema requiring tracheostomy (1)</td></tr>
+<tr><td>Fumigants (aluminium phosphide, chloropicrin)</td><td>6</td><td>Cardiogenic shock (phosphine); toxic encephalopathy after chloropicrin inhalation (1)</td></tr>
+<tr><td>Amitraz</td><td>4</td><td>CNS depression; anticholinergic-like delirium after atropine therapy</td></tr>
+<tr><td>Avermectin/emamectin</td><td>3</td><td>GABAergic coma with refractory shock rescued with intravenous lipid emulsion (1); TMA/HUS (1)</td></tr>
+<tr><td>Indoxacarb (and combinations)</td><td>2+</td><td>Methemoglobinemia responsive to methylene blue (4 indoxacarb-containing cases overall)</td></tr>
+<tr><td>Fipronil</td><td>2</td><td>Seizures, altered consciousness</td></tr>
+<tr><td>Anticoagulant rodenticides</td><td>2</td><td>Bleeding with AKI; aortic dissection association (1)</td></tr>
+<tr><td>Copper sulfate</td><td>2</td><td>Intravascular hemolysis, hepatic injury; hemophagocytosis/HLH (1)</td></tr>
+<tr><td>Carbamate</td><td>1</td><td>Cholinergic toxidrome</td></tr>
+</table>
+<p><strong>Table 1.</strong> Agent classes and documented presentations across 102 published cases.</p>
+<p>Exposure context was explicitly occupational/agricultural in 8 of 102 cases (e.g. chloropicrin soil fumigation in a ginger farmer, avermectin occupational spraying, organophosphate spraying exposure); 85 cases were non-occupational (predominantly intentional ingestion, including pesticide self-poisoning) and 9 were unstated in the source (Figure 3). Route of exposure was oral/ingestion in the great majority of cases, with isolated inhalational (fumigants, glyphosate), dermal (paraquat scalp application in children; occupational dermal paraquat) and even intravenous exposures (diquat, paraquat, indoxacarb) reported.</p>
+<p>Sex was documented for 84 cases (56 male, 28 female) and unstated for 18. Age was documented numerically for 89 cases, ranging from 1 to 79 years (median 28), including paediatric cases as young as 1–2 years (accidental ingestion and dermal paraquat application).</p>
+<p><strong>Outcomes:</strong> 75 of 102 cases survived or recovered and 27 died (Figure 2). Mortality was concentrated in bipyridyl (paraquat) poisoning and aluminium phosphide exposure; deaths also occurred with dichlorvos, chlorpyrifos, fipronil-containing and mixed exposures. Documented syndromic patterns beyond cholinergic crisis included: methemoglobinemia treated with methylene blue (5 cases: indoxacarb alone or with novaluron, and imidacloprid); intermediate syndrome and organophosphate-induced delayed neuropathy (4 cases); chloropicrin-induced toxic encephalopathy with normal MRI but diagnostic EEG (1); complement-mediated thrombotic microangiopathy/hemolytic uremic syndrome after avermectin (1); refractory vasopressor-dependent shock after emamectin benzoate rescued with intravenous lipid emulsion (1); and delayed airway compromise (laryngeal edema) after permethrin ingestion (1).</p>
+
+<figure><img src="/figures_agtox/agent_outcome.png" alt="Cases by agent class and outcome"><figcaption>Figure 2. Published cases by agent class and outcome (n = 102).</figcaption></figure>
+<figure><img src="/figures_agtox/exposure_context.png" alt="Exposure context"><figcaption>Figure 3. Exposure context of published cases (n = 102).</figcaption></figure>
+
+<h1>4. Discussion</h1>
+<p>Three observations emerge. First, the published case literature at the emergency medicine/occupational health intersection is overwhelmingly composed of intentional ingestions of agricultural agents, not occupational exposures: only 8 of 102 published cases describe explicitly occupational exposure. Occupational pesticide poisoning is under-reported at the case level, likely because occupational events are captured in surveillance datasets that lack clinical detail — the same pattern we observed during topic feasibility assessment, where several large paraquat cohorts had to be excluded for aggregate-only reporting. Second, novel agents generate recognisable, treatment-relevant syndromes: methemoglobinemia from indoxacarb and imidacloprid responds to methylene blue; emamectin benzoate produces GABAergic coma and refractory shock that has been successfully rescued with intravenous lipid emulsion; chloropicrin causes toxic encephalopathy with diagnostic EEG changes despite normal MRI; permethrin can cause delayed airway compromise. Emergency clinicians should suspect these agents when the exposure history involves agricultural products. Third, mortality remains dominated by the classic agents — paraquat and aluminium phosphide — for which no effective antidote exists, reinforcing prevention and exposure-reduction priorities in agricultural communities.</p>
+
+<h1>5. Limitations</h1>
+<p>This synthesis inherits the biases of published case reports: publication bias toward dramatic or unusual presentations; reporting heterogeneity; missing demographics (sex unstated in 18 cases, age in 13, ICU status in most); and the inherent impossibility of computing pooled effect estimates. Cases were only included when per-case clinical detail was published, which excluded several large paraquat cohorts that exist only as aggregate statistics. Only 8 explicitly occupational cases means the occupational-health question — the profile of acute poisoning arising from workplace exposure — cannot be answered robustly from case reports alone. Some source tables were not machine-readable in the retrieved full texts, and the corresponding values are marked UNVERIFIED in the extraction files rather than estimated.</p>
+
+<figure><img src="/figures_agtox/prisma_flow.png" alt="Study flow"><figcaption>Figure 1. Study flow (PRISMA-style).</figcaption></figure>
+
+<h1>6. AI-assistance disclosure</h1>
+<p>This manuscript was drafted with AI assistance (Hermes Agent, Nous Research) performing the literature search, screening automation, full-text retrieval, structured per-case extraction with verbatim-quote verification, descriptive analysis, figure generation and drafting, under the direction of the named investigator. The investigator is responsible for clinical interpretation, verification of all extracted values against the published sources (all extraction JSONs with verbatim quotes are published in the project repository), and final approval. This is an AI-assisted, not peer-reviewed preprint; it is not medical advice.</p>
+
+<h1>References</h1>
+<p>The complete reference list (73 sources, each with PMID/PMCID/DOI and full-text verification status) is maintained in <a href="https://github.com/genesys-by-netflyp/medical-research/blob/main/2026-10_ag-pesticide-toxidromes-case-series/references.md">references.md</a> in the project repository.</p>
+</body></html>
