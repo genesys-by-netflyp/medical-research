@@ -1,0 +1,113 @@
+== ARTICLE TITLE ==
+Imidacloprid poisoning in a young female: a case report
+
+== ABSTRACT ==
+AbstractBackgroundImidacloprid, a neonicotinoid insecticide, is widely used in agricultural settings. Consequently, cases of accidental and suicidal poisoning are increasingly seen in clinical practice. Although cases with varied clinical presentations and toxicological profiles have been reported, standard management principles are lacking.Case presentationWe present a case of Imidacloprid poisoning in a 25-year-old previously healthy indigenous Tamang female without a classic toxidrome requiring ventilatory support, complicated by a prolonged neuropsychiatric sequela.ConclusionsAlthough uncommonly reported, imidacloprid toxicity may lead to life-threatening complications and hence should be suspected in cases of unidentified poisoning with a relevant toxidrome. Vigilance on the part of treating physicians plays a crucial role in appropriate management.Keywords: Imidacloprid, Neonicotinoids, CNS toxicity
+
+== Background ==
+
+Imidacloprid, a neonicotinoid insecticide, is widely used in agricultural settings. Consequently, cases of accidental and suicidal poisoning are increasingly seen in clinical practice. Although cases with varied clinical presentations and toxicological profiles have been reported, standard management principles are lacking.
+
+== Case presentation ==
+
+We present a case of Imidacloprid poisoning in a 25-year-old previously healthy indigenous Tamang female without a classic toxidrome requiring ventilatory support, complicated by a prolonged neuropsychiatric sequela.
+
+== Conclusions ==
+
+Although uncommonly reported, imidacloprid toxicity may lead to life-threatening complications and hence should be suspected in cases of unidentified poisoning with a relevant toxidrome. Vigilance on the part of treating physicians plays a crucial role in appropriate management.
+
+Keywords: Imidacloprid, Neonicotinoids, CNS toxicity
+
+Received 2022 Jul 30; Accepted 2022 Dec 27; Collection date 2023.
+
+== Background ==
+
+Imidacloprid, a neonicotinoid insecticide, is widely used in agricultural crop protection and flea control worldwide owing to its lower toxicity than organophosphorus compounds [1]. Consequently, cases of accidental as well as suicidal poisoning are increasingly seen in clinical practice [2].
+
+Although cases with varied clinical presentations and toxicological profiles have been reported, standard management principles are lacking.
+
+It classically presents with nausea or vomiting, abdominal pain, drowsiness, headache, or dizziness, but some cases may be asymptomatic [1].
+
+Despite its lower toxicity, several cases have been reported with a range of serious complications, including neuropsychiatric sequelae, rhabdomyolysis resulting in acute kidney injury, ischemic and metabolic encephalopathy, ventricular fibrillation, multiorgan failure, and even death after exposure to imidacloprid [1–9].
+
+We describe a case of suicidal imidacloprid ingestion without a classic toxidrome requiring ventilatory support and a prolonged neuropsychiatric sequela, and outline its management.
+
+== Case presentation ==
+
+A 25-year-old previously healthy indigenous Tamang female was referred to our center following suicidal ingestion of an unknown amount of insecticide containing 30.5% imidacloprid (Nudon, India, Fig. 1) after appropriate initial management and gastric lavage with activated charcoal. On evaluation, she was disoriented [Glasgow Coma Scale (GCS) E4V4M4 12/15] with generalized fasciculations. She had a regular heart rate of 108 beats per minute, a blood pressure of 130/90 mmHg, respiratory rate of 20 breaths per minute; she was afebrile and was maintaining normal oxygen saturation at room air. Pupils were constricted, deep tendon reflexes were normal bilaterally, and bilateral crepitations were present on auscultation.
+
+Unfortunately, her condition deteriorated rapidly, resulting in severe hypoxia. She was given one cycle of 0.6 mg atropine, was intubated and shifted to the intensive care unit (ICU), where she was mechanically ventilated. Her baseline electrocardiogram (ECG) and chest x-ray revealed no significant abnormalities, but 4 hours later, another chest x-ray revealed bilateral infiltrates in the lower lung fields (Fig. 2). Because of aspiration pneumonitis, intravenous antibiotics (intravenous clindamycin 600 mg TDS, intravenous piperacillin tazobactam 4.5 g TDS) were started. Initial arterial blood gas (ABG) showed metabolic acidosis with elevated lactate levels. However, it was not feasible to detect concentrations of imidacloprid in body fluids. A chronological record of the investigations is given in Table 1.
+
+Supportive treatment was continued, which included prophylaxis against stress ulcers and deep venous thrombosis (DVT), and strict glycemic control was maintained. She developed hypotension on the second day of her ICU stay, which was managed with intravenous fluid boluses and vasopressors, and also had copious secretions, which were managed with glycopyrrolate. Her ICU stay was further complicated by an episode of generalized tonic–clonic seizure on the fourth day of admission, which was initially managed with injected lorazepam and then subsequently kept on intravenous levetiracetam 500 mg twice daily (BD) for 7 days.
+
+After extubation, she remained hypoxemic and required oxygen supplementation for 7 days. On psychiatric evaluation during the ICU stay, the patient was delirious and was given a low dose of haloperidol (0.25 mg). After a prolonged and complicated stay, she was finally discharged on the tenth day of admission without any residual effects and was well oriented. A psychiatric reevaluation was done after the patient was medically stable, and she was diagnosed with a severe depressive episode. The patient and family members were counseled. Psychoeducation was given to both the patient and the patient’s family. She has been prescribed escitalopram 10 mg and is doing well on subsequent follow-ups.
+
+== Discussion ==
+
+Imidacloprid poisoning, although rarely fatal, is being increasingly reported from agricultural countries and is associated with some distinct neurological and other systemic findings [1, 4].
+
+Neonicotinoids are nicotinic acetylcholine receptor (nAChR) agonists, inducing neuromuscular paralysis [7]. Lower toxicity can be explained based on the inherent structural differences between insect and mammalian nicotinic receptors [10].
+
+Imidacloprid belongs to neonicotinoid compounds, and is the first neonicotinoid compound commercialized for widespread use. Based on animal studies, it is classified as moderately hazardous [Class-II World Health Organization (WHO); toxicity category-II US Environmental Protection Agency (EPA)] [1, 11].
+
+It is chemically similar to nicotine, and other members of the neonicotinoid class include acetamiprid, clothianidin, thiacloprid, dinotefuran, nitenpyram, and thiamethoxam [11, 12]. These compounds can be absorbed via ingestion, dermal, or inhalation routes, and there is more severe poisoning with oral ingestion than with other routes. Neonicotinoids are agonists at nicotinic acetylcholine receptors and interfere with the transmission of impulses by increasing activation, leading to fatigue and paralysis. Receptor stimulation affects the Central Nervous System (CNS) as well as the autonomic nervous system [11, 13, 14].
+
+Acute high-dose exposure in mammals primarily results in transient cholinergic effects (dizziness, apathy, locomotor effects, labored breathing), transient growth retardation, and even death. It may also be associated with cardiovascular and hematological effects, as well as degenerative changes in the testes, thymus, bone marrow, and pancreas [15].
+
+Most of the cases are mild and may not come to clinical attention. Cases usually present with Gastrointestinal (GI) and neurological symptoms [8].
+
+Neurological involvement may result in dizziness, drowsiness, disorientation, and coma, as well as features of autonomic nervous system stimulation. Autonomic stimulation may be associated with the risk of arrhythmia, hypotension, and bradycardia [1, 6, 7, 10].
+
+Diagnosis is usually historical and can be aided by visual identification of the culprit poison. Some authors have described cases of toxicological analysis of biological fluids but with varied sensitivity and specificity [1, 2, 13].
+
+As imidacloprid poisoning is associated with mild signs and symptoms, most cases are managed with close monitoring and symptomatic management. Patients developing respiratory compromise should be managed with invasive ventilation [1, 4, 14]. Previous case reports described a wide range of complications, from liver failure and rhabdomyolysis to death in some cases [1, 5–8]. Fatality might be related to aspirational pneumonia due to the rampant use of gastric lavage in emergency rooms, as well as due to co-ingestion of other toxins.
+
+In a prospective study from Sri Lanka by Mohamed et al. comprising 68 patients with known imidacloprid poisoning, most patients only developed mild symptoms such as nausea, vomiting, headache, and diarrhea. No fatalities were reported, but one patient required mechanical ventilation due to respiratory failure. Patients rarely develop complications, the most serious being respiratory failure and a reduced level of consciousness [1].
+
+Panigrahi et al. report a similar case of a patient with imidacloprid poisoning who developed respiratory arrest after about 20 hours of ingestion, requiring mechanical ventilation with subsequent recovery. Our case also had a similar clinical course, except for the earlier onset of respiratory failure and a prolonged neuropsychiatric sequel [16]].
+
+== Conclusions ==
+
+Although rarely reported in the medical literature, imidacloprid toxicity can occasionally manifest with life-threatening complications. It should be suspected in cases of unidentified poisoning with a toxidrome of acetylcholinergic symptoms and neurological involvement. Most patients improve with symptomatic management. A high level of clinical suspicion and close monitoring for the appearance of potential complications can help improve patient outcomes. A larger study could help better outline management principles.
+
+== Acknowledgements ==
+
+The authors wish to acknowledge the patient included in this report.
+
+== Abbreviations ==
+
+== Author contributions ==
+
+RCP, SC, OPB, and RPL: study concept, data collection, and management of the patient. SC, OPB, and HC: writing—original draft preparation and editing. RCP, NS, and AKS: senior author and manuscript reviewer. All authors critically reviewed, revised and contributed to the final article. All authors read and approved the final manuscript.
+
+== Funding ==
+
+None.
+
+== Availability of data and materials ==
+
+Not applicable.
+
+== Declarations ==
+
+== Ethics approval and consent to participate ==
+
+This study did not include experiments on animals or humans. The patient consented to the use of their personal data for the purpose of this case report.
+
+== Consent for publication ==
+
+Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.
+
+== Competing interests ==
+
+The authors declare that they have no competing interests.
+
+== Footnotes ==
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Not applicable.

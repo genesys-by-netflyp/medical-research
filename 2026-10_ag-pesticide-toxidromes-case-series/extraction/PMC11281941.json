@@ -1,0 +1,92 @@
+{
+  "pmcid": "PMC11281941",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11281941_case1",
+      "age": "40-year-old",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A forty-year-old male was admitted to the emergency department after ingesting pesticide along with alcohol four hours earlier with suicidal intent.",
+      "agent": "Amitraz (identified by patient's relatives; sold in organic solvents, mostly xylene); amount UNVERIFIED",
+      "agent_quote": "The pesticide responsible for the poisoning was identified as “Amitraz” by the patient’s relatives.",
+      "route": "ingestion (co-ingested with alcohol)",
+      "circumstance": "deliberate ingestion with suicidal intent; unknown compound identified as Amitraz by relatives; clinicians used online research for treatment options",
+      "symptoms": [
+        {
+          "finding": "unconsciousness, GCS 3 (E1V1M1)",
+          "quote": "On arrival, he was found unconscious with a Glasgow Coma Scale (GCS) score of three (E1V1M1)."
+        },
+        {
+          "finding": "sinus bradycardia, HR 34 bpm",
+          "quote": "His heart rate was 34 beats per minute, with the cardiac monitor displaying sinus bradycardia"
+        },
+        {
+          "finding": "hypotension 80/50 mm Hg",
+          "quote": "his blood pressure measured 80/50 mm Hg."
+        },
+        {
+          "finding": "respiratory depression; SpO2 68% in room air improving to 96% with 12 L oxygen; bilateral basal crepitations (likely pulmonary oedema)",
+          "quote": "The respiratory rate was 18 breaths per minute, and oxygen saturation was 68% in room air, improving to 96% with 12 liters of oxygen supplementation. Bilateral basal crepitations were noted on auscultation."
+        },
+        {
+          "finding": "pupils normal size and equally reactive",
+          "quote": "His bedside glucose was 119 mg/dL, and pupils were normal in size and equally reactive to light."
+        }
+      ],
+      "time_to_care": "4 hours after ingestion",
+      "labs": [
+        {
+          "name": "serum magnesium",
+          "value": "1.4 mg/dL (hypomagnesemia)",
+          "quote": "The patient exhibited mild electrolyte imbalances, with hypomagnesemia (serum magnesium level: 1.4 mg/dL) and low calcium levels (7.1 mg/dL), which were corrected by magnesium sulphate and calcium gluconate."
+        },
+        {
+          "name": "calcium",
+          "value": "7.1 mg/dL (low)",
+          "quote": "The patient exhibited mild electrolyte imbalances, with hypomagnesemia (serum magnesium level: 1.4 mg/dL) and low calcium levels (7.1 mg/dL), which were corrected by magnesium sulphate and calcium gluconate."
+        },
+        {
+          "name": "bedside glucose",
+          "value": "119 mg/dL",
+          "quote": "His bedside glucose was 119 mg/dL, and pupils were normal in size and equally reactive to light."
+        },
+        {
+          "name": "cholinesterase",
+          "value": "within normal range (value UNVERIFIED)",
+          "quote": "Cholinesterase levels and the rest of the blood investigations were within normal range (Table 1)."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "atropine 1 mg IV (ACLS 2020 bradycardia protocol)",
+          "quote": "the patient received an immediate 1 mg dose of atropine, resulting in a heart rate increase to 120 beats per minute and a rise in blood pressure to 90/60 mm Hg."
+        },
+        {
+          "name": "intubation, sedation, gastric lavage",
+          "quote": "Subsequently, the patient was intubated, sedated, and underwent gastric lavage."
+        },
+        {
+          "name": "magnesium sulphate (for hypomagnesemia)",
+          "quote": "which were corrected by magnesium sulphate and calcium gluconate."
+        },
+        {
+          "name": "calcium gluconate (for hypocalcemia)",
+          "quote": "which were corrected by magnesium sulphate and calcium gluconate."
+        },
+        {
+          "name": "conservative ICU management: antibiotics, antacids, thiamine, multivitamins",
+          "quote": "The patient received conservative management in the intensive care unit (ICU), including antibiotics, antacids, thiamine, and multivitamins."
+        }
+      ],
+      "icu_admission": "yes",
+      "outcome": "full recovery; regained consciousness after 3 days, extubated, discharged after 7 days of hospitalization",
+      "outcome_quote": "After three days, he regained consciousness and maintained spontaneous respiration, leading to successful extubation. Following an additional four days of observation and treatment, the patient was discharged with complete recovery.",
+      "sequelae": "none (complete recovery)",
+      "notes": "Co-ingested alcohol. Initially suggested organophosphate poisoning clinically; cholinesterase normal. CT brain normal. No specific antidote used (supportive)."
+    }
+  ]
+}

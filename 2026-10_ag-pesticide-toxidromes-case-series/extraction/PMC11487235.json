@@ -1,0 +1,93 @@
+{
+  "pmcid": "PMC11487235",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "case 1",
+      "age": "in his 40s (abstract states 45-year-old male)",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "was referred to our center with an accidental, alleged consumption of copper sulfate while under the influence of alcohol",
+      "agent": "copper sulfate, unquantified amount",
+      "agent_quote": "an alleged accidental consumption of an unquantified amount of copper sulfate",
+      "route": "oral (ingestion)",
+      "circumstance": "accidental consumption of copper sulfate while under the influence of alcohol; treated with gastric lavage and IV fluids at a regional hospital before referral",
+      "symptoms": [
+        {
+          "finding": "tachypnea, pallor, icterus",
+          "quote": "Tachypnea, pallor, and icterus were also noted."
+        },
+        {
+          "finding": "intravascular hemolysis, acute liver injury, acute kidney injury, severe metabolic acidosis with hyperkalemia",
+          "quote": "Initial laboratory evaluation revealed anemia with a hemoglobin level of 12.6% and leukocytosis with a white blood cell count of 23500 cells/μL, evidence of hemolysis, acute liver injury, acute kidney injury, and severe metabolic acidosis with hyperkalemia."
+        },
+        {
+          "finding": "high-grade fever with chills on day 9 and day 19",
+          "quote": "On the 9\nth day of hospitalization, the patient developed high-grade fever with chills."
+        },
+        {
+          "finding": "hemophagocytic lymphohistiocytosis (trilineage cytopenia, elevated ferritin and D-dimer, hemophagocytosis on bone marrow aspirate)",
+          "quote": "investigations revealed trilineage cytopenia, and HLH was suspected. Targeted investigations have revealed increased serum ferritin and D-dimer levels. The bone marrow aspirate showed evidence of reactive marrow with Hemophagocytic Lymphohistiocytosis"
+        }
+      ],
+      "time_to_care": "UNVERIFIED",
+      "labs": [
+        {
+          "name": "hemoglobin",
+          "value": "12.6 g% initially, dropped to 6.9 gm%",
+          "quote": "The following day, his hemoglobin dropped to 6.9 gm%"
+        },
+        {
+          "name": "white blood cell count",
+          "value": "23500 cells/μL initially, 41400 cells/μL next day",
+          "quote": "the leukocyte count increased to 41400 cells/μL"
+        },
+        {
+          "name": "platelet count",
+          "value": "dropped to 1.01 lakh cells/μL",
+          "quote": "platelet count dropped to 1.01 lakh cells/μL"
+        },
+        {
+          "name": "serum creatinine",
+          "value": "elevated by 2.96 units above baseline",
+          "quote": "His serum creatinine elevated by 2.96 units and serum urea by 70 units above the baseline"
+        },
+        {
+          "name": "serum ferritin and D-dimer",
+          "value": "increased",
+          "quote": "Targeted investigations have revealed increased serum ferritin and D-dimer levels."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage and IV fluids (regional hospital)",
+          "quote": "He was treated at a nearby regional hospital with gastric lavage and intravenous fluids before referral."
+        },
+        {
+          "name": "hemodialysis (six cycles)",
+          "quote": "He underwent six cycles of hemodialysis during his hospital stay."
+        },
+        {
+          "name": "supportive blood transfusions",
+          "quote": "Supportive blood transfusions were also started."
+        },
+        {
+          "name": "empirical antibiotics for suspected CLABSI with line revision",
+          "quote": "With suspicion of Central Line Associated Blood Stream Infection (CLABSI), he was started on empirical antibiotics following collection of appropriate cultures, and the lines were revised."
+        },
+        {
+          "name": "corticosteroids for HLH",
+          "quote": "The patient was initiated on corticosteroids for HLH, following which his fever subsided, with improvement in cytopenia."
+        }
+      ],
+      "icu_admission": "yes (Intensive Care Unit)",
+      "outcome": "survived; dialysis stopped, discharged, kidney function normalized on outpatient follow-up",
+      "outcome_quote": "The dialysis sessions were gradually spaced, stopped, and then discharged. He was followed up as an outpatient until his kidney function normalized.",
+      "sequelae": "none reported",
+      "notes": "First reported case of HLH attributed to copper sulfate intoxication."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+== ARTICLE TITLE ==
+Paraquat: The Poison Potion
+
+== ABSTRACT ==
+ABSTRACTParaquat is a commonly used herbicide in India that has lethal consequences even on minimal consumption. The case fatality rate for this poisoning is high and there is dearth of evidence-based recommendation for the treatment of this poison. This review article explores the diagnosis and management of paraquat poisoning with an emphasis on recent advances in treatment. Though immunosuppressants and antioxidants are conventionally used, there is a gap in evidence to prove survival benefit of these treatment regimens. There are also some data showing the use of hemoperfusion (with toxin-specific cartridges) as an early intervention, i.e., within 4 hours of exposure to the poison. The recent drug, Edaravone, has also shown promise in the prevention of renal and hepatic injury in paraquat poisoning. Though it did not reduce pulmonary fibrosis in patients with paraquat poisoning, it delays the generation and development of pulmonary fibrosis. However, there is a need for more clinical and experimental studies to validate its use in paraquat poisoning.How to cite this articleSukumar CA, Shanbhag V, Shastry AB. Paraquat: The Poison Potion. Indian J Crit Care Med 2019;23(Suppl 4):S263–S266.Keywords: Clinical toxicology, Edavarone, Paraquat, Pesticide poisoning, Poisoning, Pulmonary fibrosis
+
+== How to cite this article ==
+
+Sukumar CA, Shanbhag V, Shastry AB. Paraquat: The Poison Potion. Indian J Crit Care Med 2019;23(Suppl 4):S263–S266.
+
+Keywords: Clinical toxicology, Edavarone, Paraquat, Pesticide poisoning, Poisoning, Pulmonary fibrosis
+
+== INTRODUCTION ==
+
+Paraquat is a toxic bipiridyl compound that was discovered in 1950s and found its way into agricultural use by 1962. This liquid herbicide was primarily used for weed and grass control but due to its highly poisonous nature was soon categorized as a “restricted-use” herbicide.1 However, as it is cheap and effective, its unregulated use in developing countries like India has made it a commonly used pesticide. Paraquat, when ingested, is extremely toxic. It causes a spectrum of complications including acute respiratory distress syndrome, renal failure, hepatotoxicity, and pulmonary fibrosis.2 The clinical course in paraquat poisoning is often protracted and there is no known antidote for this toxin. The case fatality rate in paraquat is as high as 70%.3 This review article seeks to analyze the various evidence-based treatment strategies for paraquat poisoning and provide a comprehensive understanding in the management of this lethal poisoning.
+
+== DISCUSSION ==
+
+== Background ==
+
+Paraquat was first manufactured as a nonselective, quick-acting pesticide by a British chemical company in 1962. It was rapidly absorbed by the aerial plant and immediately inactivated on contact to the clay in the soil, leaving minimal residue. Though it was initially used to kill marijuana weeds in the United States and Mexico, it soon became popular worldwide as a cheap and effective pesticide.4 It is exceedingly toxic to humans, and a minimal ingestion of 10–20 mL of 20% paraquat (around a mouthful) is lethal. Concentrated solutions are known to corrode even mild steel and aluminium. However, inhalation or direct contact is not immediately life-threatening. Therefore, the most common route of poisoning is ingestion (either intentional or accidental) of the concentrated 20% solution.5
+
+== Pathophysiology/Mechanism of Injury ==
+
+The principal target organ for paraquat poisoning is the lung and kidney. Paraquat has a structural similarity to naturally occurring polyamines that are taken up by the alveolar cells and hence paraquat concentrates in alveolar type I and II cells. Paraquat is also actively secreted by the kidney leading to its accumulation in the proximal tubular epithelial cells at higher concentrations. On accumulation in the pulmonary alveoli and the nephrons, paraquat causes redox cycling and production of toxic reactive oxygen species. This oxidative stress overwhelms the cellular defense mechanisms and leads to pulmonary damage (alveolitis and fibrosis).2 At moderate doses, the initial lung injury develops into pulmonary fibrosis. This occurs due to rapid and excessive proliferation and differentiation of fibroblasts, resulting in loss of pulmonary architecture.2
+
+Paraquat causes vacuolation in the cells of the proximal convoluted tubules, thereby causing renal tubular necrosis. Hepatocellular injury occurs secondary to mitochondrial damage and endoplasmic reticulum degranulation.6
+
+== Clinical Presentation ==
+
+Paraquat concentration in the lung is 10–20 times greater than in the plasma due to the energy-dependent uptake of the poison by the alveoli. This gradient persists despite decreasing paraquat levels in the blood. Involvement of the lung in the form of diffuse alveolitis (over 1–3 days) and subsequent pulmonary fibrosis is the hallmark of paraquat poisoning. The acute respiratory distress syndrome sets in after 24–48 hours of exposure.2
+
+Paraquat is a caustic herbicide and therefore causes corrosion of the gastrointestinal tract on ingestion. Mucosal lesions of the mouth and the tongue are called “paraquat tongue”. They begin to appear within the first few days and may become ulcerated with bleeding. These are of little prognostic significance as they occur even if minimal amounts are immediately spat out. Esophageal ulceration causes pain and dysphagia. This may progress to perforation, mediastinitis, and pneumomediastinum.7
+
+Only 20% of the ingested poison is absorbed by the stomach. Following absorption, the poison distributes itself in the highly perfused organs (lungs, kidney, liver, and muscle). Paraquat is not metabolized by the body and is excreted unchanged by the kidney. Renal failure is an early but reversible feature of paraquat poisoning. Maintenance of renal function reduces plasma paraquat levels, thereby minimizing accumulation in the alveoli.6
+
+Other modes of exposure to paraquat include contact through skin/eyes and inhalation. Intact skin is an effective barrier to parquet absorption and dermal exposure is life-threatening mainly in the presence of preexisting skin lesions or on prolonged contact (like wearing clothes soaked in spray). Local effects include skin irritation, blistering, and full-thickness burns. Inhalational exposure can occur due to spraying of paraquat as fine mist (spray droplets as per recommendation are too large to be inhaled). Inhalation of sprayed paraquat solution usually causes local irritation but rarely results in important systemic absorption. To prevent accidental ingestion or to decrease the amount of paraquat absorption, many manufacturers add dye, stenching agents, and emetics to concentrated solutions.6
+
+The clinical features of paraquat poisoning are dose-dependent and are classified into the mild, moderate, and fulminant poisoning. Table 1 shows the classification of paraquat poisoning based on the severity.6
+
+== Diagnosis ==
+
+The mainstay of diagnosis is a circumstantial history. Therefore, it is imperative to ascertain the history of exposure, evidence of paraquat exposure, and the amount of poison ingested. This may be challenging in unknown poisoning, children with accidental exposure, or in homicides. Inhalation and dermal exposure to paraquat is unlikely to be serious.
+
+The plasma and urine sodium dithionate tests are simple, bedside methods to assess systemic paraquat toxicity. In an alkaline medium, dithionate reduces paraquat to a blue radical (if urine paraquat concentration >1 mg/L or plasma paraquat concentration >2 mg/L). This helps in predicting prognosis in paraquat poisoning.8 This is a qualitative assessment of paraquat poisoning.
+
+The measurement of paraquat concentration in plasma and urine also is helpful in indicating severity. However, as these tests are not commonly available and the results are often delayed, they only help confirm the paraquat poisoning and have little use in critical care interventions or outcome. This is a quantitative assessment of paraquat poisoning.
+
+Following diagnosis, all patients must have renal functions, liver functions, serum electrolytes, and complete blood counts done daily. Chest radiographs are also useful in detecting early insult to the lungs (alveolitis), pulmonary fibrosis, acute respiratory distress syndrome, and rarer complications like pneumomediastinum or pneumothorax. Serum amylase and lipase can be done if the patient presents with severe abdominal pain to rule out acute toxin-induced pancreatitis.
+
+The best predictor of survival after self-poisoning by paraquat is calculated with time from ingestion and plasma paraquat concentration. It is termed the severity index of paraquat poisoning (SIPP score). This index is calculated by multiplying the time from paraquat ingestion (to intensive treatment) and serum paraquat levels at admission. This severity index has enabled accurate prognoses and survival estimates. This method is believed to be useful in planning treatment, determining the prognosis, and studying the pathology of acute paraquat poisoning. The method is also effective in comparing therapeutic results at different stages of treatment and in evaluating new therapeutic methods.9
+
+== Treatment ==
+
+== Initial management in ICU ==
+
+Airway management and decontamination: Identification of paraquat poisoning and administration of first aid is the cornerstone of management. The most important challenge in the patient with acute paraquat poisoning is airway and ventilatory decisions. If the patient is conscious with no vomiting at presentation, consider gastric lavage with activated charcoal (1–2 g/kg) or Fuller's earth (1–2 g/kg). This aids in gastric decontamination and prevents further absorption. The use of gastric lavage without administration of an adsorbent has not shown any clinical benefit and should be avoided. There is no definite indication for the use of cathartics (sorbitol, mannitol, magnesium citrate, magnesium sulfate) in the management of poisoned patients. Supplemental oxygen is not advocated as the oxygen free radical-mediated cytotoxic injury causes rapid worsening of pulmonary alveolar infiltrates leading to the cascade of acute respiratory distress syndrome and subsequent pulmonary fibrosis if the patient survives the acute phase.10
+
+As paraquat is a corrosive poison, early insertion of a nasogastric tube is advocated to maintain nutrition. The patient is kept nil per mouth to avoid oral/oropharyngeal injury. Sometimes even placing a nasogastric tube may be very challenging due to severe ulcerations and friable mucosa, which may lead to complications including perforation. These patients are best kept nil by mouth or sometimes on nasogastric tube feeding with frequent assessment for evidence of bleeding. Routine endoscopy is not warranted. These lesions can be very painful and may need anticholinergic agents such as diphenhydramine (benadryl); an anesthetic, such as viscous lidocaine; and an antacid or mucosal coating agent, such as magnesium or aluminum hydroxide, kaolin, or sucralfate. Antiemetics (5-HT3 antagonists/phenothiazines) are also used to prevent vomiting. Antibiotics may be used for supervening infections.11
+
+Ventilation: The development of type 2 respiratory failure may be an early predictor of ARDS in patients with worse outcome. Computer tomography of chest done within first 5 days also predicts development of ARDS and high mortality. Once patient has developed ARDS, subsequent management of oxygenation and ventilation is identical to ARDS due to any other etiology (ARDS protocol, lung protective strategy). It may be of some benefit to limit FiO2 to minimum to maintain PaO2 of about 60–65 mm Hg or SpO2 88–90% but there is no anecdotal data to support this hypothesis. Usually patients who get intubated for respiratory failure have a stormy course and deteriorate rapidly in few hours to days.
+
+Hemodialysis and hemofiltration: Initial management includes rehydration. As the kidney is a major route of excretion of paraquat, renal function must be maintained with intravenous fluids. However, patient must be closely monitored for fluid overload and electrolyte imbalance. In patients with acute renal failure, hemodialysis may be required. However, these patients may have poor prognosis in the form of lung injury and outcome remains unchanged. Forced diuresis is not recommended.
+
+In all cases of paraquat poisoning (significant ingestion), hemoperfusion is the first and the earliest modality of treatment of removal of paraquat. Ideally, it should be started within 4 hours of exposure or ingestion. Traditionally, hemoperfusion was done with charcoal-based cartridges. Recently, there are a newer generation of hemoperfusion cartridges (specific for toxin like paraquat) that are under trial to evaluate efficacy and cost-effectiveness. If the patient develops acute kidney injury, then standard indications for hemodialysis are applicable but it is always useful to start hemofiltration at the earliest to avoid subsequent development of acute kidney injury due to paraquat.
+
+The efficacy of hemoperfusion in paraquat poisoning is controversial. As toxic levels in the tissues occur early following exposure, paraquat is slowly redistributed back into the blood from the tissues, even after paraquat is eliminated from the blood by hemoperfusion. Therefore, in cases of lethal dose ingestion, hemoperfusion is not useful. In borderline lethal dose ingestion with presentation within 4 hours of exposure, hemoperfusion may benefit as the poison may not have distributed into the tissues. “Continuous” hemoperfusion is not lifesaving but prolongs survival by improving the stability of the circulatory system.12 Dinis-Oliveira et al. proposed a treatment strategy to use up to seven hemoperfusion sessions (6–8 hours duration) to be started within 4 hours of ingestion and maintained until plasma paraquat levels would be <0.2 mg/L.2
+
+In 2018, Li et al. published data on a controlled trial on the outcome of combined continuous venovenous hemofiltration and hemoperfusion in paraquat poisoning. They concluded that treatment with combined continuous venovenous hemofiltration and hemoperfusion significantly improved 90-day survival rates in paraquat poisoning.13
+
+== Prevention/Management of Pulmonary Fibrosis ==
+
+Immunosuppressants: Paraquat triggers an acute inflammatory response leading to alveolitis and subsequently lung fibrosis. Therefore, conventionally immunosuppressants are used in paraquat poisoning. Multiple treatment modalities have been tried to prevent or attenuate paraquat-induced lung injury and fibrosis including methyl prednisolone/dexamethasone and cyclophosphamide, but no one mode of treatment is shown to be effective in preventing lung injury or fibrosis once it is established.
+
+A randomized placebo-controlled trial by Gawarammana et al. at Sri Lanka (2012) with almost 300 patients compared outcomes of 2 days of cyclophosphamide (750—1,000 mg) with 3 days of methylprednisolone (1 g) followed by oral dexamethasone (8 mg thrice a day for 14 days) with saline and placebo tablets. They found no evidence that high-dose immunosuppression improves survival in paraquat-poisoned patients.14
+
+Li et al. evaluated the combined results from three randomized controlled trials (RCTs) with a total of 164 patients and concluded that there may have been a beneficial effect of the combined cyclophosphamide/steroid treatment but called for further RCTs.15
+
+The continuing high mortality means that further research on the use of dexamethasone and other potential treatments is urgently needed.
+
+Antioxidants: Paraquat poisoning initiates release of free radicals that cause depletion of antioxidants. This leads to renal and lung injury that leads to lactic acidosis and refractory shock. Administration of antioxidants has also been tried to overcome circulatory shock due to reactive oxygen species. However, most of the published work is based on single or a few therapies and have been used in combination, thereby preventing an assessment of individual antioxidants.
+
+N-Acetyl cysteine was found to increase the level of glutathione (antioxidant) by suppressing the superoxide production in study animals. Therefore, N-acetyl cysteine (150 mg/kg over 3 hours; 300 mg/kg over 24 hours for up to 3 weeks) has been tried to increase intracellular glutathione.
+
+Studies on human subjects have shown that high doses of vitamin C (300 mg twice daily orally) and antioxidants reduced mortality in a case series of 10 patients. The mechanism of action is that vitamin C can donate electrons to free radicals and hence neutralize them.
+
+Animal models poisoned with paraquat showed a deficiency in vitamin E. Hence, there was a reduction in lung toxicity when treated with vitamin E due to a reduction in lipid peroxidation. But unfortunately, human studies have shown no benefit.
+
+Desferrioxamine (100 mg/kg over 24 hours) has been used to chelate iron that acts as a catalyst in the production of hydroxyl radicals. Salicylic acid can also scavenge hydroxyl radicals and supplements an antioxidant effect.2
+
+Recent advances: Edaravone is a free radical-scavenging antioxidant, which also has antiapoptotic, necrotic, and anti-inflammatory effects. In 2019, Yi et al. from China published a retrospective study on use of edaravone in the treatment of paraquat poisoning. It was found that edaravone is beneficial for protecting the kidneys and liver from paraquat poisoning by reducing oxidative stress and inhibiting inflammatory response. Edaravone did not reduce pulmonary fibrosis in patients with paraquat poisoning but delayed the generation and development of pulmonary fibrosis. Edaravone prolonged the survival time of patients but had no significant effect on the survival rate.16
+
+Role of extracorporeal membrane oxygenation: Tang et al. in 2015 reported successful extracorporeal membrane oxygenation (ECMO) therapy as a bridge to sequential bilateral lung transplantation for a patient after severe paraquat poisoning. Extracorporeal membrane oxygenation has been tried in acute paraquat poisoning patients from the last decade. However, lack of evidence and cost-effectiveness at this point hinders its recommendation in treatment of paraquat poisoning.17
+
+== CONCLUSION ==
+
+The literature on paraquat poisoning in India is sparse and the evidence on management is vague and lacks proven survival benefit. Though India is among the highest users of this herbicide worldwide, we are yet to equip ourselves with evidence-based treatment to successfully manage paraquat poisoning. This review article captures the recent advances in diagnosis and management of paraquat poisoning while providing a concise understanding of paraquat poisoning.
+
+== Footnotes ==
+
+== REFERENCES ==

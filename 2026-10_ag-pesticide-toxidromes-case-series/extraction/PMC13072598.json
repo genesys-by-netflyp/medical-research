@@ -1,0 +1,62 @@
+{
+ "pmcid": "PMC13072598",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "35 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 35-year-old female weighing 60 kg present to the emergency department with an alleged history of deliberate ingestion of 50 ml of 50% fipronil liquid solution (~ 417.6 mg/kg).",
+   "agent": "fipronil (50% liquid solution, 50 mL, ~417.6 mg/kg)",
+   "agent_quote": "deliberate ingestion of 50 ml of 50% fipronil liquid solution (~ 417.6 mg/kg)",
+   "route": "ingestion",
+   "circumstance": "Deliberate ingestion 3 h prior to presentation following a domestic argument; family provided the container for confirmation.",
+   "symptoms": [
+    {
+     "finding": "3 episodes of vomiting of foul-smelling liquid matter within first 2 h after ingestion",
+     "quote": "Within the first 2 h after the ingestion, she had 3 episodes of vomiting of foul-smelling liquid matter, and epigastric pain."
+    },
+    {
+     "finding": "epigastric pain",
+     "quote": "Within the first 2 h after the ingestion, she had 3 episodes of vomiting of foul-smelling liquid matter, and epigastric pain."
+    },
+    {
+     "finding": "no seizures, skin irritation, or neurologic deficit; GCS 15/15 with mid-sized reactive pupils",
+     "quote": "On examination, she was conscious, pulse rate was 96 regular, blood pressure 110/70, and 98% oxygen saturation. Neurologic examination revealed a Glasgow coma scale score of 15/15, with mid-sized and reactive pupils."
+    }
+   ],
+   "time_to_care": "3 hours after ingestion",
+   "labs": [
+    {
+     "name": "hemogram, liver function, renal function, electrolytes",
+     "value": "all within normal limits",
+     "quote": "The patient’s hemogram, liver function, renal function and electrolytes were all in normal limits."
+    },
+    {
+     "name": "toxicology screen / blood fipronil or fipronil sulphone levels / 12-lead ECG",
+     "value": "not available",
+     "quote": "A toxicology screen panel, blood fipronil or fipronil sulphone levels, and 12 led ECG was not available."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "proton pump inhibitor; monitoring for seizure; psychiatric counselling; supportive management",
+     "quote": "She was treated with proton pump inhibitor and was monitored for seizure throughout her hospitalization. Psychiatric counselling was obtained."
+    },
+    {
+     "name": "no gastrointestinal decontamination (activated charcoal unavailable; gastric lavage not performed)",
+     "quote": "Given the limited data regarding gastric lavage for fipronil poisoning and the unavailability of activated charcoal, gastrointestinal decontamination was not performed."
+    }
+   ],
+   "icu_admission": "no (observed in hospital; ICU admission not mentioned)",
+   "outcome": "survived; discharged after 48 h of observation in stable condition with favourable outcome; remained asymptomatic during follow-up at nearby health centre",
+   "outcome_quote": "Following 48 h of observation, she was discharged in stable condition with favourable outcome. ... She continued her remote follow up at nearby health centre and remained asymptomatic during follow up.",
+   "sequelae": "none (remained asymptomatic at follow-up)",
+   "notes": "Diagnosis based on clinical presentation and history, confirmed by family-provided container/photograph; vomiting may have reduced toxin available for absorption."
+  }
+ ]
+}

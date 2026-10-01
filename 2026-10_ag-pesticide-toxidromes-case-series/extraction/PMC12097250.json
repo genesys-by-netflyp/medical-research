@@ -1,0 +1,71 @@
+{
+ "pmcid": "PMC12097250",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "33 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 33-year-old, Burmese-speaking male patient presented to the emergency department (ED) by emergency medical services (EMS) after a neighbor called 9-1-1 upon finding a suicide note.",
+   "agent": "Orthene fire ant killer (50% acephate), undetermined quantity",
+   "agent_quote": "A witness noted that the patient had drunk an undetermined quantity of acephate in the form of the fire ant killer, Orthene.",
+   "route": "oral",
+   "circumstance": "intentional ingestion in a suicide attempt",
+   "symptoms": [
+    {
+     "finding": "diaphoresis, tachypnea, abdominal pain, declining mental status, copious secretions, vomiting, diarrhea, lacrimation, urinary incontinence, spasms",
+     "quote": "he appeared diaphoretic, tachypneic, and was complaining of abdominal pain. Soon after their arrival, the patient’s mental status declined. He also developed copious secretions, vomiting, diarrhea, lacrimation, incontinence of urine, and spasms."
+    },
+    {
+     "finding": "hypoxia (SpO2 89% on room air) pre-hospital",
+     "quote": "oxygen saturation, 89% on room air"
+    },
+    {
+     "finding": "miosis and fasciculations in the ED",
+     "quote": "However, he did have miosis and fasciculations."
+    }
+   ],
+   "time_to_care": "UNVERIFIED",
+   "labs": [
+    {
+     "name": "RBC cholinesterase",
+     "value": "8,273 IU/L (reference 9,572–15,031 IU/L)",
+     "quote": "Red blood cell cholinesterase level was 8,273 international units/L (IU/L) (9,572–15,031 IU/L) shortly after presentation."
+    },
+    {
+     "name": "plasma cholinesterase",
+     "value": "252 IU/L (reference 3,334–7,031 IU/L)",
+     "quote": "Plasma cholinesterase level was 252 IU/L (3,334–7,031 IU/L)."
+    },
+    {
+     "name": "serum electrolytes/metabolites",
+     "value": "potassium 2.3 mmol/L; lactate 4.2 mmol/L; bicarbonate 18 mmol/L; anion gap 18; serum osmolality 355 mOsm/kg; glucose 160 mg/dL; CK 274 U/L; ethanol 169 mg/dL",
+     "quote": "glucose160 mg/dL; serum osmolality, 355 milliosmoles per kilogram (mOsm/kg) ... anion gap, 18 (2–11); serum bicarbonate, 18 millimoles per liter (mmol/L) (22–30 mmol/L); potassium, 2.3 mmol/L (3.7–5.0 mmol/L); lactate, 4.2 mmol/L (0.5–1.9 mmol/L); and creatine kinase, 274 units/L (U/L) (25–257 U/L)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "pre-hospital: 2 mg IV atropine and intubation by EMS; 4 mg midazolam en route",
+     "quote": "The EMS responders progressed to administering 2 milligrams (mg) of IV atropine and intubated the patient. En route the patient received a total dosage of 4 mg of midazolam for agitation."
+    },
+    {
+     "name": "atropine 2 mg IV plus pralidoxime 2 g bolus (per poison control)",
+     "quote": "In conjunction with poison control the decision was made to infuse 2 grams of pralidoxime. He was also given an additional 2 mg of atropine IV."
+    },
+    {
+     "name": "midazolam 4 mg for agitation in ED",
+     "quote": "Upon arrival to the ED, the patient was increasingly agitated, necessitating 4 mg more of midazolam."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "survived; extubated on hospital day two, observed in ICU another 48 hours, transferred to inpatient psychiatry",
+   "outcome_quote": "On hospital day two, the patient was extubated ... He was observed in the intensive care unit for another 48 hours without incident and then transitioned to an inpatient psychiatric service.",
+   "sequelae": "none reported",
+   "notes": "No pralidoxime infusion given (hospital had no additional stock; patient improving rapidly); urine drug screen positive for benzodiazepines, cocaine, and acetone."
+  }
+ ]
+}

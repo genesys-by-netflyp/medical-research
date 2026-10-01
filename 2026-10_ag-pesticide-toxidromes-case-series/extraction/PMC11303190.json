@@ -1,0 +1,335 @@
+{
+ "pmcid": "PMC11303190",
+ "case_type": "case series",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "age": "UNVERIFIED",
+   "sex": "UNVERIFIED",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "In May 2023, we admitted four patients from the same family with accidental oral imidacloprid poisoning.",
+   "agent": "imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "agent_quote": "Four patients shared a bottle of imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "route": "oral",
+   "circumstance": "accidental ingestion of a shared bottle of imidacloprid by four family members at noon on May 16, 2023",
+   "symptoms": [
+    {
+     "finding": "nausea and vomiting (vomit contained food residue and pesticide)",
+     "quote": "The four patients developed nausea and vomiting soon after insecticide intake; the vomit contained food residue and pesticide."
+    },
+    {
+     "finding": "varying degrees of disturbed consciousness (lethargy to light coma)",
+     "quote": "Soon after, they developed varying degrees of disturbances in consciousness, such as lethargy and light coma."
+    },
+    {
+     "finding": "elevated blood pressure",
+     "quote": "In addition, all four patients had elevated blood pressure levels."
+    }
+   ],
+   "time_to_care": "approximately 30 min",
+   "labs": [
+    {
+     "name": "white blood cell count",
+     "value": "elevated",
+     "quote": "Laboratory tests revealed an elevated white blood cell count, neutrophil ratio, and the levels of some inflammatory factors."
+    },
+    {
+     "name": "troponin I / cholinesterase / coagulation markers",
+     "value": "normal",
+     "quote": "None of the patients had abnormalities in troponin I, cholinesterase, or coagulation marker levels."
+    },
+    {
+     "name": "initial blood imidacloprid concentration",
+     "value": "3.423 μg/mL (reference value < 0.001 μg/mL)",
+     "quote": "The initial concentration of imidacloprid was 3.423 μg/mL, 4.935 μg/mL, 2.624 μg/mL, and 0.013 μg/mL (reference value < 0.001 μg/mL)."
+    },
+    {
+     "name": "transaminases",
+     "value": "mildly elevated",
+     "quote": "Three patients had mild elevations in transaminase levels (case 1, 2, and 4)"
+    },
+    {
+     "name": "urea nitrogen",
+     "value": "transient mild elevation",
+     "quote": "three patients had transient mild elevations in urea nitrogen (case 1, 2, and 3)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Approximately 30 min later, they were transported to the poisoning department of our hospital by ambulance and immediately treated with gastric lavage."
+    },
+    {
+     "name": "dexamethasone",
+     "quote": "Commonly used therapeutic drugs are dexamethasone (10 mg/day, intravenous drip)"
+    },
+    {
+     "name": "furosemide",
+     "quote": "furosemide (20 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "nalmefene",
+     "quote": "nalmefene (0.1 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "total gastrointestinal decontamination (montmorillonite powder and activated charcoal in 20% mannitol)",
+     "quote": "Total gastrointestinal decontamination was performed after gastric lavage. The specific method was as follows: montmorillonite powder (30 g) was dissolved in 250 mL of 20% mannitol and administered in divided doses; activated charcoal (powder) (30 g) was dissolved in 20% mannitol (250 mL) and administered in divided doses."
+    },
+    {
+     "name": "HA330 hemoperfusion",
+     "quote": "HA330 hemoperfusion was simultaneously administered; on the first day, hemoperfusion was performed twice at an interval of 4 h, and once a day on days two and three."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "cured and discharged",
+   "outcome_quote": "Patients one and four were discharged after 10 days of treatment, while patients two and three were cured and discharged after 14 days.",
+   "sequelae": "none reported",
+   "notes": "",
+   "case_id": "case 1"
+  },
+  {
+   "age": "UNVERIFIED",
+   "sex": "UNVERIFIED",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "In May 2023, we admitted four patients from the same family with accidental oral imidacloprid poisoning.",
+   "agent": "imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "agent_quote": "Four patients shared a bottle of imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "route": "oral",
+   "circumstance": "accidental ingestion of a shared bottle of imidacloprid by four family members at noon on May 16, 2023",
+   "symptoms": [
+    {
+     "finding": "nausea and vomiting (vomit contained food residue and pesticide)",
+     "quote": "The four patients developed nausea and vomiting soon after insecticide intake; the vomit contained food residue and pesticide."
+    },
+    {
+     "finding": "varying degrees of disturbed consciousness (lethargy to light coma)",
+     "quote": "Soon after, they developed varying degrees of disturbances in consciousness, such as lethargy and light coma."
+    },
+    {
+     "finding": "elevated blood pressure",
+     "quote": "In addition, all four patients had elevated blood pressure levels."
+    }
+   ],
+   "time_to_care": "approximately 30 min",
+   "labs": [
+    {
+     "name": "white blood cell count",
+     "value": "elevated",
+     "quote": "Laboratory tests revealed an elevated white blood cell count, neutrophil ratio, and the levels of some inflammatory factors."
+    },
+    {
+     "name": "troponin I / cholinesterase / coagulation markers",
+     "value": "normal",
+     "quote": "None of the patients had abnormalities in troponin I, cholinesterase, or coagulation marker levels."
+    },
+    {
+     "name": "initial blood imidacloprid concentration",
+     "value": "4.935 μg/mL (reference value < 0.001 μg/mL)",
+     "quote": "The initial concentration of imidacloprid was 3.423 μg/mL, 4.935 μg/mL, 2.624 μg/mL, and 0.013 μg/mL (reference value < 0.001 μg/mL)."
+    },
+    {
+     "name": "transaminases",
+     "value": "mildly elevated",
+     "quote": "Three patients had mild elevations in transaminase levels (case 1, 2, and 4)"
+    },
+    {
+     "name": "urea nitrogen",
+     "value": "transient mild elevation",
+     "quote": "three patients had transient mild elevations in urea nitrogen (case 1, 2, and 3)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Approximately 30 min later, they were transported to the poisoning department of our hospital by ambulance and immediately treated with gastric lavage."
+    },
+    {
+     "name": "dexamethasone",
+     "quote": "Commonly used therapeutic drugs are dexamethasone (10 mg/day, intravenous drip)"
+    },
+    {
+     "name": "furosemide",
+     "quote": "furosemide (20 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "nalmefene",
+     "quote": "nalmefene (0.1 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "total gastrointestinal decontamination (montmorillonite powder and activated charcoal in 20% mannitol)",
+     "quote": "Total gastrointestinal decontamination was performed after gastric lavage. The specific method was as follows: montmorillonite powder (30 g) was dissolved in 250 mL of 20% mannitol and administered in divided doses; activated charcoal (powder) (30 g) was dissolved in 20% mannitol (250 mL) and administered in divided doses."
+    },
+    {
+     "name": "HA330 hemoperfusion",
+     "quote": "HA330 hemoperfusion was simultaneously administered; on the first day, hemoperfusion was performed twice at an interval of 4 h, and once a day on days two and three."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "cured and discharged",
+   "outcome_quote": "Patients one and four were discharged after 10 days of treatment, while patients two and three were cured and discharged after 14 days.",
+   "sequelae": "none reported",
+   "notes": "",
+   "case_id": "case 2"
+  },
+  {
+   "age": "UNVERIFIED",
+   "sex": "UNVERIFIED",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "In May 2023, we admitted four patients from the same family with accidental oral imidacloprid poisoning.",
+   "agent": "imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "agent_quote": "Four patients shared a bottle of imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "route": "oral",
+   "circumstance": "accidental ingestion of a shared bottle of imidacloprid by four family members at noon on May 16, 2023",
+   "symptoms": [
+    {
+     "finding": "nausea and vomiting (vomit contained food residue and pesticide)",
+     "quote": "The four patients developed nausea and vomiting soon after insecticide intake; the vomit contained food residue and pesticide."
+    },
+    {
+     "finding": "varying degrees of disturbed consciousness (lethargy to light coma)",
+     "quote": "Soon after, they developed varying degrees of disturbances in consciousness, such as lethargy and light coma."
+    },
+    {
+     "finding": "elevated blood pressure",
+     "quote": "In addition, all four patients had elevated blood pressure levels."
+    }
+   ],
+   "time_to_care": "approximately 30 min",
+   "labs": [
+    {
+     "name": "white blood cell count",
+     "value": "elevated",
+     "quote": "Laboratory tests revealed an elevated white blood cell count, neutrophil ratio, and the levels of some inflammatory factors."
+    },
+    {
+     "name": "troponin I / cholinesterase / coagulation markers",
+     "value": "normal",
+     "quote": "None of the patients had abnormalities in troponin I, cholinesterase, or coagulation marker levels."
+    },
+    {
+     "name": "initial blood imidacloprid concentration",
+     "value": "2.624 μg/mL (reference value < 0.001 μg/mL)",
+     "quote": "The initial concentration of imidacloprid was 3.423 μg/mL, 4.935 μg/mL, 2.624 μg/mL, and 0.013 μg/mL (reference value < 0.001 μg/mL)."
+    },
+    {
+     "name": "urea nitrogen",
+     "value": "transient mild elevation",
+     "quote": "three patients had transient mild elevations in urea nitrogen (case 1, 2, and 3)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Approximately 30 min later, they were transported to the poisoning department of our hospital by ambulance and immediately treated with gastric lavage."
+    },
+    {
+     "name": "dexamethasone",
+     "quote": "Commonly used therapeutic drugs are dexamethasone (10 mg/day, intravenous drip)"
+    },
+    {
+     "name": "furosemide",
+     "quote": "furosemide (20 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "nalmefene",
+     "quote": "nalmefene (0.1 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "total gastrointestinal decontamination (montmorillonite powder and activated charcoal in 20% mannitol)",
+     "quote": "Total gastrointestinal decontamination was performed after gastric lavage. The specific method was as follows: montmorillonite powder (30 g) was dissolved in 250 mL of 20% mannitol and administered in divided doses; activated charcoal (powder) (30 g) was dissolved in 20% mannitol (250 mL) and administered in divided doses."
+    },
+    {
+     "name": "HA330 hemoperfusion",
+     "quote": "HA330 hemoperfusion was simultaneously administered; on the first day, hemoperfusion was performed twice at an interval of 4 h, and once a day on days two and three."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "cured and discharged",
+   "outcome_quote": "Patients one and four were discharged after 10 days of treatment, while patients two and three were cured and discharged after 14 days.",
+   "sequelae": "none reported",
+   "notes": "",
+   "case_id": "case 3"
+  },
+  {
+   "age": "UNVERIFIED",
+   "sex": "UNVERIFIED",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "In May 2023, we admitted four patients from the same family with accidental oral imidacloprid poisoning.",
+   "agent": "imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "agent_quote": "Four patients shared a bottle of imidacloprid (emulsion, 300 g/bottle, 5% active ingredient content)",
+   "route": "oral",
+   "circumstance": "accidental ingestion; took the smallest amount of the shared imidacloprid bottle",
+   "symptoms": [
+    {
+     "finding": "nausea and vomiting (vomit contained food residue and pesticide)",
+     "quote": "The four patients developed nausea and vomiting soon after insecticide intake; the vomit contained food residue and pesticide."
+    },
+    {
+     "finding": "varying degrees of disturbed consciousness (lethargy to light coma)",
+     "quote": "Soon after, they developed varying degrees of disturbances in consciousness, such as lethargy and light coma."
+    },
+    {
+     "finding": "elevated blood pressure",
+     "quote": "In addition, all four patients had elevated blood pressure levels."
+    }
+   ],
+   "time_to_care": "approximately 30 min",
+   "labs": [
+    {
+     "name": "white blood cell count",
+     "value": "elevated",
+     "quote": "Laboratory tests revealed an elevated white blood cell count, neutrophil ratio, and the levels of some inflammatory factors."
+    },
+    {
+     "name": "troponin I / cholinesterase / coagulation markers",
+     "value": "normal",
+     "quote": "None of the patients had abnormalities in troponin I, cholinesterase, or coagulation marker levels."
+    },
+    {
+     "name": "initial blood imidacloprid concentration",
+     "value": "0.013 μg/mL (reference value < 0.001 μg/mL)",
+     "quote": "The initial concentration of imidacloprid was 3.423 μg/mL, 4.935 μg/mL, 2.624 μg/mL, and 0.013 μg/mL (reference value < 0.001 μg/mL)."
+    },
+    {
+     "name": "transaminases",
+     "value": "mildly elevated",
+     "quote": "Three patients had mild elevations in transaminase levels (case 1, 2, and 4)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Approximately 30 min later, they were transported to the poisoning department of our hospital by ambulance and immediately treated with gastric lavage."
+    },
+    {
+     "name": "dexamethasone",
+     "quote": "Commonly used therapeutic drugs are dexamethasone (10 mg/day, intravenous drip)"
+    },
+    {
+     "name": "furosemide",
+     "quote": "furosemide (20 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "nalmefene",
+     "quote": "nalmefene (0.1 mg, twice per day, intravenous injection)"
+    },
+    {
+     "name": "total gastrointestinal decontamination (montmorillonite powder and activated charcoal in 20% mannitol)",
+     "quote": "Total gastrointestinal decontamination was performed after gastric lavage. The specific method was as follows: montmorillonite powder (30 g) was dissolved in 250 mL of 20% mannitol and administered in divided doses; activated charcoal (powder) (30 g) was dissolved in 20% mannitol (250 mL) and administered in divided doses."
+    },
+    {
+     "name": "HA330 hemoperfusion",
+     "quote": "HA330 hemoperfusion was simultaneously administered; on the first day, hemoperfusion was performed twice at an interval of 4 h, and once a day on days two and three."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "cured and discharged",
+   "outcome_quote": "Patients one and four were discharged after 10 days of treatment, while patients two and three were cured and discharged after 14 days.",
+   "sequelae": "none reported",
+   "notes": "case 4 took the smallest amount: 'with case 4 taking the smallest amount'",
+   "case_id": "case 4"
+  }
+ ]
+}

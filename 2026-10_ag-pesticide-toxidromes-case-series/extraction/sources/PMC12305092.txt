@@ -1,0 +1,81 @@
+== ARTICLE TITLE ==
+Organophosphate poisoning presenting with paralytic ileus: A case report
+
+== ABSTRACT ==
+BACKGROUNDOrganophosphate (OP) poisoning is common in sub-Saharan Africa. It is associated with high mortality and morbidity. Affected individuals often exhibit cholinergic symptoms and respiratory distress. Moreover, other complications, such as pancreatitis, arrhythmias, and hepatic dysfunction, have been reported. However, paralytic ileus is an exceedingly rare complication.CASE SUMMARYWe report a case of a 5-year-old boy who presented with altered sensorium and abdominal distension following suspected OP exposure. Physical examination and imaging revealed features of intestinal obstruction and neurological deficits. He was managed with atropine, pralidoxime, and other supportive measures and had a successful recovery. Paralytic ileus is an atypical complication of acute OP poisoning. The resultant intestinal obstruction manifests as cholinergic overactivity, leading to bowel dysmotility. This case emphasizes the need for awareness and prompt management of such atypical presentations, especially in the pediatric population.CONCLUSIONTimely recognition and multidisciplinary management of atypical presentations, such as paralytic ileus, are crucial in improving outcomes in pediatric OP poisoning.
+
+== BACKGROUND ==
+
+Organophosphate (OP) poisoning is common in sub-Saharan Africa. It is associated with high mortality and morbidity. Affected individuals often exhibit cholinergic symptoms and respiratory distress. Moreover, other complications, such as pancreatitis, arrhythmias, and hepatic dysfunction, have been reported. However, paralytic ileus is an exceedingly rare complication.
+
+== CASE SUMMARY ==
+
+We report a case of a 5-year-old boy who presented with altered sensorium and abdominal distension following suspected OP exposure. Physical examination and imaging revealed features of intestinal obstruction and neurological deficits. He was managed with atropine, pralidoxime, and other supportive measures and had a successful recovery. Paralytic ileus is an atypical complication of acute OP poisoning. The resultant intestinal obstruction manifests as cholinergic overactivity, leading to bowel dysmotility. This case emphasizes the need for awareness and prompt management of such atypical presentations, especially in the pediatric population.
+
+== CONCLUSION ==
+
+Timely recognition and multidisciplinary management of atypical presentations, such as paralytic ileus, are crucial in improving outcomes in pediatric OP poisoning.
+
+== INTRODUCTION ==
+
+Unintentional poisoning is a significant cause of pediatric morbidity and mortality in developing countries[1]. Organophosphates (OPs), commonly used in agriculture, are among the most frequently implicated toxins[2,3]. Their mechanism of toxicity involves irreversible inhibition of acetylcholinesterase, leading to an excessive accumulation of acetylcholine at synapses. This results in cholinergic toxicity, characterized by salivation, lacrimation, urination, diarrhea, gastrointestinal symptoms, respiratory distress, and neuromuscular dysfunction[4]. While gastrointestinal symptoms such as nausea, vomiting, and abdominal pain are common in OP poisoning, paralytic ileus remains an unusual and underreported complication[5-8]. Several reported cases describe ileus in relation to atropine toxicity; however, it may also arise independently due to the direct cholinergic effects of OPs. We present this case to highlight the clinical significance of paralytic ileus in pediatric OP poisoning and discuss possible underlying mechanisms.
+
+== CASE PRESENTATION ==
+
+== Chief complaints ==
+
+A 5-year-old, 11-month-old male presented with an altered level of consciousness and progressive abdominal distension approximately five hours after suspected exposure to an OP pesticide, dichlorvos.
+
+== History of present illness ==
+
+According to the caregiver, the child was playing unsupervised in a storage area near the farm, after which he developed vomiting, drowsiness, and abdominal bloating. There was no witnessed ingestion, but a strong chemical odor was noted on his clothes, and a dichlorvos container was discovered in the vicinity. The child had no prior episodes of abdominal or neurological complaints.
+
+== History of past illness ==
+
+There was no prior history of chronic illness, neurological disorders, or gastrointestinal complaints. The patient had never been hospitalized before and had no known allergies.
+
+== Personal and family history ==
+
+The child resided in a rural farming community with frequent domestic use of pesticides. Family history was unremarkable for neurological or gastrointestinal diseases.
+
+== Physical examination ==
+
+On arrival, the child was drowsy (Glasgow Coma Scale 8/15), with pinpoint pupils, sluggish reflexes, and a strong pesticide smell. He was tachypneic (respiratory rate 40/minute), with an oxygen saturation of 72% on room air, heart rate 120 beats per minute, blood pressure 90/60 mmHg, and temperature 36.5 °C. Chest auscultation revealed bilateral crepitations. The abdomen was globally distended, rigid, tympanic, and silent on auscultation for five minutes. There was no fasciculation, sweating, or significant oral or nasal secretions at presentation.
+
+== Laboratory examinations ==
+
+The laboratory examinations are included in Table 1.
+
+== Imaging examinations ==
+
+An erect abdominal X-ray revealed dilated bowel loops and multiple air-fluid levels suggestive of intestinal obstruction (Figure 1A). Chest X-ray showed bilateral haziness, indicating possible aspiration pneumonitis (Figure 1B).
+
+== MULTIDISCIPLINARY EXPERT CONSULTATION ==
+
+Consults were made with pediatricians, emergency physicians, radiologists, and toxicologists. The diagnosis of OP poisoning with paralytic ileus was made based on clinical features, exposure history, and radiographic findings. Surgical consultation excluded mechanical obstruction.
+
+== FINAL DIAGNOSIS ==
+
+OP poisoning with atypical presentation of paralytic ileus, aspiration pneumonitis, and central nervous system depression.
+
+== TREATMENT ==
+
+Initial management included oxygen therapy and gastric lavage. Atropine was administered intravenously (0.8 mg every 5-10 minutes) with close monitoring. Pralidoxime (50 mg/kg intravenous) was given repeatedly after one hour. Supportive measures included intravenous fluids, dexamethasone, mannitol, broad-spectrum antibiotics, analgesics, and nasogastric decompression. The child was nursed in a propped-up position, where frequent suctioning was performed to prevent aspiration.
+
+== OUTCOME AND FOLLOW-UP ==
+
+The child regained full consciousness within 18 hours, and atropine was gradually tapered. By 48 hours, bowel sounds returned and abdominal distension resolved. There was full recovery by day 5, and he was discharged, tolerating feeds and with no neurological deficits. Post-discharge follow-up at two weeks confirmed complete recovery, and the family received counseling on pesticide safety and childproof storage practices.
+
+== DISCUSSION ==
+
+Unintentional organophosphorus pesticide ingestions are common in the pediatric population[9]. These pesticides are widely used in developing countries for agricultural purposes[10]. OPs cause the phosphorylation of serine residues in the active site of acetylcholinesterase, leading to its gradual inhibition[11]. OP poisoning manifests as a variety of muscarinic, nicotinic, and neurological symptoms[12]. The most frequently witnessed symptoms are salivation, lacrimation, urination, defecation, gastric cramps, and emesis[13]. Our patient presented with an altered level of consciousness, pinpoint pupils, and sluggish reflexes, consistent with central cholinergic effects. These signs and symptoms play a critical role in the diagnosis of OP toxicity and often appear 3 to 12 hours following ingestion[14]. Paralytic ileus is a rare and under-recognized complication of OP poisoning. However, it has been demonstrated to be a complication of atropine therapy[15,16]. It is worth noting that the diagnosis of paralytic ileus, in this case, was made before atropine therapy began. The cholinergic crisis induced by OP poisoning significantly affects the autonomic control of the gastrointestinal system. OPs inhibit acetylcholinesterase, leading to the accumulation of acetylcholine at synaptic and neuromuscular junctions. The resultant overstimulation of muscarinic receptors can lead to excessive smooth muscle contractions, spasms, and paralytic ileus. OP poisoning can induce the constriction of the ileocecal valve smooth muscles, causing this rare phenomenon[17,18]. Moreover, the muscarinic effects of acetylcholine on the gastrointestinal tract consist of increased secretions and enhanced contraction of smooth muscles. Overstimulation of the nicotinic receptors contributes to paralytic ileus through impeded transmission at the autonomic ganglia and impaired coordinated peristalsis. Therefore, affected patients can present with abdominal pain, distension, and absent bowel sounds[18]. The literature describes several atypical complications of OP poisoning, including encephalopathy, angioedema, delayed lower gastrointestinal bleeding, toxic megacolon, intermediate syndrome with global paralysis, and sigmoid volvulus[19-21]. Paralytic ileus can result either directly from the harmful effects of OP compounds or as a complication of atropine therapy used in treatment, as summarized in Table 2[19].
+
+Timely and proper management of OP poisoning is essential for achieving a favorable outcome. Thus, the treatment approach should entail prompt resuscitation, oxygen administration, atropinization, fluid and electrolyte replacement, prevention of seizures, and pralidoxime[1-5]. In pediatric patients, atropinization requires careful titration to avoid complications such as atropine toxicity[22]. In this case, rapid atropinization was achieved, followed by pralidoxime and supportive measures, including fluid resuscitation, nasogastric decompression, and suctioning of secretions. This case also highlights the importance of public health messaging in pesticide harm reduction. Unsecured pesticide access in rural homes remains a significant risk for pediatric exposures. The work of Noghrehchi et al[23] emphasizes the need for policy-level interventions and frontline education. Integration of child safety protocols, proper labeling, and secure storage in agricultural communities is urgently needed to prevent future incidents. This report has several limitations. Confirmatory testing, including serum cholinesterase levels, was unavailable. Additionally, while the diagnosis was strongly supported by clinical presentation and imaging, the absence of laboratory confirmation limits generalizability[23].
+
+== CONCLUSION ==
+
+A detailed history and physical examination are critical in making a correct diagnosis in the face of atypical presentations such as those described for our patient. This case underscores the significance of recognizing rare complications of OP poisoning, such as paralytic ileus. Awareness of such complications, inclusion of harm-reduction strategies, and continued follow-up are critical for comprehensive care. Early diagnosis, targeted treatment, and multidisciplinary care are essential to improving outcomes.
+
+== ACKNOWLEDGEMENTS ==
+
+The authors thank the Murang’a County Referral Hospital for supporting the preparation of this case report.

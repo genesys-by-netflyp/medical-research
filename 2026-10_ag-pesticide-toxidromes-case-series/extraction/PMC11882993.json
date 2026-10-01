@@ -1,0 +1,83 @@
+{
+ "pmcid": "PMC11882993",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "52 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "admitted to the hospital following suicidal ingestion of an unknown quantity of \"Sackweed-38,\" which contains 38% ethyl ester (2,4-D)",
+   "agent": "'Sackweed-38' containing 38% ethyl ester (2,4-Dichlorophenoxyacetic acid), unknown quantity",
+   "agent_quote": "suicidal ingestion of an unknown quantity of \"Sackweed-38,\" which contains 38% ethyl ester (2,4-D)",
+   "route": "oral",
+   "circumstance": "suicidal ingestion; initial treatment at a nearby hospital then transferred, presenting to the emergency department approximately six hours after ingestion",
+   "symptoms": [
+    {
+     "finding": "vomiting, diarrhea, progressively worsening altered sensorium",
+     "quote": "she had a few episodes of vomiting and diarrhea and developed an altered sensorium, which progressively worsened"
+    },
+    {
+     "finding": "coma (GCS E1VTM1) with pinpoint nonreactive pupils",
+     "quote": "she had a Glasgow Coma Score (GCS) of E1VTM1 and had pinpoint and nonreactive bilateral pupils"
+    },
+    {
+     "finding": "neuromuscular symptoms: twitching, fasciculations, hypotonia",
+     "quote": "Neuromuscular symptoms of twitching, fasciculations, and hypotonia were noted, and an electroencephalogram ruled out seizure activity."
+    },
+    {
+     "finding": "severe esophagitis with blood clots in the stomach on endoscopy",
+     "quote": "Emergent endoscopy revealed severe esophagitis with blood clots in the stomach."
+    }
+   ],
+   "time_to_care": "presented to our emergency department after approximately six hours of poison ingestion",
+   "labs": [
+    {
+     "name": "arterial blood gas",
+     "value": "metabolic acidosis",
+     "quote": "Metabolic acidosis was seen on an arterial blood gas analysis."
+    },
+    {
+     "name": "fingerstick glucose",
+     "value": "310 mg/dL",
+     "quote": "temperature of 98.6°F, and fingerstick glucose of 310 mg/dL"
+    },
+    {
+     "name": "blood 2,4-D level",
+     "value": "could not be measured (test unavailable)",
+     "quote": "Blood levels of 2,4-D could not be measured due to the non-availability of this test at our facility."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "intubation for airway protection and gastric lavage",
+     "quote": "She required intubation for airway protection, gastric lavage was performed, and she received intravenous fluids and needed initiation of vasopressors for management of hypotension."
+    },
+    {
+     "name": "norepinephrine and vasopressin (dual vasopressor support)",
+     "quote": "a blood pressure of 108/77 mmHg on norepinephrine and vasopressin support"
+    },
+    {
+     "name": "alkaline diuresis with injectable sodium bicarbonate",
+     "quote": "She underwent alkaline diuresis with injectable sodium bicarbonate and maintained a urine output of 200 ml/hr."
+    },
+    {
+     "name": "pantoprazole infusion and potassium supplementation",
+     "quote": "Other treatment measures included initiation of pantoprazole infusion and potassium supplementation for hypokalemia management."
+    },
+    {
+     "name": "polymyxin B, ceftriaxone-sulbactam, and fluconazole for multidrug-resistant Klebsiella pneumoniae and yeast",
+     "quote": "She received polymyxin B, ceftriaxone-sulbactam, and fluconazole based on the culture sensitivity results."
+    }
+   ],
+   "icu_admission": "yes (implied by intubation, mechanical ventilation, vasopressors)",
+   "outcome": "died of cardiac arrest on the sixth day of hospitalization",
+   "outcome_quote": "Unfortunately, she had a cardiac arrest and passed away on the sixth day of hospitalization.",
+   "sequelae": "not applicable (died)",
+   "notes": "Refractory hypotension, worsening renal failure, metabolic acidosis, hypernatremia and hyperkalemia throughout hospitalization; ventilator-associated pneumonia with multidrug-resistant Klebsiella pneumoniae."
+  }
+ ]
+}

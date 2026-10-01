@@ -1,0 +1,71 @@
+{
+ "pmcid": "PMC12747447",
+ "case_type": "other",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Index patient",
+   "age": "UNVERIFIED (described only as a middle-aged man)",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "He was found at home foaming at the mouth lying next to a 100-mL bottle of insecticide, along with alcohol.",
+   "agent": "malathion (maldison) — Horti-on insecticide, 500 g/L maldison with 487 g/L liquid hydrocarbon solvent",
+   "agent_quote": "The paramedics had brought along the bottle of the ingested agent (Horti-on insecticide – 500 g/L maldison, an anticholinesterase compound, and solvent 487 g/L liquid hydrocarbon).",
+   "route": "ingestion (OP ingestion; found at home, conveyed by ambulance)",
+   "circumstance": "Found at home foaming at the mouth next to a 100-mL bottle of insecticide, along with alcohol; circumstances (intent) not explicitly stated.",
+   "symptoms": [
+    {
+     "finding": "foaming at the mouth; drowsy and diaphoretic",
+     "quote": "Paramedics found him drowsy and diaphoretic, and he was conveyed via ambulance to the nearest hospital."
+    },
+    {
+     "finding": "unconscious with pinpoint pupils, clothing soaked in vomitus",
+     "quote": "He was unconscious and diaphoretic with pinpoint pupils, and his clothing was soaked in vomitus."
+    },
+    {
+     "finding": "tachycardia (HR 152 bpm), hypertension (149/100 mmHg)",
+     "quote": "The patient had a heart rate of 152 bpm, blood pressure of 149/100 mmHg, respiratory rate of 20 bpm and an oxygen saturation of 100% on non-rebreather mask."
+    }
+   ],
+   "time_to_care": "found at home and conveyed via ambulance (exact interval UNVERIFIED)",
+   "labs": [
+    {
+     "name": "serum cholinesterase (day of ingestion)",
+     "value": "< 1000 U/mL",
+     "quote": "Serum cholinesterase level taken on the day of ingestion was < 1000 U/mL and remained low until Day 5, when it increased to 1169 U/mL."
+    },
+    {
+     "name": "serum cholinesterase (Day 5)",
+     "value": "1169 U/mL",
+     "quote": "remained low until Day 5, when it increased to 1169 U/mL"
+    },
+    {
+     "name": "RBC cholinesterase",
+     "value": "3221 U/mL",
+     "quote": "Red blood cell (RBC) cholinesterase was 3221 U/mL [Figure 1]."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "emergency intubation; HAZMAT decontamination (clothing removed, skin washed with liquid soap and running water)",
+     "quote": "A decision was made for emergency intubation to promptly secure his airway. Thereafter, the hazardous material (HAZMAT) decontamination unit (HDU) located outdoors and adjacent to the resuscitation zone was activated."
+    },
+    {
+     "name": "pralidoxime (two 1-g doses over 30 min) and atropine (2.4 mg followed by 4.8 mg infusion)",
+     "quote": "treatment with pralidoxime (two 1-g doses over 30 min) and atropine (2.4 mg followed by 4.8 mg infusion) was initiated for the patient."
+    },
+    {
+     "name": "propofol and fentanyl infusions; ICU admission; further pralidoxime and atropine; extubation Day 4",
+     "quote": "Propofol and fentanyl infusions were used for post-intubation sedation and analgesia, and the patient was admitted to the intensive care unit for further management. ... He was extubated successfully on Day 4 after further treatment with pralidoxime and atropine and was moved to the high dependency unit for the next 3 days."
+    }
+   ],
+   "icu_admission": "yes (admitted to the intensive care unit; high dependency unit for 3 days after extubation)",
+   "outcome": "survived; discharged in full recovery (extubated Day 4, HDU 3 days, one more day in general ward)",
+   "outcome_quote": "He recovered uneventfully in the general ward for one more day before discharge in full recovery.",
+   "sequelae": "none (full recovery)",
+   "notes": "The paper is an incident analysis of secondary exposure among 14 healthcare workers who developed non-specific symptoms after contact with this patient; none showed typical OP toxidrome or significant cholinesterase reduction, so HCWs are not extracted as pesticide-poisoning cases."
+  }
+ ]
+}

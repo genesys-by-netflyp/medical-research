@@ -1,0 +1,95 @@
+{
+  "pmcid": "PMC13596013",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13596013_case1",
+      "age": "49 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 49-year-old man with no prior comorbidities presented with a suspected history of organophosphate poison ingestion. He was found in a drowsy state by family members and was brought to the emergency department.",
+      "agent": "organophosphate (chlorpyrifos, admitted later)",
+      "agent_quote": "On further questioning, he disclosed a history of depressive disorder and admitted to consuming chlorpyrifos.",
+      "route": "ingestion",
+      "circumstance": "found drowsy by family; clothes had peculiar smell of organophosphates; later admitted chlorpyrifos ingestion; history of depressive disorder (circumstance of ingestion not stated)",
+      "symptoms": [
+        {
+          "finding": "drowsy state, incomprehensible sounds, response to painful stimuli, bilaterally constricted pupils (acute cholinergic crisis)",
+          "quote": "On examination, he produced incomprehensible sounds, demonstrated movement of all 4 limbs in response to painful stimuli, and had bilaterally constricted pupils without focal neurological deficits."
+        },
+        {
+          "finding": "bradycardia (HR 46/min), hypotension (100/60 mmHg)",
+          "quote": "His heart rate was 46 beats/min, and blood pressure was 100/60 mm Hg."
+        },
+        {
+          "finding": "respiratory failure / intermediate syndrome 48 h after admission (tachypnea 32/min, SpO2 80%)",
+          "quote": "However, 48 hours after admission, he developed tachypnea, with his respiratory rate increasing to 32 breaths/min. The patient’s oxygen saturation level dropped to 80% on room air."
+        },
+        {
+          "finding": "myoclonic jerks of trunk and bilateral lower limbs 3–4 weeks after ingestion",
+          "quote": "After approximately 3 to 4 weeks of ingestion of organophosphate, he began experiencing myoclonic jerks affecting the trunk and bilateral lower limbs. This jerky movement was so severe that he could not walk unaided"
+        },
+        {
+          "finding": "axonal polyneuropathy (reduced SNAP/CMAP amplitudes)",
+          "quote": "Nerve conduction studies demonstrated reduced sensory nerve action potential (SNAP) amplitudes in the bilateral ulnar nerves and reduced compound muscle action potential (CMAP) amplitudes in the bilateral peroneal nerves, suggestive of axonal polyneuropathy."
+        },
+        {
+          "finding": "bilateral globus pallidus T2/FLAIR hyperintensities on brain MRI",
+          "quote": "T2-weighted and FLAIR MRI of the brain demonstrated bilateral symmetric hyperintensities in the medial and lateral globus pallidus without diffusion restriction or contrast enhancement, suggestive of toxin-induced injury"
+        }
+      ],
+      "time_to_care": "UNVERIFIED (found drowsy by family and brought to emergency department; time from ingestion not stated)",
+      "labs": [
+        {
+          "name": "cholinesterase",
+          "value": "not available / not tested",
+          "quote": "Cholinesterase testing was not available at the time of presentation."
+        },
+        {
+          "name": "CBC and serum biochemistry",
+          "value": "within normal limits",
+          "quote": "Routine laboratory investigations, including a complete blood count and serum biochemistry, were within normal limits."
+        },
+        {
+          "name": "MRI brain",
+          "value": "bilateral symmetric medial and lateral globus pallidus hyperintensities (T2/FLAIR)",
+          "quote": "T2-weighted and FLAIR MRI of the brain demonstrated bilateral symmetric hyperintensities in the medial and lateral globus pallidus without diffusion restriction or contrast enhancement, suggestive of toxin-induced injury (Figure 1)."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "immediate decontamination including gastric lavage",
+          "quote": "Immediate decontamination was performed, including gastric lavage."
+        },
+        {
+          "name": "atropine bolus and maintenance infusion",
+          "quote": "He was administered atropine and started on a maintenance infusion."
+        },
+        {
+          "name": "intubation and mechanical ventilation (3 weeks)",
+          "quote": "In view of impending respiratory failure, the patient was intubated and initiated on mechanical ventilation."
+        },
+        {
+          "name": "intravenous immunoglobulin (2 g/kg over 5 days)",
+          "quote": "consisted of intravenous immunoglobulin (2 g/kg divided over 5 days) and intravenous methylprednisolone pulse therapy (1 g/day for 5 days)"
+        },
+        {
+          "name": "intravenous methylprednisolone pulse therapy (1 g/day for 5 days)",
+          "quote": "intravenous methylprednisolone pulse therapy (1 g/day for 5 days)"
+        },
+        {
+          "name": "symptomatic treatment with benzodiazepine and baclofen; antidepressants",
+          "quote": "At 3-month follow-up, myoclonus did not improve, and he was on symptomatic treatment with benzodiazepine and baclofen."
+        }
+      ],
+      "icu_admission": "yes (intubated and mechanically ventilated for 3 weeks)",
+      "outcome": "survived acute cholinergic crisis and intermediate syndrome; at 3-month follow-up myoclonus did not improve",
+      "outcome_quote": "At 3-month follow-up, myoclonus did not improve, and he was on symptomatic treatment with benzodiazepine and baclofen.",
+      "sequelae": "persistent myoclonus of trunk and bilateral lower limbs limiting walking; axonal polyneuropathy",
+      "notes": "Steroids and IVIG produced no clinical improvement. Diagnosis based on cholinergic toxidrome, exposure history, distinctive odor, and later admission of chlorpyrifos ingestion."
+    }
+  ]
+}

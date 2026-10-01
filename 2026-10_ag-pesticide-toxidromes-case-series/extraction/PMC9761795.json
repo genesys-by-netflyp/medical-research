@@ -1,0 +1,107 @@
+{
+ "pmcid": "PMC9761795",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9761795-case1",
+   "age": "45-year-old",
+   "sex": "man",
+   "exposure_context": "occupational/agricultural",
+   "exposure_context_quote": "A 45-year-old farmer with a body mass index = 22.1 (BMI = weight (kg)/height2 (m)) who was referred to the poisoning emergency center of Khorshid Hospital affiliated to Isfahan University of Medical Sciences about 6 days after the skin exposure through accidental spraying PQ 20% solution on his face and body.",
+   "agent": "paraquat 20% solution",
+   "agent_quote": "skin exposure through accidental spraying PQ 20% solution on his face and body",
+   "route": "dermal (accidental spraying on face and body; possible oral/mucosal contact with dysphagia)",
+   "circumstance": "accidental spraying of paraquat while working as a farmer; lack of protective equipment and no early body washing",
+   "symptoms": [
+    {
+     "finding": "dysphagia",
+     "quote": "He suffered from dysphagia, two episodes of hemoptysis containing clear blood clots, and respiratory distress which was started 3 days after exposure."
+    },
+    {
+     "finding": "hemoptysis (two episodes)",
+     "quote": "He suffered from dysphagia, two episodes of hemoptysis containing clear blood clots, and respiratory distress which was started 3 days after exposure."
+    },
+    {
+     "finding": "respiratory distress / severe hypoxia (SpO2 52%)",
+     "quote": "heart rate, 107/min; respiratory rate, 30/min; blood pressure, 111/50 mm Hg; and O2 saturation, 52% which reached 91% with a bag valve mask."
+    },
+    {
+     "finding": "second- and third-degree skin burns and multiple ulcers (face, mouth, neck, shoulders, axillae, elbows, trunk, hands, feet)",
+     "quote": "the patient was confused and he had second- and third-degree burns and multiple ulcers focusing on the body (face and around and in the mouth, forehead, neck, shoulders and axillary, elbows, trunk, hands, and feet) with yellow and green serous discharge."
+    },
+    {
+     "finding": "confusion / decreased level of consciousness (GCS 4/15 later)",
+     "quote": "The level of patients’ consciousness decreased 16 h after admission with GCS 4/15"
+    },
+    {
+     "finding": "decreased breath sounds left lung",
+     "quote": "Physical examination of the lungs showed a decrease in the sound of the left lung."
+    },
+    {
+     "finding": "oliguria with brown urine",
+     "quote": "The volume of urine was reduced and changed to brown."
+    },
+    {
+     "finding": "acute respiratory distress syndrome",
+     "quote": "In the HRCT, alveolar opacity by air bronchograms of both lungs with evidence of acute respiratory syndrome was seen."
+    }
+   ],
+   "time_to_care": "admitted to hospital 6 days after first contact",
+   "labs": [
+    {
+     "name": "urine sodium dithionate test",
+     "value": "strongly positive (purple-colored urine)",
+     "quote": "the urine sodium dithionate test for PQ on the first day at admission was strongly positive and defined as purple-colored urine."
+    },
+    {
+     "name": "liver enzymes, urea, creatinine",
+     "value": "increased",
+     "quote": "In the initial tests of the patient, an increase in blood liver enzymes, urea, creatinine, as well as respiratory acidosis in the venous blood gas analysis was seen."
+    },
+    {
+     "name": "venous blood gas",
+     "value": "respiratory acidosis",
+     "quote": "as well as respiratory acidosis in the venous blood gas analysis was seen"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "fluid hydration and oxygen supplement",
+     "quote": "The patient was treated with fluid hydration, oxygen supplement, antioxidants"
+    },
+    {
+     "name": "Vitamin E 300 units daily IM for 2 days; Vitamin C 2 g IV then 150 mg/h daily infusion for 2 days; N-acetylcysteine 300 mg/kg/day IV for 1 day",
+     "quote": "antioxidants including Vitamin E 300 units daily for 2 days (Osvah Pharmaceutical Company, Tehran, Iran) intramuscular, Vitamin C 2 g intravenous (IV) infusion, and then 150 mg/h daily infusion for 2 days"
+    },
+    {
+     "name": "methylprednisolone 1 g IV first day then 500 mg daily for 3 days",
+     "quote": "methylprednisolone 1 g IV infusion on the first day and then 500 mg daily infusion (for 3 days)"
+    },
+    {
+     "name": "tetracycline skin ointment daily",
+     "quote": "After consultation regarding body burns, tetracycline skin ointment was given daily."
+    },
+    {
+     "name": "hemodialysis two times, 8 h each (days 1 and 3)",
+     "quote": "He underwent hemodialysis two times, 8 h each time (the first and third day of hospitalization) due to a positive dithionite test and renal failure."
+    },
+    {
+     "name": "potassium chloride 15% (day 3, hypokalemia)",
+     "quote": "On the third day of hospitalization, potassium chloride 15% was prescribed due to reported hypokalemia."
+    },
+    {
+     "name": "intubation and mechanical ventilation",
+     "quote": "At this time, the patient was intubated and transferred to the ICU."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "died on the fourth day of hospitalization despite CPR",
+   "outcome_quote": "Finally, the cardio-respiratory arrest occurred, and the patient died despite cardiopulmonary resuscitation.",
+   "sequelae": "not applicable (died)",
+   "notes": "Developed sinus bradycardia with SpO2 35–40% on FiO2 100% before arrest; past history of methadone and opium inhalation addiction; laboratory table (Table 1) not present in text."
+  }
+ ]
+}

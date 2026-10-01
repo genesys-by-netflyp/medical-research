@@ -1,0 +1,82 @@
+{
+  "pmcid": "PMC11299130",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11299130_case1",
+      "age": "48-year-old",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 48-year-old male was brought to casualty after consuming poison accompanied by the consumption of alcohol. The patient was an occasional alcoholic.",
+      "agent": "UNVERIFIED (specific agent not named; intermediate syndrome indicates an organophosphate pesticide: title 'Intermediate Syndrome Secondary to Organophosphate Poisoning')",
+      "agent_quote": "A 48-year-old male was brought to casualty after consuming poison accompanied by the consumption of alcohol.",
+      "route": "ingestion (implied by 'consuming poison'; exact wording on route UNVERIFIED beyond this)",
+      "circumstance": "poison consumption accompanied by alcohol; found unconscious — suicidal vs accidental intent UNVERIFIED (abstract frames it as deliberate self-harm context: 'deliberate self-harm using organophosphate pesticides')",
+      "symptoms": [
+        {
+          "finding": "unconsciousness with frothing from mouth, decreased responsiveness",
+          "quote": "He was found unconscious and had frothing from the mouth, decreased responsiveness"
+        },
+        {
+          "finding": "respiratory distress (SpO2 75%), bilateral coarse crepitations",
+          "quote": "difficulty in breathing, and unstable vitals with a blood pressure of 100/60 mmHg, pulse rate of 102 per minute, and oxygen saturation of 75%. Auscultation revealed bilateral coarse crepitations."
+        },
+        {
+          "finding": "intermediate syndrome with respiratory muscle weakness requiring reintubation (worsened 4 days after initial extubation)",
+          "quote": "However, due to worsening conditions, the patient was reintubated four days later, accompanied by the presence of secretions and reduced air entry."
+        },
+        {
+          "finding": "bilateral loculated pleural effusions with subsegmental atelectasis",
+          "quote": "Thoracic ultrasound showed bilateral pleural effusion, with 260 cc on the left and 80 cc on the right, accompanied by subsegmental atelectasis."
+        }
+      ],
+      "time_to_care": "UNVERIFIED (no interval between ingestion and casualty arrival stated)",
+      "labs": [
+        {
+          "name": "thoracic ultrasound pleural effusion volumes",
+          "value": "260 cc left, 80 cc right",
+          "quote": "Thoracic ultrasound showed bilateral pleural effusion, with 260 cc on the left and 80 cc on the right, accompanied by subsegmental atelectasis."
+        },
+        {
+          "name": "blood investigations (other lab values)",
+          "value": "UNVERIFIED (not reported numerically in text)",
+          "quote": "All necessary investigations, including an X-ray, were done on admission, and medical management was started with atropine 2 mg"
+        }
+      ],
+      "treatment": [
+        {
+          "name": "atropine 2 mg",
+          "quote": "medical management was started with atropine 2 mg, injection of midazolam 2 mg IV, succinylcholine 75 mg IV, and intravenous fluids."
+        },
+        {
+          "name": "midazolam 2 mg IV",
+          "quote": "medical management was started with atropine 2 mg, injection of midazolam 2 mg IV, succinylcholine 75 mg IV, and intravenous fluids."
+        },
+        {
+          "name": "succinylcholine 75 mg IV (for intubation)",
+          "quote": "medical management was started with atropine 2 mg, injection of midazolam 2 mg IV, succinylcholine 75 mg IV, and intravenous fluids."
+        },
+        {
+          "name": "intubation and mechanical ventilation (volume control, FiO2 100%)",
+          "quote": "An endotracheal tube was connected to a mechanical ventilator set to volume control mode with a fraction of inspired oxygen at 100%."
+        },
+        {
+          "name": "intravenous fluids",
+          "quote": "medical management was started with atropine 2 mg, injection of midazolam 2 mg IV, succinylcholine 75 mg IV, and intravenous fluids."
+        },
+        {
+          "name": "structured physiotherapy program for 2 weeks (patient education, secretion mobilization, incentive spirometry, chest expansion exercises, positioning, mobilization)",
+          "quote": "Physiotherapy interventions included patient education, secretion mobilization, vital capacity improvement, secondary complication prevention, chest expansion exercises, dyspnea-relieving positions, and mobilization."
+        }
+      ],
+      "icu_admission": "yes (medicine ICU)",
+      "outcome": "significant improvement in functional independence, mobility and psychological well-being over 2 weeks of physiotherapy (progressed from maximal assistance to no assistance / walking without assistance); final discharge status UNVERIFIED",
+      "outcome_quote": "Significant improvements in functional independence, mobility, and psychological well-being were observed throughout the intervention period.",
+      "sequelae": "intermediate syndrome with respiratory muscle weakness; bilateral pleural effusions (severity/improvement documented on day-1 and day-7 chest X-rays)",
+      "notes": "Physiotherapy-focused case report; toxicologic details (specific agent, dose, time to care, pralidoxime use) not provided."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+ "pmcid": "PMC11435638",
+ "case_type": "other",
+ "suitable": false,
+ "unsuitable_reason": "Retrospective cross-sectional poison-center database study of 88 patients with aggregate demographic/clinical statistics; individual patient-level clinical detail is not presented (only brief narrative descriptions of two fatal patients, patients 7 and 8), so per-case extraction as required by the schema is not possible.",
+ "language": "English",
+ "cases": []
+}

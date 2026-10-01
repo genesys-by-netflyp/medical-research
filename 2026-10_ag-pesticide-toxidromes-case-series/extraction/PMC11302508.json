@@ -1,0 +1,89 @@
+{
+  "pmcid": "PMC11302508",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11302508_case1",
+      "age": "52-year-old",
+      "sex": "male",
+      "exposure_context": "occupational/agricultural",
+      "exposure_context_quote": "A 52-year-old male farmer presented with complaints of accidental exposure to Dichlorvos while spraying in the field without protection and with the spraying kit strapped to his back.",
+      "agent": "Dichlorvos (DDVP; 2,2-dichlorovinyl-dimethyl-phosphate), fume exposure during spraying; dose UNVERIFIED",
+      "agent_quote": "accidental exposure to Dichlorvos while spraying in the field without protection",
+      "route": "respiratory/cutaneous exposure (fumes) — \"exposure to DDVP fumes\"; exact primary route UNVERIFIED beyond that",
+      "circumstance": "accidental exposure while spraying pesticide in the field without protection, spraying kit strapped to his back",
+      "symptoms": [
+        {
+          "finding": "acute-onset breathlessness requiring intubation and mechanical ventilation for one week",
+          "quote": "Subsequently, he developed acute onset breathlessness for which he was hospitalized and required intubation and mechanical ventilation for one week."
+        },
+        {
+          "finding": "tachycardia (PR 134/min)",
+          "quote": "Examination revealed tachycardia (PR-134/min), BP-130/96 mmHg, and normal systemic examination."
+        },
+        {
+          "finding": "multifocal consolidation with ground glass opacities on CT-thorax (toxin-mediated allergic pneumonitis)",
+          "quote": "CT-thorax revealed multifocal consolidation with ground glass opacities suggestive of toxin-mediated allergic pneumonitis [Figure 1]."
+        },
+        {
+          "finding": "anuric AKI (second week of hospitalization)",
+          "quote": "During the second week of hospitalization, the patient developed anuric AKI and required renal replacement therapy (RRT)."
+        }
+      ],
+      "time_to_care": "UNVERIFIED (hospitalized after breathlessness developed; AKI delayed presentation ~1 week after exposure per discussion: 'delayed presentation of AKI after a week of exposure')",
+      "labs": [
+        {
+          "name": "serum complements, ANCA, ANA",
+          "value": "negative",
+          "quote": "Serum complements, ANCA, and ANA were negative, and creatine-phosphokinase was normal."
+        },
+        {
+          "name": "creatine-phosphokinase",
+          "value": "normal",
+          "quote": "Serum complements, ANCA, and ANA were negative, and creatine-phosphokinase was normal."
+        },
+        {
+          "name": "renal biopsy (first)",
+          "value": "severe acute tubulointerstitial nephritis (ATIN) with mixed interstitial inflammation; unremarkable glomeruli; EM showed ATN changes",
+          "quote": "A renal biopsy done during the second week of illness revealed severe acute tubulointerstitial nephritis (ATIN) with mixed interstitial inflammation. Glomeruli were unremarkable [Figure 2a and 2b]."
+        },
+        {
+          "name": "creatinine at first discharge",
+          "value": "1.6 mg/dl",
+          "quote": "he consequently became dialysis-independent, and creatinine improved to 1.6 mg/dl at discharge [Tables 1 and 2]."
+        },
+        {
+          "name": "repeat biopsy (recurrent AKI)",
+          "value": "marked ATIN",
+          "quote": "Repeat biopsy revealed marked ATIN."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "intubation and mechanical ventilation (1 week)",
+          "quote": "he was hospitalized and required intubation and mechanical ventilation for one week."
+        },
+        {
+          "name": "renal replacement therapy (RRT)",
+          "quote": "the patient developed anuric AKI and required renal replacement therapy (RRT)."
+        },
+        {
+          "name": "prednisolone 1 mg/kg/day (first episode)",
+          "quote": "He was started on 1 mg/kg/day prednisolone."
+        },
+        {
+          "name": "IV methylprednisolone followed by 1 mg/kg prednisolone (recurrent episode)",
+          "quote": "He was given IV methylprednisolone followed by 1 mg/kg prednisolone, but with no response."
+        }
+      ],
+      "icu_admission": "UNVERIFIED (intubation/mechanical ventilation implies critical care, but ICU admission not explicitly stated)",
+      "outcome": "first episode recovered (dialysis-independent by 4 weeks); recurrent AKI did not respond to steroids; remained dialysis-dependent, progressed to ESRD",
+      "outcome_quote": "However, he remained dialysis-dependent.",
+      "sequelae": "progression to end-stage renal disease (dialysis-dependent); hospital-acquired infections precluded escalation of immunosuppression",
+      "notes": "Causality inferred from temporal correlation ('Because of temporal correlation and the absence of any other possibility, ATIN found on renal biopsy was attributed to the exposure to Dichlorvos'); toxin assay unavailable. No cholinergic toxidrome described."
+    }
+  ]
+}

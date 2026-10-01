@@ -1,0 +1,69 @@
+{
+ "pmcid": "PMC12305092",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "5 years 11 months",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "the child was playing unsupervised in a storage area near the farm, after which he developed vomiting, drowsiness, and abdominal bloating. There was no witnessed ingestion, but a strong chemical odor was noted on his clothes, and a dichlorvos container was discovered in the vicinity.",
+   "agent": "organophosphate pesticide, dichlorvos (suspected; container found nearby; no laboratory confirmation)",
+   "agent_quote": "approximately five hours after suspected exposure to an OP pesticide, dichlorvos",
+   "route": "unclear (suspected ingestion; not witnessed)",
+   "circumstance": "unintentional exposure while playing unsupervised in a storage area near the farm in a rural farming community with frequent domestic pesticide use",
+   "symptoms": [
+    {
+     "finding": "altered level of consciousness (GCS 8/15), vomiting, abdominal distension",
+     "quote": "A 5-year-old, 11-month-old male presented with an altered level of consciousness and progressive abdominal distension approximately five hours after suspected exposure to an OP pesticide, dichlorvos."
+    },
+    {
+     "finding": "pinpoint pupils, sluggish reflexes, tachypnea (RR 40), SpO2 72% room air, bilateral crepitations",
+     "quote": "On arrival, the child was drowsy (Glasgow Coma Scale 8/15), with pinpoint pupils, sluggish reflexes, and a strong pesticide smell. He was tachypneic (respiratory rate 40/minute), with an oxygen saturation of 72% on room air"
+    },
+    {
+     "finding": "paralytic ileus: globally distended, rigid, tympanic abdomen, silent for five minutes; dilated bowel loops with air-fluid levels on X-ray",
+     "quote": "An erect abdominal X-ray revealed dilated bowel loops and multiple air-fluid levels suggestive of intestinal obstruction"
+    },
+    {
+     "finding": "aspiration pneumonitis (bilateral haziness on chest X-ray)",
+     "quote": "Chest X-ray showed bilateral haziness, indicating possible aspiration pneumonitis (Figure 1B)."
+    }
+   ],
+   "time_to_care": "approximately five hours after suspected exposure",
+   "labs": [
+    {
+     "name": "laboratory examinations",
+     "value": "presented in Table 1 (values not included in source text); serum cholinesterase unavailable",
+     "quote": "Confirmatory testing, including serum cholinesterase levels, was unavailable."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "oxygen therapy and gastric lavage",
+     "quote": "Initial management included oxygen therapy and gastric lavage."
+    },
+    {
+     "name": "atropine IV 0.8 mg every 5-10 minutes",
+     "quote": "Atropine was administered intravenously (0.8 mg every 5-10 minutes) with close monitoring."
+    },
+    {
+     "name": "pralidoxime 50 mg/kg IV repeatedly after one hour",
+     "quote": "Pralidoxime (50 mg/kg intravenous) was given repeatedly after one hour."
+    },
+    {
+     "name": "supportive: IV fluids, dexamethasone, mannitol, broad-spectrum antibiotics, analgesics, nasogastric decompression, suctioning",
+     "quote": "Supportive measures included intravenous fluids, dexamethasone, mannitol, broad-spectrum antibiotics, analgesics, and nasogastric decompression."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "survived; full recovery by day 5, discharged tolerating feeds with no neurological deficits",
+   "outcome_quote": "There was full recovery by day 5, and he was discharged, tolerating feeds and with no neurological deficits. Post-discharge follow-up at two weeks confirmed complete recovery",
+   "sequelae": "none reported (complete recovery confirmed at two-week follow-up)",
+   "notes": "Diagnosis made clinically without laboratory confirmation; surgical consultation excluded mechanical obstruction."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "pmcid": "PMC12223390",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "25 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 25-year-old male farmer presented to the hospital after self-injecting indoxacarb into the antecubital vein of his right upper limb.",
+   "agent": "indoxacarb, approximately 5 mL of a 15% solution",
+   "agent_quote": "he had injected approximately 5 mL of a 15 % indoxacarb solution intravenously",
+   "route": "intravenous injection",
+   "circumstance": "intentional self-injection; background of untreated depression",
+   "symptoms": [
+    {
+     "finding": "confusion, cyanosis, low oxygen saturation (SpO2 86%), GCS 10",
+     "quote": "The patient was confused and had cyanosis, with Glasgow Coma Scale score of 10 ... He also had SpO2 level of 86 %"
+    },
+    {
+     "finding": "right-sided chest pain, mild hemoptysis, mild dyspnea after regaining consciousness",
+     "quote": "After being conscious, the patient reported right-sided chest pain and mild hemoptysis, along with mild dyspnea."
+    },
+    {
+     "finding": "chocolate-brown blood on sampling",
+     "quote": "Due to the observation of chocolate-brown blood during sampling and the presence of cyanosis, methemoglobinemia was suspected."
+    }
+   ],
+   "time_to_care": "UNVERIFIED",
+   "labs": [
+    {
+     "name": "methemoglobin (co-oximetry)",
+     "value": "40.8%, decreased to 2% within six hours of treatment",
+     "quote": "Co-oximetry revealed a methemoglobin level of 40.8 % ... methylene blue ... was administered to reduce methemoglobin levels, which decreased to 2 % within six hours"
+    },
+    {
+     "name": "WBC",
+     "value": "23.1 million/mm³ (leukocytosis)",
+     "quote": "Elevated WBC levels, as observed with a count of 23.1 million/mm³ compared to the normal range, indicate a significant leukocytosis."
+    },
+    {
+     "name": "electrolytes",
+     "value": "hypokalemia and hyponatremia",
+     "quote": "Liver function tests were normal, and the patient had hypokalemia and hyponatremia on admission."
+    },
+    {
+     "name": "coagulation tests",
+     "value": "elevated PT and PTT, normalized with supportive care without vitamin K",
+     "quote": "Concerning the patient’s abnormal coagulation test, supportive care and hydration were administered, without needing vitamin K or specific medications."
+    },
+    {
+     "name": "LDH",
+     "value": "slightly elevated, normal after 24 hr",
+     "quote": "Lactic Dehydrogenase (LDH) was slightly elevated and was in the normal range after 24 hr."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "supplemental oxygen via face mask 4–6 L/min",
+     "quote": "Supplemental oxygen therapy with a face mask at a flow rate of 4–6 liters per minute was administered"
+    },
+    {
+     "name": "IV normal saline (1 L on admission, then 3 L over next 24 h)",
+     "quote": "The patient was administered 1 liter of normal saline upon admission followed by 3 L in the next 24 h."
+    },
+    {
+     "name": "methylene blue 2 mg/kg IV loading dose, then 1 mg/kg after one hour",
+     "quote": "prompting the administration of methylene blue at a loading dose of 2 mg/kg IV, followed by an additional dose of 1 mg/kg one hour later."
+    }
+   ],
+   "icu_admission": "yes (2 days)",
+   "outcome": "survived; symptoms resolved by day 2, SpO2 96% on room air, transferred to toxicology ward, GCS 15/15",
+   "outcome_quote": "After 2 days of ICU stay, the patient was stable, and vital signs and lab data were within normal limits.",
+   "sequelae": "none reported",
+   "notes": "Psychiatry consultation requested for depression; first reported case of intravenous indoxacarb poisoning."
+  }
+ ]
+}

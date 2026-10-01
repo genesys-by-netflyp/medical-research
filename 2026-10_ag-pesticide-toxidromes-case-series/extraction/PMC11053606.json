@@ -1,0 +1,120 @@
+{
+  "pmcid": "PMC11053606",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11053606_case1",
+      "age": "almost-40-year-old",
+      "sex": "male",
+      "exposure_context": "occupational/agricultural",
+      "exposure_context_quote": "The cause of the phosphine poisoning was the fumigation of stored grain in an agricultural building adjacent to the building that served as a hostel. It was found that both buildings were connected by an underground corridor or a pipe through which the released poison gas penetrated.",
+      "agent": "aluminum phosphide (Gastoxin tablets) releasing phosphine gas",
+      "agent_quote": "According to subsequent information from the representative of the Police of the Czech Republic, Gastoxin tablets containing ALP, releasing the toxic gaseous phosphine, which to some extent mimics the symptoms of carbon monoxide poisoning (with a considerable ability to bind to hemoglobin), were found in an adjacent building.",
+      "route": "inhalation",
+      "circumstance": "accidental occupational exposure: fumigation of stored grain in an agricultural building adjacent to the hostel where the patient was temporarily housed; phosphine gas penetrated via an underground corridor/pipe; initially misdiagnosed as carbon monoxide poisoning",
+      "symptoms": [
+        {
+          "finding": "unconsciousness (found unconscious; regained consciousness during transport)",
+          "quote": "Two male subjects were found unconscious in one of the rooms."
+        },
+        {
+          "finding": "somnolence and bradypsychia, GCS 10-12",
+          "quote": "During admission to the hospital, the patient was somnolent, bradypsychic, and scored on the Glasgow Coma Scale (GCS) at 10–12."
+        }
+      ],
+      "time_to_care": "immediate (emergency medical crew to nearest hospital; oxygen 15 L/min en route)",
+      "labs": [
+        {
+          "name": "lactate",
+          "value": "9.34 mmol/L",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "ABG pH",
+          "value": "7.27",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "pCO2",
+          "value": "3.2 kPa",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "pO2",
+          "value": "16.7 kPa",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "base deficit",
+          "value": "13.8 mmol/L",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "serum osmolality",
+          "value": "320 mmol/L",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "glycaemia",
+          "value": "8.7 mmol/L",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "troponin I",
+          "value": "within normal range (rise on day 2 without clinical correlate)",
+          "quote": "Laboratory values at admission were as follows: ... troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "myoglobin",
+          "value": "213 ug/L",
+          "quote": "Laboratory values at admission were as follows: lactate level 9.34 mmol/L, arterial blood gas analysis (ABG)-ph 7.27, pC02 3.2 kPa, p02 16.7 kPa, base deficit 13.8 mmol/L, serum osmolality 320 mmol/L, glycaemia 8.7 mmol/L, troponin I within normal range, and myoglobin level 213 ug/L."
+        },
+        {
+          "name": "carbonylhaemoglobin (COHb)",
+          "value": "0.5 (arbitrary unit; erroneously interpreted as 50%)",
+          "quote": "Carbonylhaemoglobin (COHb) level 0.5 (which was erroneously interpreted as 50%—see discussion) was reported by a laboratory technician on a call from the laboratory department."
+        },
+        {
+          "name": "phosphine in blood (forensic re-analysis)",
+          "value": "positive",
+          "quote": "For forensic purposes, the blood and urine of the survivor were re-analyzed and phosphine was found in the blood."
+        },
+        {
+          "name": "AST",
+          "value": "1.54 µcat/L (increased)",
+          "quote": "an increase in liver transaminases (aspartate transaminase, AST 1.54 µcat/L)"
+        }
+      ],
+      "treatment": [
+        {
+          "name": "normobaric oxygen therapy 15 L/min",
+          "quote": "The medications used were as follows: normobaric oxygen therapy with a flow rate of 15 L/min"
+        },
+        {
+          "name": "hydrocortisone 100 mg IV",
+          "quote": "hydrocortisone 100 mg, and 1500 mL of balanced crystalloids (Plasmalyte, Baxter Czech Ltd., Prague, Czech Republic) were administered intravenously."
+        },
+        {
+          "name": "balanced crystalloids (Plasmalyte) 1500 mL IV",
+          "quote": "hydrocortisone 100 mg, and 1500 mL of balanced crystalloids (Plasmalyte, Baxter Czech Ltd., Prague, Czech Republic) were administered intravenously."
+        },
+        {
+          "name": "hyperbaric oxygen therapy (HBOT) 2.5 ATA, 90 min isopression, single session",
+          "quote": "HBOT therapy 2.5 ATA (250 kPa) was performed, 90 min of isopression, compression, and decompression at a rate of 6–8 kPa/min was administered."
+        },
+        {
+          "name": "ondansetron 8 mg IV (for nausea)",
+          "quote": "The patient became nauseous and was injected intravenously with 8 mg of ondansetron."
+        }
+      ],
+      "icu_admission": "yes (admitted to ICU of local hospital; supportive ventilation not required)",
+      "outcome": "survived; discharged from hospital in a stable condition 4 days after admission with excellent final clinical outcome",
+      "outcome_quote": "The patient was discharged from the hospital in a stable condition 4 days after admission.",
+      "sequelae": "none reported; discharge in stable condition",
+      "notes": "One of two men found unconscious; the second man died of phosphine intoxication. Initial misdiagnosis as carbon monoxide poisoning (detector interference + COHb unit confusion). Patient without valid work permits/health insurance, from Eastern Europe. ECG: ST elevation V2-V4 (up to 2 mm in V2 on day 2); echocardiography EF 50%. No intubation required."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC13367297",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "en",
+  "cases": [
+    {
+      "case_id": "PMC13367297-c1",
+      "age": "22",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 22-year-old man with no significant past medical history, weighing 65 kg, was brought to the emergency department approximately three hours after intentional ingestion of a full 100 mL commercial container of 5% emamectin benzoate emulsifiable concentrate (EC) pesticide formulation.",
+      "agent": "emamectin benzoate 5% emulsifiable concentrate",
+      "agent_quote": "intentional ingestion of a full 100 mL commercial container of 5% emamectin benzoate emulsifiable concentrate (EC) pesticide formulation",
+      "route": "oral ingestion",
+      "circumstance": "intentional ingestion of full 100 mL commercial container",
+      "symptoms": [
+        {"finding": "coma (GCS 6/15), bilaterally dilated reactive pupils, hypotonia, absent deep tendon reflexes", "quote": "On arrival, he was unconscious, with a Glasgow Coma Scale (GCS) score of 6/15 (E1V1M4), bilaterally dilated but reactive pupils, generalized hypotonia, and absent deep tendon reflexes."},
+        {"finding": "refractory shock despite fluids and norepinephrine", "quote": "the patient continued to exhibit refractory, vasopressor-dependent shock, with blood pressure remaining approximately 80/50 mmHg"},
+        {"finding": "respiratory failure requiring mechanical ventilation", "quote": "The patient underwent immediate endotracheal intubation and was placed on mechanical ventilation using synchronized intermittent mandatory ventilation with volume control (SIMV-VC) mode"},
+        {"finding": "severe mixed respiratory-metabolic acidosis, hypokalemia, hypocalcemia, elevated lactate", "quote": "Initial investigations revealed leukocytosis, hypoxemia, severe mixed respiratory-metabolic acidosis, hypokalemia, mild hypocalcemia, and an elevated serum lactate level of 4 mmol/L"}
+      ],
+      "time_to_care": "approximately three hours after ingestion",
+      "labs": [
+        {"name": "serum lactate", "value": "4 mmol/L", "quote": "an elevated serum lactate level of 4 mmol/L, while renal and hepatic functions remained preserved (Table 1)"},
+        {"name": "CVP", "value": "3 cmH2O", "quote": "revealing a low central venous pressure (CVP) of 3 cmH2O, suggestive of significant intravascular volume depletion"}
+      ],
+      "treatment": [
+        {"name": "intubation and mechanical ventilation (SIMV-VC)", "quote": "The patient underwent immediate endotracheal intubation and was placed on mechanical ventilation using synchronized intermittent mandatory ventilation with volume control (SIMV-VC) mode"},
+        {"name": "gastric lavage and activated charcoal", "quote": "gastric lavage and activated charcoal were administered despite presentation beyond the conventional decontamination window"},
+        {"name": "norepinephrine titrated to 0.8 mcg/kg/min", "quote": "The dose was escalated to a peak of 0.8 mcg/kg/min, yet the patient continued to exhibit refractory, vasopressor-dependent shock"},
+        {"name": "rescue intravenous lipid emulsion (Celepid 10%, initial bolus 3 mL/kg = 195 mL, then 0.5 mL/kg/min for 30 min; second bolus at 14 h)", "quote": "rescue therapy with ILE was initiated nine hours after ingestion (five hours after ICU admission)"}
+      ],
+      "icu_admission": "yes",
+      "outcome": "hemodynamic recovery after first ILE dose, neurological improvement after second dose; survived",
+      "outcome_quote": "Hemodynamic recovery followed the first dose, and neurological improvement was observed after the second dose.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Extraction done directly from source text PMC13367297.txt by primary agent after filename-rotation incident destroyed the original JSON; quotes copy-pasted verbatim from the converted source text. Toxicological confirmation unavailable per authors (diagnosis clinical). Setting: Yemen (resource-limited)."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+== ARTICLE TITLE ==
+Reversible Atrial Fibrillation and Cardiogenic Shock Following Acute Aluminum Phosphide Poisoning: A Case Report and Literature Review
+
+== ABSTRACT ==
+Background:Aluminum phosphide (ALP) is a highly toxic pesticide widely used as a grain fumigant, especially in low- and middle-income countries. Ingestion of ALP releases phosphine gas, causing cellular oxidative damage and profound mitochondrial dysfunction. The cardiovascular system is particularly affected, typically resulting in refractory hypotension and dysrhythmias. There is no specific antidote, so management is entirely supportive. We report a case of intentional ALP ingestion leading to new-onset atrial fibrillation with rapid ventricular response and mild left ventricular dysfunction.Case Presentation:A 32-year-old Black African man presented 4 hours after ingesting 4 ALP tablets. He developed hypotension, tachycardia, and metabolic acidosis. Six hours into intensive care unit (ICU) care, he acutely developed atrial fibrillation with rapid ventricular response (heart rate ~140/minute) and persistent hypotension. Laboratory troponin remained normal, but echocardiography showed mild global left ventricular systolic dysfunction.Management and Outcome:The patient received aggressive supportive care, including intravenous fluids, vasopressors, corticosteroids, and repeated magnesium sulfate and electrolyte repletion. Amiodarone infusion was used for rate control (to avoid negative inotropic effects). No invasive therapies were needed. The atrial fibrillation reverted to sinus rhythm within 18 hours. Hemodynamics normalized over 24 to 48 hours, and the patient fully recovered without neurologic sequelae. On follow-up, cardiac function and electrocardiogram (ECG) were normal.Conclusion:This case highlights that surviving ALP-induced cardiotoxicity is possible with prompt aggressive supportive therapy. Key learning points include recognition of ALP ingestion in shock, vigilance for life-threatening arrhythmias, and tailored management (eg, use of amiodarone and careful fluid and pressor support). The patient’s full recovery underscores that even severe ALP cardiotoxicity can be reversible with appropriate care.
+
+== Background: ==
+
+Aluminum phosphide (ALP) is a highly toxic pesticide widely used as a grain fumigant, especially in low- and middle-income countries. Ingestion of ALP releases phosphine gas, causing cellular oxidative damage and profound mitochondrial dysfunction. The cardiovascular system is particularly affected, typically resulting in refractory hypotension and dysrhythmias. There is no specific antidote, so management is entirely supportive. We report a case of intentional ALP ingestion leading to new-onset atrial fibrillation with rapid ventricular response and mild left ventricular dysfunction.
+
+== Case Presentation: ==
+
+A 32-year-old Black African man presented 4 hours after ingesting 4 ALP tablets. He developed hypotension, tachycardia, and metabolic acidosis. Six hours into intensive care unit (ICU) care, he acutely developed atrial fibrillation with rapid ventricular response (heart rate ~140/minute) and persistent hypotension. Laboratory troponin remained normal, but echocardiography showed mild global left ventricular systolic dysfunction.
+
+== Management and Outcome: ==
+
+The patient received aggressive supportive care, including intravenous fluids, vasopressors, corticosteroids, and repeated magnesium sulfate and electrolyte repletion. Amiodarone infusion was used for rate control (to avoid negative inotropic effects). No invasive therapies were needed. The atrial fibrillation reverted to sinus rhythm within 18 hours. Hemodynamics normalized over 24 to 48 hours, and the patient fully recovered without neurologic sequelae. On follow-up, cardiac function and electrocardiogram (ECG) were normal.
+
+== Conclusion: ==
+
+This case highlights that surviving ALP-induced cardiotoxicity is possible with prompt aggressive supportive therapy. Key learning points include recognition of ALP ingestion in shock, vigilance for life-threatening arrhythmias, and tailored management (eg, use of amiodarone and careful fluid and pressor support). The patient’s full recovery underscores that even severe ALP cardiotoxicity can be reversible with appropriate care.
+
+== Introduction ==
+
+Aluminum phosphide (ALP) is a highly lethal pesticide, rat poison, and fumigant widely used for grain preservation.
+1
+ It remains inexpensive and readily available in many agricultural regions of South Asia, Africa, and the Middle East.1,2 ALP ingestion is a common means of intentional self-harm in these settings, accounting for thousands of poisonings per year.2,3 In India alone, an estimated 15 000 ALP poisoning cases occur annually, with mortality rates around 60% to 67%.
+2
+ A lethal dose of an unexposed tablet is only 150 to 500 mg in adults.
+4
+
+
+Upon ingestion, ALP reacts with moisture or gastric acid to release phosphine (PH3) gas. Phosphine rapidly inhibits mitochondrial cytochrome c oxidase, halting oxidative phosphorylation, and triggering a massive shift to anaerobic metabolism.5,6 The resulting free radical injury affects multiple organs, but the cardiovascular system is especially vulnerable. Phosphine-induced myocardial toxicity leads to membrane dysfunction, reduced contractility, and dysrhythmias.
+7
+ In practice, the dominant clinical features include severe hypotension due to cardiogenic shock, tachyarrhythmias or bradyarrhythmias, and metabolic acidosis.
+2
+ Cardiac findings often include ST-T wave changes, bundle branch blocks, and sinus tachycardia or ventricular arrhythmias.7,8 Mortality is usually highest in the first 24 to 48 hours, driven by cardiovascular collapse.4,9
+
+Diagnosis of ALP poisoning is clinical, relying on history (often with garlic-like odor on breath) and rapid onset of shock. Specialized tests also exist (eg, silver nitrate test on breath or gastric contents),
+4
+ but treatment should not be delayed. There is no antidote for phosphine. Initial management centers on decontamination if early (gastric lavage with potassium permanganate or activated charcoal) and aggressive supportive care.
+10
+ Standard therapy includes airway management and high-flow oxygen, vigorous IV fluids, and broad hemodynamic support.4,10 Vasopressors (dopamine, norepinephrine) are used to maintain perfusion, and high-dose magnesium sulfate is often administered as magnesium may stabilize cardiomyocyte membranes and combat free radicals.1,4 Other measures reported in the literature include antioxidants (N-acetylcysteine, vitamins C/E) and glucocorticoids, although evidence is limited.11,12 Mechanical cardiopulmonary support (intra-aortic balloon pump or ECMO) has been considered in refractory cardiogenic shock.
+11
+ Despite these efforts, mortality remains high (conservative estimates range 30%-80% overall).2-4 Survivors typically require several days of intensive care, and any cardiac dysfunction usually improves over days to weeks. ECG abnormalities often normalize within a few weeks if the patient survives the acute phase.
+1
+
+
+We report a case of severe ALP poisoning complicated by atrial fibrillation and cardiogenic shock, which resulted in full recovery with aggressive supportive care. This case underscores the potential reversibility of ALP-induced cardiotoxicity and provides an opportunity to discuss the critical management decisions that can influence outcomes.
+
+== Case Presentation ==
+
+A 32‑year‑old Black African man intentionally ingested 4 aluminum phosphide tablets acquired locally and presented to our regional hospital 4 hours later. He reported the ingestion was a suicide attempt related to severe financial stress. One hour after ingestion, he first attended a nearby clinic with generalized weakness and 2 episodes of non‑bloody vomiting; no gastric lavage was performed there. The clinic staff administered 1 L of normal saline and arranged transfer when symptoms persisted.
+
+On arrival at the emergency department, the patient was drowsy but arousable, complaining of dizziness and nausea. He had no history of psychiatric illness, substance misuse, or chronic medical conditions. Initial vital signs were: blood pressure 78/48 mmHg, radial pulse 120 beats/minute (feeble), respiratory rate 26 breaths/minute, SpO2 96% on room air, and temperature 35.6 °C. He appeared pale, diaphoretic, and cool peripherally. Cardiorespiratory and abdominal examinations were unremarkable. Neurologically, he was intermittently disoriented to time but followed simple commands, Glasgow Coma Scale (GCS 14/15); pupils were equal and reactive.
+
+Baseline laboratory tests, including complete blood count, C‑reactive protein, random glucose, serum electrolytes, renal, and liver function tests, were within institutional reference ranges. Arterial blood gas (pH, HCO3−) and serum lactate were not available at our center (Table 1). A baseline cardiac troponin was within the normal range. Portable chest radiography showed no acute cardiopulmonary pathology, and the initial 12‑lead ECG demonstrated sinus tachycardia.
+
+He was admitted to the ICU for close monitoring and supportive care for ALP toxicity, including IV hydrocortisone, calcium gluconate, repeated magnesium sulfate, fluid resuscitation, and vasoactive support for refractory hypotension. Six hours after ICU admission, he developed sudden worsening palpitations, agitation, and persistent hypotension. A repeat 12‑lead ECG demonstrated new atrial fibrillation with rapid ventricular response (heart rate 130-150 beats/minute; Figure 1). Repeat cardiac troponin remained within the normal range. Bedside transthoracic echocardiography demonstrated mild global left ventricular systolic dysfunction (estimated left ventricular ejection fraction [LVEF] ~45%-50%) without regional wall motion abnormalities and no pericardial effusion.
+
+Management focused on hemodynamic stabilization and arrhythmia control while treating the underlying toxic insult. The patient received supportive care, including intravenous (IV) isotonic crystalloid boluses (0.9% saline, 500-1000 mL/bolus, ≈10-20 mL/kg) for initial resuscitation. Vasoactive support with dopamine was started at 5 µg/kg/minute and was titrated to a maximum of 10 µg/kg/minute for persistent hypotension. Because of ongoing hypotension and the risk of worsening shock with beta‑blockers or nondihydropyridine calcium‑channel blockers, IV amiodarone was used for rate and rhythm control. Intravenous amiodarone was administered as a 150 mg IV bolus over 10 minutes, followed by a continuous infusion at 1 mg/minute for 6 hours and then 0.5 mg/minute for the subsequent 18 hours; the infusion was stopped after conversion to sinus rhythm. Magnesium sulfate (2 g IV slow bolus) was given for membrane stabilization/electrolyte correction. Stress-dose corticosteroids (hydrocortisone 50 mg IV every 6 hours; total 200 mg/day) were administered for refractory shock. Continuous telemetry and frequent ECGs were used to monitor response. Synchronized electrical cardioversion was reserved for refractory hemodynamic collapse. Therapeutic anticoagulation was deferred initially because the AF was new and potentially reversible; reassessment was planned if AF persisted beyond 48 hours.
+
+Over the next 12 to 24 hours, the patient’s ventricular rate slowed into the 70s to 90s, and sinus rhythm was restored at ~18 hours after the onset of AF. Vasopressor requirements declined, and dopamine was stopped on ICU day 2 as blood pressure stabilized. The patient’s mental status returned to baseline, and he remained in the ICU for 72 hours for monitoring. He was transferred to the ward for psychiatric assessment and discharged after 5 days with cardiology and psychiatry follow‑up. At 2‑week and 1‑month reviews, he remained asymptomatic with normal ECG, echocardiography, and troponin measurements.
+
+== Discussion ==
+
+This case documents reversible atrial fibrillation (AF) and cardiogenic shock following acute aluminum phosphide (ALP) poisoning and highlights practical considerations for cardiac monitoring and supportive management in this setting. Mechanistically, ALP liberates phosphine gas when it contacts gastric acid. Phosphine causes rapid mitochondrial dysfunction and inhibition of oxidative phosphorylation, producing cellular energy failure, oxidative stress, and direct myocardial depression.5,6
+
+Cardiovascular collapse is the hallmark of severe ALP poisoning. In fatal cases, cardiogenic shock and malignant dysrhythmias are the proximate cause of death.
+2
+ Published reports show that arrhythmias occur in most critically ill ALP patients. Around 80% ALP-poisoned cohort developed arrhythmias, with atrial fibrillation (AF) being the most common (31%), followed by ventricular fibrillation (20%) and ventricular tachycardia (17%).
+13
+ In survivors, cardiac injury is often transient. ECG changes and contractile dysfunction from phosphine toxicity typically reverse over days. In 1 analysis, ECG abnormalities were noted to normalize within 10 to 25 days in survivors.1,13 Our patient’s transient AF and mild left ventricular (LV) dysfunction illustrate this reversible cardiomyopathy; serial troponin assays remained normal, and function recovered as perfusion improved.
+
+Diagnosing ALP cardiotoxicity can be challenging. Early presentations of ALP poisoning are nonspecific (nausea, vomiting, dizziness), making it easy to miss without a history of ingestion, so clinicians should have a high index of suspicion. A key distinguishing clue is a pungent garlic-like odor on the breath or vomitus.
+4
+ When refractory hypotension and metabolic acidosis appear rapidly in an agricultural context, one must suspect phosphide poisoning.
+2
+ Laboratory tests are nonspecific; a quick qualitative silver nitrate test on breath or gastric fluid can detect phosphine,
+10
+ but clinical judgment is primary. Notably, cardiac biomarkers may be normal despite significant dysfunction,
+7
+ so normal troponin, as in our case, does not exclude myocardial injury.
+
+Management of ALP cardiotoxicity remains purely supportive. There is no antidote, so prompt aggressive resuscitation is critical.10,14 In our patient, treatment focused on hemodynamic stabilization and arrhythmia control. Standard measures, IV fluids, vasopressors (we used dopamine), electrolyte repletion, and correction of acidosis were instituted immediately. Magnesium sulfate was given because of its myocardial membrane-stabilizing and antioxidant effects.
+4
+ Intravenous hydrocortisone was also administered, as some centers include steroids to support blood pressure in toxin-induced shock (though evidence is anecdotal).
+11
+ Importantly, we avoided beta-blockers and nondihydropyridine calcium blockers because they can exacerbate cardiogenic shock.15,16 Our choice of IV amiodarone for AF rate control was guided by its minimal negative inotropy
+17
+; the patient’s ventricular rate gradually slowed without worsening hypotension. If refractory AF had compromised perfusion, we were prepared to perform synchronized cardioversion, but it was not needed.15,17
+
+Novel therapies for severe ALP poisoning have been reported in recent trials. A large RCT found that high-dose insulin-euglycemia (IET) therapy dramatically improved survival (mortality 64.8% with insulin vs 96.3% with standard care; P < .001).
+18
+ Insulin infusion also raised blood pressure, reduced vasopressor needs, and improved metabolic parameters in that study.
+18
+ N-acetylcysteine (NAC) has been evaluated as an antioxidant adjunct. In a recent trial, NAC infusion significantly reduced oxidative stress markers and modestly improved blood pressure and shock duration, though it did not lower overall mortality.12,19 Other adjuncts (vitamins, glutathione, lipid emulsion) have been explored but lack definitive evidence.20-22 Advanced support, such as extracorporeal membrane oxygenation (ECMO) or an intra-aortic balloon pump, has rescued some refractory cases in specialized centers,23,24 but availability is limited in most regions. Overall, aggressive conventional care remains the mainstay, supplemented by these emerging modalities in select patients. While all these measures have shown promise, they were not used in our patient, mainly due to a lack of availability in our setting.
+
+The prognosis of ALP cardiotoxicity is guarded. Published data indicate mortality rates of 30% to 100% depending on dose and clinical severity.3,4,9 Adult patients ingesting ⩾500 mg typically have mortality on the order of 70% to 100%.
+4
+ Factors predicting death include profound acidosis, renal failure, low pH, and shock requiring inotropes.
+25
+ Our patient had several poor prognostic features (severe shock, acidosis, arrhythmia), yet survived with full recovery. This outcome likely reflects the favorable trend that early aggressive support can reverse even severe ALP toxicity.3,4,8 Follow-up at 2 and 4 weeks showed complete normalization of ECG and echocardiogram, consistent with other reports that myocardial depression from phosphide is reversible if the patient survives the acute phase.
+
+In summary, ALP poisoning requires a high index of suspicion in the right setting. Cardiotoxicity is common and usually fatal without intensive care. This case demonstrates that prompt supportive care and judicious arrhythmia management can yield survival even after life-threatening ALP-induced AF and shock. Clinicians in endemic areas should recognize ALP’s cardiac manifestations and apply aggressive resuscitation strategies, potentially including novel therapies (insulin, NAC) as adjuncts, to improve outcomes (Supplemental Material).
+
+== Limitations ==
+
+This report has several limitations that should be considered. As a single-case description, the findings have limited generalizability and cannot establish causation or predict the frequency of similar presentations. Relevant archival data were incomplete: the original admission and discharge ECG tracings were not retrievable from the hospital record, and arterial blood gas and lactate measurements were not available at our center, which constrains physiological quantification of the initial metabolic disturbance. We also report only the short-term recovery observed during the hospital admission and therefore cannot comment on longer-term cardiac outcomes. Finally, while standard clinical biomarkers and echocardiography were used where available, more advanced or serial laboratory and imaging data would have strengthened the pathophysiological correlations.
+
+== Conclusion ==
+
+Aluminum phosphide poisoning can cause life-threatening cardiac complications, including atrial fibrillation and cardiogenic shock, which may be reversible with prompt recognition and appropriate supportive care. This case highlights the importance of early cardiac monitoring, rapid hemodynamic support, and targeted anti-arrhythmic therapy when indicated. Reporting such cases raises awareness of reversible cardiac manifestations in acute poisoning and may help guide monitoring and management in similar settings.
+
+== Supplemental Material ==

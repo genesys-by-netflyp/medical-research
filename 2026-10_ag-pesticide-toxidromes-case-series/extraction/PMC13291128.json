@@ -1,0 +1,62 @@
+{
+ "pmcid": "PMC13291128",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "en",
+ "cases": [
+  {
+   "case_id": "PMC13291128-c1",
+   "age": "53",
+   "sex": "male",
+   "exposure_context": "occupational/agricultural",
+   "exposure_context_quote": "A 53-year-old male, who was previously in good health, experienced dizziness, nausea and fatigue after fumigating the soil with chloropicrin while growing ginger.",
+   "agent": "chloropicrin (trichloronitromethane) soil fumigant",
+   "agent_quote": "experienced dizziness, nausea and fatigue after fumigating the soil with chloropicrin while growing ginger",
+   "route": "inhalation (soil fumigation exposure)",
+   "circumstance": "occupational soil fumigation while growing ginger; developed dizziness, nausea, fatigue, then dyspnoea at 2 days and consciousness disorder at 3 days",
+   "symptoms": [
+    {
+     "finding": "impaired consciousness / toxic encephalopathy (delirium, RASS 3-4)",
+     "quote": "At admission, the patient was hemodynamically stable but exhibited extreme agitation and delirium (Richmond Agitation-Sedation Scale, RASS score 3–4), rendering standard Glasgow Coma Scale (GCS) assessment unfeasible. Neurological"
+    },
+    {
+     "finding": "mild ARDS signs",
+     "quote": "the patient only exhibited mild signs of acute respiratory distress syndrome (ARDS), which cannot explain his state of mental disorder"
+    },
+    {
+     "finding": "initial dizziness, nausea, fatigue; dyspnoea without fever at day 2",
+     "quote": "Two days later, he felt short of breath without fever. Three days later, he gradually developed consciousness disorders, presenting with unclear speech, irritability and shouting."
+    }
+   ],
+   "time_to_care": "consciousness disorder developed 3 days after exposure; admitted via local hospital then tertiary ED",
+   "labs": [
+    {
+     "name": "CSF pressure",
+     "value": "170 cmH2O",
+     "quote": "The cerebrospinal fluid pressure was 170cmH2O."
+    },
+    {
+     "name": "blood chloropicrin (mass spectrometry)",
+     "value": "negative",
+     "quote": "The concentration of chloropicrin in the blood was detected by mass spectrometry, and the result was negative."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "invasive mechanical ventilation with sedation (midazolam, ciprofol)",
+     "quote": "invasive mechanical ventilation was initiated. Midazolam was used for sedation during mechanical ventilation, combined with ciprofol for the first 5 days"
+    },
+    {
+     "name": "antioxidants and hyperbaric oxygen therapy",
+     "quote": "Supportive treatment and the application of antioxidants and hyperbaric oxygen therapy were given to the patient."
+    }
+   ],
+   "icu_admission": "UNVERIFIED (mechanically ventilated; ICU not explicitly named)",
+   "outcome": "consciousness improved after 3 weeks; discharged home",
+   "outcome_quote": "After 3 weeks, his consciousness improved, and he was discharged to home.",
+   "sequelae": "UNVERIFIED",
+   "notes": "Extraction done directly from source text PMC13291128.txt by primary agent after filename-rotation incident; quotes copy-pasted verbatim from converted source text. EEG (increased slow waves) supported diagnosis; MRI generally normal. Diagnosis was clinical - blood chloropicrin assay negative (known instability of the compound)."
+  }
+ ]
+}

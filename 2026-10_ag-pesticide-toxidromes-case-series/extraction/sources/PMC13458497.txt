@@ -1,0 +1,142 @@
+== ARTICLE TITLE ==
+Urine Dithionite-guided Hemoperfusion in Acute Paraquat Poisoning: A Retrospective Observational Study from South India
+
+== ABSTRACT ==
+AbstractAims and backgroundParaquat (PQ) poisoning has a mortality rate of 50–90% with no specific antidote. Hemoperfusion (HP) is used for PQ removal, but evidence for its efficacy is limited, and optimal strategies for guiding HP remain poorly defined. The study aims to describe a urine sodium dithionite test (UDT)-guided HP protocol and evaluate clinical outcomes in patients with acute PQ poisoning.Patients and methodsA retrospective observational study of 27 consecutive patients with acute PQ poisoning admitted to a tertiary intensive care unit (ICU) in South India was conducted. Serial UDT was used to guide HP initiation, continuation, and cessation. Clinical data, treatment details, and outcomes were analyzed. Survivors and non-survivors were compared.ResultsMean age was 30.5 ± 11.2 years (74.1% male). Fourteen patients (51.9%) survived. Ingestion-to-door (I-to-D) time ≤4 h was present in 71.4% of survivors vs 20% of non-survivors. Urine sodium dithionite test negative conversion within 10 h occurred in 77.8% of survivors vs 16.7% of non-survivors. Survivors received more HP sessions (mean: 3.3 vs 2.6). Acute kidney injury (AKI) occurred in 80% of non-survivors vs 14.3% of survivors.ConclusionEarly presentation combined with a UDT-guided HP protocol was associated with favorable outcomes. Serial UDT provides a practical, low-cost tool for guiding extracorporeal treatment (ECTR) in resource-limited settings.Clinical significanceThe UDT-guided HP protocol offers intensivists a bedside decision-making tool that replaces costly plasma PQ assays, enabling evidence-based ECTR decisions in Indian ICU settings where quantitative assays are unavailable.Keywords: Acute kidney injury, Critical care, Dithionite test, Extracorporeal treatment, Hemoperfusion, Herbicide poisoning, Paraquat, Poisoning
+
+== Aims and background ==
+
+Paraquat (PQ) poisoning has a mortality rate of 50–90% with no specific antidote. Hemoperfusion (HP) is used for PQ removal, but evidence for its efficacy is limited, and optimal strategies for guiding HP remain poorly defined. The study aims to describe a urine sodium dithionite test (UDT)-guided HP protocol and evaluate clinical outcomes in patients with acute PQ poisoning.
+
+== Patients and methods ==
+
+A retrospective observational study of 27 consecutive patients with acute PQ poisoning admitted to a tertiary intensive care unit (ICU) in South India was conducted. Serial UDT was used to guide HP initiation, continuation, and cessation. Clinical data, treatment details, and outcomes were analyzed. Survivors and non-survivors were compared.
+
+== Results ==
+
+Mean age was 30.5 ± 11.2 years (74.1% male). Fourteen patients (51.9%) survived. Ingestion-to-door (I-to-D) time ≤4 h was present in 71.4% of survivors vs 20% of non-survivors. Urine sodium dithionite test negative conversion within 10 h occurred in 77.8% of survivors vs 16.7% of non-survivors. Survivors received more HP sessions (mean: 3.3 vs 2.6). Acute kidney injury (AKI) occurred in 80% of non-survivors vs 14.3% of survivors.
+
+== Conclusion ==
+
+Early presentation combined with a UDT-guided HP protocol was associated with favorable outcomes. Serial UDT provides a practical, low-cost tool for guiding extracorporeal treatment (ECTR) in resource-limited settings.
+
+== Clinical significance ==
+
+The UDT-guided HP protocol offers intensivists a bedside decision-making tool that replaces costly plasma PQ assays, enabling evidence-based ECTR decisions in Indian ICU settings where quantitative assays are unavailable.
+
+Keywords: Acute kidney injury, Critical care, Dithionite test, Extracorporeal treatment, Hemoperfusion, Herbicide poisoning, Paraquat, Poisoning
+
+Received 2026 Feb 19; Accepted 2026 Jun 27; Issue date 2026 Jul.
+
+== Highlights ==
+
+A urine dithionite-guided hemoperfusion (HP) protocol enabled bedside decision-making in acute paraquat (PQ) poisoning without requiring plasma PQ assays. Early initiation of extracorporeal therapy was associated with better survival. Renal dysfunction, especially elevated creatinine, strongly correlated with mortality.
+
+== Introduction ==
+
+Paraquat (1,1’-dimethyl-4,4’-bipyridinium dichloride) is a non-selective contact herbicide widely used in agriculture, particularly in low- and middle-income countries (LMICs) across Asia.1,2 Despite its effectiveness as an agricultural agent, PQ is extremely toxic upon ingestion, with a lethal dose as low as 20–40 mg/kg body weight.3 Paraquat poisoning remains a major public health concern in India, where it continues to be available despite regulatory efforts.4
+
+Paraquat toxicity is mediated through redox cycling that generates reactive oxygen species, causing lipid peroxidation, mitochondrial dysfunction, and progressive cellular destruction.5 The lung is the principal target organ, concentrating PQ via polyamine uptake pathways to tissue levels 6–10 times plasma concentrations, leading to progressive pulmonary fibrosis.6 Multi-organ dysfunction involving the kidneys, liver, and heart is a common terminal event.7
+
+No specific antidote exists, and mortality remains 50–90% despite decades of research.8 Management includes gastrointestinal decontamination, antioxidant therapy [N-acetylcysteine (NAC)], immunosuppressive therapy, and extracorporeal treatment (ECTR), including HP, hemodialysis (HD), and continuous renal replacement therapy (CRRT).9,10 The extracorporeal treatments in poisoning (EXTRIP) workgroup has acknowledged the extremely limited evidence for ECTR in PQ poisoning.11
+
+The urine sodium dithionite test (UDT) is a rapid, inexpensive bedside colorimetric assay that detects PQ semi-quantitatively.12 Serial testing tracks PQ clearance, and the time to negative UDT conversion is an independent risk factor for mortality.13,14 However, the systematic use of serial UDT to guide HP decisions, a “UDT-guided protocol,” has not been described. We aimed to describe this protocol and evaluate its clinical outcomes in a cohort of 27 patients with acute PQ poisoning at a tertiary intensive care unit (ICU) in South India.
+
+== Patients and Methods ==
+
+This retrospective observational study was conducted at the Department of Critical Care Medicine of a tertiary referral hospital in Vijayawada, Andhra Pradesh, South India. The hospital serves agricultural districts with a high burden of pesticide poisoning. All patients admitted with confirmed acute PQ ingestion during the study period (5th January 2021 to 5th May 2025) were included (Fig. 1). The study was conducted in accordance with the October 2024 revision of the Declaration of Helsinki.
+
+Patients with a history of PQ ingestion confirmed by positive UDT and/or container identification were included. Twenty-seven consecutive patients meeting these criteria were analyzed. No patients were excluded.
+
+Clinical data included demographics, estimated PQ quantity, ingestion-to-door (I-to-D) time, serial UDT results (at arrival, 4–6, 8–10, 24, 48, and 72 h), treatments administered, laboratory parameters (serum creatinine and bilirubin), complications, HP/HD sessions, and outcomes.
+
+The semi-quantitative UDT was performed by adding 100 mg sodium dithionite to 10 mL of alkaline urine. Results were graded: Negative (−), trace (+), moderate (++), strong (+++), and very strong (++++), based on blue–green color intensity. Serial testing was performed at defined intervals.
+
+Hemoperfusion was initiated using HA-230 charcoal adsorption cartridges when UDT was ≥++ at arrival. Subsequent sessions were guided by persistent UDT positivity at 4- to 6-h and 8- to 10-h intervals. Hemoperfusion was discontinued when UDT became negative, with improving clinical parameters. Combined HP + HD was used in selected cases with concurrent renal failure (Tables 1 to 3).
+
+All patients received gastric decontamination (stomach wash), NAC infusion, and antibiotics as indicated. Mechanical ventilation, inotropes, intralipid therapy, and urinary alkalinization were used as clinically indicated.
+
+The primary outcome was survival to hospital discharge. Secondary outcomes included acute kidney injury (AKI; serum creatinine >1.5 mg/dL), liver dysfunction (bilirubin >2.0 mg/dL), respiratory distress, multi-organ dysfunction syndrome (MODS), and hospital length of stay (LOS). Patients discharged against medical advice (DAMA) in a deteriorating state were classified as expired.
+
+== Statistical Analysis ==
+
+Descriptive statistics were used. Continuous variables are expressed as mean ± standard deviation (SD) or median (with range); categorical variables are presented as frequencies and percentages.
+
+== Results ==
+
+Twenty-seven patients with confirmed acute PQ poisoning were included (Table 1). Mean age was 30.5 ± 11.2 years (range: 17–58). Twenty (74%) were male. All ingestions were intentional following interpersonal conflicts. One patient co-ingested carbofuran. Estimated PQ quantity ranged from <10 to 200 mL, with 15 patients (55.6%) ingesting ≥100 mL. Ingestion-to-door time ranged from 1.5 to >24 h: Fourteen patients (51.9%) presented within 4 h.
+
+Urine sodium dithionite test was performed in 25 of 27 patients on arrival. Ten patients (37%) had ++++ positivity, eight (30%) had +++, six (22%) had ++, one (3.7%) was negative, and one (3.7%) had alternative testing. Patients achieving UDT-negative conversion within 6–10 h had significantly better outcomes: 77.8% of survivors vs 16.7% of non-survivors met this threshold. Persistent UDT positivity at 24–72 h was observed exclusively in patients who died.
+
+Hemoperfusion was performed in 24 patients (89%), with 1–7 sessions (median: 2). Combined HP + HD was used in five patients. Three patients did not receive HP: One due to late presentation (> 24 h), one with negative UDT, and one with fulminant deterioration. All patients received NAC.
+
+Peak serum creatinine ranged from 0.6 to 7.4 mg/dL. Ten patients (37%) developed AKI. Peak bilirubin ranged from 0.4 to 7.5 mg/dL. Leukocytosis was the most common complication (80%), followed by AKI (37%), respiratory distress (40%), liver dysfunction (26.7%), and MODS (20%).
+
+Fourteen patients (51.9%) survived, 10 (37%) died, and three patients (11.1%) were DAMA (Table 2). Survivors were younger than non-survivors (27.6 vs 34.9 years), had shorter I-to-D times (71.4% vs 20% within 4 h), received more HP sessions (3.3 vs 2.6), and had lower rates of AKI (14.3% vs 80%) and MODS (0% vs 50%). Mean hospital stay was 8.4 ± 3.2 days for survivors vs 3.2 ± 2.1 days for non-survivors.
+
+== Discussion ==
+
+This study reports 51.9% survival with a UDT-guided HP protocol in acute PQ poisoning, comparing favorably with commonly reported 50–90% mortality rates.1,8 Several important observations emerge.
+
+The strongest predictor of survival was the door-to-hemofiltration time. Among survivors, 71.4% presented within 4 h compared to 20% of non-survivors. This is consistent with PQ pharmacokinetics: During the first 1–4 h, a meaningful fraction remains intravascular and amenable to HP.6,15 Li et al. demonstrated that HP within 4 h was an independent survival predictor in 621 patients, supporting the “ECTR golden hour” concept.11,16
+
+The novel aspect of our approach is the systematic use of serial UDT to guide HP at three decision points: Initiation (UDT ≥++), continuation (persistent positivity at 4–10 h), and cessation (negative conversion). Gil et al. showed that time to negative UDT conversion is an independent mortality risk factor (cutoff: 34.5 h; sensitivity: 71.4%; specificity: 75.0%).13 Koo et al. demonstrated that a positive plasma dithionite test was associated with 100% mortality, while negative/equivocal results were associated with 68% survival.12 Pradoo et al. showed that UDT color intensity combined with testing time independently predicted mortality.17
+
+The practical advantage of this UDT-guided protocol is particularly relevant in Indian ICU settings where quantitative plasma PQ assays are rarely available. The UDT is inexpensive, requires minimal infrastructure, and can be performed at the bedside, making it an ideal point-of-care tool for both triage and treatment monitoring.
+
+The role of HP in PQ poisoning remains debated. While charcoal HP achieves extraction ratios approaching 90% in vitro, PQ's large volume of distribution (2.7 L/kg) limits intravascular removal.15,18 Yeh et al. found no significant survival benefit of HP in 213 patients.19 However, our observation that survivors received more HP sessions (3.3 vs 2.6) supports aggressive multi-session HP when initiated early. Case 14, who survived despite ingesting 100–200 mL after receiving seven HP sessions, exemplifies this potential benefit.
+
+Acute kidney injury occurred in 80% of non-survivors vs 14.3% of survivors, consistent with the kidney's critical role as the primary PQ excretory organ.20 Multi-organ dysfunction system (MODS), observed exclusively in non-survivors (50%), is well-established as a terminal event.7 These findings underscore the importance of early renal function monitoring in PQ poisoning.
+
+Recent Indian studies have reported similar findings. A 2025 South Indian series of 15 PQ survivors reported comparable demographics and treatment approaches.21 A 2024 study from Northeast India highlighted the predominantly suicidal nature of PQ ingestion in agricultural communities.22 In a hospital series evaluating early charcoal HP, consistent findings were oberved.23 Several recent reports in this journal reinforce these observations. Neeraj et al., in a large retrospective cohort from a quaternary-care center in South India, described the clinical profile, predictors, and frontline outcomes of PQ poisoning, underscoring the persistently high mortality despite intensive management.24 Kotal et al., in a prospective study from a tertiary-care hospital in West Bengal, characterized the clinical profile and outcomes of acute PQ poisoning and similarly identified early presentation and organ dysfunction as key determinants of survival.25 Goyal et al. examined the presentation, severity, management, and outcome of PQ poisoning in a North Indian tertiary-care setting, questioning whether contemporary management materially alters the course of this highly lethal poisoning.26 Accompanying editorials have framed PQ poisoning as a condition that meets the limits of intensive care medicine and have outlined the way forward, emphasizing standardized protocols and earlier extracorporeal intervention.27,28 These studies collectively highlight the urgent need for standardized PQ management protocols in Indian ICUs.
+
+== Limitations ==
+
+This study has several limitations. The retrospective, single-center design and small sample size (n = 27) limit generalizability. The estimated PQ quantity was based on patient/bystander reports. Quantitative plasma PQ levels were unavailable, precluding the use of validated prognostic nomograms. Urine sodium dithionite test grading was semi-quantitative and subject to inter-observer variability. The absence of a control group prevents definitive conclusions about efficacy. Long-term follow-up data were unavailable.
+
+== Conclusion ==
+
+Early presentation combined with a UDT-guided HP protocol was associated with favorable outcomes in this cohort. Three principles emerged: (1) minimizing the I-to-D interval is critical; (2) serial UDT provides a practical, low-cost tool for guiding HP decisions; and (3) aggressive multi-session HP guided by persistent UDT positivity may benefit selected patients presenting early. Prospective, multicenter studies are warranted to validate this protocol.
+
+== Clinical Significance ==
+
+The UDT-guided HP protocol offers a standardized, resource-appropriate decision framework for managing acute PQ poisoning in Indian ICU settings. By replacing costly plasma PQ assays with a bedside colourimetric test, this protocol enables evidence-based ECTR decisions even in secondary-level hospitals. The protocol can be readily adopted by intensivists across India and other LMICs where PQ poisoning is prevalent.
+
+== Ethics Approval ==
+
+This retrospective study was conducted in accordance with the October 2024 revision of the Declaration of Helsinki. Individual consent was waived, given the retrospective, observational nature. The study was approved by the Institutional Ethics Committee. The study complies with the preferred reporting of case series in surgery (PROCESS) guidelines for reporting observational studies.
+
+== Acknowledgments ==
+
+The author acknowledges the ICU nursing staff and HP team at Aster Ramesh Hospital for their dedicated patient care.
+
+== Authors’ Contributions ==
+
+Ramesh Yelanati: Clinical management and data collection. Dharanindra Moturu: Conceptualization, data collection, data analysis, review, and final approval. Supriya Rayana: Project administration and writing—original draft. Mohammad Noor Shaik: Writing—original draft and data analysis. Karthikeya Jampala: Writing—review and editing and validation. Venkata Dinesh Kumar Gontla: Data analysis and review. Ramesh B Potineni: Supervision.
+
+== Orcid ==
+
+Ramesh Yelanati
+https://orcid.org/0009-0005-5390-5115
+
+Dharanindra Moturu
+https://orcid.org/0000-0002-9446-5460
+
+Supriya Rayana
+https://orcid.org/0000-0001-9904-2574
+
+Mohammad Noor Shaik
+https://orcid.org/0000-0001-9430-5531
+
+Karthikeya Jampala
+https://orcid.org/0009-0003-8519-259X
+
+Venkata Dinesh Kumar Gontla
+https://orcid.org/0000-0001-9822-3808
+
+Ramesh B Potineni
+https://orcid.org/0000-0001-6983-0828
+
+== Footnotes ==
+
+== References ==

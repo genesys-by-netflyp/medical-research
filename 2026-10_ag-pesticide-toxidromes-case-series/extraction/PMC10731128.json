@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC10731128",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10731128_case_1",
+      "age": "33 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "His relative reported that he had been found unconscious near their farm, with excessive mouth secretions and profuse sweating. He also noticed a bottle of an insecticide at his side, which might have been taken under the influence of alcohol as the patient is an occasional alcoholic.",
+      "agent": "Unspecified organophosphate insecticide (bottle found at side; agent name UNVERIFIED)",
+      "agent_quote": "A 33-year-old farmer was admitted to medicine intensive care unit (ICU) after being brought to casualty in a disoriented state. His relative reported that he had been found unconscious near their farm ... He also noticed a bottle of an insecticide at his side",
+      "route": "UNVERIFIED (ingestion suspected; bottle found at his side)",
+      "circumstance": "Found unconscious near the farm with a bottle of insecticide at his side; possibly taken under the influence of alcohol",
+      "symptoms": [
+        {"finding": "disoriented/unconscious state, excessive mouth secretions, profuse sweating", "quote": "His relative reported that he had been found unconscious near their farm, with excessive mouth secretions and profuse sweating."},
+        {"finding": "two to three episodes of greenish vomiting with continuous tremors in hands and legs", "quote": "On their way to the hospital, the patient had two to three episodes of vomiting which was greenish, along with continuous tremors in his hands and legs."},
+        {"finding": "GCS 6/15, pinpoint pupils, sluggish deep tendon reflexes (1+), MRC power grade 3 upper limb / 2 lower limb", "quote": "On neurological examination, his Glasgow Coma Scale (GCS) score was 6/15. ... Deep tendon reflexes were found to be sluggish, i.e., 1+ grading. Pinpoint pupils were present. His muscle power on the Medical Research Council (MRC) Scale for Muscle Strength indicated grade 3 in the upper limb and grade 2 in the lower limb, and no sensory symptoms were present."},
+        {"finding": "tachypnea (RR 40/min) with arterial oxygen tension <50 mmHg on room air; tachycardia 120 bpm; BP 150/90 mmHg", "quote": "He was intubated immediately with an endotracheal tube with volume control mode as he was presenting with tachypnea (respiratory rate: 40 breaths/min) and arterial blood gases (ABG) showed arterial oxygen tension of less than 50 mmHg on room air."}
+      ],
+      "time_to_care": "UNVERIFIED (brought immediately to tertiary care hospital per relatives, exact interval not stated)",
+      "labs": [
+        {"name": "serum cholinesterase", "value": "6.7 (units UNVERIFIED)", "quote": "Laboratory investigations at the time of admission showed normal renal functions, liver functions, and normal serum levels of sodium, potassium, calcium, and magnesium, but serum cholinesterase was 6.7."},
+        {"name": "renal, liver function, electrolytes", "value": "normal", "quote": "Laboratory investigations at the time of admission showed normal renal functions, liver functions, and normal serum levels of sodium, potassium, calcium, and magnesium, but serum cholinesterase was 6.7."}
+      ],
+      "treatment": [
+        {"name": "atropine (2 mg loading, infusion 5 mg/hour; later 2 ml/hour infusion)", "quote": "medical management was started, which included injection of atropine 2 ml/hour, injection of PAM (Acme Pharmaceuticals, Ahmedabad, Gujarat, India) 20 ml/hour, injection of C-Tri (Zuventus Healthcare Ltd, Pune, Maharashtra, India), injection of PAN (Alkem Laboratories Ltd, Mumbai, Maharashtra, India), injection of Emeset (Cipla Ltd, Mumbai, Maharashtra, India), and intravenous fluids."},
+        {"name": "pralidoxime (PAM) 20 ml/hour", "quote": "injection of atropine 2 ml/hour, injection of PAM (Acme Pharmaceuticals, Ahmedabad, Gujarat, India) 20 ml/hour"},
+        {"name": "intubation and mechanical ventilation; tracheostomy on day 8", "quote": "After eight days, the patient underwent a tracheostomy given prolonged ventilation."},
+        {"name": "physiotherapy rehabilitation (bronchial hygiene, PNF, mobility exercises, weaning)", "quote": "Respiratory therapy interventions included body positioning, bronchial hygiene techniques, chest proprioceptive neuromuscular facilitation (PNF) techniques, and mobility exercises to achieve early ambulation."}
+      ],
+      "icu_admission": "Yes (\"A 33-year-old farmer was admitted to medicine intensive care unit (ICU) after being brought to casualty in a disoriented state.\")",
+      "outcome": "survived; disconnected from mechanical ventilator in week 4 with spontaneous breathing maintained for 48 hours; progressed to standing and walking; overall functioning improved on scales of consciousness, early mobility and quality of life",
+      "outcome_quote": "Disconnected from the mechanical ventilator on week 4, the patient was able to maintain spontaneous breathing for 48 hours followed by no further requirement of the ventilator.",
+      "sequelae": "Prolonged ventilation requirement due to pneumonitis and intermediate syndrome (resolved by week 4); detailed long-term sequelae UNVERIFIED",
+      "notes": "Diagnosed with organophosphate poisoning (Poisoning Severity Score: minor) associated with intermediate syndrome (IMS)."
+    }
+  ]
+}

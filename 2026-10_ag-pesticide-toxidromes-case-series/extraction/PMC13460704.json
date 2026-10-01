@@ -1,0 +1,177 @@
+{
+  "pmcid": "PMC13460704",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13460704-case1",
+      "age": "53 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 53-year-old male agricultural worker presented approximately 3 h after ingesting an unknown pesticide.",
+      "agent": "amitraz (Taktic 12.5% EC, 125 mg/mL formulation)",
+      "agent_quote": "Subsequently, relatives produced the pesticide container revealing Amitraz (125 mg/mL formulation) (Taktic 12.5% EC [MSD Animal Health, Pune, India])",
+      "route": "ingestion",
+      "circumstance": "Ingested an unknown pesticide (later identified as amitraz); intent and setting not stated; gastric lavage with activated charcoal at local care.",
+      "symptoms": [
+        {
+          "finding": "obtunded, GCS 9/15 declining to 4/15",
+          "quote": "On arrival, he was obtunded (Glasgow Coma Scale [GCS] 9/15) with bilaterally constricted pupils"
+        },
+        {
+          "finding": "miosis then mydriasis",
+          "quote": "On arrival, he was obtunded (Glasgow Coma Scale [GCS] 9/15) with bilaterally constricted pupils ... The neurological status declined; GCS dropped to 4/15, pupils dilated, and respiratory effort weakened."
+        },
+        {
+          "finding": "hypotension (unrecordable BP) and bradycardia 56 bpm",
+          "quote": "unrecordable blood pressure, bradycardia at 56 beats per min, and oxygen saturation around 85% on room air"
+        },
+        {
+          "finding": "type II respiratory failure",
+          "quote": "Arterial blood gas revealed type II respiratory failure; he was intubated and ventilated."
+        },
+        {
+          "finding": "absence of excessive secretions and diarrhea",
+          "quote": "Excessive secretions and diarrhea were absent."
+        }
+      ],
+      "time_to_care": "Approximately 3 h after ingestion",
+      "labs": [
+        {
+          "name": "serum cholinesterase",
+          "value": "normal (excluding OP poisoning)",
+          "quote": "Serum cholinesterase was normal, excluding OP poisoning."
+        },
+        {
+          "name": "CBC/LFTs",
+          "value": "mild leukocytosis and elevated liver enzymes",
+          "quote": "Laboratory tests showed mild leukocytosis and elevated liver enzymes."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage with activated charcoal (local care)",
+          "quote": "Initial local care included gastric lavage with activated charcoal."
+        },
+        {
+          "name": "atropine 6 mg IV and oxygen therapy",
+          "quote": "Based on miosis and bradycardia, atropine intravenous 6 mg was given with oxygen therapy."
+        },
+        {
+          "name": "dopamine infusion for persistent hypotension",
+          "quote": "Despite fluid resuscitation, hypotension persisted, requiring dopamine infusion."
+        },
+        {
+          "name": "intubation and ventilation (extubated at 96 h)",
+          "quote": "Arterial blood gas revealed type II respiratory failure; he was intubated and ventilated. Support continued over 4 days with gradual recovery and successful extubation at 96 h."
+        }
+      ],
+      "icu_admission": "UNVERIFIED (intubated and ventilated for 4 days; formal ICU admission not stated)",
+      "outcome": "Gradual recovery with successful extubation at 96 hours",
+      "outcome_quote": "Support continued over 4 days with gradual recovery and successful extubation at 96 h.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Amitraz poisoning mimicking organophosphate toxicity; normal cholinesterase and absent secretory features were distinguishing clues."
+    },
+    {
+      "case_id": "PMC13460704-case2",
+      "age": "21 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 21-year-old male presented 3 h after ingestion of a rodenticide identified initially as “Khatnil spray” containing 1% Propoxur (a carbamate) (Hindustan Insecticides Ltd., New Delhi, India).",
+      "agent": "fipronil (0.05% fipronil gel; initially misidentified as propoxur 'Khatnil spray')",
+      "agent_quote": "Detailed history and analysis identified the agent as 0.05% Fipronil gel (Ankur Chemicals, Maharashtra, India).",
+      "route": "ingestion",
+      "circumstance": "Ingestion 3 h before presentation; product initially identified as propoxur rodenticide, later identified as fipronil gel; intent and setting not stated.",
+      "symptoms": [
+        {
+          "finding": "vomiting",
+          "quote": "He had vomiting, altered mental status (GCS E2V2M3), bradycardia (58 bpm), bilateral miosis, respiratory distress, coarse crepitations, and abundant oral secretions."
+        },
+        {
+          "finding": "altered mental status (GCS E2V2M3)",
+          "quote": "He had vomiting, altered mental status (GCS E2V2M3), bradycardia (58 bpm), bilateral miosis, respiratory distress, coarse crepitations, and abundant oral secretions."
+        },
+        {
+          "finding": "bradycardia 58 bpm and bilateral miosis",
+          "quote": "He had vomiting, altered mental status (GCS E2V2M3), bradycardia (58 bpm), bilateral miosis, respiratory distress, coarse crepitations, and abundant oral secretions."
+        },
+        {
+          "finding": "respiratory distress with coarse crepitations and abundant oral secretions",
+          "quote": "He had vomiting, altered mental status (GCS E2V2M3), bradycardia (58 bpm), bilateral miosis, respiratory distress, coarse crepitations, and abundant oral secretions."
+        }
+      ],
+      "time_to_care": "3 h after ingestion",
+      "labs": [],
+      "treatment": [
+        {
+          "name": "intubation and ventilation",
+          "quote": "Due to airway compromise, he was intubated and ventilated."
+        },
+        {
+          "name": "atropine",
+          "quote": "Atropine was administered."
+        },
+        {
+          "name": "supportive care",
+          "quote": "Improvement followed supportive care and atropine, with extubation at 18 h."
+        }
+      ],
+      "icu_admission": "UNVERIFIED (intubated and ventilated; formal ICU admission not stated)",
+      "outcome": "Improvement with extubation at 18 hours",
+      "outcome_quote": "Improvement followed supportive care and atropine, with extubation at 18 h.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Fipronil toxicity masquerading as carbamate toxicity; agent identified only after detailed history and analysis."
+    },
+    {
+      "case_id": "PMC13460704-case3",
+      "age": "32 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 32-year-old male exposed to pesticide ingestion and treated with atropine at a peripheral hospital presented with vomiting, altered sensorium, bradycardia (52 bpm), hypotension (90/60 mmHg), respiratory distress, excessive secretions, constricted reactive pupils, and decreased muscle tone.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide (United Phosphorus Ltd., Mumbai, India)",
+      "agent_quote": "Family confirmed ingestion of 2,4-D herbicide (United Phosphorus Ltd., Mumbai, India).",
+      "route": "ingestion",
+      "circumstance": "Ingestion; treated with atropine at a peripheral hospital before presentation; intent and setting not stated.",
+      "symptoms": [
+        {
+          "finding": "vomiting and altered sensorium",
+          "quote": "presented with vomiting, altered sensorium, bradycardia (52 bpm), hypotension (90/60 mmHg), respiratory distress, excessive secretions, constricted reactive pupils, and decreased muscle tone."
+        },
+        {
+          "finding": "bradycardia 52 bpm and hypotension 90/60 mmHg",
+          "quote": "presented with vomiting, altered sensorium, bradycardia (52 bpm), hypotension (90/60 mmHg), respiratory distress, excessive secretions, constricted reactive pupils, and decreased muscle tone."
+        },
+        {
+          "finding": "respiratory distress with excessive secretions and constricted pupils",
+          "quote": "presented with vomiting, altered sensorium, bradycardia (52 bpm), hypotension (90/60 mmHg), respiratory distress, excessive secretions, constricted reactive pupils, and decreased muscle tone."
+        }
+      ],
+      "time_to_care": "UNVERIFIED",
+      "labs": [
+        {
+          "name": "creatine phosphokinase (CPK)",
+          "value": "12,400 U/L (markedly elevated)",
+          "quote": "Laboratory investigations showed markedly elevated creatine phosphokinase (CPK) (12,400 U/L), metabolic acidosis, and normal cholinesterase."
+        },
+        {
+          "name": "cholinesterase",
+          "value": "normal",
+          "quote": "Laboratory investigations showed markedly elevated creatine phosphokinase (CPK) (12,400 U/L), metabolic acidosis, and normal cholinesterase."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "intravenous hydration and urinary alkalinization with sodium bicarbonate",
+          "quote": "He received intravenous hydration and urinary alkalinization with sodium bicarbonate."
+        }
+      ],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Neurological and lab parameters improved over 72 h; discharged in good condition",
+      "outcome_quote": "Over 72 h, neurological and lab parameters improved, and he was discharged in good condition.",
+      "sequelae": "UNVERIFIED",
+      "notes": "2,4-D poisoning mimicking organophosphate toxicity; elevated CPK, metabolic acidosis and normal cholinesterase were key distinguishing features."
+    }
+  ]
+}

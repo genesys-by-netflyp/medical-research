@@ -1,0 +1,100 @@
+{
+  "pmcid": "PMC13591919",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13591919_case1",
+      "age": "28 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 28-year-old Bangladeshi male deliberately ingested one aluminum phosphide (ALP) tablet (approximately 3 g), which was fresh and dissolved in water prior to ingestion.",
+      "agent": "aluminum phosphide (single tablet, approximately 3 g, fresh, dissolved in water)",
+      "agent_quote": "deliberately ingested one aluminum phosphide (ALP) tablet (approximately 3 g), which was fresh and dissolved in water prior to ingestion",
+      "route": "oral ingestion",
+      "circumstance": "suicide attempt; history of major depressive disorder with irregular psychiatric follow-up",
+      "symptoms": [
+        {
+          "finding": "nausea, recurrent vomiting, abdominal pain, dizziness",
+          "quote": "The patient initially had nausea, recurrent vomiting, abdominal pain, and dizziness."
+        },
+        {
+          "finding": "hypotension (BP 85/60 mmHg) and tachycardia (104 bpm)",
+          "quote": "Physical examination revealed a tachycardia with 104 beats per minute, BP 85/60 mmHg, oxygen saturation was 95 percent on room air, and the respiratory rate was 22 breaths per minute."
+        },
+        {
+          "finding": "atrial fibrillation with rapid ventricular rate on ECG",
+          "quote": "Electrocardiogram (ECG) showed atrial fibrillation with a rapid ventricular rate."
+        },
+        {
+          "finding": "severe metabolic acidosis",
+          "quote": "Blood gas analysis (intended arterial sampling) showed metabolic acidosis (pH 7.36, HCO₃⁻ 11.7 mmol/L, pCO2 21 mmHg, pO2 44 mmHg)."
+        }
+      ],
+      "time_to_care": "presented to tertiary care facility approximately 7 hours after ingestion; gastric lavage at local hospital before transfer",
+      "labs": [
+        {
+          "name": "pH (day 1)",
+          "value": "7.36",
+          "quote": "Blood gas analysis (intended arterial sampling) showed metabolic acidosis (pH 7.36, HCO₃⁻ 11.7 mmol/L, pCO2 21 mmHg, pO2 44 mmHg)."
+        },
+        {
+          "name": "HCO3- (day 1)",
+          "value": "11.7 mmol/L (nadir 11.1 mmol/L day 2; 23.9 mmol/L day 3)",
+          "quote": "worsening acidosis (pH 7.29, HCO3− 11.1 mmol/L on day two)"
+        },
+        {
+          "name": "potassium (day 2)",
+          "value": "5.56 mmol/L",
+          "quote": "Potassium (mmol/L)–5.563.743.383.5–5.0 (or 5.5)"
+        },
+        {
+          "name": "serum creatinine",
+          "value": "1.21 mg/dL (day 2), 1.05 (day 3)",
+          "quote": "Serum Creatinine (mg/dL)–1.211.05–0.7–1.2"
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage (at local hospital)",
+          "quote": "He was initially examined in a local hospital where he underwent gastric lavage prior to being transferred to our tertiary care facility."
+        },
+        {
+          "name": "aggressive IV fluid resuscitation (normal saline and Hartmann solution)",
+          "quote": "The patient was put on aggressive intravenous fluid resuscitation using normal saline and Hartmann solution"
+        },
+        {
+          "name": "titrated noradrenaline infusion (0.05 then up to 0.5 µg/kg/min)",
+          "quote": "titrated infusion of noradrenaline (initiated at 0.05 µg/kg/minutes) to sustain a mean arterial pressure of more than 65 mmHg"
+        },
+        {
+          "name": "intravenous hydrocortisone",
+          "quote": "Intravenous hydrocortisone was administered in the setting of persistent hypotension despite adequate fluid resuscitation and vasopressor support, as part of management of refractory shock."
+        },
+        {
+          "name": "oral N-acetylcysteine via nasogastric tube",
+          "quote": "Oral N-acetylcysteine was administered via a nasogastric tube as an adjunctive measure, as intravenous formulation was not available in our setting."
+        },
+        {
+          "name": "sodium bicarbonate",
+          "quote": "Sodium bicarbonate was administered to treat severe metabolic acidosis."
+        },
+        {
+          "name": "bisoprolol (low-dose beta-blocker) for rate control",
+          "quote": "rate control was initiated with a low-dose beta-blocker (bisoprolol), with careful monitoring for hemodynamic stability."
+        },
+        {
+          "name": "antiemetics and proton pump inhibitors",
+          "quote": "Prior to administration, antiemetics and proton pump inhibitors were given to improve tolerability."
+        }
+      ],
+      "icu_admission": "yes (ICU close monitoring)",
+      "outcome": "survived; discharged day 6 with psychiatric follow-up; complete recovery at 3-week follow-up",
+      "outcome_quote": "Psychiatric referral was made to optimize the management of underlying depressive disorder and he was discharged on oral therapy of proton pump inhibitor, antiemetic and antidepressant.",
+      "sequelae": "none reported at 3-week follow-up",
+      "notes": "Atrial fibrillation reverted to sinus rhythm by day 4; ABG normalized day 3. Discharged on oral PPI, antiemetic, antidepressant."
+    }
+  ]
+}

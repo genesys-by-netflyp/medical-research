@@ -1,0 +1,73 @@
+{
+ "pmcid": "PMC13490125",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC13490125_case1",
+   "age": "16 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "presented to the hospital 1 h after ingesting 100 mL of a homemade liquid containing pentahydrate copper sulfate (concentration 38%)",
+   "agent": "copper sulfate pentahydrate (38% homemade liquid, 100 mL ingested)",
+   "agent_quote": "ingesting 100 mL of a homemade liquid containing pentahydrate copper sulfate (concentration 38%)",
+   "route": "oral ingestion",
+   "circumstance": "Ingestion of homemade copper sulfate solution; patient had a history of anxiety and depressive states treated with fluvoxamine maleate and aripiprazole; self-induced vomiting half an hour before emergency admission",
+   "symptoms": [
+    {
+     "finding": "nausea",
+     "quote": "The patient developed nausea, vomiting of bile-green gastric contents, and periumbilical abdominal pain approximately 5–6 min after ingestion"
+    },
+    {
+     "finding": "vomiting of bile-green gastric contents",
+     "quote": "The patient developed nausea, vomiting of bile-green gastric contents, and periumbilical abdominal pain approximately 5–6 min after ingestion"
+    },
+    {
+     "finding": "periumbilical abdominal pain",
+     "quote": "The patient continued to complain of abdominal pain, most notably around the umbilical region."
+    }
+   ],
+   "time_to_care": "1 hour after ingestion",
+   "labs": [
+    {
+     "name": "serum copper",
+     "value": "3775.0 ng/mL (reference interval 800–1,900 ng/mL)",
+     "quote": "Toxicological analysis revealed a serum copper concentration of 3775.0 ng/mL (reference interval: 800–1,900 ng/mL)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Upon admission, Gastric lavage was performed approximately 1 h after ingestion."
+    },
+    {
+     "name": "egg white and milk (gastric mucosa protection)",
+     "quote": "administration of egg white and milk to dilute toxic substances for protecting the gastric mucosa"
+    },
+    {
+     "name": "omeprazole",
+     "quote": "omeprazole for acid suppression"
+    },
+    {
+     "name": "fluid replacement",
+     "quote": "fluid replacement, and glutathione at a dose of 2.4 g/d by intravenous infusion for 3 consecutive days"
+    },
+    {
+     "name": "glutathione 2.4 g/d IV for 3 days",
+     "quote": "glutathione at a dose of 2.4 g/d by intravenous infusion for 3 consecutive days to counteract copper-induced oxidative stress and hepatic injury"
+    },
+    {
+     "name": "sodium dimercaptopropanesulfonate (Na-DMPS) chelation",
+     "quote": "sodium dimercaptopropanesulfonate (Na-DMPS) was administered at a daily dose of 0.125 g for three consecutive days as copper chelation therapy"
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "recovered and discharged after 1 week; normal labs at 10-day follow-up",
+   "outcome_quote": "The patient reported no discomfort and was discharged after 1 week. Ten days post-discharge, follow-up revealed no reports of symptoms, and retesting showed serum copper, urine copper, complete blood count, and liver and kidney function all within normal ranges",
+   "sequelae": "none reported (no symptoms and normal labs at 10-day follow-up)",
+   "notes": "Blood count, liver/kidney function, electrolytes, cardiac enzymes, troponin showed no significant abnormalities on admission. Serum copper normalized on day 4."
+  }
+ ]
+}

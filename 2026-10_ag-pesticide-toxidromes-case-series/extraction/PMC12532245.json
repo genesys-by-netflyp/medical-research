@@ -1,0 +1,8 @@
+{
+ "pmcid": "PMC12532245",
+ "case_type": "other",
+ "suitable": false,
+ "unsuitable_reason": "Prospective observational cohort study of 70 acute paraquat poisoning cases reported only in aggregate (medians, percentages); no individual case-level clinical details (per-case age, sex, labs, treatments, outcomes) are presented, so no case objects can be extracted with verbatim quotes.",
+ "language": "English",
+ "cases": []
+}

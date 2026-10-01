@@ -1,0 +1,206 @@
+{
+  "pmcid": "PMC11034119",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11034119_caseA",
+      "age": "13 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Case A: A 13-year-old, previously healthy Chinese girl was sent to a local hospital 1 h after ingesting DQ.",
+      "agent": "diquat (liquid formulation, 200 g/L), about 15 mL, alimentary canal, oral/swallow",
+      "agent_quote": "DQform(content, g/L)liquid(200)liquid(200)wayAlimentary canalAlimentary canalcategoryoral、swalloworal、swallowdosageAbout 15 mlAbout 20 ml",
+      "route": "ingestion",
+      "circumstance": "accidental/consumed pesticide found; circumstance beyond 'was found to have consumed the pesticide' UNVERIFIED",
+      "symptoms": [
+        {
+          "finding": ">10 episodes of emesis (pale yellow vomitus with pungent taste)",
+          "quote": "Two hours later, the patient had experienced > 10 episodes of emesis, producing pale yellow vomitus with a pungent taste."
+        },
+        {
+          "finding": "persistent burning upper abdominal pain and palpitations",
+          "quote": "Two hours later, she exhibited persistent burning upper abdominal pain and palpitations."
+        },
+        {
+          "finding": "erythematous posterior pharynx (no drooling or respiratory symptoms)",
+          "quote": "She did not exhibit any drooling or respiratory symptoms, but the posterior pharynx was erythematous."
+        },
+        {
+          "finding": "burning sensation in oropharynx; nausea/vomit; abdominalgia/diarrhea; oropharyngeal/esophageal ulcer",
+          "quote": "clinical symptomsBurning sensation in oropharynx√√nausea/vomit√√abdominalgia/diarrhea√√hematochezia××oropharyngeal/esophageal ulcer√√"
+        }
+      ],
+      "time_to_care": "sent to local hospital 1 h after ingestion; transferred to Lanzhou University Second Hospital PICU 8 h after ingesting DQ",
+      "labs": [
+        {
+          "name": "WBC",
+          "value": "16.21×10^9/L",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "neutrophils",
+          "value": "4.99×10^9/L",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "hemoglobin",
+          "value": "138 g/dl (as printed)",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "platelets",
+          "value": "263×10^9/L",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "CRP",
+          "value": "<9.99 mg/L",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "SAA",
+          "value": "<4.8 mg/L",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "procalcitonin",
+          "value": "0.027 ng/ml",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "NT-proBNP",
+          "value": "17 pg/ml",
+          "quote": "Case numberWBC (×109 /L)NEUT (×109 /L)HB (g/dl)PLT (×109 /L)CRP (mg/L)SAA(mg/L)PCT (ng/ml)NT-proBNP (pg/ml)A16.214.99138263<9.99<4.80.02717"
+        },
+        {
+          "name": "erosive esophagitis and superficial gastritis with bile reflux (gastroscopy day 4)",
+          "value": "UNVERIFIED (not quantified)",
+          "quote": "Gastroscopy results on the fourth day of admission revealed erosive esophagitis and superficial gastritis with bile reflux."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage (1 h after poisoning)",
+          "quote": "After receiving a gastric lavage, she was transferred to Lanzhou University Second Hospital pediatric intensive care unit (PICU) 8 h after ingesting DQ."
+        },
+        {
+          "name": "continuous blood purification (CBP, hemoperfusion, model HA320) starting 8 h after poisoning, 3 sessions",
+          "quote": "CBP√√CBP times36Interval time(h)Poisoning and first gastric lavage1 h after6 h afterPoisoning and first CBP8 h after90 h after"
+        },
+        {
+          "name": "diuretic, omeprazole, Vitamin C, glutathione; no glucocorticoid/antibiotic/mecobalamin/adsorbent/drainage",
+          "quote": "Treatmentgastric lavage√√adsorbent×√drainage×√diuretic√√omeprazole√√glucocorticoid×√antibiotic×√Vitamin C√√glutathione√√mecobalamin×√CBP√√"
+        }
+      ],
+      "icu_admission": "yes (PICU)",
+      "outcome": "improved; hospitalized 9 days",
+      "outcome_quote": "Hospitalized time9d29dDischarge situation(outcome)improveimprove",
+      "sequelae": "no obvious pulmonary or laboratory abnormalities attributable to DQ (early hemoperfusion); long-term follow-up stated as required",
+      "notes": "Diquat ingestion ~15 mL of 200 g/L liquid. No imaging abnormalities (chest radiograph day 1 no obvious abnormalities)."
+    },
+    {
+      "case_id": "PMC11034119_caseB",
+      "age": "13 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Case B: A 13-year-old, previously healthy Chinese girl was sent to her local hospital 6 h after ingesting DQ.",
+      "agent": "diquat (liquid formulation, 200 g/L), about 20 mL, alimentary canal, oral/swallow",
+      "agent_quote": "DQform(content, g/L)liquid(200)liquid(200)wayAlimentary canalAlimentary canalcategoryoral、swalloworal、swallowdosageAbout 15 mlAbout 20 ml",
+      "route": "ingestion",
+      "circumstance": "accidental/consumed pesticide found; circumstance beyond 'was found to have consumed the pesticide' UNVERIFIED",
+      "symptoms": [
+        {
+          "finding": "nausea and vomiting (pale yellow vomitus with pungent taste)",
+          "quote": "She had experienced nausea and vomiting, producing pale yellow vomitus with a pungent taste."
+        },
+        {
+          "finding": "flushing, chest tightness, epigastric pain",
+          "quote": "She was flushed and experiencing chest tightness and an epigastric pain."
+        },
+        {
+          "finding": "erythematous posterior pharynx",
+          "quote": "Her posterior pharynx was erythematous."
+        },
+        {
+          "finding": "cough (present per table)",
+          "quote": "clinical symptoms ... oropharyngeal/esophageal ulcer√√Have a fever××cough×√Short of breath××Chest tightness×√"
+        },
+        {
+          "finding": "delayed lung injury with left-lung exudation on imaging",
+          "quote": "b Case B on day 17 of admission, revealing obvious exudation from the left lung"
+        }
+      ],
+      "time_to_care": "sent to local hospital 6 h after ingestion; first CBP 90 h after poisoning",
+      "labs": [
+        {
+          "name": "WBC",
+          "value": "11.7×10^9/L",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "neutrophils",
+          "value": "9.85×10^9/L",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "hemoglobin",
+          "value": "126 g/dl (as printed); PLT value garbled in source ('1263.9'), UNVERIFIED",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "CRP",
+          "value": "<9.99 mg/L",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "SAA",
+          "value": "5.96 mg/L",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "procalcitonin",
+          "value": "0.05 ng/ml",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "NT-proBNP",
+          "value": "104 pg/ml",
+          "quote": "A16.214.99138263<9.99<4.80.02717B11.79.851263.9<9.995.960.05104"
+        },
+        {
+          "name": "ALT",
+          "value": "155 U/L",
+          "quote": "A131728.84.339.6463203B1552150.631.431.4103<3268.9"
+        },
+        {
+          "name": "AST",
+          "value": "215 U/L",
+          "quote": "A131728.84.339.6463203B1552150.631.431.4103<3268.9"
+        },
+        {
+          "name": "CREA",
+          "value": "150.63 µmol/L (as parsed; formatting garbled, flagged)",
+          "quote": "A131728.84.339.6463203B1552150.631.431.4103<3268.9"
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage (6 h after poisoning), adsorbent, drainage, diuretic, omeprazole, glucocorticoid, antibiotic, Vitamin C, glutathione; no mecobalamin",
+          "quote": "Treatmentgastric lavage√√adsorbent×√drainage×√diuretic√√omeprazole√√glucocorticoid×√antibiotic×√Vitamin C√√glutathione√√mecobalamin×√CBP√√"
+        },
+        {
+          "name": "continuous blood purification (CBP, model HA320) starting 90 h after poisoning, 6 sessions (delayed)",
+          "quote": "CBP√√CBP times36Interval time(h)Poisoning and first gastric lavage1 h after6 h afterPoisoning and first CBP8 h after90 h after"
+        }
+      ],
+      "icu_admission": "yes (PICU)",
+      "outcome": "improved; hospitalized 29 days",
+      "outcome_quote": "Hospitalized time9d29dDischarge situation(outcome)improveimprove",
+      "sequelae": "delayed interstitial pneumonia/lung injury on serial chest CT through day 27; 'the chest effect also appeared delayed imaging abnormalities'",
+      "notes": "Diquat ingestion ~20 mL of 200 g/L liquid. Delayed hemoperfusion (90 h) with more severe laboratory and pulmonary abnormalities vs Case A. No brain MRI abnormalities: 'The child had no obvious abnormalities in the B brain magnetic resonance imaging(MRI).'"
+    }
+  ]
+}

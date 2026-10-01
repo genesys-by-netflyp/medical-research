@@ -1,0 +1,107 @@
+== ARTICLE TITLE ==
+Paraquat induced acute kidney and lung injury with a dramatic response to methylprednisolone: A case report
+
+== ABSTRACT ==
+BackgroundParaquat poisoning is one of the leading causes of fatal poisoning in many parts of the world, especially in agricultural countries. Its high toxicity even in small amounts causes rapid damage to multiple organs, especially the kidneys, lungs, and liver, mainly through free radical-mediated injury. As no specific antidote is yet available, early diagnosis and the importance of supportive therapy are critical parts of management. Some evidence suggests a survival benefit from using immunosuppressive drugs.Case reportThis case presentation concerns a 15-year-old boy from a village with a history of herbicide poisoning, later confirmed to be paraquat. Despite supportive therapy her condition continued to deteriorate with features of kidney and lung damage. The patient was then treated with methylprednisolone 500 mg daily for 5 days, along with other supportive care, and has made a remarkable recovery.ConclusionsHigh efficacy as an herbicide, availability and low cost make paraquat an easy-to-encounter poison for suicidal or accidental use. Its high fatality calls for urgent and effective strategies to save lives. Methylprednisolone may play a role in its treatment.
+
+== Background ==
+
+Paraquat poisoning is one of the leading causes of fatal poisoning in many parts of the world, especially in agricultural countries. Its high toxicity even in small amounts causes rapid damage to multiple organs, especially the kidneys, lungs, and liver, mainly through free radical-mediated injury. As no specific antidote is yet available, early diagnosis and the importance of supportive therapy are critical parts of management. Some evidence suggests a survival benefit from using immunosuppressive drugs.
+
+== Case report ==
+
+This case presentation concerns a 15-year-old boy from a village with a history of herbicide poisoning, later confirmed to be paraquat. Despite supportive therapy her condition continued to deteriorate with features of kidney and lung damage. The patient was then treated with methylprednisolone 500 mg daily for 5 days, along with other supportive care, and has made a remarkable recovery.
+
+== Conclusions ==
+
+High efficacy as an herbicide, availability and low cost make paraquat an easy-to-encounter poison for suicidal or accidental use. Its high fatality calls for urgent and effective strategies to save lives. Methylprednisolone may play a role in its treatment.
+
+== Background ==
+
+Globally, pesticide poisoning is a leading cause of suicide related mortality, particularly in low and middle income countries [17]. Paraquat (PQ) is one of the lethal herbicides contributing to high mortality among pesticide related deaths [2]. Bangladesh, being an agrarian country, is likely to face a high incidence of PQ poisoning. Easy availability, cheap, unrestricted access to it, untrained applicator all together make this poisoning easier to happen. Till date there is a dearth of proven and curative treatments for this poisoning.
+
+Even when ingested in a small amount, it is extremely toxic. Immediately after ingestion, the compound gets accumulated in different organs and the spectrum of complications like gastrointestinal injuries, respiratory failure, renal failure, hepatotoxicity, and lung fibrosis evolve over time. The suggested mechanism of toxicity of PQ is by production of reactive oxygen species which is the main culprit of cell damage through different pathways. Different treatment modalities have been applied with little evidence-based benefit so far. That’s why preventive strategy is the key to reducing the death toll from PQ poisoning.
+
+Here we report a case of a 15-year-old boy who presented to us with a history of PQ poisoning 2 days back. Despite receiving supportive therapy including hemodialysis, he developed an acute kidney injury followed by a lung injury. Subsequently, administration of methylprednisolone resulted in significant clinical improvement and ultimately our patient survived.
+
+== Case description ==
+
+A young boy of 15 years was presented to our hospital with a history of accidental ingestion of poison which he mentioned as weed killers, 2 days back. Immediately following ingestion, he was admitted to a nearby hospital from where he was referred to higher center for better management. Upon his admission, a detailed history regarding the type of poison, amount taken and current symptoms were noted. The poison identified was paraquat, a 20% W/V solution. He took about 3 tea spoonfuls. His current symptoms were excessive salivation, a burning sensation in the throat and chest pain. He also mentioned a decreased volume of urine for 1 day and on the 2nd day it was about 110 ml/24 h. During the course of his admission to our hospital he developed cough, hemoptysis, abdominal pain and progressive reduction of urine volume. He couldn’t take anything by mouth due to painful deglutition.
+
+On admission, patients was conscious and well-oriented. His pulse was 86 beats/min, blood pressure 100/60 mm Hg, temperature 102°F and respiratory rate was slightly raised (22/min). His oxygen saturation was 95% at room air. The tongue was erythematous and a large confluent ulcer was found on its anterior part [Fig. 1]. Pupils were normal in size and chest examination findings were normal. Laboratory data [Table 1] found as follows: S. creatinine 6.8 mg/dl, Blood urea 55 mg/dl, ALT 20 U/L, S. sodium 141 mmol/l, S. potassium 3.9 mmol/l, chloride 100 mmol/l, Bicarbonate 16 mmol/l. Urine routine examinations revealed Albuminuria 2 + and protein-creatinine ratio was high (2.64). The chest X-Ray findings were unremarkable. Later on, high resolution computed tomography was performed on day 7 and revealed multifocal consolidation in both lungs [Fig. 2a and b].Fig. 1A large coalescent ulcer over anterior parts of Tongue (taken on day 3).Fig. 1Table 1Time trends of investigation.Table 1Name of investigationsDay 1(August 2)Day 2Day 3Day 4Day 5Day 6Day 7Day 8Day 9Day 11 (August 12)CBCHemoglobin (g/dl)14.212.6WBC (×109/L)11.26.95Neutrophil (%)74.585.3Lymphocyte (%)19.912.4Platelet (×109/L)165175ESR25 mm16 mmS. Creatinine (mg/dl)6.886.726.999.8298.56.53.20.91Blood urea (mg/dl)557854ALT(IU/L)2032S. electrolyteSodium (mmol/l)141146potassium (mmol/l)3.93.3chloride (mmol/l)100105Bicarbonate (mmol/l)1626Urine PCR (mg/mg)2.64Urine R/M/EAlbumin + +RBC 2–3 cells/hpfAlbumin-Nil,RBC- NilProthrombin timepatient- 17 s,control- 12 sS. lipase66Chest X-rayNADHRCT chestMild focal subpleural air space densities are seen in all segments of both lung (multifocal consolidation)USG of whole abdomenNADFig. 2a: HRCT showing focal subpleural air space densities in all segments of both lung (performed on day 7). b: HRCT showing air space densities and fibrosis in right upper lung field (performed on day 7).Fig. 2
+
+He was initially treated with nothing per oral, as he couldn’t take an adequate diet due to dysphagia and started on IV fluid and other supportive measures. But his urine output was not improving and serum creatinine was rising. Then he was started on hemodialysis (HD). His condition was not improving after 2 days of HD. Then we gave an intravenous injection of methylprednisolone (MP). The dose was 500 mg daily. The patient's health improved after receiving the second dose of MP, as demonstrated by a progressive increase in urine volume and a reduction in the severity of symptoms [Table 2]. Intravenous MP was given for further three days. Since then the overall trend of the clinical course has been towards improvement. Serum creatinine also started to drop from 9.82 on day 4–0.91 on day 11.Table 2Follow up chart during admission.Table 2ParametersAugust 3August 4August 5August 6August 7August 8August 9August 10August 11Pulse627066687480787876BP110/70 mmHg120/80120/70120/60110/70120/70100/70130/70120/80Respiratory rate (/Min)242626262524222019Temp103°F101°F99°F99°F99°F99°F99°F99°F99°FUrine output (ml)11040040090018002100250027002500SpO2 (at room air)98%97%95%94%94%94%95%96%98%
+
+He was discharged on day 11. At that time, his hemodynamic status and vital parameters were within normal limits.
+
+== Follow-up and outcomes ==
+
+The patient was followed up after 3 weeks of discharge. He was free of any symptoms at that time. Renal function and liver function were normal.
+
+== Discussion ==
+
+PQ poisoning is considered to be one of the fatal poisonings described in humans. Human poisoning from PQ was first reported in 1966, and in subsequent years more cases were affected with significant fatalities. According to WHO estimates, globally, more than 700,000 people die annually from suicide, and pesticide poisoning accounts for approximately 20% of these deaths [WHO]. Among the pesticides, paraquat poisoning seems to have the highest case fatality (50%–90%) [11].
+
+PQ is a very effective herbicide. It is marketed as high concentration (usually 21%) for agricultural use and it needs to be diluted prior to use. But if this highly concentrated preparation is ingested, it is very lethal even in small quantities. It exerts its effect mostly by interference of the electron transport system and thus inhibits conversion of NADP to NADPH. The superoxide ion generated from this reaction leads to cell damage by lipid peroxidation of the cell membrane [4], [18].
+
+Human poisoning mostly results from accidental or suicidal intent. Depending on the concentration of the formulation and amount ingested, clinical presentation may range from mild toxicity to severe toxicity which inevitably leads to death.
+
+Initial symptoms are burning or pain in the oral cavity, oropharynx, throat or epigastrium, followed by vomiting. Later the tongue becomes erythematous, swollen, ulcerated with a yellowish necrotic base. Together these cause severe dysphagia which makes it almost impossible for the patient to eat by mouth. Patients at this stage are at risk for dehydration and prerenal acute kidney injury (AKI) due to decreased oral fluid intake.
+
+In the next phase (within two to six days), renal and hepatocellular injury ensues. Renal injury mostly results from direct toxicity of PQ to renal tubular cells, primarily proximal tubular cells. Since the kidney is the major route of PQ excretion, this nephrotoxicity further complicates the situation by limiting PQ excretion from the body, ultimately leading to progressive renal failure.
+
+The renal failure can be very rapid producing disproportionate rise in serum creatinine relative to blood urea (low Urea to Creatinine ratio) [3]. This rapid rise in serum creatinine probably reflects increased generation of creatine and creatinine to meet energy demand after significant oxidative stress [13]. We also noticed (day 1) lower ratio of Urea to creatinine (7.99) in this case.
+
+Our patient had significant proteinuria reflecting PQ induced proximal tubular dysfunction. Similar findings were described in both animal and human models [10], [19].
+
+Toxic hepatitis is quite common after PQ ingestion and mostly develops within the first week [20]. The spectrum of injuries is mostly mild and usually transient.
+
+An autopsy study concluded that hepatic injury is biphasic, initially characterized by hepatocellular injury due to accumulation of parent compound. The second phase is characterized by cholangiocellular and cholestatic injury which probably results from toxic effect of unmetabolized PQ on biliary tree. Histological changes are mainly observed in the bile ducts [14].
+
+In the final phase, the lungs are affected and this is main prognostic factors in PQ poisoning. PQ reaches its peak level 4 h after ingestion and then its concentration decline rapidly.
+
+Intriguingly, PQ concentration in the lungs rises to several times the blood level during this period. Acute lung injury and ARDS developed in the early stage while lung fibrosis in the later stages [16]. Impaired gas exchange leads to hypoxemia before any radiological changes appeared. The radiological changes are usually bilateral; coarse, reticulonodular opacities, consolidation, sometimes ground glass opacities, and even pneumomediastinum have been reported [3]. In our case, HRCT done on 8th day reveals multifocal consolidation in both lungs and also fibrosis in right upper zone.
+
+Management of PQ poisoning is mostly supportive because no specific antidote is yet available. Supportive therapy primarily focused on preventing GI absorption of ingested PQ by gastric lavage with activated charcoal or fuller's earth and removal of already absorbed products by hemodialysis or hemoperfusion. Since the immune system plays an important role in the pathogenesis here, various immunosuppressives have been tried in its management, especially methylprednisolone (MP) and cyclophosphamide. Although several observational studies have reported a small mortality benefit of immunosuppressive use [7], [8], [9] but systematic review found high heterogeneity, high risk of bias and weakness in the methodology of these studies, and the evidence was of low certainty [6]. In our case, methylprednisolone was given when hemodialysis failed to improve the condition and it worked. After 2 days of MP therapy his condition started to improve.
+
+Considering the high fatality rate of PQ poisoning, different countries have adopted various strategies to reduce pesticide/paraquat related deaths.
+
+Controls on imports, accessibility and even bans on these products have reduced suicides and pesticide-related deaths in several countries without negatively impacting agricultural production [1], [5], [12].
+
+== Limitations ==
+
+We did not measure blood paraquat concentrations due to the unavailability of this assay in our hospital. If we could do that, we might find a correlation between blood PQ concentrations and the severity of organ damage.
+
+== Conclusion ==
+
+The high toxicity of PQ poisoning is well established in the literature. But specific treatment is yet to be explored. In this case vignette, the patient developed early dysphagia, followed by progressive renal impairment and features of lung injury. The failure of supportive therapy prompted us to consider administration of methylprednisolone as a potential therapeutic approach. The patient's deteriorating condition then responded dramatically. This observation sheds light on the role of immunosuppressive in reducing or reversing PQ-induced organ damage. However, large well-designed clinical trials are needed to comment conclusively on this. Until then the government must take urgent steps to limit its use and accessibility and impose a ban on it and encourage the use of alternative herbicides.
+
+== Guidelines ==
+
+The case report presentation followed CARE guidelines [15].
+
+== Learning points for clinicians ==
+
+Physicians should be well-acquainted with the toxicity of paraquat. These patients should be observed for several days for the development of multi-organ dysfunction. Early diagnosis is essential to start supportive therapy as it can play an effective role. Although strong recommendations do not exist to date, the potentially beneficial role of methylprednisolone should not be overlooked.
+
+== Patient perspective ==
+
+
+“The poison was kept in our house for use on agricultural land. One morning it was transferred to another bottle to make it ready for use. But I accidentally drink it mistaking it for water. After that, I had severe pain in my mouth and it was very difficult to eat anything. I was having trouble breathing. After receiving treatment in the hospital, my condition gradually improved. Now I can take my food and have no shortness of breath.”
+
+
+== Consent ==
+
+Written informed consent was obtained from the patient's father for publication of this case report and the accompanying image. A copy of the written consent is available for review by the Editor-in-Chief upon request.
+
+== CRediT authorship contribution statement ==
+
+Md Asaduzzaman: involved in patient’s care, Conceptualization, Data curation, literature reviews and manuscript writing. Soumitra Roy: involved in patient’s care, gathered the materials and were involved in Writing – original draft. Nibedita Das Pew: involved in patient’s care, gathered the materials and were involved in Writing – original draft. Anindya Deb Roy, Shahrin Kibria: gathered the materials, conducted a literature review. Ranjon Kumer Roy: interpreted patient data, assisted the other authors in reporting this case, edited the final draft. M.M. Jahangir Alam: interpreted patient data, assisted the other authors in reporting this case, edited the final draft. Shishir Ranjan Chakraborty: interpreted patient data, assisted the other authors in reporting this case, edited the final draft. All authors reviewed, edited, and approved the final version of the manuscript.
+
+== Declaration of Competing Interest ==
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+== Data availability ==
+
+The authors do not have permission to share data.

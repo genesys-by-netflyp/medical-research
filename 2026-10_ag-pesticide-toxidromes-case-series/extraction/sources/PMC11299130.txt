@@ -1,0 +1,59 @@
+== ARTICLE TITLE ==
+A Comprehensive Physiotherapy Approach to Regain Functional Independence in Intermediate Syndrome Secondary to Organophosphate Poisoning: A Case Report
+
+== ABSTRACT ==
+AbstractOrganophosphate poisoning (OPP) remains a significant public health issue globally, particularly in middle- and low-income countries. This study aimed to assess the effectiveness of physiotherapy interventions in managing patients with OPP, focusing on reducing the severity of intermediate syndrome symptoms and associated complications such as respiratory muscle weakness and bilateral loculated pleural effusions. A 48-year-old male with a history of alcohol consumption was transferred to the medicine intensive care unit due to poison ingestion. The patient exhibited symptoms of respiratory distress and decreased consciousness, necessitating intubation and mechanical ventilation. Physiotherapy interventions included patient education, secretion mobilization, vital capacity improvement, secondary complication prevention, chest expansion exercises, dyspnea-relieving positions, and mobilization. The patient's progress was monitored using various scales, including the Functional Independence Measure Scale, ICU Mobility Scale, and Chelsea Critical Care Physical Assessment Tool. Significant improvements in functional independence, mobility, and psychological well-being were observed throughout the intervention period. This study highlights the importance of physiotherapy in the comprehensive management of OPP, emphasizing its role in mitigating respiratory complications and improving overall functional outcomes.Keywords: physical medicine and rehabilitation, physical therapy, physiotherapy, functional independence, intermediate syndrome, organophosphate poisoning
+
+Keywords: physical medicine and rehabilitation, physical therapy, physiotherapy, functional independence, intermediate syndrome, organophosphate poisoning
+
+Received 2024 Jun 20; Accepted 2024 Jul 5; Collection date 2024 Jul.
+
+== Introduction ==
+
+Organophosphate poisoning (OPP) is a significant public health concern, particularly in middle- and low-income nations [1]. It can occur through occupational exposure, accidental ingestion, or deliberate self-harm using organophosphate pesticides (OPS) [2]. Despite being cost-effective for agricultural purposes, OPS poses a substantial risk to public health due to their high toxicity. They are notorious for causing severe morbidity and mortality, whether through occupational exposure in agriculture, suicide attempts using pesticides, or their use as nerve agents in warfare [3,4]. Nicotinic stimulation at the sympathetic ganglia and the neuromuscular junction leads to various symptoms, including mydriasis, tachycardia, weakness, hypertension, fasciculations, shallow breathing (diminished respiratory effort), and sweating [5]. Respiratory and cardiovascular failure are common causes of death in OPP, often due to respiratory muscle paralysis and airway obstruction caused by bronchial secretions and bronchospasm induced by OPS [6].
+
+The intermediate syndrome (IMS) significantly contributes to morbidity and mortality associated with OPP due to its common occurrence and the high likelihood of resulting in respiratory failure [7]. It typically manifests 24-96 hours after poisoning. It is characterized by muscle weakness between the acute cholinergic crisis (marked by fasciculations and muscle weakness) and delayed neuropathy caused by the inhibition of neuropathy target esterase [8-10]. In this study, we aim to investigate the effectiveness of physiotherapy interventions in managing patients with OPP, particularly focusing on reducing the severity of IMS symptoms and associated complications such as respiratory muscle weakness and bilateral loculated pleural effusions.
+
+== Case presentation ==
+
+A 48-year-old male was brought to casualty after consuming poison accompanied by the consumption of alcohol. The patient was an occasional alcoholic. He was found unconscious and had frothing from the mouth, decreased responsiveness, difficulty in breathing, and unstable vitals with a blood pressure of 100/60 mmHg, pulse rate of 102 per minute, and oxygen saturation of 75%. Auscultation revealed bilateral coarse crepitations. The patient was shifted and admitted to the medicine ICU, where he was intubated. All necessary investigations, including an X-ray, were done on admission, and medical management was started with atropine 2 mg, injection of midazolam 2 mg IV, succinylcholine 75 mg IV, and intravenous fluids. On the same day, the patient was referred for physiotherapy.
+
+Patient information
+
+Upon examination, the patient's informed consent was obtained. The patient was unconscious with reduced air entry bilaterally. An endotracheal tube was connected to a mechanical ventilator set to volume control mode with a fraction of inspired oxygen at 100%. The patient's vital signs included a pulse rate of 110 beats per minute, blood pressure of 140/85 mmHg, and a respiratory rate of 27 breaths per minute. A Ryle's tube and Foley catheter were in situ. The respiratory examination revealed decreased bilateral chest movements and bilateral crepitations at axillary and mammary levels. On the second day, the patient was extubated. However, due to worsening conditions, the patient was reintubated four days later, accompanied by the presence of secretions and reduced air entry. After another two days, the patient was extubated again. By the seventh day, the patient was semiconscious and on oxygen support via a face mask. On April 25, 2024, the patient was diagnosed with bilateral pleural effusion over the lower zones. Table 1 provides a timeline of events.
+
+Investigations
+
+Thoracic ultrasound showed bilateral pleural effusion, with 260 cc on the left and 80 cc on the right, accompanied by subsegmental atelectasis. Figure 1 shows an anteroposterior (AP) view of the chest X-ray taken on day 1.
+
+Figure 2 shows an AP view of the chest X-ray taken on day 7.
+
+Physiotherapy intervention
+
+The physiotherapy intervention protocol given for the period of two weeks is shown in Table 2 [11-13].
+
+Interventions to enhance lung function and overall respiratory capacity are shown in Figure 3.
+
+The progression of the patient's mobility is shown in Figure 4.
+
+The progression of the patient's physical activities is shown in Figure 5.
+
+Outcome measures and follow-up
+
+Table 3 presents outcome measures and follow-up assessments across three different scales: the Functional Independence Measure Scale, the ICU Mobility Scale, and the Chelsea Critical Care Physical Assessment Tool. Each scale measures the patient's level of independence or mobility at different time points: day 1, week 1, and week 2. The measures range from maximal assistance to no assistance, from lying in bed to walking without assistance, and from highly dependent to fully independent, as shown in Table 3.
+
+== Discussion ==
+
+OPP remains a great public health concern internationally, especially in middle- and low-income countries. The poisoning can be due to different exposures, including occupational, accidental ingestion, or deliberate self-harm through OPS [15,16]. OPS is cost-effective for agriculture, but its high toxicity levels cause tremendous risks correlated with extended morbidity and mortality levels [17,18]. This study aimed to investigate the effectiveness of physiotherapy interventions in managing patients with OPP, specifically in reducing the severity of IMS symptoms and related complications such as respiratory muscle weakness and bilateral loculated pleural effusions. Our findings underscore the critical role of physiotherapy interventions in managing OPP complications. Patient education focused on the importance of exercises to enhance respiratory function and overall health. Techniques for secretion mobilization, such as manual chest vibration and suctioning, maintained clear airways and prevented respiratory complications. The use of incentive spirometry significantly improved vital capacity, indicating enhanced lung function and reduced susceptibility to respiratory issues, which are major mortality factors in OPP. Preventing secondary complications, such as pressure sores and muscle contractures, was achieved through regular positioning and mobility exercises. Thoracic expansion exercises, along with chest proprioceptive neuromuscular facilitation and dyspnea-relieving positions, contributed to better chest expansion and reduced breathing distress, emphasizing the comprehensive role of physiotherapy in managing respiratory complications associated with OPP [19,20].
+
+The patient's progress, monitored using the Functional Independence Measure Scale, ICU Mobility Scale, and Chelsea Critical Care Physical Assessment Tool, showed significant improvements in functional independence, mobility, and psychological well-being. These improvements highlight the holistic benefits of physiotherapy in OPP management, addressing both physical and psychological aspects. The presence of bilateral pleural effusion in this patient indicated a severe and complicated course of OPP, often associated with a poor prognosis. However, the structured and targeted physiotherapy interventions contributed significantly to the patient’s recovery and functional improvements.
+
+== Conclusions ==
+
+This case report demonstrates the essential role of comprehensive physiotherapy in the effective management of IMS secondary to OPP. The physiotherapy interventions led to significant improvements in the patient's functional independence, mobility, and overall well-being. These results emphasize the necessity of incorporating structured physiotherapy programs into treatment protocols for OPP to mitigate respiratory complications and promote holistic recovery.
+
+== Disclosures ==
+
+== Author Contributions ==
+
+== References ==

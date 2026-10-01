@@ -1,0 +1,45 @@
+{
+  "pmcid": "PMC10040141",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10040141_case_1",
+      "age": "14 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 14-year-old boy presented to the hospital after deliberate ingestion of 50 mL of imidacloprid mixed with alcohol.",
+      "agent": "Imidacloprid (Confidor, imidacloprid 17.8% SL)",
+      "agent_quote": "History regarding the poison was taken and confirmed with the bottle that the attendees brought to the hospital, Confidor, imidacloprid 17.8% SL.",
+      "route": "oral ingestion",
+      "circumstance": "Deliberate ingestion of 50 mL of imidacloprid mixed with alcohol.",
+      "symptoms": [
+        {"finding": "unconscious state at discovery; drowsy but arousable, dyspnoeic, profusely sweating on arrival", "quote": "The patient was discovered by his attendees in an unconscious state approximately 30 minutes after the alleged intake. Upon arrival at the hospital, the patient was drowsy but arousable, dyspnoeic, and profusely sweating."},
+        {"finding": "GCS 8/15, SpO2 78% at room air, bilateral crepitations", "quote": "On examination, the patient was drowsy, with a Glasgow Coma Scale (GCS) score of 8/15 E2V2M4, saturation of 78% at room air, respiratory rate of 30 breaths per minute, blood pressure of 120/80mmHg, and pulse rate of 60 beats per minute."},
+        {"finding": "methemoglobinemia with saturation gap", "quote": "This saturation gap along with the dark color of his blood raised suspicion of methemoglobinemia. It was confirmed by meth-hemoglobin (met-Hb) on ABG which of 8% and met-Hb by spectrometry of 8.2%."}
+      ],
+      "time_to_care": "Discovered unconscious approximately 30 minutes after intake; exact time to hospital arrival UNVERIFIED",
+      "labs": [
+        {"name": "serum sodium", "value": "145 mEq/L", "quote": "An examination of serum electrolytes showed the following: sodium 145 mEq/L, potassium 3.6 mEq/L, and chloride 103 mEq/L."},
+        {"name": "serum potassium", "value": "3.6 mEq/L", "quote": "An examination of serum electrolytes showed the following: sodium 145 mEq/L, potassium 3.6 mEq/L, and chloride 103 mEq/L."},
+        {"name": "serum chloride", "value": "103 mEq/L", "quote": "An examination of serum electrolytes showed the following: sodium 145 mEq/L, potassium 3.6 mEq/L, and chloride 103 mEq/L."},
+        {"name": "met-Hb on ABG", "value": "8%", "quote": "It was confirmed by meth-hemoglobin (met-Hb) on ABG which of 8% and met-Hb by spectrometry of 8.2%."},
+        {"name": "met-Hb by spectrometry", "value": "8.2%", "quote": "It was confirmed by meth-hemoglobin (met-Hb) on ABG which of 8% and met-Hb by spectrometry of 8.2%."},
+        {"name": "leucocytosis", "value": "present (no value given)", "quote": "Investigations showed leucocytosis."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage", "quote": "The patient underwent gastric lavage."},
+        {"name": "intubation and mechanical ventilation", "quote": "The patient was intubated and received antibiotics for suspected aspiration following alcohol intoxication."},
+        {"name": "methylene blue 1 mg/kg bolus", "quote": "Methylene blue 1 mg/kg was given as a bolus dose, and repeat ABG after one hour showed met-Hb of 4% and after 12 hours of 0.2%."},
+        {"name": "high dose vitamin C daily", "quote": "A high dose of vitamin C was also administered daily."}
+      ],
+      "icu_admission": "UNVERIFIED (intubation and mechanical ventilation documented, ICU admission not explicitly stated)",
+      "outcome": "survived, discharged after one week of hospital stay",
+      "outcome_quote": "The patient’s sensorium improved and he was discharged after one week of hospital stay.",
+      "sequelae": "None mentioned in text",
+      "notes": "Methemoglobinemia from imidacloprid ingestion; met-Hb fell to 4% at 1 h and 0.2% at 12 h after methylene blue."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+== ARTICLE TITLE ==
+Fatal paraquat poisoning: a case report and literature review on rapid deterioration and therapeutic challenges
+
+== ABSTRACT ==
+AbstractIntroduction and importance:Paraquat (PQ) poisoning is a life-threatening condition with a high-mortality rate. As it lacks a specific antidote, treatment is mainly supportive, focusing on reducing oxidative damage and organ dysfunction. Despite aggressive intervention, the condition can rapidly progress to multiorgan failure. This report presents a fatal case of PQ poisoning, highlighting its clinical course and management challenges.Case presentation:A 45-year-old female ingested 10 mL of 20% PQ, presenting with vomiting, dizziness, and generalized body aches. At presentation, she was alert, with stable vital signs and no significant findings. Immediate treatment, including gastric lavage, activated charcoal, corticosteroids, antioxidants, and monitoring of renal and hepatic function, was initiated. On Day 2, her condition deteriorated with jaundice, respiratory distress, and PQ-induced tongue ulcers. Lab results showed worsening renal and hepatic dysfunction. She received cyclophosphamide, N-acetylcysteine, and heparin-free hemodialysis, but her condition continued to decline, leading to multiorgan failure. She succumbed to her condition on the fourth day.Clinical discussion:PQ toxicity causes oxidative stress, resulting in rapid progression to multiorgan failure. Early decontamination and supportive care are key, but no curative treatment exists. The rapid progression and limited effectiveness of current therapies make management difficult.Conclusion:PQ poisoning remains a critical medical emergency with a high-mortality rate. Timely recognition, aggressive supportive care, and further research into novel detoxification and therapeutic strategies are essential to improving survival outcomes. Additionally, public health measures, including stricter regulations and increased awareness regarding PQ’s toxicity, are crucial in preventing future cases.Keywords: case report, paraquat, pesticides, poisoning, toxicology
+
+== Introduction and importance: ==
+
+Paraquat (PQ) poisoning is a life-threatening condition with a high-mortality rate. As it lacks a specific antidote, treatment is mainly supportive, focusing on reducing oxidative damage and organ dysfunction. Despite aggressive intervention, the condition can rapidly progress to multiorgan failure. This report presents a fatal case of PQ poisoning, highlighting its clinical course and management challenges.
+
+== Case presentation: ==
+
+A 45-year-old female ingested 10 mL of 20% PQ, presenting with vomiting, dizziness, and generalized body aches. At presentation, she was alert, with stable vital signs and no significant findings. Immediate treatment, including gastric lavage, activated charcoal, corticosteroids, antioxidants, and monitoring of renal and hepatic function, was initiated. On Day 2, her condition deteriorated with jaundice, respiratory distress, and PQ-induced tongue ulcers. Lab results showed worsening renal and hepatic dysfunction. She received cyclophosphamide, N-acetylcysteine, and heparin-free hemodialysis, but her condition continued to decline, leading to multiorgan failure. She succumbed to her condition on the fourth day.
+
+== Clinical discussion: ==
+
+PQ toxicity causes oxidative stress, resulting in rapid progression to multiorgan failure. Early decontamination and supportive care are key, but no curative treatment exists. The rapid progression and limited effectiveness of current therapies make management difficult.
+
+== Conclusion: ==
+
+PQ poisoning remains a critical medical emergency with a high-mortality rate. Timely recognition, aggressive supportive care, and further research into novel detoxification and therapeutic strategies are essential to improving survival outcomes. Additionally, public health measures, including stricter regulations and increased awareness regarding PQ’s toxicity, are crucial in preventing future cases.
+
+Keywords: case report, paraquat, pesticides, poisoning, toxicology
+
+Received 2024 Nov 11; Accepted 2025 Feb 17; Collection date 2025 Apr.
+
+== Introduction ==
+
+Paraquat (PQ, r‑dimethyl‑4,4ʹ‑bipyridylium dichloride) is a lethal herbicide that can cause severe damage to the kidneys, liver, lungs, and gastrointestinal tract even when taken in small amounts[1].
+
+It has a high-fatality rate of approximately 50–70% and has no known antidote[2,3].
+
+PQ poisoning is a leading cause of pesticide-related deaths in many countries[1,2].
+
+Due to its high toxicity, it has been banned in numerous regions worldwide[4]. However, in Nepal, it remained available under a commercial license until 2024, contributing significantly to both intentional and accidental poisoning cases. To curb such incidents, Nepal officially banned PQ in 2024[5].
+
+We present a case of a 45-year-old female who ingested a toxic amount of PQ.
+
+This work has been reported in line with the CARE guidelines[6].
+
+== HIGHLIGHTS ==
+
+== Case presentation ==
+
+A 45-year-old female presented to a healthcare center after allegedly ingesting 10 mL of 20% PQ, following a familial dispute. She experienced multiple episodes of projectile vomiting, along with dizziness, and generalized body aches. Gastric lavage with activated charcoal was performed, and she was subsequently referred to our center for further management.
+
+At presentation, the patient was alert and oriented, and had a Glasgow Coma Scale (GCS) score of 15/15. Her vital signs were within normal limits: blood pressure (BP) of 130/80 mmHg, pulse of 72 bpm, respiratory rate of 22 breaths pm, temperature of 97.6°F, and oxygen saturation of 95%. Systemic examination findings were unremarkable. Baseline chest X-ray and laboratory investigations were within normal limits.
+
+The patient underwent continued gastric lavage along with intravenous methylprednisolone (125 mg in 100 mL normal saline followed by 40 mg thrice daily). She was admitted to the Intensive Care Unit for close monitoring, including strict vital signs assessment, intake-output charting, and administration of antibiotics, antiemetics, and intravenous fluids. Liver function tests (LFTs) and renal function tests (RFTs) were monitored daily, and supplemental oxygen was strictly avoided. Nutritional support was provided via a nasogastric tube and a Foley’s catheter was placed to monitor urine output.
+
+The patient remained stable on the day of admission and for the first 24 hours. However, on the second day, her condition deteriorated. She was icteric (Fig. 1), developed shortness of breath, and had multiple ulcers over the dorsum of the tongue, characteristic of a “paraquat tongue” (Fig. 2). Laboratory test results of RFT and LFT reports revealed drastic elevations in the serum urea, creatinine, bilirubin, aspartate aminotransferase (AST), and alanine aminotransferase (ALT) levels (Tables 1 and 2). Our patient had now developed acute kidney injury and hepatitis. Chest radiograph revealed findings of acute respiratory distress syndrome (ARDS).
+
+
+
+
+
+The patient’s Sequential Organ Failure Assessment (SOFA) score was 8, indicating multiorgan dysfunction. In response, she was administered intravenous cyclophosphamide (2 g in 100 mL normal saline), N-acetyl-cysteine (3.5 gm in 500 mL of 5% dextrose), and emergency heparin-free hemodialysis was initiated. Additionally, sylimarin tablets were prescribed for hepatoprotection, choline salicylate gel was topically applied for mucosal ulcers and mesna tablets were given to prevent serious side effects of cyclophosphamide.
+
+Despite aggressive management, the patient’s condition continued to deteriorate. She had worsening shortness of breath, decreased urine output, and further derangements in liver and renal function tests. Unfortunately, progressive multiorgan failure ensued, and the patient succumbed to her condition on the fourth day of hospital admission.
+
+== Discussion ==
+
+Poisoning ranks as the second most prevalent method of suicide in Nepal, after hanging[7,8]. Agricultural chemicals are amongst the major ingestants in our setting and the exact burden of PQ poisoning is yet to be established.
+
+PQ poisoning causes a serious toxidrome and is associated with very high mortality[9-14]. This is primarily due to PQ’s high toxicity and the absence of a specific antidote and other effective treatment strategies. The toxicity of PQ arises from the generation of reactive oxygen species, including hydrogen peroxide and superoxide anions, through redox cycling. This oxidative stress leads to extensive tissue damage, including lipid peroxidation, mitochondrial dysfunction, and activation of nuclear factor kappa B (NF-κB). These processes contribute to pulmonary fibrosis, nephrotoxicity, hepatotoxicity, and acute toxin-induced pancreatitis[15].
+
+PQ predominantly accumulates in the lungs, where its concentration can be 6–10 times higher than in plasma. Pulmonary damage occurs in two distinct phases. The initial phase involves acute multi-organ injury, affecting the liver, heart, kidneys, and lungs, potentially leading to death from respiratory, renal, or circulatory failure. Some patients temporarily recover, only to enter the second phase, marked by progressive lung fibrosis, dyspnea, cyanosis, and ultimately, respiratory failure[15]. This was the unfortunate course in our patient, who survived the first phase but succumbed to the second.
+
+In addition to the typical complications, PQ poisoning has been linked to a variety of atypical complications:
+
+
+While oral ingestion remains the most common route of PQ exposure in self-harm cases, less typical methods, including intramuscular[23], intravenous[24], and subcutaneous[25,26] injections, have also been reported. Accidental exposure through inhalation or skin contact has led to severe systemic toxicity[27-29], and even exposure to the urine of a PQ-poisoned patient has caused chemical burns[30]. Additionally, an unusual case of poisoning through kissing has also been documented[31].
+
+Early supportive care is essential for the management of PQ poisoning. This includes prompt decontamination through gastric lavage with activated charcoal or Fuller’s earth. However, caution is necessary, as PQ is corrosive, and gastric lavage may further aggravate mucosal injury. A nasogastric tube should be placed early to mitigate oral injury. Supplemental oxygen should be avoided unless there is significant hypoxia, as it can accelerate oxidative damage, worsening pulmonary toxicity[2].
+
+Hemoperfusion is a blood purification technique that eliminates harmful solutes, usually large molecules, by adsorption. It is the primary method for removing PQ, ideally within 4 hours of exposure, though its effectiveness is still debated[32].
+
+Hemodialysis removes harmful solutes, typically small molecules, through a semipermeable membrane using diffusion or ultrafiltration. It is essential for managing renal failure[32]. Regular monitoring of vital signs, fluid balance, renal, and liver function is essential to detect complications early[2].
+
+Immunosuppressive agents like cyclophosphamide, methylprednisolone, and dexamethasone are commonly used to reduce inflammation and prevent lung fibrosis in PQ poisoning. However, studies do not provide strong evidence supporting improved outcomes with these treatments[33,34].
+
+Antioxidants such as N-acetyl cysteine, Vitamin C, Vitamin E, salicylic acid, and deferoxamine have been investigated for preventing lung and kidney injuries by neutralizing free radicals. However, there is insufficient research to confirm their effectiveness as reliable antidotes[2,32]. Few studies have suggested that Edaravone, a free-radical scavenger, may prolong survival time, but it has not been shown to improve overall survival rates[35,36].
+
+A 2021 study by Qian et al proposed Anthrahydroquinone-2-6-disulfonate (AH2QDS) as a potent antidote for PQ poisoning. In vitro studies demonstrated that AH2QDS, with its strong redox properties and structural similarity to PQ, binds to PQ and forms a precipitate, reducing PQ levels to undetectable amounts within 60 minutes and rendering it nontoxic. In rat models, AH2QDS provided mitochondrial protection, reduced oxidative stress, and improved survival. However, further research is needed to confirm its safety and efficacy in humans[37].
+
+In our 45-year-old patient, who allegedly ingested PQ with suicidal intent, initial symptoms were mild, and supportive management was initiated promptly. However, by Day 3, her condition worsened with shortness of breath and renal and liver injury. Despite treatment with hemodialysis, immunosuppressants (cyclophosphamide and methylprednisolone [cyclophosphamide and methylprednisolone]), and the antioxidant N-acetyl cysteine, her condition did not improve significantly. This case highlights the lack of effective treatments for PQ poisoning and the ease of access to PQ in agricultural regions, where it can be abused for suicidal purposes.
+
+Restricting access to lethal pesticides is crucial in reducing suicide mortality. This is exemplified by Sri Lanka, where strict regulations and bans on highly toxic pesticides led to a 50% reduction in the suicide rate between 1995 and 2005. Such regulatory measures could be particularly effective in low- and middle-income countries, where pesticide self-harm remains a leading cause of suicide[38]. Nepal’s recent ban on PQ sales is a positive development, but its impact on access and suicide rates needs to be assessed over time.
+
+== Conclusion ==
+
+PQ poisoning remains a major health concern, especially in low- and middle-income countries. Despite supportive care and experimental treatments, no effective antidote exists. Our case underscores the need for better treatment options and highlights the risks associated with easy access to PQ. Nepal’s recent PQ sales ban is a step in the right direction, but its long-term impact on suicide rates and access will require ongoing evaluation. Further research and regulatory measures are crucial to reduce the burden of PQ poisoning and improve patient outcomes.
+
+== Footnotes ==
+
+== Contributor Information ==
+
+Aachal Barma, Email: draachalbarma@gmail.com.
+
+Aashis Poudel, Email: poudelaashis@gmail.com.
+
+Gunjana Rawal, Email: gunjanarawal1127@gmail.com.
+
+Mitesh Karn, Email: Mitesh.karn@gmcthrc.edu.np.
+
+Liladhar Ojha, Email: ojhaliladhar35@gmail.com.
+
+Dinesh Bajgai, Email: dineshbajgai@gmail.com.
+
+Manisha Mandal, Email: manishamandal1432@gmail.com.
+
+== Ethical approval ==
+
+Our institution does not require ethical approval for reporting individual cases or case series.
+
+== Consent ==
+
+Written informed consent was obtained from the patient’s next of kin for publication of this case report and accompanying images. A copy of written consent is available for review by the Editor-in- Chief of this journal on request.
+
+== Sources of funding ==
+
+The authors did not require any funding for this study.
+
+== Author’s contributions ==
+
+A.B, A.P, G.R, M.K, U.K.C.: conceptualization, data curation, formal analysis, investigation, methodology, project administration, visualization, writing-original draft, writing – review & editing, L.O., D.B., M.M.: supervision, writing-review & editing.
+
+== Conflict of interest disclosure ==
+
+None declared.
+
+== Research registration unique identifying number (UIN) ==
+
+Not applicable.
+
+== Guarantor ==
+
+Mitesh Karn.
+
+== Provenance and peer review ==
+
+Not commissioned, externally peer-reviewed.
+
+== Data availability statement ==
+
+Not applicable.
+
+== Acknowledgements ==
+
+None.
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Not applicable.

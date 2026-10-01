@@ -1,0 +1,117 @@
+== ARTICLE TITLE ==
+Acute paraquat poisoning in an adolescent with compromised outcome: A case report
+
+== ABSTRACT ==
+Paraquat, a highly toxic herbicide, accounts for a substantial number of poisoning-related fatalities, primarily prevalent in agricultural regions. The ingestion gives rise to severe complications affecting various organs, including the lungs, gastrointestinal tract, kidneys and liver. This report details the case of an 18-year-old male who had been using cannabis for a year and inadvertently ingested paraquat. He presented at the emergency room exhibiting symptoms of vomiting characterized by hematemesis and regurgitated food particles, along with heartburn, dysphagia and reduced urine output. Given the absence of a specific antidote, the prognosis for paraquat poisoning remains generally unfavourable. Diagnosis relies on circumstantial evidence and clinical manifestations, necessitating a focus on supportive care. Presently, no specific antidote for paraquat poisoning is available. Efforts should concentrate on preventive measures, efficient decontamination strategies and vigilant stabilization protocols in instances of exposure.
+
+== Introduction ==
+
+Poisoning is the second most common method of suicide in Nepal of which more than 90% of cases are due to pesticides.
+1
+ Paraquat (N, N′-dimethyl-4,4′-bipyridinium dichloride) is used in agriculture as a herbicide for grass control. Pesticide and agricultural chemical poisoning constitute a significant global public health concern, particularly in developing nations. Paraquat poisoning can occur by inhalation, ingestion or direct contact which can cause local as well as systemic toxicity. Accidental or deliberate ingestion remains the major cause of poisoning with an increased risk for fatality.
+2
+ Studies show a variable case fatality rate of 50%–90%.
+3
+ Therefore, it has been restricted in many parts of the world. In rural areas, paraquat poisoning usually results from suicidal exposure, occupational exposure or accidental exposure.
+4
+
+
+The lethal dose of paraquat for humans is around 10–20 mL of 20% (w/V) solution.
+4
+ Paraquat’s primary mechanism of toxicity involves the generation of intracellular reactive oxygen species (ROS), leading to cellular damage that impacts multiple organs such as the lungs, kidneys, heart, liver, adrenal glands, central nervous system (CNS), muscles and spleen. Currently, no specific effective antidote exists for paraquat poisoning, underscoring the critical role of early diagnosis, decontamination and aggressive symptomatic management.
+
+Here, we report a rare case of paraquat poisoning in an individual using cannabis, adhering to the CARE 2020 Guidelines.
+5
+ Notably, this case report represents one of the initial instances of accidental paraquat ingestion under the influence of marijuana.
+
+== Case presentation ==
+
+An 18-year-old man, who had been using marijuana for a year, arrived at the emergency room seemingly under the influence of marijuana. Four days ago, he had consumed 10–15 mL of a 24% (w/V; paraquat dichloride 24% SL) paraquat solution. The day after ingestion, he experienced multiple episodes of vomiting, characterized by the presence of blood and food particles. He also reported complaints of heartburn, difficulty swallowing and reduced urine production. There was no remarkable history of any hyperthermia, seizure activity, productive cough, thoracic discomfort, dyspnoea, scleral icterus or abdominal distension. Upon disclosing the paraquat exposure to his guardians on the third post-ingestion day, they immediately transported him to the nearby healthcare facility. On hospital admission, intravenous fluid resuscitation and proton pump inhibitor therapy were initiated.
+
+Upon arrival at the emergency department, the patient’s Glasgow Coma Scale
+6
+ was 15/15, pulse rate and blood pressure reading were normal, a respiratory rate of 20 breaths per minute and an oxygen saturation level of 94% in ambient air. A bilateral and symmetrical breath sound was auscultated during the chest examination, with an absence of crepitations or heart murmurs. The abdominal examination showed unremarkable findings. However, notable intraoral mucosal erosion accompanied by haemorrhagic manifestations was observed (Figure 1). Further assessment involved a chest X-ray revealing areas of infiltrates (Figure 2(a)). Consequently, the patient was subsequently admitted to the intensive care unit (ICU) and was subjected to a conservative management approach, which included the administration of intravenous dexamethasone (Table 3).
+
+On evaluation, during the third day of ICU admission, a gradual decrement in oxygen saturation levels and a reduction in urine output was seen. Arterial blood gas (ABG) analysis demonstrated a deteriorated PaO2/FiO2 ratio, measuring below 100, indicative of compromised oxygen exchange. His complete blood count showed rising neutrophil and total leukocyte counts over time (Table 1). The patient’s creatinine levels and liver enzymes were progressively rising indicating both liver and renal insult (Table 2). Ultrasound showed increased echogenicity in the bilateral kidneys with parenchymal changes which correlated with the increased urea and creatinine suggesting acute kidney injury. A chest radiograph showed a diffuse infiltration pattern coupled with a reticulonodular configuration (Figure 2(b)). To address the escalating respiratory demands, the patient was given oxygen supplementation through a non-rebreathing mask. The therapeutic regimen encompassed the continued administration of intravenous dexamethasone, supplemented by vitamin C and vitamin E (Table 3). Antibiotics (ceftriaxone) were given to address the increased neutrophilic counts.
+
+Following the treatment, the patient’s condition was improved with an increase in urine output and a decrease in creatinine levels. However, the patient still required oxygen and ABG demonstrated a PaO2/FiO2 ratio <100. A high-resolution computed tomography scan revealed a widespread hazy appearance with infiltration. To address the advancing disease, intravenous cyclophosphamide was added.
+
+The patient requested a discharge but was denied due to his medical condition. However, the patient left the medical facility against medical advice which resulted in an adverse outcome. Tragically, the patient passed away on the second day after he left the hospital.
+
+== Discussion ==
+
+Paraquat (N, N′-dimethyl-4,4′-bipyridinium dichloride) is an effective herbicide that is a brown solution with a strong odour. It accounts for 13% of all deaths due to poisoning.
+7
+ For this reason, the use has been restricted in many parts of the world. However, cases are largely reported from areas where agriculture is practised by a majority of the population. This may be due to the easy availability and accessibility of paraquat in those regions. It is rapidly deactivated in contact with soil which makes it easier to handle.
+8
+ However, ingestion of even a small amount (i.e. 10–20 mL of 20% solution) is considered lethal. A plasma concentration of >1.6 pg/mL, 12 h after administration has been determined to be always lethal. In the context of our presented case, the accidental consumption of paraquat coincided with the influence of marijuana.
+
+According to Landrigan et al.,
+9
+ the interaction between paraquat and marijuana has previously raised concerns about possible health effects due to paraquat contamination in marijuana. This investigation, dating back to 1978, highlighted the contamination of marijuana with paraquat, particularly in regions affected by aerial spraying in Mexico, leading to inhalation exposure among marijuana users. Although the study projected potential exposure to paraquat among users, no clinical cases of paraquat poisoning were officially recognized during the research period. However, concerns about the toxicity of paraquat and its interaction with marijuana persist. Recent cases of paraquat poisoning have not explicitly outlined the interaction between marijuana and paraquat in causing toxicity but rather emphasized the severity of paraquat poisoning and the challenges in its management. Marijuana contaminated with paraquat was originally thought to be dangerous. It may pose health risks, but the direct relationship between paraquat and marijuana that results in toxicity is still something that needs to be thoroughly examined and studied in the present day.
+
+Diagnosis of paraquat poisoning is commonly predicated on circumstantial evidence and clinical manifestations. Noteworthy, diagnostic indicators include the patient’s history of paraquat exposure, the presence of empty pesticide containers, suggestive residues, distinctive odours or anomalous colouring. In equivocal cases, the urinary dithionite test can be expedited at the patient’s bedside.
+10
+ Under alkaline conditions, sodium dithionite precipitates paraquat reduction, generating a discernible blue radical.
+11
+ The principal aetiology of its toxicity resides in its capacity for redox cycling, engendering heightened ROS production.
+11
+ This propensity amplifies oxidative stress, culminating in lipid peroxidation and, ultimately, impeding cellular membranes and inducing apoptotic pathways.
+
+Poisoning can be either through the topical route or by ingestion. Clinical manifestations that follow paraquat poisoning depend upon the route and amount of ingestion. Ingestion of large amounts results in fulminant organ failure and the prognosis is poor.
+11
+ It can involve multiple organs causing pulmonary oedema, cardiac, renal and hepatic failure and convulsions due to CNS involvement.
+
+Severe pulmonary involvement characterizes lung manifestations attributed to paraquat poisoning, primarily due to active pneumocyte uptake through a polyamine pathway. This uptake mechanism results in a lung parenchymal paraquat concentration that magnitudes surpass plasma levels by 10–20 times.
+12
+ The impact on type 1 pneumocytes culminates in impaired oxygenation and capillary exchange, while type 2 pneumocytes experience augmented surface tension and ensuing fluid accumulation, provoking pulmonary oedema and haemorrhage. Subsequent recruitment of inflammatory cell infiltrates further aggravates the trajectory, fostering lipid peroxidation-triggered pulmonary fibrosis. Spontaneous occurrences of pneumothorax or pneumomediastinum emerge as poor prognostic markers.
+7
+ Predominantly, respiratory failure precipitates most fatalities.
+13
+ Evidence shows approximately 20% of patients exhibit pneumomediastinum as a consequential complication, entailing an alarming fatality rate nearing 100%. Pathological reconstruction at the alveolar level perpetuates interstitial expansion, alveolar congestion, collagen deposition and microthrombi formation. Such cascading events potentially expedite the early onset of secondary pulmonary hypertension, alongside the overt manifestation of pneumothorax and pneumomediastinum encapsulated in the ‘Daisley Barton syndrome’.
+7
+
+
+There is usually a delay of several days before the onset of respiratory symptoms following ingestion as seen in this case. Nonetheless, once infiltrates appear on the chest X-ray, the condition is usually progressive and soon respiratory failure ensues
+14
+ Routine use of supplemental oxygen is not recommended in mild-to-moderate hypoxia as it can further aggravate lung injury. The hypoxemic strategy has been shown to reduce the production of ROS. Oxygen therapy should be reserved only for severe hypoxemia.
+
+The unavailability of a specific antidote and lack of definitive treatment for paraquat toxicity have led to a high case fatality rate of around 50%–90%.
+2
+ Symptomatic treatment remains the mainstay treatment, focusing mainly on decontamination and stabilization of the patient. Gastric decontamination is beneficial in those patients who present within 1–2 h of ingestion. Activated charcoals can be used. However, lavage is contraindicated due to its corrosive nature.
+15
+
+
+In a study by Lin et al.,
+13
+ pulse therapy with cyclophosphamide and methylprednisolone has shown effective in preventing respiratory failure and reducing mortality by 25%. Pulse therapy, along with antioxidants such as N-acetyl-cysteine, and vitamin C has shown efficacy in preventing ongoing inflammation and pulmonary fibrosis with varied outcomes.
+15
+ A few case reports also suggest lung transplantation (LT) after paraquat poisoning.
+14
+ Few studies also show salicylate significantly reduced oxidative stress in animal models; however, benefits in humans are not established yet.
+11
+
+
+Patients exhibiting the onset of acute renal failure warrant prompt intervention in the form of haemodialysis until the restoration of normal renal function is achieved. Within our presented case, perturbations were evident in liver function tests, renal function tests
+16
+ and pulmonary function tests.
+17
+ The patient showed improvement in the liver and kidney functions but the pulmonary injury was ongoing.
+
+For patients experiencing the onset of acute renal failure, initiation of haemodialysis remains a pivotal intervention until the restoration of renal function to baseline is achieved. In the case under scrutiny, our patient exhibited derangement across a spectrum of parameters including liver function tests, renal function tests and pulmonary function tests. While appreciable amelioration was discerned in hepatic and renal function, regrettably, the trajectory of pulmonary injury persisted unabated.
+
+Patients exhibiting the onset of acute renal failure warrant prompt intervention in the form of haemodialysis until restoration of normal renal function is achieved. Within our presented case, perturbations were evident in liver function tests, renal function tests and pulmonary function tests. The patient evinced a favourable trajectory, characterized by improvement in hepatic and renal functions; however, the ongoing pulmonary injury remained a clinical concern.
+
+Current research in 2023 has kept exploring the complexities of paraquat intoxication, providing an understanding of important aspects of its treatment and outcomes. Studies looking into the complications and timing of LT after paraquat poisoning have shown that a variety of treatment approaches have been investigated, including LT as a possible treatment strategy for severe cases.
+18
+ Furthermore, diagnostic indications such as the presence of green serum have been found, providing possible pathways for early detection and treatment in cases of paraquat consumption.
+19
+ Also, it has been shown that emergent treatments like continuous hemodiafiltration can effectively treat severe paraquat poisoning, highlighting the need for prompt intervention to enhance patient outcomes.
+20
+ However, despite advancements, the challenges persist, as demonstrated by the complexities of managing paraquat poisoning, including multiorgan failure and the lack of specific antidotes, highlighting the critical need for ongoing research to enhance diagnostic tools and therapeutic strategies.
+21
+
+
+== Conclusion ==
+
+This case brings attention to the serious consequences of accidentally consuming paraquat. Paraquat causes detrimental effects on various systems and the lack of a specific treatment makes it challenging. The focus should be on preventive measures and in case of exposure, prompt decontamination and stabilization should be done. Pulmonary insults are the main causes of mortality in the majority and despite aggressive management, mortality rates are high. Future studies are warranted to elucidate promising interventions that could potentially alleviate the burden of paraquat-induced toxicity and its attendant mortality.

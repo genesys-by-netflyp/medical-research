@@ -1,0 +1,109 @@
+== ARTICLE TITLE ==
+Delayed-onset status epilepticus without cholinergic features in organophosphate poisoning: a case report
+
+== ABSTRACT ==
+AbstractBackgroundOrganophosphates (OPs) exert their toxic effects by inhibiting acetylcholinesterase in both central (CNS) and peripheral nervous systems (PNS), resulting in accumulation of acetylcholine and overstimulation of cholinergic synapses. Seizures associated with OP poisoning typically occur in the context of overt systemic cholinergic manifestations. We report a patient with OP poisoning who developed status epilepticus without developing peripheral cholinergic features.Case presentationA 40-year-old Sri Lankan man presented six hours after deliberate ingestion of 50 mL of profenofos (500 g/L emulsifiable concentrate). His past medical history was unremarkable. There was no history of substance misuse. On admission, he was conscious, haemodynamically stable, and did not have signs of cholinergic excess. Thirty-six hours post-ingestion, he developed generalized tonic–clonic seizures, which were refractory to intravenous (IV) midazolam boluses and IV levetiracetam. He was intubated and mechanically ventilated. Continuous electroencephalographic monitoring confirmed termination of seizure activity with an intravenous midazolam infusion. Atropine was administered empirically for possible central cholinergic toxicity. The patient made a full neurological recovery and was successfully extubated 72 h after ingestion. The patient remained asymptomatic in a six month follow up.ConclusionThis case illustrates an uncommon presentation of OP poisoning: delayed-onset status epilepticus in the absence of peripheral cholinergic features. The high lipophilicity of profenofos may facilitate preferential accumulation in the CNS, leading to a predominantly central cholinergic syndrome. This underscores the importance of recognising atypical neurotoxic presentations of OP poisoning and the potential need for CNS-directed therapy even in the absence of classic peripheral signs.Keywords: Organophosphate, Profenofos, Status epilepticus, Cholinergic toxidrome
+
+== Background ==
+
+Organophosphates (OPs) exert their toxic effects by inhibiting acetylcholinesterase in both central (CNS) and peripheral nervous systems (PNS), resulting in accumulation of acetylcholine and overstimulation of cholinergic synapses. Seizures associated with OP poisoning typically occur in the context of overt systemic cholinergic manifestations. We report a patient with OP poisoning who developed status epilepticus without developing peripheral cholinergic features.
+
+== Case presentation ==
+
+A 40-year-old Sri Lankan man presented six hours after deliberate ingestion of 50 mL of profenofos (500 g/L emulsifiable concentrate). His past medical history was unremarkable. There was no history of substance misuse. On admission, he was conscious, haemodynamically stable, and did not have signs of cholinergic excess. Thirty-six hours post-ingestion, he developed generalized tonic–clonic seizures, which were refractory to intravenous (IV) midazolam boluses and IV levetiracetam. He was intubated and mechanically ventilated. Continuous electroencephalographic monitoring confirmed termination of seizure activity with an intravenous midazolam infusion. Atropine was administered empirically for possible central cholinergic toxicity. The patient made a full neurological recovery and was successfully extubated 72 h after ingestion. The patient remained asymptomatic in a six month follow up.
+
+== Conclusion ==
+
+This case illustrates an uncommon presentation of OP poisoning: delayed-onset status epilepticus in the absence of peripheral cholinergic features. The high lipophilicity of profenofos may facilitate preferential accumulation in the CNS, leading to a predominantly central cholinergic syndrome. This underscores the importance of recognising atypical neurotoxic presentations of OP poisoning and the potential need for CNS-directed therapy even in the absence of classic peripheral signs.
+
+Keywords: Organophosphate, Profenofos, Status epilepticus, Cholinergic toxidrome
+
+Received 2025 Jun 13; Revised 2025 Aug 3; Accepted 2025 Aug 4; Collection date 2025 Dec.
+
+== Introduction ==
+
+Organophosphate (OP) compounds are widely used as agricultural pesticides. Poisoning from these agents remains a significant public health concern, particularly in low- and middle-income countries. The clinical presentation of OP poisoning typically includes an acute cholinergic syndrome resulting from inhibition of synaptic acetylcholinesterase [1]. Central nervous system (CNS) manifestations—such as confusion, seizures, and coma—usually occur following moderate to severe exposures and are generally seen in conjunction with peripheral cholinergic features [1]. Here, we report a patient with profenofos poisoning who developed isolated CNS toxicity, manifesting as status epilepticus, in the absence of a peripheral cholinergic syndrome.
+
+== Case presentation ==
+
+A 40-year-old Sri Lankan man presented to the hospital five hours after deliberate ingestion of approximately 50 mL of profenofos (500 g/L emulsifiable concentrate), an organophosphate pesticide. He had no significant past medical or psychiatric history, denied co-ingestion of other substances, and reported no use of recreational drugs.
+
+On admission, he was fully conscious with a Glasgow Coma Scale (GCS) score of 15/15. Vital signs were stable: heart rate 88 beats per minute, blood pressure 110/70 mmHg, respiratory rate 14 breaths per minute, and oxygen saturation 98 % on room air. Chest auscultation was unremarkable, with no evidence of bronchorrhoea, wheezing, or crepitations. Pupils were 3 mm bilaterally and reactive to light. There were no muscarinic or nicotinic features of cholinergic excess such as hyper-salivation, lacrimation, diarrhoea, fasciculations, or bradycardia.
+
+Initial venous blood gas analysis was within normal limits, except for a raised serum lactate of 5.3 mmol/L (< 2 mmol/L), which normalised spontaneously within six hours. Urine and serum toxicology screens were negative for benzodiazepines, opioids, and psychostimulants.
+
+In the absence of overt cholinergic symptoms, atropine was not administered at presentation. Given the delayed presentation, gastric decontamination with activated charcoal and oxime therapy was not pursued.
+
+Haematological indices, serum electrolytes, and liver and renal biochemistry remained within normal limits throughout the hospital stay.
+
+At 36 h post-ingestion, the patient developed generalized tonic–clonic seizures that persisted for over 15 min and were refractory to two boluses of intravenous midazolam (5 mg each). Intravenous levetiracetam (2 g) was administered, followed by neuromuscular paralysis with atracurium and endotracheal intubation. A continuous intravenous midazolam infusion was commenced at 5 mg/hour. Electroencephalography (EEG) confirmed cessation of seizure activity.
+
+Given the potential for delayed CNS toxicity from profenofos and the risk of occult cholinergic involvement, intravenous atropine (3.6 mg) was administered empirically, followed by a continuous infusion at 0.6 mg/hour. At the time of seizure onset, no peripheral cholinergic signs were evident; however, pupil responsiveness could not be reliably assessed due to concurrent benzodiazepine administration.
+
+The patient remained seizure-free and was successfully extubated 72 h after ingestion. He did not develop any further seizures or clinical features of cholinergic toxicity. Neurological examination revealed no muscle weakness suggestive of the intermediate syndrome.
+
+The patient remained asymptomatic at the end of a six month follow up.
+
+== Discussion ==
+
+Our case highlights an atypical presentation of OP poisoning: central nervous system (CNS) manifestations in the absence of a peripheral cholinergic toxidrome. This is the first reported case of status epilepticus without other cholinergic features following profenofos poisoning. CNS manifestations of OP poisoning (such as confusion, agitation, and seizures) typically occur within 3 – 4 h after exposure and in the context of a constellation of cholinergic features [1], [2]. The incidence of seizures in OP poisoning varies depending on several factors, including the specific compound, dose, route of exposure, delay to treatment, and patient age [2], [3], [4]. Seizures have been reported in 1–10 % of adult cases and up to 20 % of paediatric cases, with increased frequency associated with more lipophilic OP compounds [1], [2]. Seizures are believed to result from central acetylcholine excess, glutamatergic excitotoxicity, and possible direct neuronal injury [5].
+
+Seizures without a prominent peripheral cholinergic syndrome in profenofos toxicity could be due to its preferential accumulation within the CNS. Lipophilic organophosphates have enhanced ability to cross the blood–brain barrier and accumulate in CNS tissue [1], [6]. Profenofos, in particular, has a unique chemical structure distinct from other OP compounds [6], [7](Fig. 1). It features a halogenated aromatic ring and bulky alkyl substituents, conferring high lipophilicity with a logP value ranging from 4.6 to 5.2—significantly greater than that of dimethoate (logP ≈ 0.78) or malathion (logP ≈ 2.4) [8], [9]. This property facilitates CNS penetration and may explain the predominance of central over peripheral toxicity.
+
+Beyond acetylcholinesterase inhibition, profenofos may exert direct neurotoxic effects via non-cholinergic mechanisms. It has been shown to covalently bind to tubulin, disrupting neuronal microtubule dynamics, which may further contribute to CNS injury and seizures [10].
+
+A prospective study of 95 patients with profenofos poisoning reported poor correlation between red blood cell acetylcholinesterase (AChE) levels and cholinergic clinical features [6]. Many patients had profound AChE inhibition (to ∼1 % of baseline) but exhibited only mild peripheral cholinergic signs. This raises the possibility that the peripheral nervous system may exhibit some degree of protection or differential vulnerability to profenofos compared to the CNS.
+
+Lipophilic OP compounds such as profenofos and chlorpyrifos have been reported to cause delayed CNS toxicity [1], [11]. The lipid soluble compounds initially accumulate in adipose tissue and redistribute slowly [12]. This slow redistribution from fat stores, and non-cholinergic neuronal injury which disrupt axonal transport, synaptic integrity and neuronal excitability may explain the delayed CNS manifestations.
+
+The initial period of AChE inhibition by an OP molecule is reversible. ‘Ageing’ refers to the subsequent process which stabilises the bond between the OP molecule and the AChE leading to irreversible inhibition of the enzyme [13], [14]. Ageing occurs due to loss of alkyl or alkoxyl groups bound to the phosphorous atom of the OP molecule through spontaneous hydrolysis. (Aged AChE-OP complexes are not responsive to oxime therapy.) The rate of ageing varies with the chemical structure of the OP compound [14]. Profenofos ages rapidly due to its large S‑alkyl group [15]. Although there are no clinical studies specifically evaluating the process of ageing in profenofos poisoning, pralidoxime was ineffective in reactivating red cell AChE in a prospective cohort study of 95 patients [6]. We propose that ageing of the AChE-OP complex may have led to sustained receptor overstimulation leading to neurotoxicity and status epilepticus.
+
+In our case, the patient developed status epilepticus 36 h post-ingestion without preceding or concurrent cholinergic features. While benzodiazepines and levetiracetam were used for seizure control, the addition of atropine was empirical, based on the hypothesis of occult central cholinergic toxicity. We are unsure, whether it had a therapeutic effect.
+
+We were unable to measure red blood cell AChE activity. Furthermore, we could not identify the types and concentrations of solvents, emulsifiers, or stabilisers in the ingested formulation, which might influence CNS penetration and toxicity.
+
+== Conclusion ==
+
+This case underscores the importance of recognising atypical presentations of OP poisoning. Profenofos poisoning may lead to delayed-onset status epilepticus in the absence of peripheral cholinergic symptoms, likely due to its high lipophilicity and direct CNS effects. Clinicians should maintain a high index of suspicion for central complications in patients with known or suspected profenofos exposure, even when initial symptoms are minimal or non-cholinergic.
+
+The organophosphate product used by the patient in the index case is shown in the Figure.
+
+CSF – cerebrospinal fluid, logP - Logarithm of the octanol–water partition coefficient
+
+== List of abbreviations ==
+
+== CRediT authorship contribution statement ==
+
+Pramith Ruwanpathirana: Writing – original draft, Investigation, Data curation, Conceptualization. Chang Prof Thashi: Writing – review & editing, Supervision, Conceptualization. Shayani Vimalanathan: Writing – original draft, Investigation, Data curation, Conceptualization.
+
+== Ethics approval and consent to participate ==
+
+Approval from an ethics review committee was not sought as the publication is a case report per institutional policy (Ethics Review Committee of the National Hospital of Sri Lanka). We adopted the principles of the Declaration of Helsinki in collecting data and reporting.
+
+== Consent for publication ==
+
+We obtained informed consent from the patient to publish this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.
+
+== Funding ==
+
+None received.
+
+== Declaration of Competing Interest ==
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+== Acknowledgements ==
+
+None.
+
+== Data Availability ==
+
+Data will be made available on request.
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Data will be made available on request.

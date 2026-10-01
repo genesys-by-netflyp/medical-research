@@ -1,0 +1,87 @@
+{
+  "pmcid": "PMC13088479",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13088479-case1",
+      "age": "17 years",
+      "sex": "male",
+      "exposure_context": "occupational/agricultural",
+      "exposure_context_quote": "The patient had no medical history, and he works as a farmer.",
+      "agent": "abamectin (avermectin class insecticide)",
+      "agent_quote": "Abamectin is an insecticide and a member of the avermectin class.",
+      "route": "occupational spraying without protective shield (dermal/inhalational, exact route not specified)",
+      "circumstance": "Repeated occupational exposure during spraying: used the insecticide six times over 1 month without protective shield; last spraying 3 weeks before symptom onset.",
+      "symptoms": [
+        {
+          "finding": "occipital headache",
+          "quote": "Subsequently, he experienced a gradual onset of occipital headache, recurrent vomiting, limb numbness, and right-sided ataxia."
+        },
+        {
+          "finding": "recurrent vomiting",
+          "quote": "Subsequently, he experienced a gradual onset of occipital headache, recurrent vomiting, limb numbness, and right-sided ataxia."
+        },
+        {
+          "finding": "limb numbness",
+          "quote": "Subsequently, he experienced a gradual onset of occipital headache, recurrent vomiting, limb numbness, and right-sided ataxia."
+        },
+        {
+          "finding": "right-sided ataxia",
+          "quote": "Subsequently, he experienced a gradual onset of occipital headache, recurrent vomiting, limb numbness, and right-sided ataxia."
+        },
+        {
+          "finding": "nasal speech",
+          "quote": "The patient’s speech was nasal."
+        },
+        {
+          "finding": "horizontal nystagmus with gaze-holding deficit",
+          "quote": "Cranial nerve examination showed horizontal nystagmus with gaze-holding deficit."
+        },
+        {
+          "finding": "right-sided dysmetria",
+          "quote": "Cerebellar signs showed right-sided dysmetria via the finger–nose–finger maneuver."
+        },
+        {
+          "finding": "impaired pain and heat sensation in upper and lower limbs",
+          "quote": "The sensory system examination revealed impaired pain and heat sensation in the upper and lower limbs."
+        },
+        {
+          "finding": "brisk deep tendon reflexes with clonus",
+          "quote": "Motor system examination revealed normal extremity strength, reduced tone, and brisk deep tendon reflexes with clonus."
+        }
+      ],
+      "time_to_care": "Presented to hospital 15 days after onset of symptoms (last spraying 3 weeks before presentation)",
+      "labs": [
+        {
+          "name": "cholinesterase activity",
+          "value": "within normal limits",
+          "quote": "Biochemical and hematological screening revealed that serum transaminase, creatinine, urea, amylase, prothrombin time, cholinesterase activity, Widal test, Wright test, vitamin B12, C-reactive protein (CRP), and coronavirus disease 2019 (COVID-19) antibody levels were within normal limits."
+        },
+        {
+          "name": "serum transaminases, creatinine, urea, amylase, prothrombin time, vitamin B12, CRP",
+          "value": "within normal limits",
+          "quote": "Biochemical and hematological screening revealed that serum transaminase, creatinine, urea, amylase, prothrombin time, cholinesterase activity, Widal test, Wright test, vitamin B12, C-reactive protein (CRP), and coronavirus disease 2019 (COVID-19) antibody levels were within normal limits."
+        },
+        {
+          "name": "brain MRI",
+          "value": "bilateral symmetric T2 hyperintensity in the caudate nuclei and putamen without restricted diffusion",
+          "quote": "Magnetic resonance imaging (MRI) imaging revealed bilateral symmetric T2 hyperintensity in the caudate nuclei and putamen without restricted diffusion; otherwise, it was normal (Figs. 1, 2)."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "symptomatic therapy and avoidance of further pesticide exposure",
+          "quote": "As there was no antidote, the patient was monitored and given symptomatic therapy, changing his work environment [10, 16]."
+        }
+      ],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Stable at hospitalization; improved after follow-up",
+      "outcome_quote": "Nevertheless, his condition was stable at the time of hospitalization. After the follow-up, eventually, he improved.",
+      "sequelae": "None reported; improved after follow-up",
+      "notes": "Diagnosis made on exposure history after excluding other causes; serum avermectin analysis not available in Syria. Symptoms began 3 weeks after last of six exposure sessions."
+    }
+  ]
+}

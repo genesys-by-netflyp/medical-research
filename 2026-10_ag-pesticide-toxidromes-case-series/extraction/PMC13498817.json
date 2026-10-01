@@ -1,0 +1,142 @@
+{
+ "pmcid": "PMC13498817",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC13498817_case1",
+   "age": "early 40s",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "approximately 40 min after intentional self-ingestion of AlP tablets that were fully dissolved in clean water during an acute emotional distress episode in early 2026",
+   "agent": "aluminum phosphide (15 tablets, 3 g each, 56% purity; total 25.2 g)",
+   "agent_quote": "He ingested a total of 15 AlP tablets, each weighing 3 g with a purity of 56%, resulting in a total ingested dose of 25.2 g, equivalent to 16–25 times the reported human lethal dose (1.0–1.5 g).",
+   "route": "oral ingestion",
+   "circumstance": "intentional self-ingestion during an acute emotional distress episode; attempts at self-induced vomiting unsuccessful",
+   "symptoms": [
+    {
+     "finding": "progressive dizziness",
+     "quote": "the patient rapidly developed progressive dizziness, oppressive chest tightness, shortness of breath, and an unsteady gait"
+    },
+    {
+     "finding": "oppressive chest tightness",
+     "quote": "the patient rapidly developed progressive dizziness, oppressive chest tightness, shortness of breath, and an unsteady gait"
+    },
+    {
+     "finding": "shortness of breath",
+     "quote": "the patient rapidly developed progressive dizziness, oppressive chest tightness, shortness of breath, and an unsteady gait"
+    },
+    {
+     "finding": "unsteady gait",
+     "quote": "the patient rapidly developed progressive dizziness, oppressive chest tightness, shortness of breath, and an unsteady gait"
+    },
+    {
+     "finding": "hemodynamic instability, hypotension, tachycardia, tachypnea",
+     "quote": "he appeared markedly anxious and hemodynamically unstable. Vital signs were as follows: blood pressure, 95/70 mmHg; heart rate, 112 beats/min; respiratory rate, 26 breaths/min; and peripheral oxygen saturation (SpO2), 94% while breathing room air."
+    },
+    {
+     "finding": "ECG: diffuse ST-segment depression and symmetric T-wave inversion (myocardial ischemia)",
+     "quote": "A 12-lead electrocardiogram demonstrated diffuse ST-segment depression and symmetric T-wave inversion across the precordial and lateral leads, consistent with severe phosphine-induced myocardial ischemia and subendocardial injury"
+    },
+    {
+     "finding": "acute hypoxemic respiratory failure and progressive somnolence",
+     "quote": "the patient's clinical status deteriorated acutely, with the development of acute hypoxemic respiratory failure and progressive somnolence"
+    },
+    {
+     "finding": "ARDS (bilateral ground-glass opacities on CT day 3)",
+     "quote": "Chest computed tomography (CT) performed on day 3 revealed bilateral diffuse ground-glass opacities (Figure 2(a)), consistent with acute lung injury and ARDS secondary to phosphine toxicity."
+    },
+    {
+     "finding": "ventilator-associated pneumonia (Citrobacter koseri)",
+     "quote": "a subsequent sputum culture identified C. koseri, confirming the diagnosis of VAP."
+    }
+   ],
+   "time_to_care": "approximately 40 min after ingestion",
+   "labs": [
+    {
+     "name": "arterial blood gas pH",
+     "value": "7.223",
+     "quote": "Arterial blood gas analysis revealed severe metabolic acidosis with pH = 7.223, bicarbonate (HCO₃−) = 14.4 mmol/L, and a critically elevated blood lactate level of 13.15 mmol/L"
+    },
+    {
+     "name": "bicarbonate",
+     "value": "14.4 mmol/L",
+     "quote": "Arterial blood gas analysis revealed severe metabolic acidosis with pH = 7.223, bicarbonate (HCO₃−) = 14.4 mmol/L, and a critically elevated blood lactate level of 13.15 mmol/L"
+    },
+    {
+     "name": "blood lactate",
+     "value": "13.15 mmol/L, rising to 14.75 mmol/L",
+     "quote": "the blood lactate level further increased to 14.75 mmol/L"
+    },
+    {
+     "name": "Glasgow Coma Scale",
+     "value": "15",
+     "quote": "the patient was fully alert with a Glasgow Coma Scale score of 15"
+    },
+    {
+     "name": "serum aluminum",
+     "value": "detectable",
+     "quote": "His serum aluminum level was detectable biochemically, confirming the systemic absorption of AlP."
+    },
+    {
+     "name": "hypocalcemia",
+     "value": "present (value UNVERIFIED)",
+     "quote": "A definitive diagnosis of MODS was established, characterized by acute kidney injury, overt myocardial damage, refractory lactic acidosis, and hypocalcemia."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "ultra-early gastric lavage with 200 mL liquid paraffin",
+     "quote": "ultra-early gastric decontamination was performed immediately using 200 mL of liquid paraffin to coat residual AlP tablets and halt further phosphine gas production"
+    },
+    {
+     "name": "activated charcoal and mannitol catharsis",
+     "quote": "followed by activated charcoal adsorption and mannitol-induced catharsis to minimize ongoing toxin absorption"
+    },
+    {
+     "name": "hemoperfusion (two sessions)",
+     "quote": "The first session of hemoperfusion was promptly initiated to actively eliminate circulating lipophilic phosphine and aluminum ions."
+    },
+    {
+     "name": "continuous venovenous hemofiltration (CVVH)",
+     "quote": "Continuous venovenous hemofiltration was promptly initiated for sustained organ support, metabolic stabilization, and cytokine clearance."
+    },
+    {
+     "name": "endotracheal intubation and mechanical ventilation with prone positioning",
+     "quote": "Emergency endotracheal intubation and mechanical ventilation were initiated to secure the airway and support gas exchange."
+    },
+    {
+     "name": "norepinephrine, dopamine, metaraminol vasopressors",
+     "quote": "Vasopressor support during the first 72 h consisted of dopamine (total 800 mg), metaraminol (40 mg), and norepinephrine (6 mg)"
+    },
+    {
+     "name": "5% sodium bicarbonate infusion (1500 mL over first 24 h)",
+     "quote": "1500 mL of 5% sodium bicarbonate (equivalent to approximately 893 mEq bicarbonate) was continuously infused intravenously over the initial 24-hour resuscitation period."
+    },
+    {
+     "name": "high-dose intravenous methylprednisolone",
+     "quote": "High-dose intravenous methylprednisolone and prone positioning ventilation were administered to reduce pulmonary inflammation and improve oxygenation."
+    },
+    {
+     "name": "targeted antimicrobial therapy for C. koseri VAP",
+     "quote": "Antimicrobial therapy was promptly adjusted according to the microbiological culture and antimicrobial susceptibility results."
+    },
+    {
+     "name": "vitamin C and cytochrome C antioxidant therapy",
+     "quote": "vitamin C (total dose of 30.5 g, 2 g per day) and cytochrome C (total dose of 1260 mg, 60 mg per day) for 21 days"
+    },
+    {
+     "name": "fluid resuscitation (3500 mL crystalloids first 24 h; ~33.8 L total)",
+     "quote": "aggressive fluid resuscitation with a total of 3500 mL of crystalloids (normal saline and Ringer's lactate) over the first 24 h"
+    }
+   ],
+   "icu_admission": "yes (mechanical ventilation, vasopressors, CVVH in ICU setting)",
+   "outcome": "full clinical recovery, discharged day 18 post-admission",
+   "outcome_quote": "The patient achieved full clinical recovery and was discharged from the hospital on day 18 post-admission, with near-normalization of all biochemical markers (Table 1).",
+   "sequelae": "none at 1-month follow-up",
+   "notes": "MODS with refractory cardiogenic shock, ARDS, AKI, liver dysfunction, hypocalcemia, and secondary C. koseri VAP; treated without ECMO. Extubated hospital day 4; repeat ECG day 5 normalized."
+  }
+ ]
+}

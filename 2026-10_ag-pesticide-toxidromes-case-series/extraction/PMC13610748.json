@@ -1,0 +1,120 @@
+{
+ "pmcid": "PMC13610748",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC13610748_case1",
+   "age": "26 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 26-year-old previously healthy male presented to the emergency department 4½ h after attempting suicide by injecting approximately 10 mL of 24% paraquat dichloride intravenously into the dorsal metacarpal region of his left hand at home.",
+   "agent": "paraquat dichloride (24% solution, approximately 10 mL, intravenous)",
+   "agent_quote": "injecting approximately 10 mL of 24% paraquat dichloride intravenously into the dorsal metacarpal region of his left hand",
+   "route": "intravenous injection",
+   "circumstance": "suicide attempt by self-injection at home; engineering graduate employed in an IT company with no occupational access; no past psychiatric illness",
+   "symptoms": [
+    {
+     "finding": "hematemesis (two episodes)",
+     "quote": "Shortly after injection, the patient experienced two episodes of hematemesis, profuse sweating, giddiness, chills, restlessness, and generalized burning sensations."
+    },
+    {
+     "finding": "diaphoresis, giddiness, chills, restlessness, generalized burning sensations",
+     "quote": "Shortly after injection, the patient experienced two episodes of hematemesis, profuse sweating, giddiness, chills, restlessness, and generalized burning sensations."
+    },
+    {
+     "finding": "bradycardia (pulse 56/min), pedal edema, injection-site swelling and erythema",
+     "quote": "Physical examination revealed pedal edema, bradycardia without murmurs, and localized swelling and erythema at the injection site."
+    },
+    {
+     "finding": "progressive respiratory distress (day 2: RR 40/min)",
+     "quote": "On the second hospital day, the patient developed dyspnea with tachypnea (RR 40/min), tachycardia (111 bpm), BP 110/90 mmHg, and SpO₂ 98%."
+    },
+    {
+     "finding": "refractory hypotension and recurrent cardiac arrests",
+     "quote": "Despite ongoing CRRT, vasopressors, and corticosteroids, he developed recurrent episodes of bradycardia and cardiac arrest."
+    }
+   ],
+   "time_to_care": "4½ hours after injection",
+   "labs": [
+    {
+     "name": "WBC",
+     "value": "elevated (leukocytosis; value not given in text)",
+     "quote": "Initial blood investigations [Table 1] revealed an elevated WBC count suggestive of leukocytosis."
+    },
+    {
+     "name": "serum creatinine",
+     "value": "about two-fold higher than the normal range",
+     "quote": "Serum creatinine was about two-fold higher than the normal range, suggested impaired kidney function."
+    },
+    {
+     "name": "potassium and magnesium",
+     "value": "mildly reduced (hypokalemia and hypomagnesemia)",
+     "quote": "Electrolyte analysis showed mild hypokalemia and hypomagnesemia, as the levels of K+ and Mg²+ were slightly reduced."
+    },
+    {
+     "name": "phosphate",
+     "value": "4.9 mg/dL (hyperphosphatemia)",
+     "quote": "Additionally, hyperphosphatemia (4.9 mg/dL) and hyperuricemia (7.1 mg/dL) were also observed."
+    },
+    {
+     "name": "uric acid",
+     "value": "7.1 mg/dL (hyperuricemia)",
+     "quote": "Additionally, hyperphosphatemia (4.9 mg/dL) and hyperuricemia (7.1 mg/dL) were also observed."
+    },
+    {
+     "name": "ABG (admission)",
+     "value": "pH 7.335, pCO2 26.2 mmHg, pO2 91.5 mmHg (metabolic acidosis)",
+     "quote": "Arterial blood gas (ABG) analysis revealed metabolic acidosis (pH: 7.335, pCO2: 26.2 mmHg, pO2: 91.5 mmHg)."
+    },
+    {
+     "name": "ABG (day 2)",
+     "value": "pH 7.276, HCO3- 12.3 mmol/L, pO2 60.4 mmHg",
+     "quote": "ABG revealed worsening metabolic acidosis (pH: 7.276, HCO₃⁻: 12.3 mmol/L, pO₂: 60.4 mmHg)."
+    },
+    {
+     "name": "urinalysis",
+     "value": "proteinuria, glycosuria, granular casts; specific gravity 1.015",
+     "quote": "The presence of granular casts in urine was an important abnormal finding that may have indicated renal parenchymal damage"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "Ryle's tube and Foley's catheter insertion",
+     "quote": "after disclosure, a Ryle's tube and a Foley's catheter were inserted."
+    },
+    {
+     "name": "hemodialysis (initiated 7 h after exposure, 3 h)",
+     "quote": "hemodialysis was initiated 7 h after exposure for 3 h."
+    },
+    {
+     "name": "continuous renal replacement therapy (CRRT)",
+     "quote": "Continuous renal replacement therapy (CRRT) was started later in the same clinical course."
+    },
+    {
+     "name": "intravenous ceftriaxone",
+     "quote": "The patient received intravenous ceftriaxone, N-acetylcysteine (loading dose 12 g over 1 h, followed by sequential infusions), and pantoprazole."
+    },
+    {
+     "name": "N-acetylcysteine (loading 12 g over 1 h, then sequential infusions)",
+     "quote": "N-acetylcysteine (loading dose 12 g over 1 h, followed by sequential infusions)"
+    },
+    {
+     "name": "pantoprazole",
+     "quote": "The patient received intravenous ceftriaxone, N-acetylcysteine (loading dose 12 g over 1 h, followed by sequential infusions), and pantoprazole."
+    },
+    {
+     "name": "vasopressors and corticosteroids",
+     "quote": "Despite ongoing CRRT, vasopressors, and corticosteroids, he developed recurrent episodes of bradycardia and cardiac arrest."
+    }
+   ],
+   "icu_admission": "UNVERIFIED (intensive supportive care implied; explicit ICU admission not stated)",
+   "outcome": "died 28 h after admission after multiple cardiac arrests and refractory shock",
+   "outcome_quote": "After multiple cardiac arrests, he was pronounced dead 28 h after admission.",
+   "sequelae": "UNVERIFIED (died)",
+   "notes": "Patient initially concealed the mode of poisoning. Baseline chest radiography normal. Intravenous paraquat poisoning is rare and almost uniformly fatal."
+  }
+ ]
+}

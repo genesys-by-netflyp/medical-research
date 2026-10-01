@@ -1,0 +1,81 @@
+== ARTICLE TITLE ==
+A rare intravenous paraquat exposure presenting with novel and atypical severe clinical manifestations
+
+== ABSTRACT ==
+Paraquat is a highly toxic bipyridyl herbicide that continues to be used in several countries despite restrictions elsewhere. While ingestion is the most common route of poisoning, intravenous administration is rare and associated with extremely high mortality. We report the case of a 26-year-old male who attempted suicide by self-injecting 10 mL of 24% paraquat dichloride intravenously into the dorsal metacarpal region. Within hours, he developed hematemesis, diaphoresis, giddiness, chills, agitation, and diffuse burning sensations. On admission, he was alert but drowsy with bradycardia, pedal edema, and local swelling at the injection site. Laboratory findings revealed leukocytosis, elevated serum creatinine, hypokalemia, and metabolic acidosis. Despite early hemodialysis, continuous renal replacement therapy, and administration of antioxidants and supportive treatment, the patient developed progressive respiratory distress, refractory hypotension, and recurrent cardiac arrests. He died 28 h after admission. Intravenous paraquat poisoning is rare but uniformly fatal. This case emphasizes the importance of early recognition, aggressive supportive care, and the continued need for preventive strategies and regulatory measures to limit paraquat availability.
+
+== Introduction ==
+
+Paraquat (1,1′11aquattio4,4′,4aquattiongen is a widely used nonselective herbicide known for its high toxicity.[1] Because of its low cost and effectiveness, paraquat remains readily available in many developing countries, although it has been banned or restricted in several parts of the world due to its lethality.[23]
+
+The compound exerts toxicity by undergoing redox cycling, producing reactive oxygen species (ROS) that cause lipid peroxidation, mitochondrial damage, and apoptosis.[45] Paraquat accumulates selectively in pulmonary alveolar cells and renal tubular epithelium, leading to progressive pulmonary fibrosis and acute kidney injury.[67] Although ingestion is the most frequent route of poisoning, systemic toxicity can also occur via dermal absorption, inhalation, or parenteral exposure.[8] Intravenous injection of paraquat is exceedingly rare, with only a handful of cases reported in the literature.[910]
+
+The estimated lethal dose of paraquat in adults is approximately 30 mg/kg, equivalent to 3–6 g of paraquat ion or 10–20 mL of a 20% solution.[11] Clinical outcomes are strongly dependent on dose, route of exposure, and the time interval between exposure and initiation of treatment. Currently, no specific antidote exists; management is largely supportive, including decontamination, hemodialysis, antioxidant therapy, and immunosuppressive regimens with variable success.[1213]
+
+Here, we describe the case of a young adult male who attempted suicide by intravenous injection of paraquat. Despite aggressive resuscitative measures, he developed multiorgan dysfunction and succumbed within 28 h. This report contributes to the limited literature on intravenous paraquat poisoning and highlights its fulminant clinical course.
+
+== Case Report ==
+
+A 26-year-old previously healthy male presented to the emergency department 4½ h after attempting suicide by injecting approximately 10 mL of 24% paraquat dichloride intravenously into the dorsal metacarpal region of his left hand at home. He denied alcohol consumption at the time of the event.
+
+== Initial presentation ==
+
+Shortly after injection, the patient experienced two episodes of hematemesis, profuse sweating, giddiness, chills, restlessness, and generalized burning sensations. On arrival, his vital signs were pulse 56/min, respiratory rate (RR) 20/min, blood pressure 110/70 mmHg, and oxygen saturation 100% on room air. He was conscious, oriented, but slightly drowsy. Physical examination revealed pedal edema, bradycardia without murmurs, and localized swelling and erythema at the injection site.
+
+== Laboratory investigations ==
+
+Initial blood investigations [Table 1] revealed an elevated WBC count suggestive of leukocytosis. Serum creatinine was about two-fold higher than the normal range, suggested impaired kidney function. Electrolyte analysis showed mild hypokalemia and hypomagnesemia, as the levels of K+ and Mg²+ were slightly reduced. Additionally, hyperphosphatemia (4.9 mg/dL) and hyperuricemia (7.1 mg/dL) were also observed. Arterial blood gas (ABG) analysis revealed metabolic acidosis (pH: 7.335, pCO2: 26.2 mmHg, pO2: 91.5 mmHg). These patterns are generally found in acute kidney injury and/or cell breakdown caused by poisoning, severe infection, rhabdomyolysis, and tumor lysis.[14] Urine culture was unremarkable. The urine sample was clear and pale yellow, indicating proper hydration and the lack of pyuria or extensive hematuria. The specific gravity (1.015) was within the normal range (1.003–1.030) and showed preserved renal concentrating ability. The pH of 6 in the urine was within the typical physiological range of 4.6–7. Albumin and sugar were found in urine, indicating proteinuria and glycosuria, which may reflect renal involvement or underlying metabolic derangement, such as poor glucose processing or tubular dysfunction. At the time of the test, diabetic ketoacidosis was improbable because acetone was negative, ruling out ketonuria. The microscopic examination revealed 4–5 WBCs per high-power field, which fell within the upper limit of the normal range and ruled out the likelihood of an active urinary tract infection. Epithelial cells (2–3/high-power field) were limited, indicating an appropriately obtained sample. The presence of granular casts in urine was an important abnormal finding that may have indicated renal parenchymal damage, thereby potentially affecting the filtration process.
+
+== Management ==
+
+Initially, the patient concealed the mode of poisoning; after disclosure, a Ryle’s tube and a Foley’s catheter were inserted. The physician advised early hemodialysis. A triple-lumen hemodialysis catheter was placed, and hemodialysis was initiated 7 h after exposure for 3 h. Chest radiography was normal at baseline [Figure 1]. The patient received intravenous ceftriaxone, N-acetylcysteine (loading dose 12 g over 1 h, followed by sequential infusions), and pantoprazole. Continuous renal replacement therapy (CRRT) was started later in the same clinical course. On the second hospital day, the patient developed dyspnea with tachypnea (RR 40/min), tachycardia (111 bpm), BP 110/90 mmHg, and SpO₂ 98%. He became progressively drowsy and unresponsive. ABG revealed worsening metabolic acidosis (pH: 7.276, HCO₃⁻: 12.3 mmol/L, pO₂: 60.4 mmHg). Despite ongoing CRRT, vasopressors, and corticosteroids, he developed recurrent episodes of bradycardia and cardiac arrest. Resuscitation was initially successful on two occasions, but refractory shock ensued. After multiple cardiac arrests, he was pronounced dead 28 h after admission.
+
+== Discussion ==
+
+Paraquat remains one of the most lethal herbicides in clinical toxicology. Despite being banned in many countries, it is still widely available in parts of Asia, Africa, and Latin America due to its low cost and effectiveness.[12] The majority of reported cases involve intentional ingestion; intravenous injection, as seen in our patient, is exceedingly rare and often rapidly fatal.[910]
+
+== Pathophysiology ==
+
+After systemic absorption, paraquat undergoes redox cycling to generate superoxide anions and other ROS. These intermediates lead to lipid peroxidation, mitochondrial dysfunction, and cell death.[45] The lung is a primary target organ due to active uptake by alveolar epithelial cells, resulting in alveolitis and progressive pulmonary fibrosis.[6] The kidneys also accumulate paraquat, causing acute tubular necrosis and worsening renal impairment.[7] Comparative account of oral and IV parquet poisoning is shown in Table 2.
+
+== Clinical features ==
+
+Ingestion typically causes caustic oropharyngeal and gastrointestinal injury, followed by pulmonary, renal, hepatic, and cardiovascular involvement.[3] Intravenous injection bypasses mucosal injury but delivers a concentrated systemic dose, explaining the fulminant course in this and other reported cases.[910] Previous case reports describe a rapid onset of multiorgan dysfunction and near-uniform mortality despite aggressive intervention.
+
+== Management ==
+
+No specific antidote exists for paraquat poisoning.[12] Management is largely supportive and includes gastrointestinal decontamination (if ingested), antioxidant therapy (e.g., N-acetylcysteine, Vitamin C, abd Vitamin E), immunosuppressive regimens (cyclophosphamide and corticosteroids), and extracorporeal elimination (hemodialysis or hemoperfusion).[13] However, evidence for improved survival is limited, and treatment is often unsuccessful once systemic toxicity develops. Our patient received early hemodialysis, CRRT, antioxidants, corticosteroids, and broad-spectrum antibiotics, yet progressed to refractory shock and death within 28 h [Table 3].
+
+== Comparison with literature ==
+
+To date, only a handful of intravenous paraquat poisoning cases have been reported [Table 4].[910] Outcomes in nearly all cases were fatal, with survival described only in rare instances where the injected dose was small and intensive treatment was initiated extremely early. Our case is consistent with this body of evidence, reinforcing that intravenous paraquat exposure is almost uniformly lethal regardless of therapy.
+
+== Public health implications ==
+
+The continued availability of paraquat poses a significant public health challenge in countries where it remains legal. Restriction of access, improved regulation, and public awareness are critical preventive measures.[2]
+
+== Atypical scenario ==
+
+Unlike most published cases of parenteral paraquat poisoning, which predominantly involve agricultural workers or individuals with occupational access to herbicides, the patient was an engineering graduate employed in an IT company. This non-agricultural, urban professional background made the exposure context distinctly atypical and clinically challenging. An IT engineer obtaining paraquat raises questions like:
+
+
+How was the chemical accessed?Was it stored illegally or acquired online?Does this represent a new urban access pathway for toxic agents?
+
+
+These elements make the case stand out as peculiar, especially from a public health perspective.
+
+== Conclusion ==
+
+Intravenous paraquat poisoning is a rare but devastating form of herbicide toxicity. The rapid onset of multiorgan dysfunction and lack of an effective antidote contribute to uniformly poor outcomes. This case highlights the need for clinicians to recognize atypical routes of exposure, initiate aggressive supportive care promptly, and advocate for stricter regulation of paraquat to prevent further fatalities. The case is novel because it integrates rare dimensions simultaneously:
+
+
+Rare route → Intravenous injection (already extremely uncommon)Rare demographic → IT professional with no exposure riskRare psychosocial profile → No past psychiatric illnessRare clinical pattern → Multiple cardiac arrests preceding death.
+
+
+== Declaration of patient consent ==
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given his consent for his images and other clinical information to be reported in the journal. The patient understands that name and initials will not be published and due efforts will be made to conceal identity, but anonymity cannot be guaranteed.
+
+== Conflicts of interest ==
+
+There are no conflicts of interest.

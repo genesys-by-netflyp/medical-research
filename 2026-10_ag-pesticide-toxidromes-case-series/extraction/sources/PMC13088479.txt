@@ -1,0 +1,89 @@
+== ARTICLE TITLE ==
+Bilateral basal ganglia hyperintensity and cerebellar dysfunction in avermectin poisoning: a case report
+
+== ABSTRACT ==
+AbstractBackgroundCommon neurologic signs can be caused by rare conditions. Avermectin poisoning is one of the underreported causes of neurologic syndromes, especially in the agricultural population. It can cause headaches, vomiting, ataxia, and nystagmus. Linking typical magnetic resonance imaging with the proper clinical context could raise suspicion of poisoning, especially when the patient is uncooperative. Recognition of these cases can prevent worsening neurologic symptoms in patients.Case presentationWe report the case of a 17-year-old Syrian male individual who presented with headache, vomiting, ataxia, and nystagmus. Symptoms began 3 weeks after repeated avermectin exposure (six sessions over 1 month) without a protective shield. The patient had no medical history, and he works as a farmer. After ruling out many potential causes of his presentation through laboratory studies, brain magnetic resonance imaging revealed hyperintensity in the basal ganglia. Eventually, by historical chronological association, he was diagnosed with avermectin-induced pesticide poisoning. He was managed symptomatically and advised to avoid exposure to pesticides. Continued exposure would lead to a very advanced condition. Nevertheless, his condition was stable at the time of hospitalization. After the follow-up, eventually, he improved.ConclusionAvermectin poisoning should be suspected in specific groups of patients with occupational exposure to agricultural or pharmaceutical chemicals. A thorough differential diagnosis is required when a patient presents with nonspecific neurological signs. This report is the first to link avermectin poisoning to specific magnetic resonance imaging findings.Keywords: Intoxication, Nystagmus, Avermectin, Basal ganglia, Case report
+
+== Background ==
+
+Common neurologic signs can be caused by rare conditions. Avermectin poisoning is one of the underreported causes of neurologic syndromes, especially in the agricultural population. It can cause headaches, vomiting, ataxia, and nystagmus. Linking typical magnetic resonance imaging with the proper clinical context could raise suspicion of poisoning, especially when the patient is uncooperative. Recognition of these cases can prevent worsening neurologic symptoms in patients.
+
+== Case presentation ==
+
+We report the case of a 17-year-old Syrian male individual who presented with headache, vomiting, ataxia, and nystagmus. Symptoms began 3 weeks after repeated avermectin exposure (six sessions over 1 month) without a protective shield. The patient had no medical history, and he works as a farmer. After ruling out many potential causes of his presentation through laboratory studies, brain magnetic resonance imaging revealed hyperintensity in the basal ganglia. Eventually, by historical chronological association, he was diagnosed with avermectin-induced pesticide poisoning. He was managed symptomatically and advised to avoid exposure to pesticides. Continued exposure would lead to a very advanced condition. Nevertheless, his condition was stable at the time of hospitalization. After the follow-up, eventually, he improved.
+
+== Conclusion ==
+
+Avermectin poisoning should be suspected in specific groups of patients with occupational exposure to agricultural or pharmaceutical chemicals. A thorough differential diagnosis is required when a patient presents with nonspecific neurological signs. This report is the first to link avermectin poisoning to specific magnetic resonance imaging findings.
+
+Keywords: Intoxication, Nystagmus, Avermectin, Basal ganglia, Case report
+
+Received 2025 May 21; Accepted 2025 Dec 31; Collection date 2026.
+
+== Introduction ==
+
+Neurologic syndrome after pesticide poisoning is uncommon globally but can lead to severe outcomes. Avermectin, a pesticide derived from the toxin of the soil bacterium Streptomyces avermitilis is commonly used to control mites, fire ants, and other insects [1]. Its mechanism of action involves GABA stimulation and the opening of chloride channels [2], which may disrupt cerebellar function by affecting cerebellum GABA receptors [3]. Unlike organophosphate poisoning, which is more common and has available antidotes such as atropine and pralidoxime, avermectin poisoning in humans is rare and lacks a specific antidote [4]. Poisoning with avermectin has rarely been reported. Reported symptoms of poisoning include nausea, vomiting, diarrhea, weakness, hypotension, and coma [5–7].
+
+== Case presentation ==
+
+We present the case of a 17-year-old Syrian man. The patient had no past medical history, family history, or drug abuse. He used the insecticide six times. The first time was 1 month before the admission. Abamectin is an insecticide and a member of the avermectin class. He used the insecticide without a protective shield. The last spraying was 3 weeks before presentation. Subsequently, he experienced a gradual onset of occipital headache, recurrent vomiting, limb numbness, and right-sided ataxia. The patient presented to the hospital after 15 days. On admission, his blood pressure was 110/70 mmHg and his heart rate was 100 beats per minute. Clinical examination revealed normal consciousness, response, and orientation. The patient’s speech was nasal. Cranial nerve examination showed horizontal nystagmus with gaze-holding deficit. Motor system examination revealed normal extremity strength, reduced tone, and brisk deep tendon reflexes with clonus. The sensory system examination revealed impaired pain and heat sensation in the upper and lower limbs. Cerebellar signs showed right-sided dysmetria via the finger–nose–finger maneuver. Biochemical and hematological screening revealed that serum transaminase, creatinine, urea, amylase, prothrombin time, cholinesterase activity, Widal test, Wright test, vitamin B12, C-reactive protein (CRP), and coronavirus disease 2019 (COVID-19) antibody levels were within normal limits. Cerebrospinal fluid analysis was also within normal limits. Magnetic resonance imaging (MRI) imaging revealed bilateral symmetric T2 hyperintensity in the caudate nuclei and putamen without restricted diffusion; otherwise, it was normal (Figs. 1, 2). Differential diagnoses involve lymphoma, ischemia, neurodegeneration, metabolic disturbances, toxins, and infections. The presentation was similar to carbon monoxide toxicity but distinct in this clinical context. Nevertheless, the laboratory investigations excluded many differential diagnoses (no infectious, inflammatory, or metabolic derangements). Additionally, the recent exposure to pesticides was the only probable cause of his symptoms. As there is no confirmatory test in Syria, it was challenging for us to make the diagnosis by excluding other potential causes. Symptomatic treatment was attempted owing to the lack of a specific antidote. The plan included normal saline 2 L per day, acetaminophen 1 g three times a day (tid), and ondansetron 8 mg twice a day (bid). Subsequently, 5 days after admission, our patient was discharged home and stable with partial improvement. At the 1-month follow-up, he had fully recovered, and the neurological examination was normal.
+
+== Discussion ==
+
+Avermectins work by stimulating GABA receptors; hence, they inhibit the conduction of nerve and muscle [1]. However, owing to their lipophilicity, avermectins also cause neuronal chloride influx and excitotoxicity in the basal ganglia [8]. Reports of acute toxicity are uncommon in medical literature. The clinical manifestations of toxicity involve the nervous, gastrointestinal, and respiratory systems [5, 6, 9, 12]. Patients present with nausea, vomiting, salivation, diarrhea, and dizziness [6, 9, 10]. Severe symptoms may include respiratory failure, hypotension, and coma [11, 14]. This disorder is characterized by many neurological abnormalities, including neck flexion weakness, deep tendon reflex abnormalities, cranial nerve abnormalities, proximal muscle weakness, and respiratory insufficiency [5, 13]. Risk factors for the development of the syndrome include exposure to a highly fat-soluble agent and inadequate doses of oximes [13]. A case report by Sung mentioned a patient with coma, myoclonus, and polyneuropathy who presented after high-dose avermectin poisoning [14], and this patient did not undergo an MRI of the brain. Wu conducted research on the intentional ingestion of avermectin pesticides. None of the cases in this study presented with nystagmus. Furthermore, MRI was not performed as a study modality because of a lack of neurologic symptoms [15].
+
+Our case highlights the possibility that avermectin also acts via the vestibular cerebellar system.
+
+One of the case reports mentioned the nystagmus symptoms as a manifestation of poisoning but without a brain MRI [16]. Therefore, the linkage of the patient’s symptoms to the brain MRI was of paramount value. Another case report by Diao mentioned a case of a 15-year-old female patient with avermectin poisoning. She presented with encephalopathy, ataxia, and coma. Her brain MRI also showed T2/fluid-attenuated inversion recovery (FLAIR) hyperintensity in the basal ganglia [17]. Generally, the T2 hyperintensity in the basal ganglia has many causes.
+
+== LINT ==
+
+Lymphoma, ischemia, neurodegenerative conditions, and toxins (LINT), which involves carbon monoxide, cyanide, ethylene glycol, hypoglycemia, methanol, and pesticides, is a helpful mnemonic for identifying potential causes [18]. In our case, we cautiously investigated the possible causes of the symptoms. Analysis of serum avermectin is not available in Syria; therefore, we did not perform it. However, we excluded other potential causes.
+
+Pesticide poisoning has been diagnosed on clinical grounds by linking the findings to the exposure history. Owing to significant variability in toxicity, we should make every effort to identify the agent specifically. As there was no antidote, the patient was monitored and given symptomatic therapy, changing his work environment [10, 16]. This case implies that we should inform farmers about the risk and symptoms of poisoning. Furthermore, we need to utilize alternatives to these insecticides, especially in low-income countries where resources are so limited.
+
+== Conclusion ==
+
+Avermectin poisoning should be considered in agricultural workers presenting with ataxia, nystagmus, and basal ganglia MRI abnormalities, even with delayed symptom onset. As there is no specific antidote, early recognition is sufficient to prevent brain damage. We also need to improve pesticide regulations and clinician awareness. Subsequently, we can prevent and manage these cases efficiently and permanently.
+
+== Acknowledgments ==
+
+I am delighted to thank Dr. Anas Jouhar, the head of the Neurology and Neurophysiology Department in Damascus Hospital, and Dr. Aisha Shulla, neurology specialist, for their helpful suggestions and support.
+
+== Abbreviations ==
+
+== Author contributions ==
+
+Zuhoor Al-Yasmen wrote the primary manuscript, and Ali Ibrahim revised it, made many modifications, and wrote the abstract. All the authors have read and approved the final manuscript.
+
+== Funding ==
+
+There was no funding for data collection, writing, or publication.
+
+== Data availability ==
+
+All data supporting the conclusions are included in the manuscript.
+
+== Declarations ==
+
+== Ethics approval and consent to participate ==
+
+The study was exempt from institutional ethics approval owing to its retrospective nature. Written informed consent was obtained from the patient’s parents for publication.
+
+== Consent for publication ==
+
+Written informed consent was obtained from the patient’s legal guardian for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.
+
+== Competing interests ==
+
+There are no competing interests.
+
+== Footnotes ==
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+All data supporting the conclusions are included in the manuscript.

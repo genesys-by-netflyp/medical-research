@@ -1,0 +1,114 @@
+{
+ "pmcid": "PMC9921357",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9921357-case1",
+   "age": "25-year-old",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 25-year-old previously healthy indigenous Tamang female was referred to our center following suicidal ingestion of an unknown amount of insecticide containing 30.5% imidacloprid (Nudon, India, Fig. 1)",
+   "agent": "imidacloprid 30.5% (Nudon), unknown amount",
+   "agent_quote": "suicidal ingestion of an unknown amount of insecticide containing 30.5% imidacloprid (Nudon, India, Fig. 1)",
+   "route": "oral ingestion",
+   "circumstance": "suicidal ingestion",
+   "symptoms": [
+    {
+     "finding": "disorientation (GCS E4V4M4 12/15)",
+     "quote": "On evaluation, she was disoriented [Glasgow Coma Scale (GCS) E4V4M4 12/15] with generalized fasciculations."
+    },
+    {
+     "finding": "generalized fasciculations",
+     "quote": "On evaluation, she was disoriented [Glasgow Coma Scale (GCS) E4V4M4 12/15] with generalized fasciculations."
+    },
+    {
+     "finding": "tachycardia (HR 108/min)",
+     "quote": "She had a regular heart rate of 108 beats per minute, a blood pressure of 130/90 mmHg, respiratory rate of 20 breaths per minute"
+    },
+    {
+     "finding": "constricted pupils",
+     "quote": "Pupils were constricted, deep tendon reflexes were normal bilaterally, and bilateral crepitations were present on auscultation."
+    },
+    {
+     "finding": "bilateral crepitations",
+     "quote": "Pupils were constricted, deep tendon reflexes were normal bilaterally, and bilateral crepitations were present on auscultation."
+    },
+    {
+     "finding": "severe hypoxia",
+     "quote": "Unfortunately, her condition deteriorated rapidly, resulting in severe hypoxia."
+    },
+    {
+     "finding": "bilateral lung infiltrates (aspiration pneumonitis)",
+     "quote": "4 hours later, another chest x-ray revealed bilateral infiltrates in the lower lung fields (Fig. 2). Because of aspiration pneumonitis, intravenous antibiotics"
+    },
+    {
+     "finding": "hypotension (ICU day 2)",
+     "quote": "She developed hypotension on the second day of her ICU stay, which was managed with intravenous fluid boluses and vasopressors"
+    },
+    {
+     "finding": "generalized tonic-clonic seizure (day 4)",
+     "quote": "Her ICU stay was further complicated by an episode of generalized tonic–clonic seizure on the fourth day of admission"
+    }
+   ],
+   "time_to_care": "initial management and gastric lavage with activated charcoal elsewhere before referral; interval not stated",
+   "labs": [
+    {
+     "name": "arterial blood gas",
+     "value": "metabolic acidosis with elevated lactate levels",
+     "quote": "Initial arterial blood gas (ABG) showed metabolic acidosis with elevated lactate levels."
+    },
+    {
+     "name": "imidacloprid concentration in body fluids",
+     "value": "not feasible to detect",
+     "quote": "However, it was not feasible to detect concentrations of imidacloprid in body fluids."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage with activated charcoal (before referral)",
+     "quote": "referred to our center following suicidal ingestion... after appropriate initial management and gastric lavage with activated charcoal"
+    },
+    {
+     "name": "atropine 0.6 mg (one cycle)",
+     "quote": "She was given one cycle of 0.6 mg atropine, was intubated and shifted to the intensive care unit (ICU), where she was mechanically ventilated."
+    },
+    {
+     "name": "intubation and mechanical ventilation",
+     "quote": "was intubated and shifted to the intensive care unit (ICU), where she was mechanically ventilated."
+    },
+    {
+     "name": "intravenous clindamycin 600 mg TDS and piperacillin-tazobactam 4.5 g TDS",
+     "quote": "intravenous antibiotics (intravenous clindamycin 600 mg TDS, intravenous piperacillin tazobactam 4.5 g TDS) were started."
+    },
+    {
+     "name": "IV fluid boluses and vasopressors for hypotension",
+     "quote": "She developed hypotension on the second day of her ICU stay, which was managed with intravenous fluid boluses and vasopressors"
+    },
+    {
+     "name": "glycopyrrolate for copious secretions",
+     "quote": "also had copious secretions, which were managed with glycopyrrolate."
+    },
+    {
+     "name": "lorazepam then intravenous levetiracetam 500 mg BD for 7 days (seizure)",
+     "quote": "initially managed with injected lorazepam and then subsequently kept on intravenous levetiracetam 500 mg twice daily (BD) for 7 days."
+    },
+    {
+     "name": "haloperidol 0.25 mg (delirium)",
+     "quote": "the patient was delirious and was given a low dose of haloperidol (0.25 mg)."
+    },
+    {
+     "name": "oxygen supplementation after extubation for 7 days",
+     "quote": "After extubation, she remained hypoxemic and required oxygen supplementation for 7 days."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "discharged on the tenth day of admission without residual effects",
+   "outcome_quote": "After a prolonged and complicated stay, she was finally discharged on the tenth day of admission without any residual effects and was well oriented.",
+   "sequelae": "prolonged neuropsychiatric sequela: delirium during ICU stay; later diagnosed with severe depressive episode; prescribed escitalopram 10 mg",
+   "notes": "Psychiatric reevaluation diagnosed severe depressive episode; patient and family counseled with psychoeducation; doing well on follow-ups."
+  }
+ ]
+}

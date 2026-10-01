@@ -1,0 +1,82 @@
+{
+ "pmcid": "PMC9969900",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9969900-case1",
+   "age": "22-year-old (abstract states 20-year-old; case presentation states 22-year-old male)",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 22-year-old male was brought to the Emergency Department (ED) by relatives with a history of consuming about 100 ml of a chemical about one and a half hours back in an attempt to commit suicide.",
+   "agent": "deltamethrin 12.5 mg/mL, around 100 mL (brand advertised as anti-tick animal medication)",
+   "agent_quote": "He had consumed around 100 ml of deltamethrin 12.5 mg per ml.",
+   "route": "oral ingestion",
+   "circumstance": "suicidal attempt; ingested about 100 ml of an unknown chemical about one and a half hours before ED arrival",
+   "symptoms": [
+    {
+     "finding": "vomiting (about 10 episodes)",
+     "quote": "He has had about 10 episodes of vomiting since then."
+    },
+    {
+     "finding": "fasciculations of calf muscles (lasted about 30 minutes since arrival)",
+     "quote": "There were fasciculations of his calf muscles and a smell resembling the smell of organophosphate compounds."
+    },
+    {
+     "finding": "smell resembling organophosphate compounds",
+     "quote": "There were fasciculations of his calf muscles and a smell resembling the smell of organophosphate compounds."
+    },
+    {
+     "finding": "tachycardia (pulse 102/min)",
+     "quote": "vitals were as follows: pulse rate: 102 per minute, blood pressure: 120/80 mmHg, respiratory rate: 16 per minute, temperature: 97.5 °F, and oxygen saturation: 100% on room air."
+    }
+   ],
+   "time_to_care": "brought to ED about one and a half hours after ingestion",
+   "labs": [
+    {
+     "name": "complete blood counts, kidney and liver function tests, coagulation profile, ECG",
+     "value": "within normal limits",
+     "quote": "His complete blood counts, kidney and liver function tests, coagulation profile, and electrocardiogram (ECG) were within normal limits."
+    },
+    {
+     "name": "serum cholinesterase",
+     "value": "normal",
+     "quote": "Serum cholinesterase levels were also normal."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "atropine challenge test (1 mg atropine; positive, HR rose from 105 to 152/min)",
+     "quote": "an atropine challenge test was done with 1 mg of atropine. The test was positive, with the heart rate rising from 105 per minute to 152 per minute."
+    },
+    {
+     "name": "atropine 2 mg (minimal dose, as for OP poisoning)",
+     "quote": "the patient was started on a minimal dose of 2 mg atropine"
+    },
+    {
+     "name": "pralidoxime 30 mg/kg in 100 ml normal saline over 20 minutes (stopped, almost fully infused)",
+     "quote": "starting dose of 30 mg per kg pralidoxime in 100 ml normal saline over 20 minutes as per routine treatment followed for organophosphate compound poisoning"
+    },
+    {
+     "name": "gastric lavage",
+     "quote": "Gastric lavage was also done."
+    },
+    {
+     "name": "supportive treatment: pantoprazole and intravenous fluids",
+     "quote": "He was admitted to the intensive care unit and was conservatively treated with pantoprazole and intravenous fluids."
+    },
+    {
+     "name": "escitalopram and clonazepam (psychiatric)",
+     "quote": "He was discharged on the fourth day with escitalopram and clonazepam prescribed by the psychiatrist."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "no complications; discharged on the fourth day",
+   "outcome_quote": "There were no complications during his four-day stay in the hospital... He was discharged on the fourth day with escitalopram and clonazepam prescribed by the psychiatrist.",
+   "sequelae": "none; diagnosed with depression disorder by psychiatrist",
+   "notes": "Initially treated empirically as organophosphate poisoning until compound identified as deltamethrin; first report of a positive atropine challenge test with deltamethrin."
+  }
+ ]
+}

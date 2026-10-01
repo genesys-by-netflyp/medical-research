@@ -1,0 +1,63 @@
+{
+ "pmcid": "PMC12356379",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "40 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 40-year-old Sri Lankan man presented to the hospital five hours after deliberate ingestion of approximately 50 mL of profenofos (500 g/L emulsifiable concentrate), an organophosphate pesticide.",
+   "agent": "profenofos (500 g/L emulsifiable concentrate), approximately 50 mL",
+   "agent_quote": "deliberate ingestion of approximately 50 mL of profenofos (500 g/L emulsifiable concentrate)",
+   "route": "oral",
+   "circumstance": "deliberate (suicidal) ingestion",
+   "symptoms": [
+    {
+     "finding": "no peripheral cholinergic features at admission",
+     "quote": "There were no muscarinic or nicotinic features of cholinergic excess such as hyper-salivation, lacrimation, diarrhoea, fasciculations, or bradycardia."
+    },
+    {
+     "finding": "generalized tonic–clonic seizures (status epilepticus) at 36 h post-ingestion, refractory to midazolam boluses and levetiracetam",
+     "quote": "At 36 h post-ingestion, the patient developed generalized tonic–clonic seizures that persisted for over 15 min and were refractory to two boluses of intravenous midazolam (5 mg each)."
+    }
+   ],
+   "time_to_care": "presented five hours after ingestion",
+   "labs": [
+    {
+     "name": "serum lactate (venous blood gas)",
+     "value": "5.3 mmol/L (< 2 mmol/L), normalised spontaneously within six hours",
+     "quote": "Initial venous blood gas analysis was within normal limits, except for a raised serum lactate of 5.3 mmol/L (< 2 mmol/L), which normalised spontaneously within six hours."
+    },
+    {
+     "name": "urine and serum toxicology screens",
+     "value": "negative for benzodiazepines, opioids, and psychostimulants",
+     "quote": "Urine and serum toxicology screens were negative for benzodiazepines, opioids, and psychostimulants."
+    },
+    {
+     "name": "hematology, electrolytes, liver and renal biochemistry",
+     "value": "within normal limits throughout hospital stay",
+     "quote": "Haematological indices, serum electrolytes, and liver and renal biochemistry remained within normal limits throughout the hospital stay."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "IV midazolam boluses (5 mg each, two) then continuous infusion 5 mg/hour; IV levetiracetam 2 g; neuromuscular paralysis with atracurium and endotracheal intubation",
+     "quote": "Intravenous levetiracetam (2 g) was administered, followed by neuromuscular paralysis with atracurium and endotracheal intubation. A continuous intravenous midazolam infusion was commenced at 5 mg/hour."
+    },
+    {
+     "name": "IV atropine 3.6 mg empirically, then continuous infusion 0.6 mg/hour",
+     "quote": "intravenous atropine (3.6 mg) was administered empirically, followed by a continuous infusion at 0.6 mg/hour."
+    }
+   ],
+   "icu_admission": "yes (intubated and mechanically ventilated)",
+   "outcome": "survived; full neurological recovery, extubated 72 h after ingestion, asymptomatic at six-month follow-up",
+   "outcome_quote": "The patient made a full neurological recovery and was successfully extubated 72 h after ingestion. The patient remained asymptomatic in a six month follow up.",
+   "sequelae": "none reported",
+   "notes": "No atropine, activated charcoal, or oxime at presentation; RBC AChE activity not measured."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC10665814",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10665814_case_1",
+      "age": "23 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "The patient consulted at the first level after taking approximately 25 ml of 25% paraquat with suicidal intentions",
+      "agent": "Paraquat (25% solution, approximately 25 ml)",
+      "agent_quote": "The patient consulted at the first level after taking approximately 25 ml of 25% paraquat with suicidal intentions",
+      "route": "oral ingestion",
+      "circumstance": "Suicidal ingestion in a woman at 23.2 weeks of pregnancy with a history of three previous suicide attempts two years prior (due to sodium fluoroacetate)",
+      "symptoms": [
+        {"finding": "several ulcers on the oral mucosa; oral and pharyngeal burns", "quote": "physical examination revealed several ulcers on the oral mucosa."},
+        {"finding": "caustic esophagitis Zargar 2A and erosive antrocorporal gastritis on endoscopy", "quote": "The mother had oral and pharyngeal burns, so upper digestive tract endoscopy showed caustic esophagitis Zargar 2 A and erosive antrocorporal gastritis (Fig. 1)."},
+        {"finding": "acute kidney injury KDIGO 2", "quote": "After suspending therapy, presented acute kidney injury KDIGO 2 managed with intermittent hemodialysis on two occasions, patient recovered renal function and high-flow catheter was removed"}
+      ],
+      "time_to_care": "Gastric lavage at first-level facility; admitted to the referral hospital 30 h after ingestion (34 h to hemoadsorption start)",
+      "labs": [
+        {"name": "vital signs at admission", "value": "BP 116/72 mmHg, HR 75 bpm, RR 18/min, T 36°C, SpO2 95% FiO2 21%", "quote": "She was admitted to the hospital 30 h later because of transportation difficulties, with the following vital signs: blood pressure, 116/72 mmHg; heart rate, 75 beats per minute; respiratory rate, 18 breaths per minute; temperature, 36 °C; oxygen saturation, 95% FiO2, 21%"},
+        {"name": "hypokalemia, hypomagnesemia, hypophosphatemia", "value": "present (values UNVERIFIED; detailed values in Table 1 not in source text)", "quote": "The patient presented with hypokalemia, hypomagnesemia, and hypophosphatemia that required replacement during his stay in the intensive care unit"}
+      ],
+      "treatment": [
+        {"name": "gastric lavage with saline solution and activated charcoal", "quote": "gastric lavage was performed with saline solution and activated charcoal and she was referred to our institution."},
+        {"name": "methylprednisolone 1 g every 24 h for first three days", "quote": "The patient was treated according to the institutional protocol [1], which involved administering methylprednisolone 1 g every 24 h during the first three days."},
+        {"name": "cyclophosphamide 900 mg/day on days 2-3", "quote": "A medical meeting was held to assess the risk/benefit and it was determined to start cyclophosphamide 900 mg/day during the second and third days of hospitalization."},
+        {"name": "hemoadsorption (HA-230 cartridge, 6 h) started 34 h after intoxication, then CVVHD for 120 h", "quote": "34 h after paraquat intoxication, Hemoadsroption was performed with a Jafron HA-230 cartridge for six hours and continuous venovenous hemodiafiltration (CVVHD) was continued for 120 h, requiring three oXiris filters and one ST-150 filter"},
+        {"name": "intermittent hemodialysis (two occasions) for AKI KDIGO 2", "quote": "After suspending therapy, presented acute kidney injury KDIGO 2 managed with intermittent hemodialysis on two occasions, patient recovered renal function and high-flow catheter was removed"},
+        {"name": "ascorbic acid, n-acetylcysteine, vitamin E for 21 days; parenteral nutrition 15 days; betamethasone for lung maturation", "quote": "management continued according to the institutional protocol with ascorbic acid, n-acetylcysteine, and vitamin E for 21 days in gynecology rooms."}
+      ],
+      "icu_admission": "Yes (\"She was transferred to the intensive care unit (ICU) with an APACHE II score of 7 points.\")",
+      "outcome": "survived; discharged after 26 days; pregnancy ended at term without complications in another institution and the newborn was healthy",
+      "outcome_quote": "She reported that her pregnancy ended without complications in another institution and three weeks postpartum, the newborn was healthy, she has a psychiatric follow-up.",
+      "sequelae": "None reported; psychiatric follow-up ongoing",
+      "notes": "Paraquat blood/urine concentration not obtained; toxicity verified through photographs of the bottle."
+    }
+  ]
+}

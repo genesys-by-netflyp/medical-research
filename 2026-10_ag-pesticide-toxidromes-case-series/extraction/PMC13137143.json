@@ -1,0 +1,201 @@
+{
+  "pmcid": "PMC13137143",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13137143-case1",
+      "age": "23 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume ∼250; time from ingestion to hospital 3 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [
+        {
+          "finding": "hypotension on admission",
+          "quote": "All non-survivors presented with hypotension and metabolic acidosis on admission, whereas none of the survivors demonstrated early hemodynamic compromise."
+        }
+      ],
+      "time_to_care": "3 hours from ingestion to hospital",
+      "labs": [
+        {
+          "name": "Creatine phosphokinase (CPK)",
+          "value": "6895 IU/L",
+          "quote": "CPK levels (IU/L)6895NANANA7200NANANA"
+        }
+      ],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Death",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission Yes; CNS depression Yes; severe metabolic acidosis Yes; rhabdomyolysis Yes (CPK 6895 IU/L); AKI Yes; cardiac involvement No; dialysis Yes; urinary alkalinization Yes; hospital stay 4 days; time to death 4 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case2",
+      "age": "32 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume Unknown; time from ingestion to hospital 2 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [
+        {
+          "finding": "hypotension on admission",
+          "quote": "All non-survivors presented with hypotension and metabolic acidosis on admission, whereas none of the survivors demonstrated early hemodynamic compromise."
+        }
+      ],
+      "time_to_care": "2 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Death",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission Yes; CNS depression Yes; severe metabolic acidosis Yes; rhabdomyolysis No; AKI No; cardiac involvement Yes (ST elevation + myocardial dysfunction); dialysis No; urinary alkalinization Yes; hospital stay 12 h; time to death 12 h. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text.; Cardiac involvement: 'Cardiac involvement in Case 2 included ST-segment elevation and echocardiographic evidence of myocardial dysfunction.'"
+    },
+    {
+      "case_id": "PMC13137143-case3",
+      "age": "23 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume < 20 mL; time from ingestion to hospital 2 h.",
+      "symptoms": [],
+      "time_to_care": "2 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Survived",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission No; CNS depression No; severe metabolic acidosis No; rhabdomyolysis No; AKI No; cardiac involvement No; dialysis No; urinary alkalinization Yes; hospital stay 4 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case4",
+      "age": "42 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume Unknown; time from ingestion to hospital 1.5 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [
+        {
+          "finding": "hypotension on admission",
+          "quote": "All non-survivors presented with hypotension and metabolic acidosis on admission, whereas none of the survivors demonstrated early hemodynamic compromise."
+        }
+      ],
+      "time_to_care": "1.5 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Death",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission Yes; CNS depression Yes; severe metabolic acidosis Yes; rhabdomyolysis No; AKI Yes; cardiac involvement No; dialysis No; urinary alkalinization Yes; hospital stay 7 h; time to death 7 h. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case5",
+      "age": "60 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume Unknown; time from ingestion to hospital 2.5 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [
+        {
+          "finding": "hypotension on admission",
+          "quote": "All non-survivors presented with hypotension and metabolic acidosis on admission, whereas none of the survivors demonstrated early hemodynamic compromise."
+        }
+      ],
+      "time_to_care": "2.5 hours from ingestion to hospital",
+      "labs": [
+        {
+          "name": "Creatine phosphokinase (CPK)",
+          "value": "7200 IU/L",
+          "quote": "CPK levels (IU/L)6895NANANA7200NANANA"
+        }
+      ],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Death",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission Yes; CNS depression Yes; severe metabolic acidosis Yes; rhabdomyolysis Yes (CPK 7200 IU/L); AKI Yes; cardiac involvement No; dialysis Yes; urinary alkalinization Yes; hospital stay 6 days; time to death 6 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case6",
+      "age": "17 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume < 20 mL; time from ingestion to hospital 0.5 h.",
+      "symptoms": [],
+      "time_to_care": "0.5 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Survived",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission No; CNS depression No; severe metabolic acidosis No; rhabdomyolysis No; AKI No; cardiac involvement No; dialysis No; urinary alkalinization No; hospital stay 4 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case7",
+      "age": "29 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume Unknown; time from ingestion to hospital 2 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [],
+      "time_to_care": "2 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Survived",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission No; CNS depression Yes; severe metabolic acidosis No; rhabdomyolysis No; AKI No; cardiac involvement No; dialysis No; urinary alkalinization No; hospital stay 5 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    },
+    {
+      "case_id": "PMC13137143-case8",
+      "age": "38 years",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "All exposures were intentional ingestions occurring in rural settings, frequently associated with alcohol consumption.",
+      "agent": "2,4-dichlorophenoxyacetic acid (2,4-D) herbicide",
+      "agent_quote": "This retrospective observational study included eight consecutive patients managed for suspected acute 2,4-dichlorophenoxyacetic acid (2,4-D) poisoning at a tertiary-care rural teaching hospital in Central India over an 18-month period.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion; estimated ingested volume Unknown; time from ingestion to hospital 2.5 h; comorbidities and alcohol co-ingestion not specified per case.",
+      "symptoms": [],
+      "time_to_care": "2.5 hours from ingestion to hospital",
+      "labs": [],
+      "treatment": [],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "Survived",
+      "outcome_quote": "Overall, 4/8 (50%) patients required vasopressor support, 2/8 (25%) required dialysis, and 4/8 (50%) died.",
+      "sequelae": "UNVERIFIED",
+      "notes": "Per Table 1: hypotension on admission No; CNS depression No; severe metabolic acidosis No; rhabdomyolysis No; AKI No; cardiac involvement No; dialysis No; urinary alkalinization No; hospital stay 12 days. Individual sex, symptom quotes, and lab values beyond CPK for cases 1 and 5 not provided per case in the text."
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+== ARTICLE TITLE ==
+Indian Society of Critical Care Medicine Position Statement on the Management of Paraquat Poisoning
+
+== ABSTRACT ==
+AbstractParaquat poisoning is among the most lethal toxicological emergencies encountered globally. It is associated with case fatality rates up to 50–90%. There is no specific antidote for paraquat poisoning. India faces a growing burden of paraquat poisoning, compounded by easy accessibility, widespread under-reporting and limited timely access to extracorporeal therapies. Against this backdrop, the Indian Society of Critical Care Medicine (ISCCM) Toxicology working section convened an expert panel of 15 specialists to develop evidence-informed recommendations through a modified Delphi consensus process. Panelists rated 32 clinical statements across three iterative rounds on a five-point Likert scale. The results were presented online to the core group and Delphi panelists after the first Delphi round for discussion and to refine questions based on the suggestions received from the panelists. Consensus (≥70% agreement) was reached on 31 statements; the remaining one was designated as non-convergent. Stability of responses was checked for each statement in sequential rounds. This position statement addresses commonly faced questions by physicians such as gastrointestinal decontamination, diagnostic evaluation including the urine dithionite test and plasma paraquat assay, imaging strategies for pulmonary prognostication, the role of charcoal hemoperfusion and renal replacement therapy, immunosuppressive pulse therapy with methylprednisolone and cyclophosphamide, oxygen restriction and permissive hypoxemia strategy, antioxidant interventions, organ support, lung transplantation bridged with extracorporeal membrane oxygenation (ECMO), and prognostic determinants of mortality.How to cite this articleGautam PL, Takkellapati LR, Bhalla A, Peter JV, Mahajan RK, Krishna MR, et al. Indian Society of Critical Care Medicine Position Statement on the Management of Paraquat Poisoning. Indian J Crit Care Med 2026;30(8):632–649.Keywords: Charcoal hemoperfusion, Lung transplant, Paraquat poisoning, Pulmonary fibrosis
+
+== How to cite this article ==
+
+Gautam PL, Takkellapati LR, Bhalla A, Peter JV, Mahajan RK, Krishna MR, et al. Indian Society of Critical Care Medicine Position Statement on the Management of Paraquat Poisoning. Indian J Crit Care Med 2026;30(8):632–649.
+
+Keywords: Charcoal hemoperfusion, Lung transplant, Paraquat poisoning, Pulmonary fibrosis
+
+Received 2026 Apr 1; Accepted 2026 Jul 13; Issue date 2026 Aug.
+
+== Introduction ==
+
+Paraquat (1,1’-dimethyl-4,4’-bipyridinium dichloride, CAS 1910-42-5) is a quaternary nitrogen herbicide of the bipyridinium class that remains widely available across India as paraquat dichloride 24% solution. Despite being banned in more than 70 countries, it continues to be a leading cause of fatal pesticide ingestion in the Indian subcontinent. Case fatality rates following deliberate ingestion range from 21.8 to 90% in Indian hospitals without hemoperfusion facility provision (Annexure 1).1–3 Recently published, exploding multiregional data with high burden of suicidal paraquat poisoning and fatality rate fueled by cheap, unrestricted availability and dangerously weak storage regulations exposes a devastating national crisis.2–4 There is no specific antidote, and the core pathological process is progressive, largely irreversible pulmonary fibrosis, which is often well underway before the patient reaches medical attention (Annexure 2). Most anti-inflammatory and antifibrotic agents, when administered after established tissue injury, have proven ineffective, reinforcing the imperative of early intervention.
+
+The physician managing a paraquat-poisoned patient faces a constellation of compounding challenges that are largely unique to this setting. Late presentation from rural and semi-urban areas is the norm rather than an exception. Semiquantitative and quantitative plasma assays remain confined to a handful of tertiary centers. Charcoal hemoperfusion cartridges are not universally stocked, and the evidence base for most therapeutic interventions—accumulated largely from retrospective Asian cohorts and a single definitive randomized controlled trial (RCT)—remains frustratingly thin. Against this backdrop, the Indian Society of Critical Care Medicine (ISCCM) constituted a panel of experts to develop a position statement addressing the questions most commonly faced at the bedside. This document, developed through a rigorous modified Delphi process, is intended to provide intensivists, emergency physicians, and other physicians involved in care of paraquat poisoning with a practical, evidence-based framework for managing paraquat poisoning in resource-variable settings.
+
+== Methods ==
+
+== Scope and Purpose ==
+
+== Objectives ==
+
+This position statement aims to provide evidence-based and expert consensus recommendations for clinical management of paraquat poisoning in Indian settings. Expected health benefits include: (1) Reduced mortality through timely interventions, (2) prevention of multiorgan failure, (3) improved resource allocation, and (4) standardized practice across healthcare settings.
+
+== Health Questions Addressed ==
+
+This statement comprises 32 specific clinical questions covering decontamination (gastric lavage, activated charcoal, Fuller's Earth), diagnosis (toxidrome, dithionite test), prognostication (plasma levels, imaging), extracorporeal therapy (hemoperfusion, timing, indications), immunosuppression, supportive care (oxygen, fluids, nutrition), and advanced therapies [transplantation, extracorporeal membrane oxygenation (ECMO)].
+
+== Target Population ==
+
+Patients with confirmed or suspected paraquat poisoning presenting to emergency departments, intensive care units (ICUs), or district hospitals in India. The target population includes acute ingestions (accidental/intentional), all age-groups, and varied severity.
+
+== Steps Adopted to Develop the Position Statement ==
+
+== Step 1: Decision to Generate Position Statement ==
+
+The ISCCM toxicology working section proposed to the ISSCM executive committee to develop a position statement on the management of paraquat poisoning, as this is a major health problem currently in our country with a high fatality rate. After approval from the executive committee, the toxicology working section convened a Delphi consensus group to develop evidence-informed recommendations. The group focused on literature published from year 2000 onwards, with particular attention to studies from the Indian subcontinent and Asia–Pacific region, given the epidemiological, logistical, and healthcare system differences that limit the direct applicability of findings from high-income settings.
+
+== Step 2: Panel Composition and Selection ==
+
+== Steering Committee Selection ==
+
+The committee was selected by the ISCCM office bearers. The experts were selected based on their experience in clinical toxicology. People involved in the actual management of critically ill poisoned patients were approached, and those who accepted the offer were included.
+
+== Expert Panel Selection ==
+
+Experts from different countries with experience in clinical toxicology were selected as expert panel members through personal links.
+
+== Final Panel ==
+
+Comprised of experts with training/experience in toxicology: Intensivists (9) and internal medicine physicians/emergency medicine physicians (n = 6), from different regions of India and the world. This consensus does not include direct patient/caregiver input; future iterations may be considered to incorporate patient perspectives.
+
+== Target Users ==
+
+Intensivists, emergency physicians, general physicians, nephrologists, toxicologists, healthcare administrators across tertiary, district, and community hospitals in India.
+
+== Step 3: Literature Search Strategy ==
+
+== Databases ==
+
+PubMed/MEDLINE, Embase, Cochrane Library (January 2000 to December 2025). Search Terms: (“paraquat” OR “1,1’-dimethyl-4,4’-bipyridinium” OR “gramoxone”) AND (“poisoning” OR “intoxication” OR “overdose” OR “toxicity”) AND (“management” OR “treatment” OR “therapy” OR “hemoperfusion” OR “immunosuppression” OR “antioxidant” OR “lung transplantation”) with filters for human studies where applicable. Based on the evidence collected, 32 clinical statements were developed. The study selection criteria included original research, systematic reviews, case series (n ≥ 10), guidelines, and single case reports. Animal-only studies and non-English studies without translation were excluded. Detailed systematic search documented in Supplementary File S1.
+
+== Step 4: Evidence Quality Assessment ==
+
+== Two-dimensional Framework was Used for Evidence Quality Assessment ==
+
+Dimension 1—Evidence quality (from literature): Level I or A (systematic reviews/RCTs), level II or B (individual RCTs/high-quality cohorts), Level III or C (case–control/lower-quality cohorts), Level IV or D (case series/expert opinion).
+
+Dimension 2—Delphi Score on Likert scale for consensus assessment. Stability of responses was checked in sequential Delphi rounds.
+
+Evidence quality being independent of consensus strength, it was decided that strong consensus may exist despite level IV evidence when ethical constraints preclude RCTs in lethal poisoning.
+
+== Step 5: Delphi Process and Evidence Synthesis ==
+
+The Delphi process was selected given the absence of high-quality RCT evidence. A steering committee of four senior physicians developed initial questions. An expert panel of 15 physicians was assembled from diverse settings. Though the panelists were aware of each other's identity; however, individual responses were anonymized during each round to minimize response bias. Consensus was defined as ≥70% agreement on a five-point Likert scale (strongly agree = 5, agree = 4, neutral = 3, disagree = 2, and strongly disagree = 1). Consensus was considered achieved if the responses were in agree/disagree with more than 70%. Consensus level was graded as very high consensus: 90 or more than 90% agreement, high consensus: 80 or more than 80% agreement but less than 90, consensus: 70 or more than 70% agreement but less than 80, and not achieved: less than 70%.
+
+== Stability ==
+
+Stability of Likert-scale responses across sequential Delphi rounds was assessed using the Chi-square test. A p-value of >0.05 across rounds was considered indicative of stable expert opinion. Median and IQR were used as measures of central tendency and dispersion, consistent with the ordinal nature of the data (Table 1).
+
+== Predetermined Stopping Criteria ==
+
+(1) ≥70% agreement on all statements, OR (2) <10% change between rounds (stable equipoise), stability confirmed by Chi-square test (p > 0.05) or (3) If consensus could not be obtained after three rounds of Delphi with modified statements, it was decided to stop and accept the differences.
+
+== Outcome ==
+
+Terminated after final round: 31/32 statements (96.8%) achieved consensus; one statement remained non-convergent.
+
+The first round of Delphi was conducted with 30 statements with 100% participation from the panelists. This was followed by a meeting with the panelists and the members of the toxicology section for discussion of the results of the first Delphi round and refinement of questions to reduce the ambiguity of statements. The statement on antioxidants was split into three questions, making a total of 32 statements. Three Delphi rounds and four meetings on a digital platform were conducted to reach consensus and develop a summary of statements in tabular form.
+
+== Step 6: Summary ==
+
+A final online steering committee review was conducted in February 2026. All 32 statements were reviewed, and a formal tabular form of executive summary with comparison was incorporated in the position statement. Pre-selected questions with evidence levels assigned to each statement were finalized through interactive discussions.
+
+== Position Statement: Management of Paraquat Poisoning ==
+
+Detailed rationale and evidence appraisal for each statement are presented below:
+
+Q1. Gastric lavage is CONTRAINDICATED in paraquat poisoning due to the corrosive nature of paraquat and risk of esophageal perforation and aspiration.
+
+Experts’ consensus: Consensus: 78.5 % (12/15). Statistical stability: Convergent median value = 4 in both rounds.
+
+Convergent
+
+== Level of Evidence: D | Recommendation: Weak ==
+
+Gastric lavage is not routinely recommended in paraquat poisoning (rare exceptions: Ultra-early <60 min, life-threatening ingestion, expert setting), due to the caustic nature of paraquat dichloride and high risk of complications like esophageal perforation, aspiration pneumonitis, and iatrogenic extension of mucosal injury during procedure.1,5 Applicability depends on time since ingestion.3
+
+== Rationale ==
+
+Paraquat dichloride (24% SL) causes severe caustic injury to the oropharynx and esophagus within minutes of ingestion, which can lead to ulceration, edema, and full-thickness necrosis.6 This weakened, friable mucosa created by caustic injury is at high risk of perforation with any instrumentation. Serious risks of gastric lavage in poisoning include hypoxia, dysrhythmias, laryngospasm, perforation of the GI tract or pharynx, fluid and electrolyte abnormalities, and aspiration pneumonitis, in patients with depressed protective airway reflexes, unless the patient is first intubated tracheally.5 These risks outweigh minimal theoretical benefits except in rare ultra-early scenarios. Safer alternatives (hemoperfusion) should be prioritized.
+
+Moreover, paraquat demonstrates rapid gastrointestinal absorption with peak plasma concentrations within 1–2 hours, and <20% of the ingested dose is absorbed from the stomach. As the majority of Paraquat is absorbed from the small intestine, thus making gastric emptying is of limited benefit. Gastric lavage is unlikely to add anything meaningful beyond what spontaneous vomiting (which most patients experience) and subsequent adsorbent therapy achieve.1
+
+Q2. Activated charcoal (1–2 gm/kg) may be considered within 2–4 hours of ingestion to bind paraquat in the gastrointestinal tract.
+
+Experts’ consensus: Very high consensus 93.3% (14/15). Statistical stability: Convergent median value = 4 in two sequential rounds.
+
+== Level of Evidence: D | Recommendation: Weak ==
+
+Activated charcoal (1–2 gm/kg body weight) should be administered as early as possible; may still be considered beyond 4 hours due to delayed gastric emptying, if the airway is protected. Applicability depends on time since ingestion.
+
+== Rationale ==
+
+Activated charcoal adsorbs paraquat in vitro and, when given early, may reduce systemic absorption from the GI lumen. Benefits (reduced absorption) outweigh harms (aspiration if unprotected airway, vomiting) when properly administered. Since it is universally available and low-cost, the administration should be considered at all levels, including rural primary care.
+
+The use of activated charcoal in paraquat poisoning is supported by multiple lines of evidence. In vitro studies demonstrate adsorption capacity of 100–150 mg paraquat per gram of charcoal.1 Animal experiments showed reduced systemic absorption and improved survival when charcoal was administered early.7 These findings align with the pharmacokinetic rationale: While maximum benefit occurs within 2–4 hours postingestion, paraquat undergoes delayed gastric emptying, which may extend the window of charcoal efficacy beyond 4 hours, particularly in the Indian context where delayed presentation from rural areas is common.6 Intervention has been recommended in multiple systematic reviews and by the Centers for Disease Control and Prevention.1,8,9
+
+Q3. Fuller's Earth (100–150 gm in water) can be preferred over activated charcoal for gastrointestinal decontamination in paraquat poisoning.
+
+Experts’ consensus:
+Consensus: (51.6%—equipoise) convergent median.
+
+Value = 4 in two rounds.
+
+== Level of Evidence: C | Recommendation ==
+
+No preference to either product due to equipoise. Both Fuller's earth and charcoal are acceptable.
+
+Fuller's Earth (100–150 gm in water, repeated as tolerated) may be considered where available, based on its superior in vitro binding properties and capacity for direct inactivation of paraquat. Clinical evidence does not support superiority of either agent, with the choice dictated primarily by local availability and confirmed product quality. Applicability depends on time since ingestion.
+
+== Rationale ==
+
+Fuller's Earth (hydrated aluminum magnesium silicate clay, calcium montmorillonite) has in vitro adsorption capacity for paraquat.1,10 Historically, it has been considered because montmorillonite demonstrates strong binding capacity in experimental models.1,10 However, formulation standardization varies according to manufacturer source. There is a lack of scientific evidence for superiority of Fuller's Earth over activated charcoal in human trials.6 Activated charcoal is preferred due to standardized formulation and wider availability. The panel could not achieve convergence, reflecting genuine clinical equipoise and absence of comparative human trials.
+
+Q4. Upper GI endoscopy may be considered within 24 hours to assess mucosal injury severity in paraquat poisoning.
+
+Experts’ consensus: High consensus: 80% (12/15 experts).
+
+Statistical stability: Yes.
+
+Median value = 4 in two sequential rounds. Convergent.
+
+Level of Evidence: C | Recommendation: Moderate.
+
+Upper GI endoscopy may be considered selectively (not routinely) within 12–24 hours of paraquat ingestion to assess severity of mucosal injury, guide nutrition route selection, and aid prognostication. Indications: Prognostic stratification, nutrition planning. Contraindications: Days 5–15 postingestion (perforation risk).
+
+== Rationale ==
+
+Paraquat causes severe caustic injury to upper GI mucosa, assessable endoscopically.1,3 The optimal timing for endoscopy is within 12–24 hours postingestion when mucosal injury is established, but tissue remains stable. Early endoscopy (within this window) provides prognostic information based on injury severity grading and guides enteral nutrition as route of selection for feeding.1 This prognostication and nutrition guidance benefits outweigh procedure risks when performed in the appropriate time window, since these patients develop severe oral ulcers preventing oral intake, and early nasogastric (NG) feeding tube insertion ensures adequate nutrition. It is contraindicated in hemodynamically unstable patients, those with suspected perforation, severe respiratory distress, or severe oropharyngeal necrosis. But it is available in tertiary and district hospitals; not feasible in rural settings.
+
+Crucially, endoscopy between the 5th and 15th day postingestion should be avoided due to high perforation risk during the tissue necrosis phase.1
+
+Q5. Urine dithionite test is a valuable bedside screening test for confirming paraquat exposure.
+
+Experts’ consensus: Very high consensus 100% (15/15 experts). Statistical stability: Yes.
+
+Median value = 5 in two sequential rounds. Convergent.
+
+Level of Evidence: B | Recommendation: Strong (when available).
+
+The urine sodium dithionite test should be performed when available as a valuable, rapid, and inexpensive bedside screening test for paraquat exposure. The test serves dual purposes: Diagnostic confirmation and prognostic assessment. It may be falsely positive in diquat, dipyridamole, Prussian blue, and chloroquine.1
+
+== Rationale ==
+
+The test is performed by adding 2 mL freshly prepared 1% sodium dithionite to 10 mL urine; blue-green color indicates paraquat presence.1 The test has minimal harm (false positives), when compared to clear diagnostic benefits. It is simple, inexpensive, and feasible even in rural settings.
+
+Beyond diagnosis, intensity of color change carries substantial prognostic weight.11 Since 80–90% of absorbed paraquat is excreted unchanged in urine within 6–12 hours, the test is most sensitive in early presentation, and reduced sensitivity may be seen in late presenters (>24 hours); and a negative test does not exclude exposure.1,11,12 Plasma level should be preferred if available.
+
+Q6. Time to negative urine dithionite test is an independent risk factor for death and organ failure. Longer clearance time predicts worse outcomes.
+
+Experts’ consensus: High 80% (12/15 experts). Statistical stability: Yes.
+
+Median Value = 4 in two sequential rounds.
+
+Level of Evidence: B | Recommendation: Moderate.
+
+Time to negative urine dithionite test is a potential dynamic prognostic marker requiring further validation in large cohorts. Time-dependent urinary clearance correlates with outcome but has not been externally validated. Applicability depends on time since ingestion and serial testing availability.
+
+== Rationale ==
+
+Seok et al. analyzed 41 patients retrospectively; time to achieve negative urine dithionite test was an independent risk factor for mortality alongside ingested amount and plasma paraquat levels.13 With cutoff >34.5 hours for time to negative conversion, sensitivity for predicting mortality was 71.4% and specificity 75.0%.13 Incidence of acute kidney injury was 100% and respiratory failure 85.0% when time to negativity exceeded 34.5 hours.13 The receiver operating characteristic (ROC) curve showed an area under the curve of 0.804 for time to dithionite negativity predicting death.13 But it was a small single-center cohort (n = 41), not externally validated in independent populations.
+
+== Clinical Interpretation ==
+
+Prolonged urinary paraquat excretion (detected by dithionite) indicates higher body burden and ongoing tissue distribution. Faster clearance (<34.5 hours) suggests lower exposure or successful early decontamination.
+
+== Dynamic Marker Advantage ==
+
+Unlike static measurements (single plasma level), serial dithionite testing reflects ongoing elimination and can be repeated at bedside without laboratory delays.10 However, requires a standardized testing protocol and trained personnel. Larger multicenter validation studies needed before widespread clinical adoption as a standalone prognostic tool.
+
+Q7. Plasma paraquat concentration should be measured at 4 hours postingestion for prognostication if a facility is available.
+
+Experts’ consensus: Achieved 73% (11/15), Statistical stability: Yes.
+
+Median value = 4.0 in two sequential rounds.
+
+Level of Evidence: C | Recommendation: Strong.
+
+Timing of plasma paraquat measurement is critical for accurate prognostication; measurements at 4, 6, 12, and 24 hours postingestion provide standardized prognostic timepoints. Earlier measurements are more accurate but logistically challenging; later measurements are feasible but less discriminatory.
+
+== Rationale ==
+
+The Proudfoot–Hart nomogram, validated internationally, plots plasma paraquat concentration against time postingestion to predict survival probability.14 Measurements at standardized timepoints (4, 6, 12, and 24 hours) allow direct comparison to nomogram survival curves.11 Senarathna et al. validated the nomogram in a prospective cohort, demonstrating high prognostic accuracy when plasma levels were measured at specified intervals.15 Earlier measurements (4–6 hours) provide maximum prognostic discrimination—levels above the nomogram “death” line predict near-certain mortality, while levels below the “survival” line predict likely recovery.11,15 Later measurements (12–24 hours) remain useful when early sampling is missed, though the prognostic window narrows as paraquat distributes into tissues and plasma concentrations decline.15 Measurements >24 hours have limited value—most circulating paraquat is already distributed; plasma levels no longer reliably reflect total body burden. However, plasma paraquat assays require specialized laboratory capabilities and may be available only in select tertiary centers and reference laboratories in India. Therefore, most hospitals rely on urine dithionite testing for bedside prognostic assessment, though less quantitative.11,13 Serial plasma measurements may track elimination kinetics during extracorporeal therapy but do not replace single-timepoint prognostic assessment.15
+
+Q8. Recognition of the paraquat toxidrome (oral ulceration, multiorgan involvement) is critical for early diagnosis and management.
+
+Experts’ consensus: Very high consensus 100% (15/15). Statistical stability: Yes.
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: C | Recommendation: Strong.
+
+The paraquat toxidrome comprises distinctive clinical features that, when recognized, are highly suggestive of diagnosis without laboratory confirmation.1,6 Characteristic oropharyngeal ulceration (“paraquat tongue”) appears within the first few days in moderate-to-severe cases—painful erosions and ulcers with yellowish necrotic debris on tongue, buccal mucosa, pharynx, and esophagus.1,16 Temporal pattern aids recognition: Day 0–1 gastrointestinal symptoms (nausea, vomiting, diarrhea, abdominal pain); days 2–4 oropharyngeal erythema progressing to ulceration and dysphagia; days 3–7 progressive dyspnea and renal dysfunction; Week 2–3 pulmonary fibrosis and multi-organ failure.1,6,16 Diagnostic specificity limitations: Corrosive ingestions (acids, alkalis, bleach) cause similar mucosal injury pattern. Cannot differentiate paraquat from corrosives on clinical grounds alone.6 Diagnosis strengthened by contextual factors: Agricultural exposure history, rural residence, suicidal intent, access to herbicides. Clinical decision-making: In the absence of confirmatory testing, toxidrome recognition permits empiric management (activated charcoal, hemoperfusion consideration, supportive care) while awaiting dithionite or plasma assay results. This holds critical significance in LMICs like India. Diagnostic delays remain common due to nonspecific initial presentation, patient inability to identify the agent, and lack of physician familiarity with paraquat toxidrome.16 Kumar et al. reported a fatal outcome in a 22-year-old initially misdiagnosed as diphtheria/influenza due to oral ulcers and fever, with paraquat poisoning recognized only after significant delay.16 Khosya and Gothwal described diagnostic challenges when patients could not identify the ingested substance.17 Dambal et al. demonstrated that many casualty medical officers and residents were unfamiliar with paraquat symptoms, leading to initial treatment for organophosphorus poisoning instead.18 When dithionite reagent or plasma assays unavailable, clinical toxidrome recognition becomes primary diagnostic tool. Early presumptive diagnosis may permit timely transfer to centers with hemoperfusion capabilities. Unanimous consensus (100%) reflects panel recognition that toxidrome awareness critical in resource-limited settings where laboratory confirmation delayed or unavailable.
+
+Q9. Chest X-ray (CXR) has limited sensitivity and specificity for early paraquat lung injury and should not relied upon for prognostication in the first week.
+
+Experts’ consensus: Very high consensus 100% (15/15, very high). Statistical stability: Yes.
+
+Median Value = 4 in two sequential rounds. Convergent.
+
+Level of Evidence: B | Recommendation: Strong.
+
+Conventional chest radiography has limited sensitivity for early prognostication. A normal CXR does not exclude significant lung injury. The sensitivity, which is 10–20% in the first 3–5 days, increases to 70–80% after day 7. Applicability: Serial imaging needed; single normal CXR insufficient.
+
+== Rationale ==
+
+Early paraquat lung toxicity involves intracellular pneumocyte damage without immediately visible radiographic changes on plain films.19,20 Chest X-ray detects only gross consolidation, pleural effusion, or pneumothorax- the findings that may manifest late. Normal CXR in the first 3–5 days provides false reassurance—patients may harbor significant ongoing lung injury detected only by high-resolution computed tomography (HRCT) or clinical deterioration.19,20 Temporal evolution: Week 1 diffuse bilateral consolidation; Weeks 2–3 cystic and reticular changes; Weeks 3–4 honeycomb fibrosis.20 High-resolution computed tomography is superior as it has 60–70% sensitivity on days 3–5, vs CXR, which has 10–20%. The sensitivity in both improves to 90% vs 70–80% by day 7.19,20 Therefore, CXR has lower sensitivity than computed tomography (CT) in the first 3–5 days; early ground-glass opacities are often missed on plain films. Computed tomography is preferred when available.
+
+Chest X-ray remains useful for monitoring complications (pneumothorax, pneumomediastinum, pleural effusion) and disease progression in centers without CT access.20 However, clinical decisions (escalation, hemoperfusion, transfer) should not rely on normal early CXR. Unanimous consensus (100%) should not mislead clinicians into underestimating injury severity based on a normal X-ray. It should not be the sole imaging modality in the first week.
+
+Q10. Early CT chest findings showing ground-glass opacities, consolidation, or pneumomediastinum provide valuable early prognostic information before day 7.
+
+Experts’ consensus: Very high consensus 93.3% (14/15). Statistical stability: Yes.
+
+Median Value = 5 in two sequential rounds. Convergent.
+
+Level of Evidence: B | Recommendation: Strong.
+
+Early CT findings—ground-glass opacities, consolidation, pneumomediastinum, pleural effusion—provide valuable prognostic information on days 3–5, though CT protocols are not standardized across centers.12,14 Ground-glass opacity (GGO) volume ratio correlates with mortality. Timeline: Days 3–5 for early prognosis; day 7 for definitive assessment.
+
+== Rationale ==
+
+Kang et al. (n = 97) demonstrated GGO volume ratio >50% on days 3–5 strongly predicted mortality.21 Prognostic findings on CT scan include bilateral ground-glass opacities, consolidation, crazy-paving pattern, pneumomediastinum, pleural effusion.19,21 Temporal progression is as follows: Days 3–5 ground-glass predominance; days 5–7 consolidation and reticulation; weeks 2–4 established fibrosis.21 However, there is a critical limitation—CT metrics [Ground-Glass Opacity (GGO) volume, consolidation extent] are not standardized, due to which different radiologists may quantify differently; semiquantitative scoring systems are also not validated.19,21 Results require cautious interpretation and should not be used in isolation. So it is plausible that days 3–5 CT provides PROGNOSTIC information (predicting deterioration); day 7 CT provides DIAGNOSTIC certainty (definitive structural assessment for escalation, transplant evaluation, withdrawal decisions).19,21
+
+Computed tomography scan guides respiratory support, identifies complications (pneumothorax, large effusion), and detects pneumomediastinum suggesting esophageal injury.19 However, it is available in tertiary and many district hospitals; limited in rural settings.
+
+Q11. High-resolution CT chest is superior to CXR for detecting early lung injury and should be performed at day 7 postingestion for prognostication.
+
+Experts’ consensus: Very high consensus 93.3% (14/15). Statistical stability: Convergent.
+
+Median Value = 5 in two sequential rounds. Convergent.
+
+Level of Evidence: B | Recommendation: Strong.
+
+High-resolution computed tomography is superior to chest radiography for detecting early paraquat lung injury, particularly on day 7 for definitive assessment. The diagnostic timeline is as follows: Days 3–5 for early prognostic assessment, day 7 for definitive structural evaluation and clinical decision-making. Applicability depends on time since ingestion.
+
+== Rationale ==
+
+High-resolution computed tomography demonstrates sensitivity >90% by day 7 compared to CXR 70–80% for detecting paraquat-induced lung injury.19,20 “Early CT (D3–5) detects acute inflammatory changes (ground-glass opacity). Late CT (D7–14) shows established fibrosis (consolidation, reticulation). Both time points have prognostic value but assess different pathological phases.” High-resolution computed tomography detects ground-glass opacities, consolidation, and early fibrotic changes not visible on plain radiography.21 It primarily has a diagnostic value for structural lung injury assessment and secondary prognostic value through extent of involvement. Computed tomography metrics not standardized across centers; interpretation requires awareness of institutional protocols and non-validated scoring systems.19,21 However, as mentioned above, HRCT is available only in tertiary centers; limited in district hospitals and unavailable in rural settings. Plain CXR remains a practical screening tool in resource-limited settings despite lower sensitivity.
+
+Day 7 HRCT provides definitive assessment for ongoing management decisions including extracorporeal support, immunosuppression escalation, and transplant evaluation.19
+
+Q12. Charcoal hemoperfusion should be initiated within 4 hours of ingestion when possible, to achieve maximum benefit.
+
+Experts’ consensus: High consensus 86 % (13/15). Statistical stability: Yes.
+
+Median value = 5 in two sequential rounds. Convergent.
+
+Level of Evidence: C | Recommendation: Moderate.
+
+Hemoperfusion should be initiated ideally within 2–4 hours, may be considered beyond 4 hours in select cases or as early as possible, as this timeframe corresponds to peak plasma concentrations and maximal extracorporeal clearance.
+
+== Rationale ==
+
+Hemoperfusion may improve survival in select patients, but mortality benefit is not definitively proven in RCTs. Observational data suggest benefit but are confounded by survivor bias. Ideally performed within 2–4 hours when logistically feasible. Applicability depends critically on time since ingestion. Pharmacokinetic principles support early hemoperfusion—paraquat peak plasma concentrations occur within 2–4 hours, providing a narrow window for extracorporeal removal.22 These observational studies are confounded by survivorship bias (patients surviving long enough to receive hemoperfusion inherently different from those who die rapidly), selection bias (sicker patients more likely to receive aggressive intervention), and lack of randomization.23,24 No RCT has demonstrated mortality benefit. Therefore, procedural risks may be justified only within a narrow time window when theoretical benefit exists. Beyond 4 hours, risks may outweigh uncertain benefits. Moreover, the benefit is likely to be modest even when optimally timed because extracorporeal therapy addresses plasma paraquat only, not tissue sequestration.
+
+Still, hemoperfusion remains the most widely practiced intervention despite weak evidence base, reflecting desperation in the face of otherwise uniformly fatal poisoning.1,22
+
+Q13. Charcoal hemoperfusion should be started immediately even if the patient presents to the ER after 4 hours but within 24 hours of strong suspicion of paraquat poisoning.
+
+Experts’ consensus: Very high consensus 93% (14/15). Statistical stability: Convergent.
+
+Median value = 4.0 in two sequential rounds. Convergent.
+
+Level of Evidence: D | Recommendation: Weak.
+
+Hemoperfusion should be initiated ideally within 2–4 hours; it may be considered beyond 4 hours in select cases or as early as possible, as this timeframe corresponds to peak plasma concentrations and maximal extracorporeal clearance.
+
+== Rationale ==
+
+Hemoperfusion may be considered within 24 hours postingestion, though benefit beyond 4 hours is uncertain due to survivorship bias in observational studies.25 Applicability depends on time since ingestion—maximum theoretical benefit is seen in <4 hours, and it becomes uncertain in the next 4–24 hours.
+
+Pharmacokinetic modeling suggests hemoperfusion can reduce plasma paraquat concentrations when initiated early.22 However, observational data are confounded by survivorship bias—patients sick enough for hemoperfusion may have worse baseline prognosis; patients well enough to survive transport are more likely to survive regardless. Procedure-related risks (hypotension, bleeding, thrombocytopenia, vascular access complications) must be weighed against uncertain survival benefit beyond 4 hours.23,24 Moreover, hemoperfusion cartridges, trained personnel, and vascular access expertise are available only in tertiary centers; not feasible in district/rural hospitals.
+
+Limited cohort data show possible mortality reduction if initiated <4 hours.22 Beyond this window, most absorbed paraquat is already distributed to tissues; extracorporeal removal addresses circulating toxin only, not tissue-bound paraquat driving ongoing injury.
+
+Q14. Addition of continuous venovenous hemofiltration (CVVH) to charcoal hemoperfusion in the setting of AKI may be helpful in reducing mortality in cases of renal failure with paraquat poisoning.
+
+Experts’ consensus: High consensus 80%% (12/15). Statistical stability: Convergent.
+
+Median value = 4 in two sequential rounds. Convergent.
+
+Level of Evidence: D | Recommendation: Weak.
+
+Continuous venovenous hemofiltration + hemoperfusion may be considered when AKI is present, but superiority over hemoperfusion alone is uncertain. Evidence from non-randomized cohorts with selection bias (sicker patients receive combination). No RCT demonstrates additive benefit. Continuous venovenous hemofiltration role primarily for AKI management rather than enhanced toxin removal.
+
+== Rationale ==
+
+Continuous venovenous hemofiltration paraquat clearance markedly inferior to hemoperfusion (CVVH clearance ~80–100 mL/min vs hemoperfusion 150–200 mL/min).26 Evidence limitations: Non-randomized cohort studies with selection bias—sicker patients (higher paraquat levels, established AKI) more likely to receive combined therapy, confounding outcome comparisons.26 No controlled data demonstrate toxin removal superiority. Harm-benefit: Combined therapy increases complexity, resource utilization, and anticoagulation requirements without proven incremental benefit for detoxification. Justified primarily when AKI requires renal replacement therapy (RRT) independently. Resource stratification: Combined hemoperfusion-CVVH requires specialized equipment, higher nurse-to-patient ratio, and expertise available only at tertiary referral centers.
+
+Continuous venovenous hemofiltration should be initiated for standard AKI indications (volume overload, refractory hyperkalemia, metabolic acidosis, uremia) rather than for paraquat detoxification where benefit over hemoperfusion alone remains unproven.26
+
+Q15. Patient with paraquat poisoning once stable may be considered for transfer to the center with hemoperfusion if this facility can be availed within 4–6 hours of ingestion.
+
+Experts’ consensus: Very high consensus 93.3% (14/15). Statistical stability: Convergent.
+
+Median value = 5 in two sequential rounds. Convergent.
+
+Level of Evidence: D | Recommendation: Weak.
+
+Transfer to a hemoperfusion-capable center may be reasonable if transfer time is <2 hours and the patient presents <4 hours postingestion.22 The transfer risks (delayed supportive care, patient decompensation during transport, aspiration) must be individualized vs potential hemoperfusion benefit. For example, a patient presenting at 2 hours postingestion with 1.5-hour transfer time arrives at 3.5 hours—potentially within the therapeutic window. A patient presenting at 6 hours should not be transferred solely for hemoperfusion.
+
+== Rationale ==
+
+No controlled trials evaluate transfer strategies. Decision requires integrating: (1) Time since ingestion, (2) transfer duration, (3) patient stability for transport, and (4) referring hospital supportive care capabilities. Unstable patients (respiratory distress, hemodynamic compromise) face higher transport risks. Delayed airway protection, fluid resuscitation, or monitoring during transfer may negate any theoretical benefit of hemoperfusion. On the other hand, benefits of transport include access to hemoperfusion, ICU monitoring, and transplant evaluation. Time threshold: If transfer >2 hours, may exceed benefit window. Consider transfer only if risk-benefit favors transfer: (1) hemoperfusion available, (2) transport <2 hours, (3) patient hemodynamically stable. In the Indian context, rural-to-tertiary transfer often requires 4–8 hours, and by arrival, the therapeutic window may typically be closed. So focus should shift to high-quality supportive care at presenting facility.
+
+Transfer decisions should weigh hemoperfusion availability against time constraints.22 If transfer time plus presentation time exceeds 4–6 hours postingestion, the focus should be on optimal supportive care rather than transfer for hemoperfusion alone.
+
+Q16. Early initiation of RRT within 4–6 hours is critical for patients who develop acute kidney injury.
+
+Experts’ consensus: High consensus 93.3% (14/15). Statistical stability: Convergent.
+
+Median value = 4 in two sequential rounds. Convergent.
+
+Level of Evidence: C | Recommendation: Strong (for AKI management, not detoxification).
+
+The role of early RRT for paraquat detoxification limited and uncertain. Renal replacement therapy clearance is inferior to hemoperfusion; RRT should be initiated for standard AKI indications; the role of early RRT for paraquat detoxification is limited and uncertain.11 RRT addresses AKI complications (volume overload, electrolyte derangements, uremia) rather than providing meaningful toxin removal.
+
+== Rationale ==
+
+Renal replacement therapy paraquat clearance is substantially inferior to hemoperfusion.22,27 By the time AKI develops (typically 24–72 hours postingestion), most circulating paraquat has already been distributed into the tissues where RRT cannot access.1,6 Standard AKI indications remain appropriate: Volume overload refractory to diuretics, life-threatening hyperkalemia, severe metabolic acidosis, uremic complications.11 Since RRT carries inherent risks (hypotension, bleeding, infection, thrombocytopenia) without proven detoxification benefit in paraquat poisoning, initiation should be considered for AKI management, and not for toxin removal. Renal replacement therapy capabilities vary—CVVH is available in tertiary ICUs; intermittent hemodialysis is more widely available; peritoneal dialysis is feasible even in district hospitals for basic AKI management.
+
+Early “prophylactic” RRT solely for paraquat removal lacks evidence and exposes patients to procedural risks without demonstrated benefit.22
+
+Q17. Oxygen therapy should be restricted in paraquat poisoning with target SpO2 <90% to avoid accelerating pulmonary toxicity.
+
+Experts’ consensus: Very high consensus 100% (15/15). Statistical stability: Convergent.
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: C | Recommendation: Strong (with individualization).
+
+Oxygen therapy should be restricted to target SpO2 88–92% in most patients; individualize for elderly or those with cardiac/pulmonary comorbidities.1,6 Target not universally validated—may be unsafe in elderly patients or those with ischemic heart disease, severe COPD, or baseline hypoxemia.
+
+== Rationale ==
+
+Paraquat redox cycling is accelerated by oxygen, producing superoxide radicals that propagate lipid peroxidation and pneumocyte injury.27,28 Animal studies demonstrate oxygen worsens paraquat lung injury; human data are limited, but the mechanism is biologically plausible.1,23 A multi-center study (n=416) demonstrated a conservative oxygen strategy (administering oxygen only when SpO2 <90%) associated with significantly lower mortality compared to liberal oxygen (73.7 vs 87.8%, adjusted OR 5.97).28 Specific SpO2 targets are not established in the trials, but a conservative approach is supported: Give oxygen only if SpO2 <90%. However, clinical judgement is required, and the approach must be individualized for elderly or cardiac patients where hypoxemia risks may outweigh lung protection benefits.29
+
+Q18. Nutritional support (enteral or parenteral) is essential as severe oral ulceration prevents adequate intake post ingestion.
+
+Experts’ consensus: Very high consensus 100% (15/15). Statistical stability: Convergent.
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Strong.
+
+Nutritional support is essential; initiate enteral or parenteral nutrition within 24–48 hours. In paraquat, severity of oropharyngeal/esophageal injury determines enteral route safety.1 Nasogastric feeding is preferred if mucosal injury is mild (grades 1–2); nasojejunal or parenteral if severe injury (grades 3–4) or there is risk of perforation. Applicability depends on timing—mucosal injury evolves over 3–7 days; reassess feeding route as injury severity changes.
+
+== Rationale ==
+
+No paraquat-specific nutrition trials exist. Recommendation based on general critical care principles—early nutrition preserves gut barrier function, supports immune response, prevents catabolism.1 Paraquat causes severe corrosive injury to the oropharynx, esophagus, and stomach with ulceration beginning within the first few days.1 But since paraquat is corrosive, early insertion of a NG tube is advocated to maintain nutrition; otherwise the patients have to be kept nil per mouth to avoid oral/oropharyngeal injury.30
+
+Nasogastric tube placement may be challenging due to severe ulcerations and friable mucosa, which carries risk of bleeding or perforation.27 Route selection must therefore be individualized: Nasogastric feeding should be considered when mucosa tolerates tube placement, with frequent assessment for bleeding and parenteral nutrition when severe oropharyngeal erosions preclude safe tube insertion. Routine endoscopy not warranted.30 Therefore, oral feeding risks aspiration given mucosal friability. Nasogastric tube placement carries perforation risk (days 5–15 when ulcers deepest). Post-pyloric feeding should be considered if significant upper GI involvement. Total parenteral nutrition (TPN) is an alternative if enteral route unsafe.
+
+Q19. Adequate IV fluid resuscitation is essential to maintain urine output and renal perfusion (target in normal urine output without fluid overload), as many patients are volume depleted from vomiting, diarrhea, and purgative administration.
+
+Experts’ consensus: Very high consensus 100% (15/15). Statistical stability: Convergent.
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Strong.
+
+Answer: No paraquat-specific fluid targets exist. The goals include maintaining renal perfusion to enhance urinary paraquat elimination and avoiding fluid overload, which can worsen pulmonary edema and hypoxemia. Balanced, individualized fluid resuscitation guided by hemodynamic assessment essential.
+
+== Rationale ==
+
+Adequate fluid resuscitation is essential to maintain renal perfusion and enhance urinary paraquat elimination. Close monitoring of fluid balance is essential as renal failure commonly develops over the first 24 hours.1 Paraquat causes oxidative endothelial injury resulting in capillary leak and third-spacing; excessive crystalloids may worsen pulmonary edema without improving tissue perfusion.6 AKI commonly develops despite adequate resuscitation due to direct tubular toxicity rather than hypovolemia alone.1 So the goal is to maintain renal perfusion vs avoid pulmonary edema in the setting of evolving lung injury.
+
+No paraquat-specific fluid protocols exist. General ICU principles would apply: Dynamic assessment of fluid responsiveness should be preferred when available; as should be balanced crystalloid administration and a conservative strategy once hemodynamically stable.31–33 Initial resuscitation to restore adequate mean arterial pressure (MAP) and urine output should be followed by maintenance phase with close monitoring for pulmonary edema given capillary leak risk. While tertiary settings may employ dynamic hemodynamic monitoring and lung ultrasound, district hospitals rely on clinical assessment, vital signs, and urine output trending with a conservative fluid approach reasonable given limited monitoring capability.
+
+Q20. Adequate pain management is required in most patients for both local mucosal pain and systemic discomfort.
+
+Experts’ consensus: Very high consensus 100% (15/15). Statistical stability: Convergent
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Strong
+
+Adequate pain management required; multimodal analgesia including opioids should be employed as needed. Integration of palliative care and sedation strategies essential for terminal patients. Paraquat poisoning often results in prolonged suffering over 1–3 weeks before death; symptom management and compassionate end-of-life care required.
+
+== Rationale ==
+
+No paraquat-specific analgesia trials exist. Recommendation based on humanitarian principles—oropharyngeal ulceration, esophageal injury, and progressive organ failure cause significant pain and distress.1,30 Disease characterized by conscious deterioration over days to weeks before death in severe cases.1
+
+== Multimodal Analgesia ==
+
+Topical anesthetics (viscous lidocaine, benzydamine) should be considered for oral ulcers and systemic analgesics (acetaminophen, opioids) for visceral pain; avoid NSAIDs if AKI is present.34 Palliative care integration essential: Early prognostic conversations for patients with poor prognosis markers (positive dithionite beyond 24 hours, severe HRCT injury, ingestion >50 mL) should identify goals-of-care discussions.10,14,35 Terminal sedation appropriate for refractory dyspnea and distress should be started.36–38
+
+Benefits of adequate analgesia and palliative care (reduced suffering, dignity in death, family support) far outweigh risks. Withholding pain management or failing to address end-of-life care needs constitutes substandard care. Tertiary centers have palliative care teams available; district hospitals rely on primary team for symptom management and end-of-life discussions using general palliative care principles. Honest prognostic communication and basic symptom management are feasible at all resource levels.
+
+Q21. High-dose immunosuppressive therapy with corticosteroids and cyclophosphamide should be considered early in moderate-to-severe paraquat poisoning.
+
+Experts’ consensus: Not achieved 66.7% (10/15). Statistical stability: Convergent.
+
+Median value = 3 in the first and 4 in the next round.
+
+Level of Evidence: D | Recommendation: Weak.
+
+Glucocorticoids are frequently used in practice but efficacy remains uncertain; no convincing evidence of survival benefit exists. If used, high-dose methylprednisolone (15–30 mg/kg/day) preferred over conventional doses, initiated early (<24 hours) in moderate-severity poisoning.
+
+== Rationale ==
+
+Mechanistic plausibility does not equal clinical efficacy. Glucocorticoids theoretically reduce inflammation and fibroblast proliferation.6 Cochrane systematic review (2021) found low-certainty evidence that glucocorticoid combined with cyclophosphamide may reduce mortality (RR 0.72, 95% CI 0.59–0.89), but reviewers have limited confidence due to substantial heterogeneity and imprecision.39 Human observational studies show no clear mortality benefit but are confounded by severity (sicker patients more likely to receive steroids), timing (survivors more likely to present early when steroids given), and publication bias favoring positive results. Therefore, patient severity stratification is critical: Mild poisoning (likely to survive regardless) and severe poisoning (near-certain fatality) patients are unlikely to benefit. If benefit exists, most plausible in moderate-severity patients (predicted mortality 50–90%) presenting early.40,41 Moreover, it must be initiated <24 hours postingestion if the rationale is preventing early inflammatory injury; steroid initiation at 72 hours is unlikely beneficial when fibrosis is already established.40,42 Modest risks (hyperglycemia, infection, GI bleeding, psychiatric effects) acceptable only if potential benefit exists—currently unproven.1,39 Hence, this widely used intervention lacking evidence base reflects therapeutic nihilism and desire to “do something” in face of otherwise fatal poisoning.1
+
+Q22. Corticosteroids alone (without cyclophosphamide) have no proven effectiveness in reducing or preventing pulmonary fibrosis despite widespread historical use.
+
+Experts’ consensus: Not achieved 60% (9/15). Statistical stability: Convergent
+
+Median value = 4 and 4 in two sequential rounds. Convergent
+
+Level of Evidence: D | Recommendation: Insufficient evidence
+
+There is no convincing evidence of benefit as monotherapy and effectiveness remains unproven.1 Absence of evidence is not evidence of absence, but current data are insufficient to support routine use.
+
+== Rationale ==
+
+Dexamethasone is often combined with cyclophosphamide in pulse regimens, making independent assessment impossible.40,42 No high-quality trial examines dexamethasone monotherapy.1,36 The anti-inflammatory and anti-fibrotic effects are theoretically beneficial, but translation to clinical benefit is undemonstrated.6 Studies mixing dexamethasone with cyclophosphamide cannot attribute any observed benefit to dexamethasone specifically—confounding by combination therapy.39,40,43 If dexamethasone monotherapy were highly effective, a clear signal would emerge despite methodological limitations of existing studies. Absence of signal suggests modest benefit at most. Recommendation neither endorses nor prohibits use; reflects genuine uncertainty.
+
+Q23. High-dose immunosuppressive therapy with cyclophosphamide should be considered early in moderate-to-severe paraquat poisoning.
+
+Experts’ consensus: Not achieved 46.7% (9/15, Low). Statistical stability: Convergent.
+
+Median value = 3 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Weak.
+
+Cyclophosphamide may be considered in moderate-severity poisoning presenting <24 hours, but evidence remains weak. Cyclophosphamide may be considered in moderate-severity poisoning presenting <24 hours, but evidence remains weak. Patient selection criteria include: (1) Moderate severity—eGFR <50 mL/min/1.73 m² AND WBC >11,000/μL (subgroup showing benefit in observational studies) OR urine dithionite positive but not dark blue/black, presentation <24 hours, (3) no contraindications.6,40 Timing critical: Initiate within 24 hours if using as late administration (>48 hours) unlikely beneficial.40,42 Timing of initiation is critical: Initiate within 24 hours if using; late administration (>48 hours) unlikely beneficial.
+
+== Rationale ==
+
+Pulse cyclophosphamide (15 mg/kg every 2 days) combined with steroids most-studied immunosuppressive regimen.40 But the evidence is limited to observational studies with overinterpretation of subgroup analyses.41 Cochrane systematic review (2021) found “low-certainty” evidence of possible benefit; substantial heterogeneity and imprecision limit confidence in findings.39 No adequately powered RCT demonstrates clear benefit, as all are influenced by survivorship and selection bias—mild cases are likely to survive regardless, and severe cases with near-certain mortality despite any intervention are unlikely to benefit. If benefit exists, it is plausible only in a moderate-severity window. Substantial risks like neutropenia, infection risk, hemorrhagic cystitis, nausea, and alopecia are justified only if there is a reasonable chance of benefit in selected moderate-severity patients. Moreover, cyclophosphamide is expensive, requires mesna co-administration for bladder protection, oncology/pharmacy support for safe dosing.
+
+Widely practiced in Asian centers despite weak evidence; reflects regional experience rather than proven efficacy.1
+
+Cyclophosphamide may be considered in moderate-severity poisoning presenting <24 hours, but evidence remains weak. Patient selection criteria: (1) Moderate severity—eGFR <50 mL/min/1.73 m² AND WBC >11,000/μL (subgroup showing benefit in observational studies) OR urine dithionite positive but not dark blue/black, (2) presentation <24 hours, and (3) no contraindications.40 Timing critical: Initiate within 24 hours if using; late administration (>48 hours) unlikely beneficial.40
+
+Q24. There is enough evidence that N-acetylcysteine as an antioxidant reduces mortality in paraquat poisoning.
+
+Experts’ consensus: Not achieved: Against 60%, Favor 33.3%. Statistical stability: Convergent.
+
+Median value = 3 and 2 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Weak.
+
+N-acetyl cysteine (NAC) may be considered as low-risk adjunctive therapy based on theoretical free radical scavenging benefit and excellent safety profile, but evidence for clinical efficacy is weak. Not recommended as primary therapy or substitute for proven interventions. Unlike acetaminophen, paraquat generates continuous redox cycling and overwhelming oxidative stress that may exceed NAC scavenging capacity.
+
+== Rationale ==
+
+N-acetyl cysteine provides mechanistic rationale through glutathione replenishment and direct free radical scavenging.6 Animal models demonstrate NAC significantly improves survival in rats, reduces oxidative stress markers (decreased malondialdehyde, increased glutathione), suppresses inflammatory cell infiltration in lung tissue, and reduces nitric oxide levels.22,44,45 Human lung epithelial cells treated with NAC show reduced oxidative damage and inflammation compared to paraquat alone.45 However, no human RCTs demonstrate survival benefit.1 Therefore, permissive stance is justified by its excellent safety profile, theoretical benefit, extrapolation from other oxidative conditions, and low cost.1,6 However, NAC should not delay proven interventions or create unrealistic expectations. It should be used as an adjunctive therapy only, not primary treatment.1
+
+Q25. There is enough evidence that vitamin C reduces mortality in paraquat poisoning.
+
+Experts’ consensus: Consensus AGAINST 80%, Favor 13.3%. Statistical stability: Convergent
+
+Median value = 2 and 2 in sequential rounds.
+
+Level of Evidence: D | Recommendation: Weak (with dose restriction).
+
+Vitamin C may be considered at physiologic doses (500–1,000 mg/day), but evidence is insufficient. High-dose vitamin C (>3 gm/day) may potentiate paraquat toxicity through pro-oxidant effects, so supraphysiologic doses should be avoided. It has time-dependent dual effects: Its protective BEFORE paraquat; harmful AFTER tissue damage via the Fenton reaction.
+
+== Rationale ==
+
+Dose-dependent paradox—Vitamin C acts as an antioxidant at physiologic concentrations but pro-oxidant at high doses, particularly in the presence of transition metals.3 High-dose vitamin C may donate electrons to the paraquat redox cycle, paradoxically increasing free radical generation via the Fenton reaction when tissue damage releases iron.46 This time-dependent dual effects demonstrated in rats: Vitamin C given before paraquat exposure protected against lung damage, but when given after established tissue damage was in progress, it aggravated oxidative injury.46
+
+A study conducted in 134 patients, multivariate analysis suggested association with survival but the study was retrospective, non-randomized, and vitamin C was combined with immunosuppression making independent assessment impossible.47 No subsequent RCTs confirmed benefit.1 Therefore, permissive stance only for physiologic doses (500–1,000 mg/day) given safety and low cost.1,6 High doses (>3 gm/day) carry pro-oxidant risk via the Fenton reaction—explicitly contraindicated.46
+
+Q26. There is enough evidence that vitamin E reduces mortality in paraquat poisoning.
+
+Experts’ consensus: Consensus AGAINST: 80%, Favor 13.3%
+
+Median value 2 and 2 in two sequential rounds.
+
+Level of Evidence: Very Low-Quality D | Recommendation: Weak.
+
+The evidence base is limited to preclinical studies; no human clinical trials have been conducted. Consensus of disagreement achieved (80% against, stable).
+
+== Rationale ==
+
+Vitamin E (α-tocopherol) is a lipid-soluble antioxidant that could theoretically protect against paraquat-induced lipid peroxidation.6 However, no controlled clinical trial assessed vitamin E in human paraquat poisoning.1 Limited post-injury bioavailability and inability of vitamin E to penetrate the intracellular compartment where redox cycling occurs substantially constrain therapeutic potential.1,6 However, given low cost and low toxicity risk, use can be explored in strict research settings only.
+
+Q27. Lung transplantation may be considered for selected patients with irreversible pulmonary fibrosis after paraquat poisoning if logistics allow.
+
+Experts’ consensus: High consensus (80%, 13/15). Statistical stability: Convergent.
+
+Lung transplantation may be considered as definitive salvage therapy for carefully selected patients with irreversible pulmonary fibrosis, provided stringent criteria are met.
+
+Median value = 4 in two sequential rounds.
+
+Level of Evidence: Very Low-Quality D| Recommendation: Moderate.
+
+== Rationale ==
+
+In proportion of patients surviving acute phase, progressive fibrosis culminates in end-stage respiratory failure unresponsive to medical therapies.1,3 For this select group, transplantation is the only potentially curative option.1 Once paraquat completely eliminated, fibrotic injury is static—not fundamentally different from end-stage fibrosis from other conditions where transplantation accepted practice.1 Published case reports and small series, predominantly from East Asia and Europe, report successful outcomes.48–51 Review of 15 paraquat-related transplant cases found that five patients transplanted within 1 month all died, while three transplanted after 1 month survived—thus highlighting that an appropriate transplant timing window is crucial for prognosis.51 Successful cases reported with bilateral lung transplantation after 32–58 days postingestion once paraquat levels are undetectable.49–51 Long-term ECMO support (67–70 days) is feasible as a bridge to transplantation in select centers.50
+
+In the Indian context, significant challenges exist: Limited transplant center availability, organ donor scarcity, prohibitive cost, and lifelong immunosuppressive requirements. High consensus was achieved (80%) in the final Delphi round, endorsing lung transplantation as a viable option in selected patients where logistics and organ availability allow, with the panel emphasizing the importance of early engagement with transplant centers in patients surviving the acute phase.
+
+Q28. It is ideal to demonstrate paraquat clearance from the serum before considering lung transplant if a facility is available.
+
+Experts’ consensus: High consensus 80% (12/15, High). Statistical stability: Convergent.
+
+Confirmed undetectable serum paraquat levels are an absolute prerequisite before transplantation. Minimum 28 days postingestion must elapse.
+
+Median value = 4 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Moderate.
+
+== Rationale ==
+
+Paraquat actively taken up by pulmonary cells via the polyamine uptake pathway, concentrating 6–10 times above plasma levels.6 This mechanism operates in any normal lung tissue, including donor graft.6 Residual circulating paraquat at surgery would concentrate in transplanted lungs, replicating same oxidative injury and causing graft failure.48,49,51 Early transplant cases without confirmed clearance resulted in rapid graft fibrosis.48 While 80–90% cleared renally within 6–12 hours with normal function, paraquat in deep tissue compartments redistributes slowly over weeks.1,6 Successful transplant cases achieved with negative urine paraquat levels at median 32–34 days postingestion.46,47 The 28-day minimum is based on clinical convention and biological plausibility (time for paraquat clearance and organ recovery) rather than evidence from controlled trials. This time duration allows partial recovery of extrapulmonary organ functions (renal impairment, hepatic injury, nutritional depletion), all of which mitigate surgical risk.1,51 Confirmation should rely on serial quantitative plasma assays and repeatedly negative urine dithionite testing.11,50
+
+Q29. Extracorporeal membrane oxygenation is an effective bridge to lung transplantation in paraquat poisoning with severe respiratory failure.
+
+Experts’ consensus: High consensus 93.3% (14/15, very high). Statistical stability: Convergent.
+
+Median value = 5 in two sequential rounds.
+
+Level of Evidence: D | Recommendation: Strong.
+
+== Rationale ==
+
+VV-ECMO is an effective bridge to transplantation in patients with severe refractory hypoxemia, maintaining physiological viability while awaiting organ availability and paraquat clearance.
+
+Level of Evidence: D | Recommendation: Strong.
+
+== Rationale ==
+
+Patients with severe paraquat-induced fibrosis develop refractory hypoxemia which is not amenable to conventional ventilation.1,6 VV-ECMO can provide gas exchange support as a temporizing bridge.1 Case reports document technical feasibility and successful outcomes—bilateral lung transplantation after ECMO support periods ranging from 10 days to 10 weeks.48,50 Prolonged awake VV-ECMO (67–70 days) allowing nutritional, physical, and psychiatric rehabilitation prior to transplantation has been feasible in select centers.50 However, in paraquat poisoning, ECMO should be considered appropriate only if transplantation is genuinely realistic and paraquat clearance is expected; because a minimum 28-day clearance period means prolonged bridging with accumulated risks (hemorrhage, circuit thrombosis, limb ischemia, nosocomial infection);1,48,50,51 Along with serving as a bridge for transplant, oxygenating blood extracorporeally with VV-ECMO may also reduce intra-pulmonary oxidative stress from supplemental oxygen.28 Bloodstream infection and bacterial colonization are the main challenges before and after transplant.50 Even though ECMO carries substantial risks (bleeding, thrombosis, infection, limb ischemia, stroke), for transplant candidates with severe hypoxemia, it provides the only viable bridge to definitive therapy. Without ECMO, these patients would die from hypoxemia while awaiting clearance and donor availability.48,50 However, it is applicable only in select centers with both ECMO and transplant capability, as it requires specialized equipment, trained perfusionists, and critical care expertise. District hospitals should refer early to ECMO-capable centers if transplantation is being considered. Full counseling about uncertain outcomes, prolonged ICU stay, financial burden, and complications should be done.1,50
+
+Q30. Pulmonary system involvement is the strongest predictor of mortality in paraquat poisoning.
+
+Experts’ consensus: Very high consensus: 92.4% (13/15). Statistical stability: Convergent.
+
+Median value = 4 in two sequential rounds.
+
+Level of Evidence: B | Recommendation: Strong.
+
+== Multiple Prognostic Factors Predict Outcome ==
+
+Plasma paraquat levels, urine dithionite test results, amount ingested, time to presentation, PaO2/FiO2 ratio, and CT severity scores. Integration into validated scoring systems (SIPP score) improves prognostic accuracy.
+
+== Rationale ==
+
+Plasma paraquat concentration at 4–24 hours most robust predictor.14,15,52 Proudfoot-Hart nomogram (plasma level vs time) widely validated.14,15 Urine dithionite test helps in rapid semiquantitative assessment—dark blue/black at >24 hours indicates poor prognosis.11 PaO2/FiO2 <200 at day 3–5 strongly predicts mortality.1 Computed tomography ground-glass opacities >50% lung volume or consolidation at day 7 indicates poor prognosis.19,20 Pulmonary involvement strongest independent predictor (OR 24.43, p = 0.001).53 Sawada Index/SIPP score integrates multiple variables (plasma level, time, WBC, creatinine), improving prognostic accuracy over single measurements.52 Amount ingested critical: <20 mg/kg mild; 20–40 mg/kg moderate; and >40 mg/kg uniformly fatal.14,54 Dynamic trends (serial dithionite, PaO2 trajectories, CT progression) more accurate than single measurements.1,11 Although they provide accurate prognostication benefits for informed decision-making, but there is risk of self-fulfilling prophecy if withdrawal is based solely on prediction tools.1 The availability of tests may vary—plasma levels are available in select centers only; urine dithionite is feasible in district hospitals. PaO2/FiO2 ratio is feasible at all levels with ABG, and CT at tertiary centers. Validated tools should guide escalation/withdrawal and transplant decisions.11,14,52
+
+Q31. Cardiovascular system involvement is a significant independent predictor of mortality in paraquat poisoning.
+
+Experts’ consensus: Very High consensus 93.3% (14/15). Statistical stability: Non-convergent.
+
+Median value = 4 and 3 in two sequential rounds.
+
+Level of Evidence: C | Recommendation: Strong.
+
+Continuous cardiac monitoring recommended.
+
+== Rationale ==
+
+Cardiovascular involvement independently worsens prognosis—OR 13.02 (95% CI 1.52–111.2, p = 0.019) in multivariate analysis.53 Paraquat causes direct myocardial injury through the same ROS mechanism—mitochondrial dysfunction, lipid peroxidation, impaired cellular energy metabolism.6 Manifestations include arrhythmias, QTc prolongation, myocarditis, cardiogenic shock.6,53 Coexistence with pulmonary failure is particularly lethal—hypoxemia worsens cardiac output, reduced output impairs lung perfusion.6 However, the Delphi panel did not reach consensus—disagreement about generalizing data from a single cohort.53 Still, ECG monitoring, troponins, and echocardiography carry minimal risk and may detect treatable arrhythmias or heart failure.6,53 ECG monitoring is feasible at all levels; troponins are available in most hospitals, and echo is available at tertiary centers. Continuous cardiac monitoring is warranted for all significant ingestions.1,6,53 The committee recommends generating local data, especially on early cardiac involvement with early mortality.
+
+Q32. Amount of paraquat ingested (>15–20 mL of 20% paraquat solution) is the most important factor determining survival.
+
+Experts’ consensus: High consensus 86.7% (13/15). Statistical stability: Convergent.
+
+Median value = 4 in two sequential rounds.
+
+Level of Evidence: C | Recommendation: Strong
+
+Amount ingested is the single most important determinant of survival. Fatal dose threshold exists at approximately 40 mg/kg (equivalent to 15–20 mL of 20% solution), above which mortality approaches 100%.
+
+== Rationale ==
+
+Dose–response thresholds: <20 mg/kg mild; 20–40 mg/kg moderate; >40 mg/kg uniformly fatal.1,11,51 Prognostic criteria have been established based on plasma levels: Levels not exceeding 2.0, 0.6, 0.3, 0.16, and 0.1 mg/L at 4, 6, 10, 16, and 24 hours, respectively, predict survival.14 Patient-reported volumes are often unreliable due to multiple reasons, which include minimization due to shame, vomiting before absorption, and spillage that is unaccounted for.1,54 The concentration of the compound ingested also matters—a small amount of 20–24% concentrate is more lethal than a large amount of dilute solution.8,9 Plasma levels often exceed the reported amount—the patient says “one sip” (5–10 mL) but plasma corresponds to 30–50 mL ingestion.1 Clinical indicators of severe ingestion include oral ulceration, stridor, and hematemesis.1,8,9 Accurate dose assessment critical for prognosis and transplant decisions. Plasma levels provide objective assessment.14,15,53 Plasma assays are available in select centers; urine dithionite test is feasible in district hospitals. The reported dose should be used as a rough guide only—base prognosis on plasma level, urine dithionite, and early organ dysfunction.1,11,14,54
+
+== Limitations ==
+
+This position statement has several methodological limitations that should be acknowledged. First, while individual Delphi responses were anonymized, panelists were aware of each other's identities through the virtual Zoom meetings conducted between rounds. As a result, the potential for group dominance, authority bias, and social desirability bias cannot be fully excluded. The anonymization of responses mitigates but does not eliminate these influences. Second, the expert panel comprised 15 members, which, while adequate for a modified Delphi process, may be a modest number for a national policy document on a condition with significant public health implications.
+
+== Reporting Guideline ==
+
+This manuscript was prepared and reported in accordance with the general principles of the AGREE II (Appraisal of Guidelines for Research and Evaluation) framework for clinical practice guidelines and position statements.
+
+== External Review ==
+
+Draft submitted to ISCCM executive committee and circulated to member societies for peer review. Revised based on expert feedback.
+
+== Updating Procedure ==
+
+Guideline will be reviewed every 5 years or earlier if significant new evidence emerges (new RCTs, meta-analyses, antidotes).
+
+== Acknowledgments ==
+
+The authors would like to thank Dr Ravinder Kumar Soni, Professor of Statistics, Department of Community Medicine. Dayanand Medical College and Hospital, Ludhiana, Punjab.
+
+== Supplementary Materials ==
+
+The supplementary file S1 is available on its journal website www.ijccm.org.
+
+== Orcid ==
+
+Parshotam Lal Gautam
+https://orcid.org/0000-0002-7615-4781
+
+Lakshmi R Takkellapati
+https://orcid.org/0009-0007-9262-0926
+
+Ashish Bhalla
+https://orcid.org/0000-0001-5210-1012
+
+John V Peter
+https://orcid.org/0000-0002-3423-1830
+
+Rubina K Mahajan
+https://orcid.org/0000-0001-9933-5342
+
+M Ravi Krishna
+https://orcid.org/0000-0002-5360-3847
+
+Moturu Dharanindra
+https://orcid.org/0000-0002-9446-5460
+
+Sharmili Sinha
+https://orcid.org/0000-0001-5242-9405
+
+Yogendra Pal Singh
+https://orcid.org/0000-0002-5026-9978
+
+Pankaj Anand
+https://orcid.org/0009-0006-9165-0739
+
+Venkat R Kola
+https://orcid.org/0000-0002-6971-1236
+
+Ranajit Chattopadhyay
+https://orcid.org/0000-0003-2776-7802
+
+Bruno Mégarbane
+https://orcid.org/0000-0002-2522-2764
+
+Fazle R Chowdhury
+https://orcid.org/0000-0001-9579-0030
+
+Manu Ayyan S
+https://orcid.org/0000-0002-2541-5769
+
+Badria Ayyan Alhatali
+https://orcid.org/0000-0001-5316-5990
+
+Rajesh Mahajan
+https://orcid.org/0000-0002-6883-2618
+
+Alaukik Goyal
+https://orcid.org/0000-0002-9061-4465
+
+Suneel K Garg
+https://orcid.org/0009-0002-6203-7960
+
+Kundan Hazarika
+https://orcid.org/0009-0006-7312-310X
+
+Pragyan K Routray
+https://orcid.org/0000-0001-7872-3370
+
+Prashant Kumar
+https://orcid.org/0000-0002-5046-7421
+
+Sachin Gupta
+https://orcid.org/0000-0001-8663-9507
+
+Bharat G Jagiasi
+https://orcid.org/0000-0002-3068-1201
+
+Nagarajan Ramakrishnan
+https://orcid.org/0000-0001-5208-4013
+
+Srinivas Samavedam
+https://orcid.org/0000-0001-6737-8663
+
+Ranvir Tyagi
+https://orcid.org/0000-0001-5778-8255
+
+== Footnotes ==
+
+== References ==

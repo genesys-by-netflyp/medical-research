@@ -1,0 +1,155 @@
+== ARTICLE TITLE ==
+A Prospective Study to Assess the Profile and Outcome of Acute Paraquat Poisoning in a Tertiary Care Hospital of West Bengal
+
+== ABSTRACT ==
+AbstractBackground and aimsParaquat is a toxic herbicide, banned in several countries, but still being used extensively in India. Acute paraquat poisoning (APP) is associated with high case fatality. There is a dearth of prospective studies from India. Objectives of the study were to evaluate the profile and outcome of APP and to corroborate the findings of the urine dithionite test (UDT) with their clinical presentation.Patients and methodsThis prospective study was undertaken over one year in 2023 in a tertiary care hospital setting. All clinically suspected adult APP cases that were admitted to the hospital were enrolled. Socio-demographic, poisoning profile, clinical features, investigations, and treatment received were recorded till outcome (death/discharge/left against medical advice). In addition, UDT was done on admission.ResultsA total of 70 cases were enrolled with a median age of 25 years and male preponderance. The proportion of APP cases amongst all indoor admissions was 5.4 per 10,000. The majority were referral cases and had suicidal intent. Amount of poison consumed ranged from 2 to 250 mL with a median intake of 20 mL. In all cases tested, the UDT was positive. Out of the 39 patients in whom urine testing was done, 25 patients died, and all of them had an interpolated urine paraquat concentration ≥1 μg/mL. Case fatality rate was high, 74.28% (95% CI: 62.22–83.66%), and was attributed mainly to multi-organ failure (lung, liver, and kidney).ConclusionIn our study, it was found that APP was associated with a high case fatality rate and the development of multiorgan dysfunction. The findings of the UDT test corroborated with the clinical presentation. This study has generated evidence of the high burden of APP in our setting. This substantiates the need to consider banning it and promote the use of alternative, less toxic herbicides.How to cite this articleKotal S, Chatterjee S, Pain S, Kundu AK. A Prospective Study to Assess the Profile and Outcome of Acute Paraquat Poisoning in a Tertiary Care Hospital of West Bengal. Indian J Crit Care Med 2025;29(8):677–683.Keywords: Acute paraquat poisoning, Mortality, India, Prospective study, West Bengal
+
+== Background and aims ==
+
+Paraquat is a toxic herbicide, banned in several countries, but still being used extensively in India. Acute paraquat poisoning (APP) is associated with high case fatality. There is a dearth of prospective studies from India. Objectives of the study were to evaluate the profile and outcome of APP and to corroborate the findings of the urine dithionite test (UDT) with their clinical presentation.
+
+== Patients and methods ==
+
+This prospective study was undertaken over one year in 2023 in a tertiary care hospital setting. All clinically suspected adult APP cases that were admitted to the hospital were enrolled. Socio-demographic, poisoning profile, clinical features, investigations, and treatment received were recorded till outcome (death/discharge/left against medical advice). In addition, UDT was done on admission.
+
+== Results ==
+
+A total of 70 cases were enrolled with a median age of 25 years and male preponderance. The proportion of APP cases amongst all indoor admissions was 5.4 per 10,000. The majority were referral cases and had suicidal intent. Amount of poison consumed ranged from 2 to 250 mL with a median intake of 20 mL. In all cases tested, the UDT was positive. Out of the 39 patients in whom urine testing was done, 25 patients died, and all of them had an interpolated urine paraquat concentration ≥1 μg/mL. Case fatality rate was high, 74.28% (95% CI: 62.22–83.66%), and was attributed mainly to multi-organ failure (lung, liver, and kidney).
+
+== Conclusion ==
+
+In our study, it was found that APP was associated with a high case fatality rate and the development of multiorgan dysfunction. The findings of the UDT test corroborated with the clinical presentation. This study has generated evidence of the high burden of APP in our setting. This substantiates the need to consider banning it and promote the use of alternative, less toxic herbicides.
+
+== How to cite this article ==
+
+Kotal S, Chatterjee S, Pain S, Kundu AK. A Prospective Study to Assess the Profile and Outcome of Acute Paraquat Poisoning in a Tertiary Care Hospital of West Bengal. Indian J Crit Care Med 2025;29(8):677–683.
+
+Keywords: Acute paraquat poisoning, Mortality, India, Prospective study, West Bengal
+
+Received 2025 Jun 23; Accepted 2025 Aug 1; Issue date 2025 Apr.
+
+== Highlights ==
+
+Our study generated robust data regarding a very important public health issue, paraquat poisoning, which does not have any specific treatment and is associated with high mortality. A urine test was also conducted to corroborate its diagnostic significance clinically.
+
+== Introduction ==
+
+Paraquat is a widely used, inexpensive herbicide in some Southeast-Asian and Pacific regions.1 In India, it is commonly used as an herbicide in agricultural practice as it is far less expensive than manual weed clearance. Systemic intake of paraquat is associated with a high fatality rate. Despite restrictions on its use as per Central Insecticide Board and Registration Committee recommendations, its usage far surpasses the listed ones.1
+
+Paraquat is listed as a Class-II moderately hazardous pesticide by the World Health Organization (WHO) and a highly-hazardous pesticide by the Pesticide Action Network International.1 Acute paraquat poisoning (AAP) is associated with high case fatality due to its inherent toxicity and absence of a specific antidote. Consumption of paraquat >40 mg/kg eventually leads to acute multi-organ failure, even death.2 Case fatality rate is 60–80% across the globe, and about 20 deaths per million persons worldwide occur due to AAP.2,3
+
+The European Union, Switzerland, United States, Malaysia, Korea, Sri Lanka, China and some African countries banned paraquat.1 Despite some initiatives from public health activist groups for banning this herbicide, it continues to be marketed in India.4,5 There is dearth of published literature on acute paraquat poisoning (APP) from India as it is grossly under-reported, and the true burden of APP is not well-documented. There are only two retrospective studies from southern states of India and another from North India, a few case-series and case-reports on APP.4–7 In the absence of any published prospective study from Eastern India estimating the burden and outcome of APP, we undertook this study. In addition, cheap, easy, rapid urine-dithionite test (UDT) is routinely done to diagnose APP in several other countries but not routinely in most hospitals in India.8–10 The study was therefore undertaken to characterize the nature, severity and outcome of APP and corroborate the findings of a simple, rapid and inexpensive urine-dithionite test with clinical presentation in suspected APP cases.
+
+== Patients and Methods ==
+
+Approval was granted by the Institutional Research Oversight Committee (Institutional Ethics Committee for Clinical Research). Written informed consent (IC) was obtained from all study subjects or their legally acceptable representatives before enrolment. Consent for photography for scientific publication was also taken. Data collection was done while maintaining confidentiality. The study was conducted as per ICMR National Ethical Guidelines for Biomedical and Health-Related Research involving Human Participants, 2017.11
+
+This prospective observational longitudinal study was conducted at an inpatient setting of a tertiary care hospital with recruitment from emergency observation, medicine wards, critical care unit of the study hospital over a period of one year in 2023.
+
+All adult patients admitted to the above facilities of the hospital with a clinical diagnosis of APP were enrolled. Any other poisoning or drug overdose other than paraquat was excluded.
+
+A case report form (CRF) was designed to collect relevant data, i.e., socio-demographic profile, past medical and treatment history, details of poisoning, clinical parameters, investigation, and treatment details from admission to outcome (discharged/death/left against medical advice). All urine samples were sent to the pharmacology department laboratory for a urine dithionite test using the UV-spectrophotometry protocol, since this testing is not done routinely in the hospital laboratory.8–10 All participants were longitudinally followed up from admission to outcome. The total number of indoor admissions were noted from the hospital record section. Table 1 depicts the study flowchart.
+
+Data was analyzed using GraphPad Prism 8.0 and IBM SPSS version 17 statistical software. Study variables were summarized as frequencies/percentage for categorical data or median with interquartile range (IQR) for non-parametric data. For univariate analysis to compare variables among survivors vs non-survivors, odds ratio (OR) was calculated. Either Chi-square or Fischer's exact test was used for comparing categorical data, and the Mann–Whitney U test for non-parametric data. Multivariate logistic regression was also done. p-value < 0.05 was considered statistically significant and 95% confidence interval (CI) for the test statistics were computed.
+
+== Results ==
+
+A total of 70 cases were enrolled. The proportion of APP cases amongst all indoor admissions over one year was 5.4 per 10,000 admissions.
+
+Table 2 shows the socio-demographic profile of enrolled patients. The median age of the patients was 25 years (IQR: 20.75–36), with a male (74.28%) preponderance, and 58.57% had up to primary school level education. Surprisingly, majority were students (19 cases, 27.14%) followed by unskilled workers (24.28%) and farmers. A total of 65.71% came from nuclear families, and 80% belonged to the lower-middle socio-economic class (Table 2).
+
+A total of 97.14% were referral cases from primary or secondary healthcare facilities. The median (IQR) time from ingestion of paraquat to admission in this tertiary care hospital was 48 (24–120) hours. All were initially admitted to the emergency observation ward (EOW) and then transferred to medicine wards. Based on their clinical condition, they were later transferred to critical care unit/intensive therapy unit (CCU/ITU), subject to the availability of critical care unit beds. Three patients were transferred to CCU/ITU from the wards; unfortunately, all succumbed subsequently, while 18 patients recovered and were discharged directly from the wards. Most of the cases (91.42%) had suicidal intent, and the incidents occurred inside the home (91.42%). Amount of poison consumed ranged from 2 to 250 mL with a median intake of 20 mL.
+
+There were 52 deaths contributing to an overall case fatality rate of 74.28% (95% CI: 62.22–83.66%). There were no cases that left against medical advice.
+
+A total of 59 out of 70 (84.28%) developed serious complications and 20 patients developed all complications, i.e., acute kidney injury (AKI), acute liver injury (ALI), and acute respiratory distress syndrome (ARDS), while AKI emerged as the leading one. Almost 79% had moderate to severe AKI among all AKI cases. Around 60% had moderate to severe ALI amongst all ALI cases, and 9% developed moderate to severe ARDS amongst ARDS cases. Baseline parameters of all enrolled patients are depicted in Table 3 and the pattern of organ failure in Figure 1. Significant tongue changes were also observed due to local tissue injury, and some of these changes are shown in Figure 2. Palliative care was provided to all patients. Invasive ventilation was given to three patients while the rest, who needed support, were given high flow nasal oxygen (HFNO), titrating SpO2 to a maximum of 88%. Intubation was delayed as much as possible since the lungs were already damaged. Invasive ventilation with endotracheal intubation was considered as a last resort, as the mortality is extremely high. Critically ill patients were treated with supportive therapy including nebulization, inotropes, or vasopressors, pulse methylprednisolone, tocopherol, and two were given a trial of cyclophosphamide. During our study period, the hospital did not have facilities for hemoperfusion or charcoal filters. None of the patient's caregivers gave DNR (do not resuscitate), possibly because the majority of the seriously ill patients were very young and treatment is provided free of cost to all patients in government hospitals across the state. However, in a few cases, consent for invasive ventilation was not provided.
+
+Univariate analysis of survivors vs non-survivors was performed, and the amount of poison consumed showed statistically significant inter-group differences. However, age, time intervals from poisoning to first hospitalization or to study hospital admission were comparable between the groups. We computed OR to identify the categorical variables that were associated with mortality. Table 4 shows the results of the above analysis.
+
+The results indicate that the odds of death were higher in those who consumed >10 mL of paraquat, or developed AKI, ALI, or ARDS, compared to those who consumed a smaller amount or did not have the above organ involvements. There was no statistically significant difference between survivors and non-survivors regarding the use of various medical management measures like N-acetylcysteine (NAC), cyclophosphamide, systemic steroids, and vitamin C or vitamin E. Similarly, the majority of the patients who underwent hemodialysis (52.85%) or ventilator support (4.28%) did not survive. The median time duration from hospitalization at this hospital to recovery of organ dysfunction was 7 days (IQR 4–9) for those who recovered. The median time from admission to death was 5.5 days (IQR 2–11).
+
+Patients with age ≤ 25 years or male gender had higher odds of death compared to patients >25 years of age and female gender, but the difference was not statistically significant.
+
+Multivariate logistic regression was done only with variables that were significant in univariate analysis (i.e., amount of poison consumed, AKI, ARDS, ALI). In multivariate logistic regression, it was found that the amount of poison consumption was associated with statistically significant odds of death (95% CI of adjusted OR 9.52–2439.02). The multivariate logistic regression model showed good strength as the Nagelkerke R-squared value was 0.61.
+
+Urine-dithionite test was done on admission in 39 cases at the departmental laboratory, and all were positive. It could not be done in the rest as they were either anuric or menstruating women or had expired before urine sample collection. The steps of preparation of the standard curve and the UDT in the patients are depicted in a flowchart in Supplementary file 1 and Supplementary file 2, respectively.
+
+Time from consumption to testing was 5–336 hours. On admission, two cases denied a history of paraquat intake but had positive tests, which corroborated with clinical findings, and they subsequently admitted history of intake. Out of the 39 patients in whom urine testing was done, 25 patients died, and all of them had an interpolated urine–paraquat concentration ≥1 μg/mL. Figure 3 shows some samples with urine-paraquat concentration >40 μg/mL.
+
+== Discussion ==
+
+Acute paraquat poisoning is an important public health issue, but there are no previous prospective studies from India which reported the incidence of APP. Therefore, we are unable to comment on any regional differences in APP burden in our country. However, few global studies have reported the incidence of APP. A retrospective record-based study spanning from 2008 to 2015, conducted in French Guiana, reported 62 cases with an incidence of 3.8/100,000 inhabitants/year.12
+
+We observed a case fatality rate of 74.28% (95% CI: 62.22–83.66%) in our study, which further substantiates the evidence that APP has a high mortality. This study was conducted at a tertiary-care government hospital, where the majority were referrals from primary or secondary healthcare facilities from various district hospitals. The high case fatality could be attributed to the fact that most of the complicated cases were referred to our hospital, while the less severe cases may have been managed at the primary and secondary healthcare centers.
+
+The case fatality rate is comparable to three other studies from India. It was reported as 88%, 72.7% and 61.4% from Punjab, Puducherry, and Manipal studies, respectively.4,6,7 The case fatality rates from some international studies were as follows: China 70.9%, French Guiana 52%, Iran 44%.10,12,13 However, the study from Thailand reported a 21.8% fatality, which was far less than other global studies.14
+
+Paraquat appears to be a common poisoning agent used for suicidal attempts. Majority of the patients were of a younger age group as the median age was 25 years which was similar to the studies from Puducherry (median age 28 years) and Manipal (mean age 26 years).4,6 Another study from Punjab depicted that almost 68% of patients belongs to <30 years of age group.7 The prospective study in China reported a median age 31 years, while the study from French Guiana had a median age of 27.4 years.10,12 The study from Iran had a mean age 28 years while the other study from Thailand had 37 years.13,14 Gender predilection analyses showed that majority (74.28%) were male. This trend was observed in two other studies from India.4,6 The study from Iran and French Guiana also reported male preponderance, while the study from China showed otherwise.10,13,14
+
+The majority (91.42%) had an underlying suicidal intent. However, none of them had a prior history of any psychiatric disorders. Among students, academic failure, parental pressure, and relationship issues were significant factors, while family disputes and marital disharmony were common reasons among others. History suggested that the majority were impulsive events of deliberate harm. The studies from French Guiana and Antioquia also reported similar trends, 84% and 90.90%, respectively.12,15 Analysis of these regional and global trends indicates that due to various underlying socio-cultural reasons, young age groups are emotionally distressed, thereby leading to suicidal attempts. These findings corroborate with the study conducted in Punjab.7 In India, almost all states except Kerala and Odisha, paraquat is legally marketed and easily available as an over-the-counter agent. Some of the commercial brands of the agent have very catchy names, e.g., POGOTM, which shares a name with a popular children's cartoon channel.
+
+It is well-documented that severe APP cases develop multi-organ damage. The main target organs are the liver, kidneys, and lungs. The underlying mechanism involves redox cycling. Paraquat also stimulates nitric oxide production.16 These highly reactive oxygen and nitrogen species cause toxicity in various organs, with lung damage being particularly severe.17 Furthermore, paraquat-induced lipid peroxidation results in increased mitochondrial membrane permeability, leading to membrane depolarization, uncoupling, and matrix swelling.18,19 ROS also activates NF-kB, which promotes the transcription of inflammatory mediators such as enzymes, cytokines, and chemokines, facilitating platelet aggregation, fibrogenesis, and inflammatory cell recruitment.20,21
+
+We analyzed the detailed pattern of organ involvement and found that 84.28% developed serious complications. Majority (81.42%) developed AKI, followed by ARDS (47.14%) and ALI (42.85%). Nearly 29% patients experienced multi-organ involvement—kidney, liver, and lungs. Several patients were referred in a moribund state, and 14.3% of patients died within 24 hours of admission, before any complications could be assessed or investigated in detail. In the study from Puducherry, 81.8% developed AKI, similar to our findings, but 61.8% developed ARDS.4 In the study reported from Punjab, 75.2% developed renal failure, 62.4% developed hepatic failure.7 In a prospective study in Korea 85.4% patients developed AKI, 63.4% acute respiratory failure, and 46.3% hepatic dysfunction.8 Similarly, the Chinese study found that within the first 7 days of hospitalization, 43.1% developed ARDS and 77.5% AKI while the study from Thailand also reported similar trends, i.e., 71.7% renal, 45.3% lung, and 36.2% liver disorders.10,14 Thus, almost all studies indicate that AKI or ALI, or ARDS, are indicators of poor prognosis.
+
+As there are no specific antidotes, several agents have been used in clinical practice, like cyclophosphamide, systemic steroids, NAC, and antioxidants like vitamin E and C. In our study, none of these agents showed statistically significant survival benefits. Similar observations were also noted from the other three Indian studies.4,6,7 A 10-year cohort study from Taiwan also reported no mortality benefits with steroid, cyclophosphamide, vitamin C, NAC use, or hemoperfusion.21
+
+The role of hemoperfusion in improving survival benefits has been demonstrated in studies like the one from Manipal, which demonstrated significant survival benefits. However, in our patients, hemoperfusion was not given. A controlled trial in China demonstrated a mortality benefit by combining hemoperfusion with continuous venovenous hemofiltration.22 In contrast, the Korean study found no discernible advantage from hemoperfusion.23 Thus, the role of hemoperfusion continues to remain controversial.
+
+The quantity of paraquat ingested is the most important factor associated with mortality. In this study, we found that the odds of dying were 130 times higher in those who had consumed >10 mL compared to those who consumed lesser amounts. This observation has been corroborated in almost all studies except the study conducted in Punjab.7 This study had information regarding the amount of poison consumed in 19% cases only and did not find any significant relation between the amount of paraquat consumption and mortality.7 Age, male gender, and the time elapsed from poisoning to initial hospitalization or admission to our study site hospital were not found to be predictors of death.
+
+In this study, the UDT was done to quantify urine–paraquat levels. This test was performed once on admission urine samples. All 39 tested cases showed a positive UDT result. The time intervals from consumption to testing ranged from 5 to 336 hours, as the majority of patients were referral cases from other hospitals. Despite being an inexpensive, easy, and quick diagnostic test, its utilization is very limited in India. A study from Andhra Pradesh performed a qualitative evaluation of urine-paraquat concentration by observing only the color changes.8 However, in countries outside India where APP cases are still reported, this test is done routinely. The Chinese study undertook both qualitative and semi-quantitative analysis of urine paraquat by UDT.10 The Korean study used a cutoff time of 34.5 hours for conversion from a positive to negative UDT. The sensitivity and specificity for mortality were 71.4% and 75.0%, respectively.9 However, we could not perform such serial urine testing due to logistical constraints.
+
+Globally, the majority of nations have banned it, but it is still approved for manufacture, distribution, and sale in most states of India. Two states in India, i.e., Kerala, banned it in 2011, and Odisha banned it temporarily from 2023.1,24
+
+The strengths of our study are that it is perhaps the first prospective longitudinal study spanning over one year that evaluated the profile and outcome of APP cases. Finally, there are no published studies from India that qualitatively and quantitatively analyzed urine-paraquat using UDT. The study limitations include our inability to do serial follow-up urine testing, which could have generated information about whether this could be used for mortality prediction. Second, there was no facility for hemoperfusion and plasma urine paraquat testing. Finally, this is a single tertiary-care center study, and so treatment outcomes may have limited generalizability for primary and secondary healthcare settings.
+
+== Conclusion ==
+
+This prospective study from a tertiary care hospital in eastern India revealed that APP was associated with a high case fatality rate and development of moderate to severe multiorgan dysfunction. A positive urine dithionite test in all tested cases corroborated the clinical presentation. The study also documented that APP was primarily used for suicidal intent by adolescents. Lack of specific antidotes for APP and multi-organ damage contributed to high mortality. Based on these findings, we appeal to concerned authorities for a ban on the manufacture, distribution, and sale of this inexpensive herbicide across all states of India and suggest promoting other non-toxic or less-toxic alternatives.
+
+== Ethical Consideration ==
+
+Approval was granted by the IPGME&R Research Oversight Committee (Institutional Ethics Committee for Clinical Research) no. IPGME&R/IEC/2022/469.
+
+== Author Contributions ==
+
+Shreya Kotal: Literature search, study methodology, data collection, laboratory testing, data analysis, first draft of manuscript preparation, review, and editing.
+
+Suparna Chatterjee: Conceptualization of study, design, literature search, methodology, supervision, data acquisition, data analysis, laboratory testing, manuscript preparation, review, and editing.
+
+Shantasil Pain: Methodology, supervision, manuscript review, and editing.
+
+Asim Kumar Kundu: Methodology, supervision, manuscript review, and editing.
+
+== Supplementary Materials ==
+
+All the supplementary materials from supplementary figures 1 to 2 are available online on the website of www.IJCCM.com.
+
+== Orcid ==
+
+Shreya Kotal
+https://orcid.org/0009-0007-4293-0766
+
+Suparna Chatterjee
+https://orcid.org/0000-0003-1156-5130
+
+Shantasil Pain
+https://orcid.org/0009-0004-7239-443X
+
+Asim Kumar Kundu
+https://orcid.org/0009-0005-8449-3555
+
+== Footnotes ==
+
+== Data Availability Statement ==
+
+Data is available on request from the corresponding author.
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Data is available on request from the corresponding author.

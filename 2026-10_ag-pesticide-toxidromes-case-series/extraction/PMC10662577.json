@@ -1,0 +1,42 @@
+{
+  "pmcid": "PMC10662577",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10662577_case_1",
+      "age": "42 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Paramedics responded to the residence of a 42-year-old man with pulseless electrical activity after notification from the patient's wife that she witnessed him become unresponsive.",
+      "agent": "Organophosphate pesticide (exact agent UNVERIFIED; patient reportedly ingested 'fertilizer'; urine total dialkyl phosphate 200,000 nmol/L)",
+      "agent_quote": "Toxicological analysis of the decedent's urine revealed a total dialkyl phosphate concentration of 200,000 nmol/L (creatinine corrected: 180,000 nmol/g creatinine); additional toxicology results are noted in Table 2. Because of the autopsy and toxicologic findings, the cause of death was determined to be acute OP toxicity, with the manner of death as suicide.",
+      "route": "oral ingestion",
+      "circumstance": "Suicide: sent verbal and text-based suicidal ideations to his wife, including a snapshot of a soda bottle with granular sediment and statements that he had imbibed fertilizer",
+      "symptoms": [
+        {"finding": "diaphoresis, vomiting, diarrhea before loss of consciousness", "quote": "Shortly after returning to the residence, the decedent exhibited diaphoresis, vomiting, and diarrhea, called for assistance from the bathroom, and subsequently became unresponsive."},
+        {"finding": "pulseless electrical activity; GCS 3; nonreactive pinpoint pupils; bilateral papilledema with right flame hemorrhage", "quote": "Upon arrival by first responders, the patient was intubated and an electrocardiogram demonstrated pulseless electrical activity. ... Upon admission to the intensive care unit, the patient had a Glasgow Coma Scale score of 3. Physical examination revealed “nonreactive pinpoint pupils” and diaphoresis with fundoscopic examination demonstrating bilateral papilledema with right flame hemorrhage."},
+        {"finding": "severe cerebral dysfunction consistent with anoxic brain injury on EEG", "quote": "An electroencephalogram revealed severe cerebral dysfunction consistent with anoxic brain injury arising from prolonged resuscitative efforts."}
+      ],
+      "time_to_care": "UNVERIFIED (paramedics responded to the residence after wife's notification; exact interval not stated)",
+      "labs": [
+        {"name": "pH", "value": "6.8", "quote": "The most significant laboratory values were a pH of 6.8, pco2 of 72 mm Hg, and lactic acid of 21.8 mmol/L."},
+        {"name": "pco2", "value": "72 mm Hg", "quote": "The most significant laboratory values were a pH of 6.8, pco2 of 72 mm Hg, and lactic acid of 21.8 mmol/L."},
+        {"name": "lactic acid", "value": "21.8 mmol/L", "quote": "The most significant laboratory values were a pH of 6.8, pco2 of 72 mm Hg, and lactic acid of 21.8 mmol/L."},
+        {"name": "urine total dialkyl phosphate", "value": "200,000 nmol/L (creatinine corrected: 180,000 nmol/g creatinine)", "quote": "Toxicological analysis of the decedent's urine revealed a total dialkyl phosphate concentration of 200,000 nmol/L (creatinine corrected: 180,000 nmol/g creatinine); additional toxicology results are noted in Table 2."}
+      ],
+      "treatment": [
+        {"name": "intubation, CPR (~48 min, 11 rounds of epinephrine, 1 mg atropine)", "quote": "While en route via helicopter to a nearby regional medical center, return of spontaneous circulation was achieved after approximately 48 minutes of aggressive cardiopulmonary resuscitation (11 rounds of epinephrine, 1 mg of atropine)."},
+        {"name": "atropine and pralidoxime", "quote": "As the patient's presentation was consistent with cholinergic toxidrome, atropine and pralidoxime were initiated."},
+        {"name": "comfort care (family elected after neurology consultation)", "quote": "Upon confirming the patient's poor prognosis via neurology consultation, family members elected to place the patient on comfort care with death occurring shortly thereafter."}
+      ],
+      "icu_admission": "Yes (\"Upon admission to the intensive care unit, the patient had a Glasgow Coma Scale score of 3.\")",
+      "outcome": "died (cause of death: acute OP toxicity; manner: suicide)",
+      "outcome_quote": "Because of the autopsy and toxicologic findings, the cause of death was determined to be acute OP toxicity, with the manner of death as suicide.",
+      "sequelae": "UNVERIFIED (patient died)",
+      "notes": "Autopsy personnel developed symptoms consistent with OP exposure from off-gassing during postmortem examination. Neither butyrylcholinesterase nor acetylcholinesterase activity was measured during the clinical course."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "pmcid": "PMC10735555",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10735555_case_1",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    },
+    {
+      "case_id": "PMC10735555_case_2",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    },
+    {
+      "case_id": "PMC10735555_case_3",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    },
+    {
+      "case_id": "PMC10735555_case_4",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    },
+    {
+      "case_id": "PMC10735555_case_5",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    },
+    {
+      "case_id": "PMC10735555_case_6",
+      "age": "UNVERIFIED (per-case demographics not reported in source text)",
+      "sex": "UNVERIFIED",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we present a report of six cases of attempted suicide poisoning with pretilachlor herbicide and related organophosphorus toxicity symptoms.",
+      "agent": "Pretilachlor 50% emulsified concentrate (EC)",
+      "agent_quote": "All the above patients confirmed to have ingested pretilachlor 50% emulsified concentrate (EC).",
+      "route": "oral ingestion",
+      "circumstance": "Attempted suicidal ingestion of pretilachlor herbicide",
+      "symptoms": [
+        {"finding": "nausea, vomiting, salivation, lacrimation, abdominal cramps (series-level)", "quote": "Later, the early symptoms of nausea, vomiting, salivation, lacrimation, and abdominal cramps disappeared."},
+        {"finding": "nausea, vomiting, abdominal pain, tachycardia; no fever, bradycardia, miosis, or hypotension (series-level)", "quote": "In our instances, patients commonly present with symptoms of nausea, vomiting, abdominal pain, and tachycardia. Signs like fever, bradycardia, miosis, and hypotension were not present in any patients."}
+      ],
+      "time_to_care": "All presented within 3 h of ingestion",
+      "labs": [
+        {"name": "serum acetylcholinesterase", "value": "normal in all patients (values UNVERIFIED)", "quote": "In all our patients, the enzyme level came out to be normal, which was a major hint to finally differentiate between the two poisonings."},
+        {"name": "blood counts, glucose, LFT, RFT, electrolytes", "value": "within normal ranges", "quote": "In all the patients serial blood tests were performed including total blood counts, random blood glucose, liver and renal function tests, the reports of which turned out to be within normal ranges."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage (all presented within 3 h)", "quote": "Upon presentation they were all subjected to gastric lavage as they all presented within 3 h of time frame."},
+        {"name": "IV fluids, antiemetics, prophylactic antibiotics, NPO, proton pump inhibitors", "quote": "The vital signs were stable and were carefully monitored while being managed with supportive measures such as intravenous fluids, antiemetics and prophylactic antibiotics."}
+      ],
+      "icu_admission": "UNVERIFIED (patients admitted to medical ward)",
+      "outcome": "discharged after 3 days of hospital admission, clinically stable; no symptoms at one-week follow-up",
+      "outcome_quote": "They were discharged after 3 days of hospital admission as all of them were clinically stable. On follow-up after one week, no clinical signs and symptoms were observed.",
+      "sequelae": "None reported on follow-up",
+      "notes": "Per-case details (age, sex, individual doses) were not present in the converted source text (referenced table not included); fields are filled with series-level verbatim data where available."
+    }
+  ]
+}

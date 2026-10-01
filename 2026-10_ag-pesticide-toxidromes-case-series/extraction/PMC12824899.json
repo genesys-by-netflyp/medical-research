@@ -1,0 +1,108 @@
+{
+ "pmcid": "PMC12824899",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "41 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 41-year-old female photographer was admitted to the emergency department (ED) approximately 3 hours after intentionally ingesting 48 % soluble liquid chlorpyrifos in a suicide attempt following marital conflict.",
+   "agent": "chlorpyrifos (48% soluble liquid)",
+   "agent_quote": "intentionally ingesting 48 % soluble liquid chlorpyrifos in a suicide attempt following marital conflict",
+   "route": "ingestion",
+   "circumstance": "Suicide attempt following marital conflict; no prior psychiatric history; no occupational exposure to organophosphate pesticides.",
+   "symptoms": [
+    {
+     "finding": "vomiting, abdominal pain, progressive shortness of breath, altered mental status, generalized weakness, reduced urine output, generalized body swelling",
+     "quote": "She developed vomiting, abdominal pain, progressive shortness of breath, altered mental status, generalized weakness, and reduced urine output, which later progressed to generalized body swelling."
+    },
+    {
+     "finding": "hypotension (BP 101/68), tachycardia (HR 102), tachypnea (RR 17)",
+     "quote": "Vital signs revealed hypotension (BP 101/68 mmHg), tachycardia (HR 102 beats/min), and tachypnea (RR 17 breaths/min), with a normal axillary temperature of 37.1 °C."
+    },
+    {
+     "finding": "miosis and altered mental status; GCS 8 (E2M3V3)",
+     "quote": "Neurological examination demonstrated miosis and altered mental status. ... The Glasgow Coma Scale score was 8 (E2M3V3), indicating severe impairment of consciousness."
+    },
+    {
+     "finding": "pulmonary edema on chest radiography",
+     "quote": "Chest radiography demonstrated pulmonary edema, and abdominal ultrasonography revealed bilaterally enlarged kidney."
+    }
+   ],
+   "time_to_care": "approximately 3 hours after ingestion",
+   "labs": [
+    {
+     "name": "arterial blood gas",
+     "value": "pH 7.16, pCO2 38 mmHg, O2 saturation 87 %, HCO3− 17 mmol/L",
+     "quote": "Arterial blood gas analysis showed severe metabolic acidosis (pH 7.16, pCO2 38 mmHg, O2 saturation 87 %, HCO3− 17 mmol/L)."
+    },
+    {
+     "name": "serum creatinine",
+     "value": "4.1 mg/dL",
+     "quote": "Renal function tests demonstrated AKI, with serum creatinine 4.1 mg/dL and blood urea nitrogen 47 mg/dL."
+    },
+    {
+     "name": "blood urea nitrogen",
+     "value": "47 mg/dL",
+     "quote": "blood urea nitrogen 47 mg/dL"
+    },
+    {
+     "name": "serum potassium",
+     "value": "4.9 mmol/L",
+     "quote": "Electrolytes revealed serum potassium (4.9 mmol/L), mild hyponatremia (133 mmol/L), and mild hypocalcemia (7.8 mg/dL)."
+    },
+    {
+     "name": "serum sodium",
+     "value": "133 mmol/L",
+     "quote": "mild hyponatremia (133 mmol/L)"
+    },
+    {
+     "name": "serum calcium",
+     "value": "7.8 mg/dL",
+     "quote": "mild hypocalcemia (7.8 mg/dL)"
+    },
+    {
+     "name": "serum cholinesterase",
+     "value": "3290 U/L (markedly reduced)",
+     "quote": "Serum cholinesterase level was markedly reduced (3290 U/L), and toxicological screening confirmed chlorpyrifos."
+    },
+    {
+     "name": "urinalysis",
+     "value": "proteinuria, hematuria, urine osmolality 295 mOsm/kg, urine sodium 48 mmol/L, FENa 3%",
+     "quote": "Urinalysis showed proteinuria, hematuria, low urine osmolality (295 mOsm/kg), elevated urine sodium (48 mmol/L), and a fractional excretion of sodium of 3 %, consistent with intrinsic ATN."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "intravenous fluids (0.9% saline 1000 mL over 6 hours)",
+     "quote": "The patient received intravenous fluids (0.9 % saline, 1000 mL over 6 hours) to correct dehydration and electrolyte imbalances."
+    },
+    {
+     "name": "atropine (0.6 mg IV loading, then 0.02 mg/kg/hr infusion, tapered over 72 hours)",
+     "quote": "Atropine was administered IV as a 0.6 mg loading dose, followed by 0.02 mg/kg/hr infusion, started within 4 hours and tapered over 72 hours."
+    },
+    {
+     "name": "pralidoxime (30 mg/kg bolus, then 8 mg/kg/hr for 48 hours, plus 20 mg/kg IV dose 24 h later)",
+     "quote": "Pralidoxime was given IV, 30 mg/kg bolus, then 8 mg/kg/hr infusion for 48 hours, starting 2 hours after ICU admission, with an additional 20 mg/kg IV dose 24 hours later."
+    },
+    {
+     "name": "oxygen therapy then mechanical ventilation for ARDS (60 hours)",
+     "quote": "Oxygen therapy was initially provided at 4 L/min via nasal cannula, then increased to 10 L/min via Venturi mask. She received mechanical ventilation for ARDS for 60 hours for ARDS."
+    },
+    {
+     "name": "hemodialysis (3 sessions, initiated 12 hours after ICU admission)",
+     "quote": "Hemodialysis was initiated 12 hours after ICU admission and repeated for 3 sessions to manage AKI."
+    }
+   ],
+   "icu_admission": "yes (transferred to ICU after ~5 hours in ED; 5 days in ICU)",
+   "outcome": "survived; renal function improved, urine output increased, respiratory distress and mental status improved over 84 hours; transferred to inpatient department after 5 ICU days and discharged after 7 days",
+   "outcome_quote": "Over 84 hours, renal function improved, urine output increased, respiratory distress resolved, and mental status improved. After five days in the ICU, she was transferred to the inpatient department and discharged after seven days with plan for psychiatric support and monthly ambulatory nephrology follow-up.",
+   "sequelae": "none stated at discharge; plan for psychiatric support and monthly ambulatory nephrology follow-up",
+   "notes": "Final diagnosis: acute renal failure due to intrinsic acute tubular necrosis secondary to chlorpyrifos poisoning, complicated by ARDS."
+  }
+ ]
+}

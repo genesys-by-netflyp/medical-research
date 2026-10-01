@@ -1,0 +1,67 @@
+== ARTICLE TITLE ==
+Paraquat peril: An insight into a fatal poisoning case
+
+== ABSTRACT ==
+ABSTRACTParaquat (PQ) is a non-selective synthetic herbicide known as N, N′-dimethyl-4, 4′-bipyridinium dichloride. Toxic levels of PQ can be lethal, when ingested, as they can have potentially fatal effects on the heart, liver, kidneys, lungs, and gastrointestinal (GI) tract. To date, no known counter-dote exists, and none of the available therapies are effective. We present the case of a 30-year-old male who, after inadvertently consuming 20 ml of 24% PQ, experienced GI symptoms, such as vomiting, diarrhea, and odynophagia, as well as liver and kidney damage. Symptoms and organ involvement subsided, when prompt and appropriate supportive care was provided.
+
+== Introduction ==
+
+A British chemical manufacturer initially released the extremely lethal herbicide paraquat (PQ) in 1962 as a quick-acting, nonselective weed killer. Its quick uptake by plants and subsequent inactivation, when it meets soil are what give it its effectiveness.[1] Because of its effectiveness and affordability, PQ, which was first employed in the US and Mexico to eradicate illegal crops, soon became well-known across the world. It gained popularity in India’s farming communities, particularly among small and marginal farmers, who depend on low-cost weed management techniques.
+
+However, the herbicide poses a significant risk to public health, especially given how poisonous it is to humans. Just 10–20 mm of a 20% solution can be lethal if consumed, causing irreversible harm to the vital systems such as the kidneys, liver, and lungs. Treatment for PQ is mostly restricted to supportive treatments because there is no known antidote. Due to PQ’s toxicity profile and broad availability, there are more and more cases of unintentional and deliberate poisoning in India.
+
+The prevalence of poisoning is particularly high in rural and semi-urban areas of India, where PQ is readily available and regulatory oversight is insufficient. As a result, family doctors and primary care physicians play a crucial role. They are often the initial point of contact in these situations and, therefore, must be vigilant for signs of PQ toxicity, especially when patients present with nonspecific symptoms such as vomiting, oral ulcers, or respiratory distress. Early detection of PQ poisoning can enhance survival rates by facilitating prompt decontamination (e.g., using Fuller’s earth or activated charcoal) and immediate referral to tertiary care facilities order to lower the morbidity and mortality rate from PQ poisoning, clinical management and public health initiatives must be implemented in the primary care environment. Here, we present a case of PQ poisoning complicated by pulmonary fibrosis and acute renal failure.
+
+== Case Presentation ==
+
+A 30-year-old man arrived at our hospital after allegedly drinking 20 ml of 24% PQ after a family argument. He started vomiting 4 hours after the meal. He was treated at a nearby hospital, where he was given gastric lavage, activated charcoal, and supportive care, such as intravenous fluids, H2 blockers, and antiemetics. The patient was then sent to our Centre for Advanced Care.
+
+On examination, the patient was an average-built man, who was afebrile and tachycardic at 120. The systemic examination results were within normal limits. Upon arrival, the patient continued to experience severe vomiting, significant difficulty in swallowing, and multiple painful oral ulcers. Clinical examination revealed erosion of the lips and oral cavity. Oral ulcers due to paraquat are as shown below [Figure 1].
+
+Chest X-ray on admission is given below [Figure 2].
+
+Initial laboratory tests indicated an average white blood cell count and kidney and liver functions. However, his condition worsened with serum creatinine rising from 0.8 to 3.3, and liver function tests deteriorated markedly over the following days.
+
+Blood tests and diagnostic work-up of the patient are given in Table 1.
+
+On day 4 of admission, the patient started complaining about breathlessness, which was a sudden onset of breathlessness. High-resolution computed tomography (HRCT) of the thorax suggested suggestive bilateral pneumomediastinum with pneumothorax along with confluent areas of patchy consolidation in the dependent segment of bilateral lung fields, predominantly superior, lateral, and posterior basal segments of the bilateral lower lobes. Subcutaneous emphysema was noted in the cutaneous and intermuscular planes, extending bilaterally along the neck and chest walls [Figure 3].
+
+On day 6, liver function test results were alarmingly elevated, with aspartate aminotransferase (AST) at 530 U/L, alkaline phosphatase (ALP) at 604 U/L, and a serum bilirubin level of 5.0 mg/dL. The patient also developed significant respiratory distress, with room air saturation decreasing to 80%.
+
+Serial monitoring over 13 days revealed a progressive rise in AST and ALP peaking on Day 6, followed by a gradual decline, paralleling a reversible acute kidney injury marked by rising serum urea and creatinine up to Day 6 and subsequent improvement, as given below in the table [Table 2].
+
+He was kept nil by mouth, and a gastroenterology opinion was sought for the management of esophageal dysphagia. An upper gastrointestinal (GI) scope was deferred because he was considered a high-risk candidate, given the risk of esophageal rupture. Therefore, a gastrosurgery opinion was sought, and a feeding jejunostomy was advised. The patient was then fed jejunostomy.
+
+In response to acute hepatic failure, intravenous N-acetylcysteine infusion (NAC). After NAC infusion, the patient’s liver function test results improved. A nephrology opinion was taken given acute kidney injury, and advised to avoid dialysis as four days had already passed after ingestion of PQ and further advised to hydrate the patient for management. Intensive hydration was administered to manage acute kidney injury, leading to an improvement in renal function. The patient’s condition improved symptomatically and clinically during the hospital stay. After one week, the patient’s liver and kidney function tests returned to normal.
+
+The patient’s breathlessness continued to increase after one week of ingestion of the poison, and his oxygen requirement increased. As the patient developed pulmonary fibrosis (PF), he was started on the tablet. Nintedanib 150 [Figure 4].
+
+Given the prolonged need for invasive ventilation, the patient was tracheostomized and maintained in volume control mode. However, despite adequate care, the patient’s respiratory distress increased. The patient developed cardiogenic shock and hypotension and was started on ionotropic support on day 16. The patient’s condition deteriorated, and he succumbed to death on day 24.
+
+== Discussion ==
+
+A bipyridyl compound, PQ, produces reactive oxygen species, such as superoxide and nitrite radicals, directly harming cells.[2] It usually exhibits a dose-dependent clinical course with local and systemic toxicity. Oral consumption of a hazardous dose of less than 20 mg/dl can lead to corrosive damage to the GI tract and erosion of the tongue and oral mucosa. When 20–50 mg/dl is consumed, substantial toxicity can be observed in the form of renal tubular necrosis, liver necrosis, and PF; death often occurs in 2–3 weeks. Shock and multi-organ dysfunction are the leading causes of death when fulminant poisoning (>50 mg/dl) is ingested, and these events often occur within 3 days.[3]
+
+Large doses are thought to be uniformly lethal, resulting in cardiogenic shock and multi-organ failure. Urine PQ detection has been used to confirm diagnosis and evaluate prognostication. It has been discovered that a plasma concentration of more than 1.6 pg/ml 12 hour after administration is always lethal.[2]
+
+When PQ is administered during the acute phase, distributive shock from peripheral vasodilation results in mortality. The reason for the subacute stage is the visceral dysfunction centered on the lungs and kidneys. As evidenced by the current case, renal failure, may be curable. Collagen can build up in alveolar gaps over time, resulting in PF, which can cause respiratory failure and ultimately death.
+
+Hemodialysis (HD) or hemoperfusion (HP) is used to treat PQ poisoning by removing the poison from the serum; however, it has been reported that these treatments have little efficacy. An earlier study detailed a situation in which early HD helped save the patient. Within 6 hours, PQ reached a deadly quantity in lung cells, when 35 mg/kg or more was consumed. It has been reported that if HD is carried out 4–6 hour after intake, 70% of the PQ in the blood can be eliminated.[4] As our patient reported late to our institute, H.D. was not performed.
+
+HP has frequently been recommended as an appropriate therapeutic step because the kidneys essentially eliminate PQ. It is also thought to be four to six times more effective than HD. After PQ poisoning, HP is believed to need to be started as soon as feasible and continued for more than 10 hours. With HP, it is challenging to completely eradicate PQ because patients frequently consume many fatal doses. PQ has already reached the lung tissue and other vital organs, when HP is performed. Very little PQ remains in the bloodstream. Blood purification can enhance the physiological environment and dramatically reduce the levels of oxygen-free radicals and inflammatory cytokines. Unless the urine PQ detection findings are negative, HP is administered for approximately 4 hour per occasion.[5]
+
+Antioxidant treatment and immunosuppression can be used to treat acute PQ poisoning. According to a recent systematic study, individuals who underwent HP and immunosuppressive or antioxidant therapy had higher survival rates. Although evidence regarding the efficacy of immunosuppressant therapy is mixed, its use is generally supported. In one trial, the combination of dexamethasone and cyclophosphamide treatment led to a 75% survival rate. Antioxidants such as deferoxamine, acetylcysteine, and vitamin C are yet to be thoroughly studied. High-dose, long-term antioxidants may increase PaO2, improve liver function, reduce lung fibrosis, and minimize lung dysfunction in individuals with PQ poisoning.[6] Acetylcysteine is clinically safe and is used for renal protection.
+
+Older male smokers are mainly affected by idiopathic PF, a common progressive interstitial lung disease. The primary causes are aberrant collagen deposition and the healing of the epithelial damage. HRCT and pulmonary function tests were used for diagnosis. Because IPF is a progressive and chronic illness, monitoring disease behavior is essential. Pirfenidone and nintedanib, two antifibrotic medications, can reduce the decrease in FVC and avoid acute exacerbation.[7] Acute PQ self-poisoning is a serious clinical problem in impoverished countries, the Caribbean, and Asia. Concentrated PQ formulations at high doses induce multiple organ failure and cardiogenic shock, both of which hasten mortality. Lower dosages usually cause delayed lung fibrosis, which affects most patients.[8] Over the past 30 years, several groups have recommended anti-neutrophil (sometimes called “immunosuppressive”) medicines to prevent lung fibrosis. However, there is no consensus on its efficacy. The patient died of lung fibrosis, a delayed consequence, even if they survived a PQ overdose.
+
+== Conclusion ==
+
+In conclusion, the unusual but serious case underscores the severe and multi-system impact of PQ poisoning, necessitating comprehensive early management of hepatic, renal, and pulmonary complications, which led to severe lung fibrosis and a challenging clinical course, is highlighted in this case report. PF is one of the most fatal complications. This case highlights the delayed complications of PQ poisoning. If early HP or HD is performed at early presentation, such complications can be prevented.
+
+== Declaration of patient consent ==
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+== Conflicts of interest ==
+
+There are no conflicts of interest.

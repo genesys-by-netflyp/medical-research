@@ -1,0 +1,110 @@
+{
+ "pmcid": "PMC9346413",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9346413-case1",
+   "age": "23-year-old",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "it was found that the patient had consumed about 30 mL of 2,4-D in a suicide attempt, precipitated by financial problems",
+   "agent": "2,4-dichlorophenoxyacetic acid (2,4-D), about 30 mL",
+   "agent_quote": "it was found that the patient had consumed about 30 mL of 2,4-D in a suicide attempt, precipitated by financial problems",
+   "route": "oral ingestion",
+   "circumstance": "suicide attempt precipitated by financial problems",
+   "symptoms": [
+    {
+     "finding": "loss of consciousness",
+     "quote": "A 23-year-old female presented to the emergency department with loss of consciousness and excess oral secretions 2 hours after ingestion of an unspecified poison."
+    },
+    {
+     "finding": "excess oral secretions",
+     "quote": "A 23-year-old female presented to the emergency department with loss of consciousness and excess oral secretions 2 hours after ingestion of an unspecified poison."
+    },
+    {
+     "finding": "GCS 6/15",
+     "quote": "Physical examination results were remarkable: a GCS of 6 out of 15, dilated and reactive pupils, hypertonic and hyperreflexic lower extremities, and upgoing plantar reflex."
+    },
+    {
+     "finding": "dilated and reactive pupils",
+     "quote": "Physical examination results were remarkable: a GCS of 6 out of 15, dilated and reactive pupils, hypertonic and hyperreflexic lower extremities, and upgoing plantar reflex."
+    },
+    {
+     "finding": "hypertonic and hyperreflexic lower extremities, upgoing plantar reflex",
+     "quote": "Physical examination results were remarkable: a GCS of 6 out of 15, dilated and reactive pupils, hypertonic and hyperreflexic lower extremities, and upgoing plantar reflex."
+    },
+    {
+     "finding": "sinus tachycardia (PR 110/min)",
+     "quote": "Her vitals were PR 110/min, BP 120/70 mmHg, RR 21/min, and SPO2 96% on room air."
+    },
+    {
+     "finding": "renal failure",
+     "quote": "Her ICU course was remarkable for the development of renal failure (creatinine 3.1 mL/dL [reference range 0.5–1.2 mg/dL], BUN 133 mg/dL [reference range 16.6–48.5 mg/dL], urinalysis 3+ hemoglobin, and many red blood cells), due to toxin-induced rhabdomyolysis (creatine phosphokinase level of 1,330 µg/L)."
+    },
+    {
+     "finding": "hypotension",
+     "quote": "Subsequently, the patient became hypotensive, and vasopressor support was started."
+    }
+   ],
+   "time_to_care": "presented 2 hours after ingestion; initially taken to a nearby primary hospital",
+   "labs": [
+    {
+     "name": "complete blood-cell count, renal function test, liver-function test, random blood glucose (initial)",
+     "value": "normal",
+     "quote": "Upon initial investigation, complete blood-cell count, renal function test, liver-function test, and random blood glucose were normal."
+    },
+    {
+     "name": "creatinine",
+     "value": "3.1 mg/dL (text states mL/dL) [reference range 0.5–1.2 mg/dL]",
+     "quote": "creatinine 3.1 mL/dL [reference range 0.5–1.2 mg/dL]"
+    },
+    {
+     "name": "BUN",
+     "value": "133 mg/dL [reference range 16.6–48.5 mg/dL]",
+     "quote": "BUN 133 mg/dL [reference range 16.6–48.5 mg/dL]"
+    },
+    {
+     "name": "urinalysis",
+     "value": "3+ hemoglobin, many red blood cells",
+     "quote": "urinalysis 3+ hemoglobin, and many red blood cells"
+    },
+    {
+     "name": "creatine phosphokinase",
+     "value": "1,330 µg/L",
+     "quote": "toxin-induced rhabdomyolysis (creatine phosphokinase level of 1,330 µg/L)"
+    },
+    {
+     "name": "arterial blood-gas analysis and serum toxin level",
+     "value": "could not be determined (testing not available)",
+     "quote": "Arterial blood-gas analysis and serum level of the toxin could not be determined, as neither means of testing was available at the hospital."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "atropine and cimetidine (at primary hospital, for suspected OP poisoning, 3 days)",
+     "quote": "She had been initially been taken to a nearby primary hospital, where she was treated for possible OP poisoning with atropine and cimetidine for 3 days, before she was transferred to Saint Peter’s hospital."
+    },
+    {
+     "name": "intubation for airway protection",
+     "quote": "The patient was transferred to the intensive care unit (ICU), intubated for airway protection, and started immediately on forced alkaline diuresis."
+    },
+    {
+     "name": "forced alkaline diuresis",
+     "quote": "The patient was transferred to the intensive care unit (ICU), intubated for airway protection, and started immediately on forced alkaline diuresis."
+    },
+    {
+     "name": "vasopressor support",
+     "quote": "Subsequently, the patient became hypotensive, and vasopressor support was started."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "died of circulatory collapse on the third ICU day",
+   "outcome_quote": "Despite these efforts, she died of circulatory collapse on the third ICU day.",
+   "sequelae": "not applicable (died)",
+   "notes": "Misdiagnosed initially as organophosphate poisoning; 2,4-D ingestion confirmed after thorough questioning."
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "pmcid": "PMC8942044",
+ "case_type": "case series",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC8942044-case1",
+   "age": "78-year-old",
+   "sex": "man",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 78-year-old man with no known comorbidities or medication history was transferred to the emergency department of a tertiary care institute in Uttarakhand after ingestion of 50-mL chlorpyrifos and cypermethrin at his home.",
+   "agent": "chlorpyrifos and cypermethrin (50 mL)",
+   "agent_quote": "after ingestion of 50-mL chlorpyrifos and cypermethrin at his home",
+   "route": "oral ingestion",
+   "circumstance": "ingestion at home; intent not stated in text",
+   "symptoms": [
+    {
+     "finding": "vomiting",
+     "quote": "After ingestion, he had multiple episodes of nonbloody, nonbilious vomiting and was immediately taken to the local hospital."
+    },
+    {
+     "finding": "unconsciousness",
+     "quote": "the patient was transferred to the emergency department and arrived in an unconscious state"
+    },
+    {
+     "finding": "hypotension (BP 90/60 mmHg)",
+     "quote": "His vital signs were blood pressure 90/60 mmHg, heart rate 104 beats/minute, and respiratory rate 24 breaths/minute."
+    },
+    {
+     "finding": "bilateral 1-mm pinpoint pupils",
+     "quote": "Central nervous system examination showed bilateral 1-mm pinpoint pupils not reactive to light."
+    },
+    {
+     "finding": "bilateral basal crackles and decreased breath sounds on the right",
+     "quote": "Respiratory system examination showed bilateral basal crackles and decreased breath sounds on the right side of the chest."
+    },
+    {
+     "finding": "right-sided pneumothorax with pneumomediastinum",
+     "quote": "Chest radiography displayed right-sided pneumothorax for which intercostal tube was inserted as shown in Figure 1. High-resolution computed tomography (HRCT) of the thorax revealed right-sided pneumothorax with 5-mm pneumomediastinum."
+    }
+   ],
+   "time_to_care": "immediately taken to the local hospital after vomiting; then transferred to emergency department",
+   "labs": [
+    {
+     "name": "hematology and liver tests",
+     "value": "normocytic normochromic anemia with neutrophilic leukocytosis and mild transaminitis (detailed values in Table 1 not present in text)",
+     "quote": "Laboratory investigations revealed normocytic normochromic anemia with neutrophilic leukocytosis and mild transaminitis as shown in Table 1 (Case 1)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage (local hospital)",
+     "quote": "Gastric lavage was performed there, and then the patient was transferred to the emergency department and arrived in an unconscious state."
+    },
+    {
+     "name": "intubation and mechanical ventilation (VCAC, FiO2 100%, Vt 360 mL, PEEP 5 cm H2O)",
+     "quote": "Etomidate and rocuronium were administered, and the patient was intubated with these settings: volume control assist control (VCAC) mode, fraction of inspired oxygen (FiO2) 100%, tidal volume (Vt) 360 mL, respiratory rate 16 breaths/minute, and positive end-expiratory pressure (PEEP) 5 cm H2O"
+    },
+    {
+     "name": "atropine 30 mg plus atropine infusion 6 mg/h",
+     "quote": "the patient was atropinized with 30 mg atropine and atropine infusion was initiated at 6 mg/h"
+    },
+    {
+     "name": "ceftriaxone 1 g twice daily and clindamycin 600 mg twice daily",
+     "quote": "Ceftriaxone 1 g twice daily and clindamycin 600 mg twice daily were also started."
+    },
+    {
+     "name": "intercostal/thoracostomy tube for pneumothorax",
+     "quote": "A thoracostomy tube was placed for the right-sided pneumothorax."
+    },
+    {
+     "name": "noradrenaline and vasopressin",
+     "quote": "noradrenaline and vasopressin were started"
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "died on day three",
+   "outcome_quote": "On day three, the patient died.",
+   "sequelae": "not applicable (died)",
+   "notes": "Pneumothorax/pneumomediastinum developed on day three with sudden rise in plateau (36 cm H2O) and peak (42 cm H2O) pressures; lung ultrasound showed lung point sign."
+  },
+  {
+   "case_id": "PMC8942044-case2",
+   "age": "20-year-old",
+   "sex": "woman",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 20-year-old woman with no known comorbidities or medication history was transferred to the emergency department of a tertiary care institute in Uttarakhand after ingestion of 30 mL chlorpyrifos and cypermethrin at her home.",
+   "agent": "chlorpyrifos and cypermethrin (30 mL)",
+   "agent_quote": "after ingestion of 30 mL chlorpyrifos and cypermethrin at her home",
+   "route": "oral ingestion",
+   "circumstance": "ingestion at home; intent not stated in text",
+   "symptoms": [
+    {
+     "finding": "vomiting",
+     "quote": "After ingestion, she had multiple episodes of non-bloody, non-bilious vomiting, and became drowsy."
+    },
+    {
+     "finding": "drowsiness",
+     "quote": "After ingestion, she had multiple episodes of non-bloody, non-bilious vomiting, and became drowsy."
+    },
+    {
+     "finding": "shortness of breath",
+     "quote": "She also experienced shortness of breath, increased lacrimation, salivation, and involuntary passage of stools."
+    },
+    {
+     "finding": "increased lacrimation and salivation",
+     "quote": "She also experienced shortness of breath, increased lacrimation, salivation, and involuntary passage of stools."
+    },
+    {
+     "finding": "involuntary passage of stools",
+     "quote": "She also experienced shortness of breath, increased lacrimation, salivation, and involuntary passage of stools."
+    },
+    {
+     "finding": "hypoxia (SpO2 68% room air)",
+     "quote": "with oxygen saturation 68% on room air and 98% with 4-L oxygen nasal prongs"
+    },
+    {
+     "finding": "bilateral basal crackles",
+     "quote": "Respiratory system examination showed bilateral basal crackles."
+    },
+    {
+     "finding": "bilateral pneumothorax with pneumomediastinum",
+     "quote": "On day three, HRCT of the thorax revealed bilateral pneumothorax with left parasternal 39.7 mm pneumomediastinum as shown in Figure 2."
+    }
+   ],
+   "time_to_care": "immediately taken to the local hospital where gastric lavage was performed, then transferred to the emergency department",
+   "labs": [
+    {
+     "name": "hematology, liver tests, INR",
+     "value": "anemia with neutrophilic leukocytosis, mild transaminitis, and an increased international normalized ratio (detailed values in Table 1 not present in text)",
+     "quote": "Laboratory investigations revealed anemia with neutrophilic leukocytosis, mild transaminitis, and an increased international normalized ratio as shown in Table 1 (Case 2)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage (local hospital)",
+     "quote": "She was immediately taken to the local hospital where gastric lavage was performed, and then the patient was transferred to the emergency department."
+    },
+    {
+     "name": "atropine 12 mg plus atropine infusion 2.4 mg/h",
+     "quote": "the patient was atropinized with 12-mg atropine and started on atropine infusion at 2.4 mg/h"
+    },
+    {
+     "name": "noninvasive ventilation then intubation and mechanical ventilation",
+     "quote": "She was initially placed on noninvasive ventilation due to increased work of breathing (FiO2 100%, PEEP 6 cm H2O, pressure support 8 cm H2O)."
+    },
+    {
+     "name": "pralidoxime 2 g twice daily",
+     "quote": "Pralidoxime 2 g twice daily, ceftriaxone 1 g twice daily, and clindamycin 600 mg twice daily were started."
+    },
+    {
+     "name": "ceftriaxone 1 g twice daily and clindamycin 600 mg twice daily",
+     "quote": "Pralidoxime 2 g twice daily, ceftriaxone 1 g twice daily, and clindamycin 600 mg twice daily were started."
+    },
+    {
+     "name": "conservative management of pneumothorax; pigtail insertion for pneumomediastinum drainage",
+     "quote": "The bilateral pneumothorax was managed conservatively. Pigtail insertion was performed for pneumomediastinum drainage."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "recovered; discharged on day 25, asymptomatic at follow-up",
+   "outcome_quote": "On day 25, she remained stable and maintained normal vital signs on room air, and was discharged. The patient is now asymptomatic with regular follow-up in the general medicine outpatient department.",
+   "sequelae": "none reported; asymptomatic at follow-up",
+   "notes": "Extubated day 12; repeat HRCT day 19 showed resolution; pigtail drain removed day 22."
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "pmcid": "PMC9511329",
+ "case_type": "case series",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9511329-case1",
+   "age": "76-year-old",
+   "sex": "man",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "Case 1 was a 76-year-old man who intermittently immersed his perineum in diluted paraquat solution for 3 consecutive days because of eczema of the perineal skin.",
+   "agent": "diluted paraquat solution",
+   "agent_quote": "The patient had soaked his scrotum in diluted paraquat solution 5 days before the hospital visit.",
+   "route": "dermal (scrotal/perineal skin absorption)",
+   "circumstance": "non-occupational self-treatment: repeatedly soaked scrotum in diluted paraquat solution to treat eczema, 3-4 times a day for 10-20 minutes over several days",
+   "symptoms": [
+    {
+     "finding": "pain, swelling and erosion of scrotum",
+     "quote": "he discovered severe damage to his scrotal skin and experienced pain, swelling, and erosion of the scrotum"
+    },
+    {
+     "finding": "chest tightness",
+     "quote": "A day before the visit, he developed mild chest tightness and visited another local hospital, where scrotal cleaning and rehydration were performed."
+    },
+    {
+     "finding": "wet rales in both lungs",
+     "quote": "Wet rales were heard in both lungs."
+    },
+    {
+     "finding": "severe kidney damage (rising creatinine)",
+     "quote": "He developed severe kidney and lung damage after admission and died on Day 6 of admission."
+    },
+    {
+     "finding": "lung damage/pulmonary infiltration with hypoxemia (SpO2 70%)",
+     "quote": "In the afternoon, the patient complained of chest tightness and increased chest pain, and his blood oxygen saturation level decreased to 70%. Chest computed tomography showed diffused infiltration with bilateral lung distribution."
+    }
+   ],
+   "time_to_care": "visited another local hospital 1 day before referral; transferred to the study hospital ~2 days after cessation of skin exposure (5 days after starting soaking)",
+   "labs": [
+    {
+     "name": "blood paraquat concentration",
+     "value": "0.5 μg/mL",
+     "quote": "Blood paraquat concentration was 0.5 μg/mL."
+    },
+    {
+     "name": "WBC",
+     "value": "12.86 × 10^9/L (normal value: 3.5–9.5 × 10^9/L)",
+     "quote": "white blood cell (WBC), 12.86 × 109/L (normal value: 3.5–9.5 × 109/L)"
+    },
+    {
+     "name": "creatinine",
+     "value": "296 µmol/L (normal value: 58–133 µmol/L), later 440 µmol/L",
+     "quote": "creatinine (Cr), 296 µmol/L (normal value: 58–133 µmol/L)"
+    },
+    {
+     "name": "ALT",
+     "value": "166 IU/L (normal value: 21–72 IU/L)",
+     "quote": "alanine transaminase (ALT), 166 IU/L (normal value: 21–72 IU/L)"
+    },
+    {
+     "name": "AST",
+     "value": "85 IU/L (normal value: 17–59 IU/L)",
+     "quote": "aspartate aminotransferase (AST), 85 IU/L (normal value: 17–59 IU/L)"
+    },
+    {
+     "name": "total bilirubin",
+     "value": "28 μmol/L (normal value: 3–22 μmol/L)",
+     "quote": "total bilirubin (TBIL), 28 μmol/L (normal value: 3–22 μmol/L)"
+    },
+    {
+     "name": "arterial blood gas (day 4)",
+     "value": "pH 7.23; PaCO2 28 mmHg; PaO2 42 mmHg; Lac 4.6 mmol/L; K+ 3.35 mmol/L",
+     "quote": "Arterial blood gas analysis results were as follows: pH, 7.23; PaCO2, 28 mmHg; PaO2, 42 mmHg; Lac, 4.6 mmol/L; and K+, 3.35 mmol/L."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "scrotal cleaning and rehydration (local hospital)",
+     "quote": "he developed mild chest tightness and visited another local hospital, where scrotal cleaning and rehydration were performed."
+    },
+    {
+     "name": "dexamethasone 40 mg once daily",
+     "quote": "Initial treatment mainly included dexamethasone (40 mg, once a day)"
+    },
+    {
+     "name": "pantoprazole 40 mg twice daily",
+     "quote": "pantoprazole (40 mg, twice a day)"
+    },
+    {
+     "name": "reduced glutathione 2.4 g once daily",
+     "quote": "reduced glutathione (2.4 g, once a day)"
+    },
+    {
+     "name": "alanyl-glutamine 10 g/50 mL once daily",
+     "quote": "alanyl-glutamine (10 g/50 mL, once a day)"
+    },
+    {
+     "name": "torasemide 20 mg twice daily",
+     "quote": "torasemide (20 mg, twice a day)"
+    },
+    {
+     "name": "flucloxacillin 1.0 g every 8 hours",
+     "quote": "flucloxacillin (1.0 g, once every 8 hours)"
+    },
+    {
+     "name": "topical kangfuxin solution to scrotal skin",
+     "quote": "A kangfuxin solution (Chinese Medicine Approval: Z53020054, Kunming Sino Pharmaceutical Co. Ltd., Kunmin, China) was applied externally to the patient’s scrotal skin."
+    },
+    {
+     "name": "oxygen via mask 5 L/minute",
+     "quote": "Oxygen was administered through a mask at 5 L/minute."
+    },
+    {
+     "name": "gastrointestinal decompression",
+     "quote": "Gastrointestinal decompression was performed."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "died on Day 6 of admission of cardiac arrest",
+   "outcome_quote": "On Day 6 of admission, the patient died of cardiac arrest.",
+   "sequelae": "not applicable (died)",
+   "notes": "Endotracheal intubation and ventilator refused by family; discussion also mentions repeated blood perfusion and high-dose hormonal shock treatment. Urine sodium bicarbonate/sodium bisulfite test turned mild blue."
+  },
+  {
+   "case_id": "PMC9511329-case2",
+   "age": "23-year-old",
+   "sex": "woman",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 23-year-old pregnant woman with psychosis ingested approximately 100 mL of paraquat (W/V, 20%) during gestational week 36.",
+   "agent": "paraquat (W/V, 20%), approximately 100 mL",
+   "agent_quote": "ingested approximately 100 mL of paraquat (W/V, 20%) during gestational week 36",
+   "route": "oral ingestion",
+   "circumstance": "ingestion during pregnancy (gestational week 36); patient had psychosis; intent not explicitly stated",
+   "symptoms": [
+    {
+     "finding": "mild chest congestion (day 3)",
+     "quote": "On Day 3, the patient experienced mild chest congestion."
+    },
+    {
+     "finding": "dyspnea worsening",
+     "quote": "Eighty-one hours after ingestion, the patient’s dyspnea worsened."
+    },
+    {
+     "finding": "throat and abdominal pain and regular contractions",
+     "quote": "She experienced throat and abdominal pain and regular contractions."
+    },
+    {
+     "finding": "rising creatinine",
+     "quote": "laboratory results showed Cr of 222 μmol/L and BUN of 15.3 mmol/L"
+    }
+   ],
+   "time_to_care": "gastric lavage performed and transferred 6 hours after exposure",
+   "labs": [
+    {
+     "name": "blood paraquat concentration (initial)",
+     "value": "0.81 μg/mL",
+     "quote": "her blood paraquat concentration was 0.81 μg/mL."
+    },
+    {
+     "name": "WBC",
+     "value": "7.56 × 10^9/L",
+     "quote": "The patient’s laboratory test results were as follows: WBC, 7.56 × 109/L; NEU%, 83.6%; hemoglobin, 102 g/L; D-dimer, 4.38 μg/mL; and potassium, 3.41 mmol/L."
+    },
+    {
+     "name": "D-dimer",
+     "value": "4.38 μg/mL",
+     "quote": "D-dimer, 4.38 μg/mL"
+    },
+    {
+     "name": "potassium",
+     "value": "3.41 mmol/L",
+     "quote": "potassium, 3.41 mmol/L"
+    },
+    {
+     "name": "urine dithionate test",
+     "value": "urine turned blue",
+     "quote": "The patient’s urine turned blue when tested with dithionate (Figure 2)"
+    },
+    {
+     "name": "post-delivery labs",
+     "value": "WBC 8.99 × 10^9/L; hemoglobin 105 g/L; D-dimer 5.67 μg/mL; Cr 272 μmol/L; BUN 17.9 mmol/L; ALT 107 IU/L; AST 121 IU/L; CK-MB 1.7 ng/mL; hs-CTNI 13.5 ng/L; amylase 179 IU/L; lipase 92 IU/L",
+     "quote": "The mother’s laboratory test results after delivery were as follows: WBC, 8.99 × 109/L; hemoglobin, 105 g/L; D-dimer, 5.67 μg/mL; Cr, 272 μmol/L; BUN, 17.9 mmol/L; ALT, 107 IU/L; AST, 121 IU/L; CK-MB, 1.7 ng/mL (normal value: 0.3–4.0 ng/mL); hs-CTNI, 13.5 ng/L (normal value: 0–17.4 ng/L); amylase, 179 IU/L; and lipase, 92 IU/L."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage",
+     "quote": "Gastric lavage was performed and the patient was transferred to our department for further treatment 6 hours after exposure."
+    },
+    {
+     "name": "activated carbon (Smecta) and mannitol orally for gastrointestinal decontamination",
+     "quote": "She received activated carbon (Smecta®) and mannitol by oral administration for gastrointestinal decontamination."
+    },
+    {
+     "name": "dexamethasone 40 mg once daily",
+     "quote": "Other treatments included dexamethasone (40 mg, once a day)"
+    },
+    {
+     "name": "lansoprazole 30 mg twice daily",
+     "quote": "lansoprazole (30 mg, twice a day)"
+    },
+    {
+     "name": "reduced glutathione 1.8 g once daily",
+     "quote": "reduced glutathione (1.8 g, once a day)"
+    },
+    {
+     "name": "alanyl-glutamine 10 g once daily",
+     "quote": "alanyl-glutamine (10 g, once a day)"
+    },
+    {
+     "name": "flucloxacillin 1.0 g every 6 hours",
+     "quote": "flucloxacillin (1.0 g, once every 6 hours)"
+    },
+    {
+     "name": "furosemide 20 mg twice daily",
+     "quote": "furosemide (20 mg, twice a day)"
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "mother died of refractory respiratory failure 2 days after delivery; baby died within hours of birth",
+   "outcome_quote": "The baby died after a few hours, and the mother died of refractory respiratory failure 2 days after delivery.",
+   "sequelae": "not applicable (died)",
+   "notes": "Refused hemoperfusion and cesarean section; vaginally birthed a baby girl 83 hours after ingestion (birth weight 2250 g, Apgar 5 at 5 min, CPR performed). Paraquat concentrations: maternal blood 0.19, fetal blood 0.23, umbilical cord blood 0.20, amniotic fluid 0.47 μg/mL."
+  }
+ ]
+}

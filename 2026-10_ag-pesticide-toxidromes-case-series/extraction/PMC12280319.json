@@ -1,0 +1,93 @@
+{
+ "pmcid": "PMC12280319",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "19 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "admitted to our hospital after consuming approximately 5 ml of 24% paraquat dichloride six hours prior to being discovered by a relative",
+   "agent": "paraquat dichloride (24%), approximately 5 ml",
+   "agent_quote": "consuming approximately 5 ml of 24% paraquat dichloride",
+   "route": "oral",
+   "circumstance": "ingestion discovered six hours later by a relative; no significant family, personal, or psychiatric history (intent not explicitly stated)",
+   "symptoms": [
+    {
+     "finding": "2–3 episodes of vomiting at home before admission",
+     "quote": "Before admission, the patient reported experiencing 2 to 3 episodes of vomiting at home."
+    },
+    {
+     "finding": "hematemesis (three episodes) and brief jerky body movements with unconsciousness on day 5",
+     "quote": "On the fifth day, the patient had three episodes of hematemesis and a sudden episode of brief jerky body movements followed by unconsciousness."
+    },
+    {
+     "finding": "inability to maintain oxygen saturation on room air on day 6; agitation and disorientation",
+     "quote": "By the sixth day, the patient was unable to maintain oxygen saturation on room air and was put on BPAP with 60% O2"
+    },
+    {
+     "finding": "cardiogenic shock on day 7",
+     "quote": "On the seventh day, the patient went into cardiogenic shock and required inotropic support."
+    }
+   ],
+   "time_to_care": "initially taken to a local hospital; discovered six hours after ingestion",
+   "labs": [
+    {
+     "name": "urea",
+     "value": "26 mg/dL initially (reference 6-12), rose to 99 mg/dL",
+     "quote": "initial laboratory results showed elevated urea (26mg/dL)"
+    },
+    {
+     "name": "creatinine",
+     "value": "0.67 mg/dL initially, rose to 4.62 mg/dL",
+     "quote": "Creatinine levels rose from 0.97 to 2.45, 3.03, 3.29, 4.04, 4.41, 3.15 and 4.62mg/dL"
+    },
+    {
+     "name": "potassium",
+     "value": "3.2 mEq/L initially, fluctuated to 2.62 mEq/L",
+     "quote": "low potassium at 3.2 mEq/L (reference range: 3.5-5.1 mEq/L)"
+    },
+    {
+     "name": "arterial blood gas",
+     "value": "pH 7.4, pCO2 32.5, HCO3 22.8 initially; metabolic acidosis on day 5",
+     "quote": "Arterial blood gas analysis (ABGA) indicated a pH of 7.4, pCO2 of 32.5, and HCO3 of 22.8."
+    },
+    {
+     "name": "platelet count",
+     "value": "2.29 lacs/mm3 initially, decreased to 1,36,000/mm3 on day 5",
+     "quote": "Blood tests on this day indicated a decreased platelet count (1,36,000/mm3)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage and IV fluids at local hospital",
+     "quote": "He was initially taken to a local hospital where he received gastric lavage and intravenous fluids before he was referred to our facility"
+    },
+    {
+     "name": "N-acetyl cysteine IV regimen (8 g then 3 g then 6 g in 5% dextrose)",
+     "quote": "He was treated with intravenous N-Acetyl cysteine 8 gm in 200 ml 5% dextrose over 1 hour, followed by 3 gm in 500 ml 5% dextrose over 4 hours, followed by 6 gm in 1000 ml 5% dextrose over 16 hours"
+    },
+    {
+     "name": "Vitamin E 500 mg IV",
+     "quote": "Injection Vitamin E 500 mg IV"
+    },
+    {
+     "name": "methylprednisolone 500 mg IV over 30 minutes for 3 days",
+     "quote": "Intravenous Methylprednisolone 500 mg in 250 ml Normal saline over 30 minutes for 3 days"
+    },
+    {
+     "name": "potassium chloride injections; Vitamin K, tranexamic acid, diazepam, phenytoin on day 5; BPAP with 60% O2; haemodialysis; invasive mechanical ventilation; inotropic support",
+     "quote": "He underwent haemodialysis for acute kidney injury ... necessitating invasive mechanical ventilation for 24 hours ... went into cardiogenic shock and required inotropic support."
+    }
+   ],
+   "icu_admission": "yes (admitted to Critical Care Unit)",
+   "outcome": "died on the seventh day of admission",
+   "outcome_quote": "Despite all efforts, his condition continued to deteriorate, and he succumbed to death on the seventh day of admission.",
+   "sequelae": "not applicable (died)",
+   "notes": "Early hemoperfusion not possible due to unavailability of the adsorbent; severe metabolic acidosis and multi-organ dysfunction developed."
+  }
+ ]
+}

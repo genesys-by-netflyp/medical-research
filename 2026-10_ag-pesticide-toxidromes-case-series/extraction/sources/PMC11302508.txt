@@ -1,0 +1,33 @@
+== ARTICLE TITLE ==
+Severe and Recurrent Acute Kidney Injury Following Dichlorvos Exposure – A Case Report
+
+== ABSTRACT ==
+Dichlorvos, an organophosphate compound, has the potential to cause acute kidney injury (AKI) besides its well-known neuromuscular complications. We report a case of severe-recurrent AKI that progressed to end-stage-renal-disease (ESRD) following accidental exposure to Dichlorvos. A 52-year-old male farmer presented with breathlessness after accidental exposure while spraying in the field. He required mechanical ventilation due to allergic pneumonitis and developed anuric AKI, requiring renal replacement therapy (RRT). Biopsy revealed severe acute tubulointerstitial nephritis (ATIN), which responded to steroids, and the patient became dialysis-independent by 4 weeks. Two weeks later, the patient had recurrent AKI requiring RRT. A repeat biopsy revealed severe ATIN. However, despite steroid treatment, he progressed to ESRD. Organophosphate compounds can cause renal injury with a wide spectrum of presentations, ranging from subclinical AKI to severe dialysis-dependent renal failure, which may eventually progress to end-stage renal disease.
+
+== Introduction ==
+
+Dichlorvos (DDVP; 2,2-dichlorovinyl-dimethyl-phosphate), an organophosphate compound commonly used as an insecticide, has the potential to cause acute kidney injury (AKI) besides its well-known neuromuscular and autonomic complications.1,2 Some organophosphates have been proposed as culprit compounds associated with CKD-U among agricultural workers.3 However, whether exposure to an organophosphate compound through a respiratory/cutaneous route by itself could lead to severe AKI is unknown. We report a case of severe AKI secondary to exposure to DDVP fumes.
+
+== Case Report ==
+
+A 52-year-old male farmer presented with complaints of accidental exposure to Dichlorvos while spraying in the field without protection and with the spraying kit strapped to his back. Subsequently, he developed acute onset breathlessness for which he was hospitalized and required intubation and mechanical ventilation for one week. Examination revealed tachycardia (PR-134/min), BP-130/96 mmHg, and normal systemic examination. CT-thorax revealed multifocal consolidation with ground glass opacities suggestive of toxin-mediated allergic pneumonitis [Figure 1]. During the second week of hospitalization, the patient developed anuric AKI and required renal replacement therapy (RRT). Potential drugs/infections leading to AKI were ruled out. Serum complements, ANCA, and ANA were negative, and creatine-phosphokinase was normal. A renal biopsy done during the second week of illness revealed severe acute tubulointerstitial nephritis (ATIN) with mixed interstitial inflammation. Glomeruli were unremarkable [Figure 2a and 2b]. Because of temporal correlation and the absence of any other possibility, ATIN found on renal biopsy was attributed to the exposure to Dichlorvos [Figure 2c and 2d]. Electron microscopy revealed tubules with loss of brush border and irregular luminal border along with cytoplasmic vacuolations and focal cellular detachment from the tubular basement membrane suggestive of ATN. He was started on 1 mg/kg/day prednisolone. The patient’s urine output started improving after 2 weeks, he consequently became dialysis-independent, and creatinine improved to 1.6 mg/dl at discharge [Tables 1 and 2]. However, 2-weeks later, he presented with recurrent AKI, requiring RRT. Repeat biopsy revealed marked ATIN. He was given IV methylprednisolone followed by 1 mg/kg prednisolone, but with no response. Further heightening up of immunosuppression could not be done as the patient developed hospital-acquired infections. However, he remained dialysis-dependent.
+
+== Discussion ==
+
+This is a rare case of organophosphate compound-induced severe AKI leading to ATIN that culminated in dialysis-dependent renal failure. Though the respiratory complications are well known, renal involvement is rare with Dichlorvos poisoning. There are multiple mechanisms by which organophosphates could lead to AKI, rhabdomyolysis due to muscle fasciculations, hypoxic renal injury, and direct toxin-related nephrotoxicity.4 In the current case, direct renal toxicity in the form of toxin-induced ATIN might be the predominant mechanism leading to severe anuric AKI.
+
+There has been increasing evidence in the recent past on the association between indolent renal injury and organophosphate exposure. A population-based cohort study noted that among patients with exposure to OP compounds, the risk of AKI was six times higher compared to the controls.4 The potential association between OP compounds and CKD-U has been negated so far due to the lack of conclusive and strong evidence. However, a recent survey noted a significant association between the exposures of agrochemicals (predominantly paraquat in their study) and Mesoamerican nephropathy.5 The presentation in our patient was appealing in terms of severe renal injury after exposure to low toxin load, delayed presentation of AKI after a week of exposure, anuric and dialysis-dependent AKI with severe ATIN on histopathology, recurrent AKI that eventually progressed to non-recovering dialysis-dependent renal failure. The recurrent AKI in our case could be due to the sustained release of the lipophilic toxin from the body’s fat stores, similar to the descriptions in the literature.6
+
+Limitations of the current case include a lack of evidence for direct toxin-related AKI besides the temporal association and the absence of other causes of AKI. Staining for DDVP on biopsy/checking the serum levels of the toxin might be conclusive evidence but could not be done due to its non-availability.
+
+== Conclusion ==
+
+Organophosphates have the potential to cause renal injury with a wide spectrum of presentations ranging from subclinical AKI to severe dialysis-dependent renal failure.
+
+== Declaration of patient consent ==
+
+The authors certify that they have obtained all appropriate patient consent.
+
+== Conflicts of interest ==
+
+There are no conflicts of interest.

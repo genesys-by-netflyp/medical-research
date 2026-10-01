@@ -1,0 +1,71 @@
+{
+ "pmcid": "PMC11455649",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "24 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "the patient gave a history of ingesting around three to four tablespoons of herbicide after engaging in a verbal argument with his family",
+   "agent": "2,4-Dichlorophenoxyacetic acid (trade name Dhanweed), approximately 45 ml ingested",
+   "agent_quote": "The bottle containing the herbicide was retrieved and found to be 2,4-Dichlorophenoxyacetic acid, sold under the trade name Dhanweed",
+   "route": "oral",
+   "circumstance": "non-suicidal ingestion of liquid herbicide after a verbal argument with family; initially misdiagnosed as organophosphorus poisoning at a private hospital",
+   "symptoms": [
+    {
+     "finding": "epigastric pain, nausea, drowsiness",
+     "quote": "presented to the emergency department of a provincial hospital with an alleged history of ingestion of approximately 45 ml of liquid herbicide with complaints of epigastric pain, nausea, and drowsiness for one hour"
+    },
+    {
+     "finding": "vomiting, cough, shortness of breath, abnormal body movement, bowel and bladder incontinence",
+     "quote": "The patient party also gave history of vomiting, cough, shortness of breath, abnormal body movement, bowel incontinence, and bladder incontinence before presenting to our centre."
+    },
+    {
+     "finding": "hypoxia (SpO2 91% room air), tachycardia (121 bpm), GCS E4V4M5",
+     "quote": "His blood pressure was 100/60 mm of Hg, heart rate 121 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation was 91 percent in room air. His pupils were 3 mm in size, dilated and reactive to light. Glasgow Coma Scale was E4V4M5."
+    }
+   ],
+   "time_to_care": "presented within one hour of ingestion",
+   "labs": [
+    {
+     "name": "random blood glucose",
+     "value": "408.97 mg/dl",
+     "quote": "His laboratory values included a random blood glucose level of 408.97 mg/dl, serum urea 31.01 mg/dl, serum creatinine 0.63 mg/dl, sodium 136.3 mmol/L, potassium 4.3 mmol/L."
+    },
+    {
+     "name": "ALT",
+     "value": "196.71 IU/L (AST 56.39 IU/L)",
+     "quote": "aspartate aminotransferase (AST) 56.39 IU/L and alanine transaminase (ALT) 196.71 IU/L"
+    },
+    {
+     "name": "arterial blood gas",
+     "value": "metabolic acidosis (pH 7.311, lactate 3.6 mmol/L, HCO3 20.3 mmol/L)",
+     "quote": "Arterial blood gas analysis showed metabolic acidosis (pH: 7.311, pO2: 86 mm Hg, pCO2: 41.1 mm Hg, lactate: 3.6 mmol/L, HCO3: 20.3 mmol/L)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage and atropine challenge test (at prior hospital, for misdiagnosed OP poisoning)",
+     "quote": "he was suspected as a case of organophosphorus poisoning and gastric lavage was performed. The atropine challenge test was also performed and then immediately referred to our centre"
+    },
+    {
+     "name": "supportive management: IV crystalloids, pantoprazole, ceftriaxone 1 g, ondansetron 4 mg, biphasic isophane insulin (30/70)",
+     "quote": "supportive management was carried out with intravenous crystalloids, proton pump inhibitor (pantoprazole), antibiotic (ceftriaxone 1 gram), antiemetic (ondansetron 4 milligrams) and kept nil per oral"
+    },
+    {
+     "name": "urinary alkalinization and forced diuresis (furosemide, sodium bicarbonate 25 mEq/hour for 24 h) in ICU",
+     "quote": "The patient was then shifted to the intensive care unit where he was kept nil per oral for next 24 hours and kept on intravenous fluids, antibiotics, diuretics (furosemide), bicarbonate supplementations was done (25 mEq per hour for next 24 hour) with six hourly monitoring."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "survived; discharged on oral medications on the fourth day",
+   "outcome_quote": "The patient was discharged on oral medications (proton pump inhibitors and antibiotics) on the fourth day with the advice to follow-up after five days.",
+   "sequelae": "none reported",
+   "notes": "Known case of type-I diabetes mellitus; upper GI endoscopy advised but declined by family due to financial difficulties."
+  }
+ ]
+}

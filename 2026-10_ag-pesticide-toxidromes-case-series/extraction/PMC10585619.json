@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC10585619",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10585619_case_1",
+      "age": "15 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A young boy of 15 years was presented to our hospital with a history of accidental ingestion of poison which he mentioned as weed killers, 2 days back.",
+      "agent": "Paraquat (20% W/V solution, about 3 teaspoonfuls)",
+      "agent_quote": "The poison identified was paraquat, a 20% W/V solution. He took about 3 tea spoonfuls.",
+      "route": "oral ingestion",
+      "circumstance": "Accidental ingestion: the poison was kept at home for use on agricultural land and transferred to another bottle; the boy drank it mistaking it for water",
+      "symptoms": [
+        {"finding": "excessive salivation, burning sensation in throat, chest pain, decreased urine volume", "quote": "His current symptoms were excessive salivation, a burning sensation in the throat and chest pain. He also mentioned a decreased volume of urine for 1 day and on the 2nd day it was about 110 ml/24 h."},
+        {"finding": "cough, hemoptysis, abdominal pain, progressive reduction of urine volume; painful deglutition", "quote": "During the course of his admission to our hospital he developed cough, hemoptysis, abdominal pain and progressive reduction of urine volume. He couldn’t take anything by mouth due to painful deglutition."},
+        {"finding": "large confluent ulcer on anterior tongue; fever 102°F", "quote": "The tongue was erythematous and a large confluent ulcer was found on its anterior part [Fig. 1]."},
+        {"finding": "multifocal consolidation in both lungs on HRCT (day 7)", "quote": "Later on, high resolution computed tomography was performed on day 7 and revealed multifocal consolidation in both lungs [Fig. 2a and b]."}
+      ],
+      "time_to_care": "Immediately following ingestion, admitted to a nearby hospital, then referred to the authors' hospital 2 days after ingestion",
+      "labs": [
+        {"name": "S. creatinine (day 1)", "value": "6.8 mg/dl", "quote": "Laboratory data [Table 1] found as follows: S. creatinine 6.8 mg/dl, Blood urea 55 mg/dl, ALT 20 U/L, S. sodium 141 mmol/l, S. potassium 3.9 mmol/l, chloride 100 mmol/l, Bicarbonate 16 mmol/l."},
+        {"name": "S. creatinine (day 4 peak)", "value": "9.82 mg/dl", "quote": "Serum creatinine also started to drop from 9.82 on day 4–0.91 on day 11."},
+        {"name": "urine protein-creatinine ratio", "value": "2.64", "quote": "Urine routine examinations revealed Albuminuria 2 + and protein-creatinine ratio was high (2.64)."},
+        {"name": "oxygen saturation at admission", "value": "95% at room air", "quote": "His oxygen saturation was 95% at room air."}
+      ],
+      "treatment": [
+        {"name": "IV fluids and supportive measures; NPO", "quote": "He was initially treated with nothing per oral, as he couldn’t take an adequate diet due to dysphagia and started on IV fluid and other supportive measures."},
+        {"name": "hemodialysis", "quote": "But his urine output was not improving and serum creatinine was rising. Then he was started on hemodialysis (HD)."},
+        {"name": "methylprednisolone 500 mg IV daily for 5 days", "quote": "Then we gave an intravenous injection of methylprednisolone (MP). The dose was 500 mg daily. The patient's health improved after receiving the second dose of MP, as demonstrated by a progressive increase in urine volume and a reduction in the severity of symptoms [Table 2]. Intravenous MP was given for further three days."}
+      ],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "survived; discharged on day 11; symptom-free at 3-week follow-up with normal renal and liver function",
+      "outcome_quote": "He was discharged on day 11. At that time, his hemodynamic status and vital parameters were within normal limits. ... The patient was followed up after 3 weeks of discharge. He was free of any symptoms at that time. Renal function and liver function were normal.",
+      "sequelae": "None at 3-week follow-up",
+      "notes": "Blood paraquat concentrations were not measured (assay unavailable). Patient quote confirms accidental ingestion mistaking the herbicide for water."
+    }
+  ]
+}

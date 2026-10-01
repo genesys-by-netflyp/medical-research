@@ -1,0 +1,142 @@
+{
+  "pmcid": "PMC13548518",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13548518_case1",
+      "age": "2 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Subsequent police inquiry confirmed the use of aluminum phosphide as a pesticide in a grain storage area located beneath the family’s residence.",
+      "agent": "aluminum phosphide (inhalational, phosphine gas from grain storage beneath residence)",
+      "agent_quote": "Subsequent police inquiry confirmed the use of aluminum phosphide as a pesticide in a grain storage area located beneath the family’s residence.",
+      "route": "inhalation",
+      "circumstance": "environmental exposure at home: strong chemical odor in the home the previous night affecting both mother and child; mother also had nausea, vomiting, and lethargy; forensic/police investigation identified pesticide in grain storage beneath the residence",
+      "symptoms": [
+        {
+          "finding": "vomiting",
+          "quote": "A previously healthy 2-year-old girl was brought to the emergency department with vomiting, altered mental status, and respiratory distress."
+        },
+        {
+          "finding": "altered mental status",
+          "quote": "A previously healthy 2-year-old girl was brought to the emergency department with vomiting, altered mental status, and respiratory distress."
+        },
+        {
+          "finding": "respiratory distress",
+          "quote": "A previously healthy 2-year-old girl was brought to the emergency department with vomiting, altered mental status, and respiratory distress."
+        },
+        {
+          "finding": "depressed consciousness (GCS 5–6)",
+          "quote": "On admission, the patient had a Glasgow Coma Scale score of 5–6 with preserved bilateral pupillary light reflexes."
+        },
+        {
+          "finding": "hypoxemia (SpO2 88–89% on 10–15 L/min non-rebreather)",
+          "quote": "Oxygen saturation was 88–89% while receiving 10–15 L/min of oxygen via a non-rebreather mask."
+        },
+        {
+          "finding": "profound hemodynamic compromise (HR 180, RR 45, BP 64/26 mmHg)",
+          "quote": "Vital signs demonstrated profound hemodynamic compromise, including a heart rate of 180 beats/min, respiratory rate of 45 breaths/min, blood pressure of 64/26 mmHg, and body temperature of 36.8 °C."
+        },
+        {
+          "finding": "severe metabolic and lactic acidosis",
+          "quote": "Initial arterial blood gas analysis revealed severe metabolic and lactic acidosis (Table 1)."
+        },
+        {
+          "finding": "recurrent cardiac arrest due to ventricular tachycardia (two episodes, 15 min apart)",
+          "quote": "the patient experienced two episodes of cardiac arrest due to ventricular tachycardia, occurring 15 min apart"
+        },
+        {
+          "finding": "severe left ventricular systolic dysfunction (EF 30%)",
+          "quote": "Transthoracic echocardiography demonstrated severe left ventricular systolic dysfunction with an ejection fraction of 30%."
+        },
+        {
+          "finding": "acute hepatitis / acute liver failure",
+          "quote": "Abdominal ultrasonography revealed a mildly hypoechoic and heterogeneous liver parenchyma with periportal edema, findings consistent with acute hepatitis."
+        },
+        {
+          "finding": "ARDS with progressive respiratory deterioration",
+          "quote": "progressive respiratory deterioration developed around day 20, ultimately leading to acute respiratory distress syndrome"
+        }
+      ],
+      "time_to_care": "UNVERIFIED (brought to hospital the morning after overnight exposure; exact interval not stated)",
+      "labs": [
+        {
+          "name": "pH (admission)",
+          "value": "7.01",
+          "quote": "At admission... pH... 7.01 ... Lactate (mmol/L) ... 15"
+        },
+        {
+          "name": "lactate (admission)",
+          "value": "15 mmol/L",
+          "quote": "Initial arterial blood gas analysis revealed severe metabolic and lactic acidosis (Table 1)."
+        },
+        {
+          "name": "WBC",
+          "value": "15,600 /mm3 at admission, 20,430 at 12 h",
+          "quote": "WBC (/mm3)At admission12.hour... 15,600... 20,430"
+        },
+        {
+          "name": "INR",
+          "value": "8.3 at admission",
+          "quote": "INR8.32.142.492.32.251.221.3"
+        },
+        {
+          "name": "platelets",
+          "value": "62,000 /mm3 at admission; nadir 12,000 at 36 h",
+          "quote": "PLT (/mm3)62,00083,000125,00012,00035,000102,000105,000"
+        },
+        {
+          "name": "ejection fraction",
+          "value": "30%",
+          "quote": "Transthoracic echocardiography demonstrated severe left ventricular systolic dysfunction with an ejection fraction of 30%."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "endotracheal intubation and mechanical ventilation",
+          "quote": "prompting endotracheal intubation and transfer to the pediatric intensive care unit (PICU)"
+        },
+        {
+          "name": "vasoactive/inotropic support (epinephrine, norepinephrine, milrinone, hydrocortisone, terlipressin)",
+          "quote": "escalating vasoactive and inotropic support with epinephrine (up to 1 µg/kg/min), norepinephrine (up to 1.5 µg/kg/min), and milrinone (up to 0.5 µg/kg/min) infusions. A hydrocortisone bolus was administered, and terlipressin infusion was added"
+        },
+        {
+          "name": "antiarrhythmics (lidocaine, amiodarone)",
+          "quote": "Lidocaine bolus therapy and an amiodarone loading dose were administered for recurrent ventricular tachycardia, followed by continuous amiodarone infusion for rhythm control."
+        },
+        {
+          "name": "VA-ECMO (initiated within first 4 h; weaned day 11)",
+          "quote": "emergent veno-arterial extracorporeal membrane oxygenation (VA-ECMO) was initiated following multidisciplinary consultation"
+        },
+        {
+          "name": "continuous renal replacement therapy (CRRT)",
+          "quote": "Continuous renal replacement therapy (CRRT) was initiated to manage severe metabolic acidosis, acute kidney injury, and fluid overload"
+        },
+        {
+          "name": "therapeutic plasma exchange (TPE)",
+          "quote": "therapeutic plasma exchange (TPE) was initiated. Daily TPE sessions were performed using a membrane-based system with fresh frozen plasma as replacement fluid."
+        },
+        {
+          "name": "red blood cell exchange (RBCX, two consecutive days)",
+          "quote": "automated red blood cell exchange (RBCX) was performed on two consecutive days as an adjunctive therapy."
+        },
+        {
+          "name": "NaHCO3, calcium gluconate, magnesium sulfate, N-acetyl cysteine",
+          "quote": "NaHCO₃, calcium gluconate, magnesium sulfate, N-asetyl cystein"
+        },
+        {
+          "name": "therapeutic-dose enoxaparin after ECMO decannulation",
+          "quote": "Following ECMO decannulation, therapeutic-dose enoxaparin was initiated twice daily for thromboprophylaxis"
+        }
+      ],
+      "icu_admission": "yes (PICU; VA-ECMO, CRRT, mechanical ventilation)",
+      "outcome": "died on day 21 of hospitalization after cardiac arrest despite prolonged resuscitation",
+      "outcome_quote": "resuscitation efforts were unsuccessful, and the patient died on day 21 of hospitalization. The exact cause of the terminal cardiac arrest could not be definitively established.",
+      "sequelae": "UNVERIFIED (died)",
+      "notes": "No gastric decontamination performed because agent unidentified at presentation. Cardiac function recovered and weaned from VA-ECMO day 11; later died of ARDS/terminal arrest day 21. Mother also symptomatic with shared environmental exposure."
+    }
+  ]
+}

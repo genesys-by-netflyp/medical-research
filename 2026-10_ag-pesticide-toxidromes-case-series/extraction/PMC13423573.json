@@ -1,0 +1,88 @@
+{
+  "pmcid": "PMC13423573",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13423573-case1",
+      "age": "30 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "was brought to the emergency department by emergency medical services as a referral from a primary healthcare facility after intentional pesticide ingestion in a suicide attempt.",
+      "agent": "diazinon (Diacidol 600 Emulsifiable Concentrate, diazinon 600 g/L)",
+      "agent_quote": "The ingested substance was identified as Diacidol 600 Emulsifiable Concentrate, a pesticide containing diazinon 600 g/L, equivalent to 60% weight/volume. The reported ingested volume was approximately 700 mL.",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion in a suicide attempt; presented to primary clinic approximately 30 minutes after ingestion; seizure occurred at the primary healthcare facility.",
+      "symptoms": [
+        {
+          "finding": "acute cholinergic toxidrome (bradypnea, bradycardia, hypotension, hypersalivation, vomiting, diarrhea, depressed consciousness)",
+          "quote": "he had features consistent with acute cholinergic toxicity, including bradypnea, bradycardia, hypotension, hypersalivation, recurrent vomiting, diarrhea, and depressed level of consciousness, with a Glasgow Coma Scale score of 10/15."
+        },
+        {
+          "finding": "witnessed generalized tonic-clonic seizure",
+          "quote": "he developed a witnessed generalized tonic-clonic seizure, which was terminated with 10 mg of diazepam."
+        },
+        {
+          "finding": "severe respiratory distress with profuse secretions and bilateral crackles",
+          "quote": "Physical examination showed profuse respiratory secretions and bilateral crackles on chest auscultation."
+        },
+        {
+          "finding": "confusion",
+          "quote": "In the emergency department, he was confused and in severe respiratory distress."
+        }
+      ],
+      "time_to_care": "Presented to primary clinic approximately 30 minutes after ingestion; transferred to emergency department within approximately one hour of that presentation",
+      "labs": [
+        {
+          "name": "venous blood gas",
+          "value": "metabolic acidosis with elevated lactate; pH 7.28 improving to 7.38; bicarbonate 16 improving to ~20–24 mmol/L",
+          "quote": "Venous blood gas analysis demonstrated metabolic acidosis with elevated lactate."
+        },
+        {
+          "name": "serum ethanol",
+          "value": "24.5 mmol/L (~113 mg/dL), elevated",
+          "quote": "Serum ethanol was elevated at 24.5 mmol/L, approximately 113 mg/dL, and measured osmolality was elevated at 333 mOsm/kg, which may have contributed to depressed consciousness and aspiration risk."
+        },
+        {
+          "name": "measured osmolality",
+          "value": "333 mOsm/kg (elevated)",
+          "quote": "Serum ethanol was elevated at 24.5 mmol/L, approximately 113 mg/dL, and measured osmolality was elevated at 333 mOsm/kg, which may have contributed to depressed consciousness and aspiration risk."
+        },
+        {
+          "name": "cholinesterase assays",
+          "value": "not available at the institution",
+          "quote": "Plasma butyrylcholinesterase, red blood cell acetylcholinesterase, methanol level, and comprehensive toxicological confirmation testing were not available at our institution at the time of evaluation."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "diazepam 10 mg for seizure",
+          "quote": "he developed a witnessed generalized tonic-clonic seizure, which was terminated with 10 mg of diazepam."
+        },
+        {
+          "name": "atropine (cumulative 12 mg, then continuous infusion)",
+          "quote": "He received intravenous fluids, additional atropine reaching a total cumulative dose of 12 mg, and pralidoxime 2 g intravenously as initial antidotal therapy for suspected organophosphate poisoning."
+        },
+        {
+          "name": "pralidoxime (2 g initial; loading 30 mg/kg then 8–10 mg/kg/h infusion)",
+          "quote": "Pralidoxime was administered as a loading dose of 30 mg/kg over 15-30 minutes, followed by a maintenance infusion of 8-10 mg/kg/hour."
+        },
+        {
+          "name": "urgent endotracheal intubation and mechanical ventilation",
+          "quote": "the patient underwent urgent endotracheal intubation for airway protection and management of acute respiratory failure."
+        },
+        {
+          "name": "decontamination, ICU supportive care (PPI, LMWH, ceftriaxone)",
+          "quote": "On arrival, the patient underwent decontamination before transfer to the resuscitation area. ... Supportive ICU care included peripheral intravenous access, proton pump inhibitor therapy for gastrointestinal prophylaxis, low molecular weight heparin for venous thromboembolism prophylaxis, and ceftriaxone during admission."
+        }
+      ],
+      "icu_admission": "Yes (admitted to the intensive care unit for mechanical ventilation, continuous atropine infusion, pralidoxime infusion, and close monitoring)",
+      "outcome": "Cholinergic features resolved; extubated within 24 hours; antidotal therapy discontinued day 3; discharged in stable condition in police custody",
+      "outcome_quote": "He remained clinically stable and was discharged in stable condition in police custody after a medical and psychiatric assessment.",
+      "sequelae": "None documented during inpatient stay; long-term psychiatric follow-up data not available",
+      "notes": "Diagnosis clinical (cholinesterase assays and toxicological confirmation unavailable); possible ethanol co-ingestion; no delayed neuromuscular complications documented."
+    }
+  ]
+}

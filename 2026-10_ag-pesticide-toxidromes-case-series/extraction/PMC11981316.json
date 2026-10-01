@@ -1,0 +1,82 @@
+{
+ "pmcid": "PMC11981316",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "45 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 45-year-old female presented to a healthcare center after allegedly ingesting 10 mL of 20% PQ, following a familial dispute.",
+   "agent": "paraquat (20% solution), 10 mL",
+   "agent_quote": "allegedly ingesting 10 mL of 20% PQ",
+   "route": "oral",
+   "circumstance": "ingestion following a familial dispute, with suicidal intent noted in the discussion ('who allegedly ingested PQ with suicidal intent')",
+   "symptoms": [
+    {
+     "finding": "multiple episodes of projectile vomiting, dizziness, generalized body aches",
+     "quote": "She experienced multiple episodes of projectile vomiting, along with dizziness, and generalized body aches."
+    },
+    {
+     "finding": "jaundice, shortness of breath, multiple ulcers over dorsum of tongue ('paraquat tongue') on Day 2",
+     "quote": "She was icteric (Fig. 1), developed shortness of breath, and had multiple ulcers over the dorsum of the tongue, characteristic of a “paraquat tongue” (Fig. 2)."
+    },
+    {
+     "finding": "acute kidney injury and hepatitis",
+     "quote": "Our patient had now developed acute kidney injury and hepatitis."
+    },
+    {
+     "finding": "ARDS on chest radiograph",
+     "quote": "Chest radiograph revealed findings of acute respiratory distress syndrome (ARDS)."
+    }
+   ],
+   "time_to_care": "UNVERIFIED (gastric lavage with activated charcoal performed before referral)",
+   "labs": [
+    {
+     "name": "renal and liver function tests",
+     "value": "initially within normal limits; drastic elevations in serum urea, creatinine, bilirubin, AST, and ALT on Day 2",
+     "quote": "Laboratory test results of RFT and LFT reports revealed drastic elevations in the serum urea, creatinine, bilirubin, aspartate aminotransferase (AST), and alanine aminotransferase (ALT) levels (Tables 1 and 2)."
+    },
+    {
+     "name": "SOFA score",
+     "value": "8",
+     "quote": "The patient’s Sequential Organ Failure Assessment (SOFA) score was 8, indicating multiorgan dysfunction."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage with activated charcoal",
+     "quote": "Gastric lavage with activated charcoal was performed, and she was subsequently referred to our center for further management."
+    },
+    {
+     "name": "intravenous methylprednisolone (125 mg in 100 mL normal saline followed by 40 mg thrice daily)",
+     "quote": "The patient underwent continued gastric lavage along with intravenous methylprednisolone (125 mg in 100 mL normal saline followed by 40 mg thrice daily)."
+    },
+    {
+     "name": "intravenous cyclophosphamide (2 g in 100 mL normal saline)",
+     "quote": "she was administered intravenous cyclophosphamide (2 g in 100 mL normal saline)"
+    },
+    {
+     "name": "N-acetyl-cysteine (3.5 gm in 500 mL of 5% dextrose)",
+     "quote": "N-acetyl-cysteine (3.5 gm in 500 mL of 5% dextrose)"
+    },
+    {
+     "name": "emergency heparin-free hemodialysis",
+     "quote": "emergency heparin-free hemodialysis was initiated"
+    },
+    {
+     "name": "sylimarin, choline salicylate gel, mesna",
+     "quote": "sylimarin tablets were prescribed for hepatoprotection, choline salicylate gel was topically applied for mucosal ulcers and mesna tablets were given to prevent serious side effects of cyclophosphamide."
+    }
+   ],
+   "icu_admission": "yes (admitted to the Intensive Care Unit)",
+   "outcome": "died of progressive multiorgan failure on the fourth day of hospital admission",
+   "outcome_quote": "Unfortunately, progressive multiorgan failure ensued, and the patient succumbed to her condition on the fourth day of hospital admission.",
+   "sequelae": "not applicable (died)",
+   "notes": "Supplemental oxygen strictly avoided; baseline chest X-ray and labs within normal limits."
+  }
+ ]
+}

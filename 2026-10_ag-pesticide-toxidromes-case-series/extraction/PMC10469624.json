@@ -1,0 +1,41 @@
+{
+  "pmcid": "PMC10469624",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10469624_case_1",
+      "age": "25 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 25-year-old male patient was admitted to a local hospital with oral diquat 9 days ago.",
+      "agent": "Diquat (non-selective herbicide)",
+      "agent_quote": "A 25-year-old male patient was admitted to a local hospital with oral diquat 9 days ago.",
+      "route": "oral ingestion",
+      "circumstance": "Oral diquat ingestion; intent (suicidal/accidental) not stated in text",
+      "symptoms": [
+        {"finding": "mild oedema of the lower extremities; otherwise normal physical examination; conscious with normal urine output", "quote": "On admission, the patient was conscious and had a normal urine output. ... physical examination was normal except for mild oedema of the lower extremities."},
+        {"finding": "reversible splenial lesion syndrome (RESLES) on MRI", "quote": "The magnetic resonance imaging (MRI) examination of the head suggested that the lesions of the splenium of the corpus callosum, combined with the medical history, could be consistent with the MR manifestations of toxic encephalopathy (Figure 1)."}
+      ],
+      "time_to_care": "Admitted to a local hospital at an unstated interval after ingestion; transferred to the authors' hospital 9 days after oral diquat ingestion (renal function had deteriorated)",
+      "labs": [
+        {"name": "D-dimer at admission", "value": "2.36 μg/mL (normal <0.5)", "quote": "D-dimer at admission: 2.36 μg/mL (normal value, <0.5ug/ml)"},
+        {"name": "blood urea nitrogen", "value": "8.6 mmol/L (normal 3.2–7.1)", "quote": "blood urea nitrogen (BUN):8.6 mmol/L (normal value, 3.2–7.1 mmol/L)"},
+        {"name": "creatinine", "value": "319 umol/L (normal 62–115)", "quote": "creatinine (Cr):319 umol/L (normal value, 62–115 umol/L)"},
+        {"name": "white blood cell count (day 7)", "value": "13.75×109/L (normal 3.5–9.5)", "quote": "white blood cell count:13.75×109/L(normal value, 3.5–9.5 ×109/L), neutrophils:82.50%"},
+        {"name": "creatinine (day 7)", "value": "203 umol/L", "quote": "d-dimer: 1.99 μg/mL; BUN:22.20 mmol/L, Cr:203 umol/L."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage, hemoperfusion, organ protection, nutritional support (local hospital)", "quote": "There, he was treated with gastric lavage, hemoperfusion, organ protection, and nutritional support."},
+        {"name": "betamethasone 8 mg once daily", "quote": "The patient was given betamethasone (8 mg, once a day), torasemide (20 mg, twice a day), alanylglutamine (10 g, once a day), lansoprazole (30 mg, twice a day), reduced glutathione (1.8 gram once a day) and nutritional support."}
+      ],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "survived; renal function improved, discharged on day 10; splenial lesion no longer visible on CT at day 14",
+      "outcome_quote": "On day 10, his renal function had improved, and he was discharged from the hospital. On day 14, the splenial lesion of the corpus callosum is no longer visible on computed tomography scan (Figure 3).",
+      "sequelae": "None; good prognosis with no neurological sequelae (\"RESLES has no specific clinical manifestations, mild symptoms and a good prognosis, but no neurological sequelae.\")",
+      "notes": "First reported case of RESLES associated with diquat poisoning."
+    }
+  ]
+}

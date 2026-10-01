@@ -1,0 +1,91 @@
+{
+ "pmcid": "PMC7654463",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC7654463-case1",
+   "age": "twenty-seven-year-old",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A twenty-seven-year-old male presented to the Emergency Room (ER) with the alleged history of ingestion of an unknown poison, amount unknown, ten hours back following a family dispute.",
+   "agent": "amitraz 12.5%",
+   "agent_quote": "An empty bottle of the pesticide amitraz 12.5% recovered from the patient’s room was brought along by the patient’s relative to which the patient agreed having ingested two teaspoonful of it.",
+   "route": "oral ingestion",
+   "circumstance": "suicidal ingestion following a family dispute",
+   "symptoms": [
+    {
+     "finding": "vomiting",
+     "quote": "The patient immediately had two episodes of vomiting and then gradually developed altered sensorium in the form of drowsiness within two hours of ingestion of the poison."
+    },
+    {
+     "finding": "altered sensorium / drowsiness",
+     "quote": "gradually developed altered sensorium in the form of drowsiness within two hours of ingestion of the poison"
+    },
+    {
+     "finding": "GCS 9/15",
+     "quote": "the patient had a Glasgow coma scale score of 9/15 (E2V2M5)"
+    },
+    {
+     "finding": "bradycardia (pulse 50/min)",
+     "quote": "Vital signs revealed a radial pulse of 50 beats per minute, blood pressure 90/50mm Hg"
+    },
+    {
+     "finding": "hypotension (BP 90/50 mmHg)",
+     "quote": "blood pressure 90/50mm Hg"
+    },
+    {
+     "finding": "hypoxia (SpO2 86% room air)",
+     "quote": "oxygen saturation of 86% in room air"
+    },
+    {
+     "finding": "miosis",
+     "quote": "His pupils were constricted bilaterally and sluggishly reacting to light."
+    }
+   ],
+   "time_to_care": "presented to ER ten hours after ingestion",
+   "labs": [
+    {
+     "name": "full blood count, renal function tests, random blood sugar, liver function tests, coagulation profile",
+     "value": "all within normal limits",
+     "quote": "His investigations comprising a full blood count, renal function tests, a random blood sugar level, liver function tests, and a coagulation profile were all within normal limits."
+    },
+    {
+     "name": "arterial blood gas",
+     "value": "no abnormalities",
+     "quote": "Arterial blood gas (ABG) analysis did not reveal any abnormalities"
+    },
+    {
+     "name": "serum cholinesterase",
+     "value": "within normal limit",
+     "quote": "a serum cholinesterase level was within normal limit."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "oxygen 2 L/min via nasal cannula",
+     "quote": "The patient was provided oxygen at two litres per minute via nasal cannula, his oxygen saturation improved to 96%."
+    },
+    {
+     "name": "intravenous fluid bolus (500 ml 0.9% normal saline)",
+     "quote": "He was managed by administering immediately a bolus dose of 500ml of 0.9% of normal saline"
+    },
+    {
+     "name": "intravenous atropine 0.6 mg",
+     "quote": "an intravenous dose of atropine 0.6mg following which his heart rate increased to 96 beats per minute"
+    },
+    {
+     "name": "supportive management and monitoring",
+     "quote": "Six hours of close monitoring with continuous supportive management resulted in the patient opening his eyes spontaneously with a purposeful response to verbal stimuli."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "complete recovery; discharged on fourth day in good health",
+   "outcome_quote": "He was finally discharged from the hospital on the fourth day in good health.",
+   "sequelae": "none reported",
+   "notes": "GCS improved to 15/15; symptoms resolved over next 12 hours; no hyperglycemia; no inotropic support required."
+  }
+ ]
+}

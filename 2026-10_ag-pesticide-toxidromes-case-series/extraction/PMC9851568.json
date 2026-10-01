@@ -1,0 +1,85 @@
+{
+ "pmcid": "PMC9851568",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC9851568-case1",
+   "age": "26-year-old",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "Eight hours prior to the presentation, she accidentally ingested the insecticide while manipulating a spraying device and developed intractable vomiting 20 minutes later.",
+   "agent": "lambda-cyhalothrin",
+   "agent_quote": "the family brought the bottle of the insecticide, which revealed that the compound ingested was lambda-cyhalothrin, an uncommon insecticide",
+   "route": "oral ingestion (accidental while manipulating a spraying device)",
+   "circumstance": "accidental ingestion while manipulating a spraying device",
+   "symptoms": [
+    {
+     "finding": "intractable vomiting",
+     "quote": "she accidentally ingested the insecticide while manipulating a spraying device and developed intractable vomiting 20 minutes later."
+    },
+    {
+     "finding": "hemodynamic instability (BP 78/42 mmHg)",
+     "quote": "the patient was unconscious with a Glasgow Coma Scale (GCS) score of 4/15, BP of 78/42 mmHg, PR of 85 bpm, and SaO2 of 92% on high-flow oxygen."
+    },
+    {
+     "finding": "respiratory distress / desaturation (SaO2 88% room air)",
+     "quote": "her vitals in the next two hours were as follows: BP of 100/60 mmHg, PR of 110 bpm, and SaO2 of 88% (on room air)."
+    },
+    {
+     "finding": "irritability and altered mental sensorium, progressing to unconsciousness (GCS 4/15)",
+     "quote": "the patient became irritable and had an altered mental sensorium."
+    },
+    {
+     "finding": "tachycardia (PR 110 bpm)",
+     "quote": "BP of 100/60 mmHg, PR of 110 bpm, and SaO2 of 88% (on room air)."
+    }
+   ],
+   "time_to_care": "rushed to a local healthcare center after informing family, then referred; presented at index center eight hours after ingestion",
+   "labs": [
+    {
+     "name": "baseline investigations",
+     "value": "UNVERIFIED (ordered but values in Tables 1, 2 not present in text)",
+     "quote": "All baseline investigations were ordered, and she was kept sedated and on mechanical ventilation for the next two days with continuous monitoring."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage (local center)",
+     "quote": "Gastric lavage was performed, and she was administered the standard treatment for organophosphate poisoning"
+    },
+    {
+     "name": "empiric OP-poisoning treatment: IV fluids, pralidoxime 1 g IV eight-hourly, atropine 20 mg IV stat then 10 mg in 100 mL NS over two hours (local center)",
+     "quote": "intravenous (IV) fluids, injection pralidoxime (PAM) 1 g IV eight hourly, and injection atropine 20 mg IV stat, followed by 10 mg in 100 mL normal saline (NS) over the next two hours."
+    },
+    {
+     "name": "endotracheal intubation and mechanical ventilation",
+     "quote": "Considering her low GCS score, endotracheal intubation was performed, and mechanical ventilation was commenced."
+    },
+    {
+     "name": "noradrenaline 2 mg in 500 mL NS at 30 mL/hour",
+     "quote": "The patient was then commenced on noradrenaline 2 mg in 500 mL NS at 30 mL/hour."
+    },
+    {
+     "name": "hydrocortisone 100 mg BD and pheniramine 2 mL IV stat",
+     "quote": "Injection hydrocortisone 100 mg BD and injection pheniramine 2 mL IV stat were also administered."
+    },
+    {
+     "name": "sedation and supportive care with continuous monitoring",
+     "quote": "she was kept sedated and on mechanical ventilation for the next two days with continuous monitoring."
+    },
+    {
+     "name": "oral proton pump inhibitors at discharge",
+     "quote": "She was monitored for two more days and discharged on oral proton pump inhibitors."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "recovered; extubated day three, discharged; follow-up uneventful",
+   "outcome_quote": "The patient was successfully extubated on day three and placed on a high-flow mask... She was monitored for two more days and discharged on oral proton pump inhibitors. Follow-up has been uneventful.",
+   "sequelae": "none reported; follow-up uneventful",
+   "notes": "Initially mismanaged empirically as organophosphate poisoning; ventilated for two days; moved to medical ward."
+  }
+ ]
+}

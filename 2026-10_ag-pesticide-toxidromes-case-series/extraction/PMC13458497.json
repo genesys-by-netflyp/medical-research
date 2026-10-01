@@ -1,0 +1,8 @@
+{
+  "pmcid": "PMC13458497",
+  "case_type": "other",
+  "suitable": false,
+  "unsuitable_reason": "Retrospective observational cohort study of 27 paraquat-poisoned patients reported only as aggregate statistics (means, percentages); no individual case-level clinical details, quotes, or per-patient narratives are provided in the text, so no case objects can be extracted with verbatim quotes.",
+  "language": "English",
+  "cases": []
+}

@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC10767630",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10767630_case_1",
+      "age": "36 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "This case concerns a 36-year-old male from a rural town in the Eastern Cape province of South Africa, who was diagnosed with intentional cypermethrin poisoning after a suicide attempt.",
+      "agent": "Cypermethrin 20% concentrate (~50 mL, equivalent to 10 g; cattle and sheep dip)",
+      "agent_quote": "Later it would be revealed that he had ingested approximately 50 mL of a 20% cypermethrin concentrate, equivalent to 10 g. The cypermethrin concentrate was intended as a cattle and sheep dip.",
+      "route": "oral ingestion",
+      "circumstance": "Intentional ingestion (suicide attempt) after conflict with his partner; found unconscious at home in a pool of vomit smelling strongly of pesticide",
+      "symptoms": [
+        {"finding": "unconscious, unresponsive but breathing, found in pool of vomit", "quote": "A 36-year-old male from a rural part of the Eastern Cape Province in South Africa was found unconscious in his home following conflict with his partner. He was found in a pool of vomit, smelling strongly of pesticide."},
+        {"finding": "GCS 5/15, constricted pupils bilaterally, respiratory rate 12/min", "quote": "The initial assessment noted a Glasgow Coma Score (GCS) of 5/15, constricted pupils bilaterally, blood pressure of 130/70, heart rate of 64/minute, finger prick glucose of 7.5 mmol, respiratory rate of 12 per minute and oxygen saturation of 96%."},
+        {"finding": "hypersalivation, bilateral crepitations and rhonchi; mild aspiration pneumonitis on CXR", "quote": "On examination of the respiratory system, the patient had hypersalivation from the mouth, with bilateral crepitations and rhonchi at auscultation. ... These findings were in keeping with a mild case of aspiration pneumonitis and had resolved on the subsequent CXR one day later."}
+      ],
+      "time_to_care": "UNVERIFIED (found unconscious and immediately taken to his local clinic; exact interval from ingestion not stated)",
+      "labs": [
+        {"name": "cholinesterase", "value": "8100 U/L (reference 4620–11500)", "quote": "Cholinesterase, U/L81004620 – 11500"},
+        {"name": "C-reactive protein", "value": "7 mg/L (reference <10)", "quote": "C-Reactive Protein, mg/L7< 10"},
+        {"name": "creatine kinase (CK)", "value": "263 U/L (reference 0–200)", "quote": "Creatine kinase (CK) U/L26320–200"},
+        {"name": "full blood count, electrolytes and liver profile", "value": "normal", "quote": "The full blood count, electrolytes and liver profile were normal."}
+      ],
+      "treatment": [
+        {"name": "decontamination of skin and clothes; nasogastric drainage of 1 L creamy beige liquid; urinary catheter", "quote": "Prior to departure, decontamination of skin and clothes was undertaken. A nasogastric tube was placed, draining a creamy, beige liquid (volume: 1 L). A urinary catheter was inserted, and routine monitoring initiated."},
+        {"name": "atropine sulphate 6 mg then infusion 1 mg/hour (40 mg in 200 mL NS)", "quote": "An initial diagnosis of possible organophosphate poisoning was made, and he was administered 6 mg of atropine sulphate. ... An infusion containing 40 mg of atropine sulphate in 200 mL of normal saline was prepared and an infusion of 5 mL (or 1 mg) of atropine sulphate per hour was initiated."},
+        {"name": "intubation and mechanical ventilation (reintubated once for blocked tube); sedation with morphine and midazolam", "quote": "At Livingstone Tertiary Hospital, he was still intubated and sedated with a morphine and midazolam infusion."},
+        {"name": "ICU care; weaned off atropine and ventilator within 48 h", "quote": "His ICU stay was uneventful and he was successfully weaned off atropine and the mechanical ventilator within 48 h."}
+      ],
+      "icu_admission": "Yes (\"The patient was subsequently transferred to the intensive care unit (ICU) for continued care.\")",
+      "outcome": "survived; discharged home after psychological evaluation; no residual symptoms at 18-month follow-up",
+      "outcome_quote": "He was referred to a social worker and a psychological evaluation was conducted before his discharge home. At 18 months follow up, the patient had no residual symptoms.",
+      "sequelae": "None (no residual symptoms at 18 months follow-up)",
+      "notes": "Urine opiates screen positive — attributed to morphine infusion for sedation."
+    }
+  ]
+}

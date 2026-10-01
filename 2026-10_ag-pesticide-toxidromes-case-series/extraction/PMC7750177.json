@@ -1,0 +1,83 @@
+{
+ "pmcid": "PMC7750177",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC7750177-case1",
+   "age": "eighteen year old",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "An eighteen year old male presented to our Emergency Department (ED) with an alleged history of having intentionally ingested 50 mL of a locally purchased insecticide named cypermethrin, a synthetic pyrethroid, in a concentration of 25 % equivalent to 12.5 g of poison five hours back.",
+   "agent": "cypermethrin 25% (12.5 g in 50 mL)",
+   "agent_quote": "having intentionally ingested 50 mL of a locally purchased insecticide named cypermethrin, a synthetic pyrethroid, in a concentration of 25 % equivalent to 12.5 g of poison five hours back",
+   "route": "oral ingestion",
+   "circumstance": "intentional/suicidal ingestion of a locally purchased insecticide",
+   "symptoms": [
+    {
+     "finding": "vomiting",
+     "quote": "A detailed history revealed multiple episodes of vomiting, pain epigastrium and dizziness."
+    },
+    {
+     "finding": "epigastric pain",
+     "quote": "A detailed history revealed multiple episodes of vomiting, pain epigastrium and dizziness."
+    },
+    {
+     "finding": "dizziness",
+     "quote": "A detailed history revealed multiple episodes of vomiting, pain epigastrium and dizziness."
+    },
+    {
+     "finding": "bradycardia (radial pulse 54/min, later 46/min)",
+     "quote": "His vitals were stable with a blood pressure of 110/70 mm Hg, respiratory rate 20 breaths /minute, temperature 98.4 degrees Fahrenheit and an oxygen saturation of 96 % in room air except for a bradycardic radial pulse rate of 54 beats per minute."
+    },
+    {
+     "finding": "reddened buccal mucosa",
+     "quote": "A reddened buccal mucosa and a non tender abdomen were revealed during his gastrointestinal examination."
+    }
+   ],
+   "time_to_care": "rushed to a primary health centre after vomiting, then referred; presented five hours after ingestion",
+   "labs": [
+    {
+     "name": "hemogram, renal and liver functions, random blood sugar, serum calcium and magnesium, coagulation profile, urinalysis, arterial blood gas, serum cholinesterase",
+     "value": "within normal ranges",
+     "quote": "His hemogram, renal and liver functions, random blood sugar, serum calcium and magnesium levels, coagulation profile, urinalysis, arterial blood gas analysis and a serum cholinesterase level were within normal ranges."
+    },
+    {
+     "name": "CK-MB",
+     "value": "20 and 18 IU/L (normal range: 5–25 IU/L)",
+     "quote": "The creatine kinase-myocardial band (CK-MB) levels were 20 and 18 IU/L(normal range: 5–25 IU/L)"
+    },
+    {
+     "name": "troponin I",
+     "value": "below 0.04 ng/mL (within normal reference range)",
+     "quote": "the troponin I levels were within the normal reference range of below 0.04 nanograms per milliliter of blood (ng/mL) measured at the time of presentation and after 12 h."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage (at primary health centre)",
+     "quote": "He was rushed to a primary health centre following two episodes of vomiting where gastric lavage was performed and was referred to our centre for further management."
+    },
+    {
+     "name": "surface decontamination (removal of soiled clothing, soap water skin cleaning)",
+     "quote": "Surface decontamination was performed by removing all the soiled clothings of the patient and cleaning the skin thoroughly with soap water."
+    },
+    {
+     "name": "intravenous atropine sulphate 0.6 mg (two doses)",
+     "quote": "An intravenous dose of 0.6 mg atropine sulphate was administered following which his heart rate increased to 80 beats per minute"
+    },
+    {
+     "name": "conservative management with close monitoring",
+     "quote": "Twenty four hours following close monitoring, he maintained stable vitals and an adequate urine output but his heart rate persisted at a range of 48–52 beats per minute."
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "recovery; heart rate normalized by end of day two; discharged in good health",
+   "outcome_quote": "He was discharged the next morning in good health after an extensive psychiatric counselling session.",
+   "sequelae": "none reported; asymptomatic at follow-up",
+   "notes": "ECG showed sinus bradycardia 52/min with four ventricular premature complexes; echocardiogram normal; psychiatric counselling given."
+  }
+ ]
+}

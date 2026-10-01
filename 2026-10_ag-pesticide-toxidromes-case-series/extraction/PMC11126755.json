@@ -1,0 +1,121 @@
+{
+  "pmcid": "PMC11126755",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11126755_case1",
+      "age": "18-year-old",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Patient information: an 18-year-old male patient, with no medical history, was brought to the emergency department (ED) by his family one hour after deliberate ingestion of 200 mL of pesticide containing indoxacarb in a suicide attempt.",
+      "agent": "indoxacarb (non-organophosphorus oxadiazine insecticide), 200 mL",
+      "agent_quote": "one hour after deliberate ingestion of 200 mL of pesticide containing indoxacarb in a suicide attempt",
+      "route": "ingestion",
+      "circumstance": "intentional ingestion (suicide attempt); brought to ED by family",
+      "symptoms": [
+        {
+          "finding": "drowsiness, GCS 13/15, bilateral mild-dilated reactive pupils",
+          "quote": "on arrival in the ED, he was drowsy, and he had a Glasgow Coma Scale (GCS) of 13/15, with bilateral mild-dilated reactive pupils."
+        },
+        {
+          "finding": "generalized fasciculations and muscle tremors",
+          "quote": "then the appearance of generalized fasciculations and muscle tremors."
+        },
+        {
+          "finding": "severe central cyanosis with SpO2 80% despite FiO2 100%; muddy brown blood",
+          "quote": "he had remarkable central cyanosis and the SpO2 did not exceed 80% despite FiO2 of 100% contrasting with normal respiratory exam. The patient´s blood colour was abnormally muddy brown (Figure 1) associated with dark orange urine."
+        },
+        {
+          "finding": "altered consciousness progressing to unresponsiveness (GCS 8/15)",
+          "quote": "The conscious state was altered, and he became unresponsive with GCS of 8/15"
+        },
+        {
+          "finding": "cardiovascular collapse (BP 80/40, HR 120)",
+          "quote": "In post-intubation, the patient presented a cardiovascular collapse (BP 80/40 mmHg and HR 120 b/m) requiring vasoactive drugs (0.5mg/h of norepinephrine)"
+        },
+        {
+          "finding": "vomiting",
+          "quote": "One hour later, the patient vomited two times"
+        }
+      ],
+      "time_to_care": "1 hour after ingestion",
+      "labs": [
+        {
+          "name": "white blood cell count",
+          "value": "23000/μL",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "hemoglobin",
+          "value": "13.6 g/dL",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "platelets",
+          "value": "273000/μL",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "alanine aminotransferase",
+          "value": "45 IU/L",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "creatinine",
+          "value": "48 μmol/L",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "sodium",
+          "value": "137 mmol/L",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "potassium",
+          "value": "4.26 mmol/L",
+          "quote": "laboratory analysis revealed: a white blood cell count of 23000/μL, hemoglobin: 13.6 g/dL, platelets: 273000/μL, alanine aminotransferase 45 IU/L, creatinine 48 μmol/L, sodium 137 mmol/L and potassium 4.26 mmol/L."
+        },
+        {
+          "name": "methemoglobin",
+          "value": "12.5% (reference <3%); fell to 1.3% 12 h after methylene blue",
+          "quote": "A blood sample was analyzed to determine the methemoglobin (MetHb) level, confirmed a level of 12.5% (reference range: <3%)."
+        },
+        {
+          "name": "ABG (on FiO2 100%)",
+          "value": "pH 7.47, PaO2 450 mmHg, PaCO2 24 mmHg, HCO3 17.3 mmol/L, SaO2 100% (SpO2 85%)",
+          "quote": "Arterial blood gas analysis (ABG) on FiO2 100% revealed pH 7.47, PaO2 450 mmHg, PaCO224 mmHg, HCO3 17.3 mmol/L, and arterial oxygen saturation (SaO2) 100%. The SpO2 was only 85%."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage",
+          "quote": "After monitoring, he received gastric lavage."
+        },
+        {
+          "name": "intubation and invasive mechanical ventilation (FiO2 100%)",
+          "quote": "he was promptly intubated and put on assisted invasive mechanical ventilation with a fraction of inspired oxygen (FiO2) of 100%."
+        },
+        {
+          "name": "norepinephrine 0.5 mg/h",
+          "quote": "requiring vasoactive drugs (0.5mg/h of norepinephrine)"
+        },
+        {
+          "name": "intravenous methylene blue 1.5 mg/kg (100 mg) in 100 mL normal saline over 30 minutes",
+          "quote": "intravenous methylene blue was administered at a dosage of 1.5 mg/kg in 100 ml of normal saline for 30 minutes."
+        },
+        {
+          "name": "supportive and symptomatic management; weaning, extubation day 3, oxygen discontinued day 4",
+          "quote": "the patient's respiratory and hemodynamic states were progressively improved, and he was weaned off vasopressor and mechanical ventilation. He was extubated on day three"
+        }
+      ],
+      "icu_admission": "yes (medical ICU)",
+      "outcome": "complete recovery; discharged day 4 without sequelae",
+      "outcome_quote": "On day four, he was discharged from the hospital with no sequelae.",
+      "sequelae": "none (\"complete recovery without sequelae\")",
+      "notes": "First case of indoxacarb poisoning reported from Tunisia. Single dose of methylene blue sufficient. MetHb fell to 1.3% 12 h post-injection."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+ "pmcid": "PMC12961694",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "23 years",
+   "sex": "male",
+   "exposure_context": "unclear",
+   "exposure_context_quote": "On February 21, 2024, a previously healthy 23-year-old male worker (height: 170 cm, weight: 65 kg) self-injected approximately 120 mL (20 g/100 mL) of DQ via the elbow vein due to emotional agitation.",
+   "agent": "diquat (DQ), approximately 120 mL of 20 g/100 mL solution (~24 g) injected intravenously",
+   "agent_quote": "self-injected approximately 120 mL (20 g/100 mL) of DQ via the elbow vein due to emotional agitation",
+   "route": "intravenous injection (elbow/cubital vein)",
+   "circumstance": "Self-injection due to emotional agitation/excitement 1 h before admission; patient was a worker; occupational link not otherwise stated.",
+   "symptoms": [
+    {
+     "finding": "headache, nausea, and vomiting of gastric contents 10 min after injection",
+     "quote": "Ten minutes after administration, the patient began to experience headache, nausea, and vomiting of gastric contents."
+    },
+    {
+     "finding": "generalized body pain and irritability",
+     "quote": "He reported generalized body pain and irritability, but no fever, sweating, syncope, episodes of transient visual loss (amaurosis), diarrhea, or constipation."
+    },
+    {
+     "finding": "seizure (epilepsy) at 17:55, status epilepticus",
+     "quote": "At 17:55, the patient developed epilepsy and was sedated with diazepam. ... Despite treatment of status epilepticus with repeated diazepam and propofol, seizure control remained inadequate."
+    },
+    {
+     "finding": "subarachnoid hemorrhage on head CT",
+     "quote": "emergency computed tomography (CT) of the head revealed high-density shadows in the suprasellar and lateral fissure cisterns, consistent with subarachnoid hemorrhage (SAH) (Figure 1A)"
+    },
+    {
+     "finding": "hypertensive crisis (BP 207/115 mmHg) on admission",
+     "quote": "On admission, blood pressure was 207/115 mmHg, heart rate was 78 beats per minute, and blood oxygen saturation 99%."
+    },
+    {
+     "finding": "hypotension (62/28 mmHg) and cardiac arrest",
+     "quote": "At 00:00, the patient’s blood pressure fell to 62/28 mmHg, and norepinephrine and other pressor drugs were applied and actively rescued. Finally, at 01:21 on February 22, his heart stopped and he was declared clinically dead."
+    }
+   ],
+   "time_to_care": "admitted 1 h after injection (arrived at emergency department at 17:00; transferred directly from referring hospital without specific treatment)",
+   "labs": [
+    {
+     "name": "white blood cell count",
+     "value": "12.26 × 109/L (lymphocytes 4.26 × 109/L, neutrophils 7.23 × 109/L)",
+     "quote": "emergency blood routine test results (Table 1) showed leukocytosis (12.26 × 109/L) with marked lymphocytosis (4.26 × 109/L) and mild neutrophilia (7.23 × 109/L)"
+    },
+    {
+     "name": "blood gas (at 17:55)",
+     "value": "pH 7.06, HCO₃− 9.6 mmol/L, base excess −19.8 mmol/L, anion gap 24.6 mmol/L, lactate 18 mmol/L, K+ 2.9 mmol/L, Ca 1.28 mmol/L",
+     "quote": "severe high anion interstitial metabolic acidosis (pH 7.06, HCO₃− 9.6 mmol/L, base excess −19.8 mmol/L, anion gap 24.6 mmol/L), markers of end-organ hypoperfusion (lactate 18 mmol/L), and characteristic electrolyte derangements of diquat poisoning including hypokalemia (2.9 mmol/L) and hypocalcemia (1.28 mmol/L)"
+    },
+    {
+     "name": "coagulation (20:00)",
+     "value": "PT 14.7 s, PT activity 68%, fibrinogen 1.29 g/L, D-dimer 26.11 mg/L",
+     "quote": "(PT 14.7 s, PT activity 68%, fibrinogen 1.29 g/L, D-dimer 26.11 mg/L)"
+    },
+    {
+     "name": "biochemistry (20:00)",
+     "value": "cTnI 1.944 ng/mL, CK-MB 104.13 U/L, AST 308.25 U/L, ALT 94.55 U/L, Cr 153.88 μmol/L",
+     "quote": "Biochemical results confirmed multiorgan dysfunction including myocardial injury (cTnI 1.944 ng/mL, CK-MB 104.13 U/L), hepatocellular injury (AST 308.25 U/L, ALT 94.55 U/L), and acute kidney injury (Cr 153.88 μmol/L)."
+    },
+    {
+     "name": "blood gas (22:30)",
+     "value": "lactate 11.5 mmol/L, anion gap 17.7 mmol/L, PCO₂ 35.2 mmHg, K+ 3.1 mmol/L, glucose 6.9 mmol/L, oxygenation index 563 mmHg",
+     "quote": "Although lactate levels decreased to 11.5 mmol/L and anion gap narrowed to 17.7 mmol/L, Insufficient respiratory compensation (PCO₂ 35.2 mmHg) leads to the progressive aggravation of acidemia. New-onset severe hypokalemia (K+ 3.1 mmol/L) and rapidly decreasing blood glucose (6.9 mmol/L)"
+    },
+    {
+     "name": "urine sodium dithionite (bicarbonate/dithionite) test",
+     "value": "dark green (positive), high concentration",
+     "quote": "The sample underwent bicarbonate/sodium dithionite testing at around 17:30, and the urine appeared dark green (Figure 2B)."
+    },
+    {
+     "name": "DQ concentration by LC–MS/MS",
+     "value": "31.10 μg/mL plasma; 147.60 μg/mL urine",
+     "quote": "LC–MS/MS results showed that the DQ concentrations were 31.10 μg/mL in plasma and 147.60 μg/mL in urine."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "omeprazole, massive rehydration, glutathione, acetylcysteine (antioxidant)",
+     "quote": "was treated with omeprazole to inhibit acid and protect the stomach, a large amount of rehydration, glutathione, acetylcysteine antioxidant and other treatments."
+    },
+    {
+     "name": "diazepam sedation; endotracheal intubation and mechanical ventilation",
+     "quote": "At 17:55, the patient developed epilepsy and was sedated with diazepam. Simultaneously administered endotracheal intubation and mechanical ventilation treatment."
+    },
+    {
+     "name": "continuous venous hemofiltration (CVVH) combined with hemoperfusion without heparinization",
+     "quote": "At 18:00, right femoral vein puncture was performed for catheter placement, followed by continuous venous hemofiltration (CVVH) combined with hemoperfusion treatment without heparinization."
+    },
+    {
+     "name": "repeated diazepam and propofol for status epilepticus; mannitol; nimodipine",
+     "quote": "Despite treatment of status epilepticus with repeated diazepam and propofol, seizure control remained inadequate. After emergency consultation in neurology and neurosurgery, mannitol dehydration and nimodipine anti-cerebrovascular spasm treatment were added"
+    },
+    {
+     "name": "norepinephrine and other pressor drugs",
+     "quote": "At 00:00, the patient’s blood pressure fell to 62/28 mmHg, and norepinephrine and other pressor drugs were applied and actively rescued."
+    }
+   ],
+   "icu_admission": "yes (admitted to the emergency intensive care unit (EICU) at 17:40)",
+   "outcome": "died — declared clinically dead at 01:21 on February 22, ~6 h after admission, of respiratory and circulatory failure",
+   "outcome_quote": "Although the patient was admitted to the emergency intensive care unit (EICU) of our hospital for further treatment and given symptomatic treatment such as blood purification, massive rehydration, promotion of excretion, anti-oxidation, protection of organ function, and sedation as soon as possible, the patient still died of respiratory and circulatory failure 6 h after admission.",
+   "sequelae": "died",
+   "notes": "First reported case of subarachnoid hemorrhage secondary to high-dose intravenous diquat injection; also had pulmonary inflammatory exudation on chest CT. Autopsy not performed."
+  }
+ ]
+}

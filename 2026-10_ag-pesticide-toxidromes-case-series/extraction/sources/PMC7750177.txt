@@ -1,0 +1,53 @@
+== ARTICLE TITLE ==
+Cypermethrin poisoning manifesting with prolonged bradycardia: A case report
+
+== ABSTRACT ==
+Graphical abstractKeywords: Bradycardia, Poisoning, Vomiting
+
+Keywords: Bradycardia, Poisoning, Vomiting
+
+Received 2020 Oct 11; Revised 2020 Dec 5; Accepted 2020 Dec 8; Collection date 2021.
+
+== Introduction ==
+
+Cypermethrin is a synthetic pyrethroid which is derived from pyrethrin, a naturally occurring substance found in the extract of flower heads of Crysanthemum spp. It has a wide usage as a household, agricultural and veterinary insecticide for the control of cockroaches, mosquitoes, lice, ticks and mite [1]. Accidental occupational exposure of cypermethrin is common due to its extensive use, however, cases of intentional poisoning are on the rise owing to its easy over-the-counter availability. Effects of cypermethrin range from mild local symptoms like paresthesia following dermal contamination to neurological symptoms like seizures, fasciculations, tremors, coma and gastrointestinal symptoms like nausea, vomiting and gastrointestinal irritation [2,3]. We report a case of suicidal ingestion of cypermethrin in an adolescent male with an atypical manifestation of prolonged bradycardia who was effectively managed conservatively.
+
+== Case presentation ==
+
+An eighteen year old male presented to our Emergency Department (ED) with an alleged history of having intentionally ingested 50 mL of a locally purchased insecticide named cypermethrin, a synthetic pyrethroid, in a concentration of 25 % equivalent to 12.5 g of poison five hours back. He was rushed to a primary health centre following two episodes of vomiting where gastric lavage was performed and was referred to our centre for further management. A detailed history revealed multiple episodes of vomiting, pain epigastrium and dizziness. There was no chest pain, palpitations, cough, shortness of breath, seizures or bowel bladder incontinence. He was a healthy teenager with no similar attempts or suicidal ideations in the past.
+
+During the general physical examination in the ED, the patient was anxious but oriented to time, place and person. His vitals were stable with a blood pressure of 110/70 mm Hg, respiratory rate 20 breaths /minute, temperature 98.4 degrees Fahrenheit and an oxygen saturation of 96 % in room air except for a bradycardic radial pulse rate of 54 beats per minute. A reddened buccal mucosa and a non tender abdomen were revealed during his gastrointestinal examination. His pupils were 3 mm in size bilaterally and reacting to light. A grossly intact neurology and unremarkable findings in the rest of the systems were evident. His chest radiograph showed clear lung fields. A 12-lead electrocardiogram done at the time of arrival showed sinus bradycardia of 52 beats per minute with four ventricular premature complexes. His hemogram, renal and liver functions, random blood sugar, serum calcium and magnesium levels, coagulation profile, urinalysis, arterial blood gas analysis and a serum cholinesterase level were within normal ranges. The creatine kinase-myocardial band (CK-MB) levels were 20 and 18 IU/L(normal range: 5–25 IU/L) and the troponin I levels were within the normal reference range of below 0.04 nanograms per milliliter of blood (ng/mL) measured at the time of presentation and after 12 h.
+
+Surface decontamination was performed by removing all the soiled clothings of the patient and cleaning the skin thoroughly with soap water. Gastric decontamination with activated charcoal was not done in view of the five hour duration of arrival and the history of lavage done already at the local health center. Close monitoring showed stable vitals except for his heart rate which further dropped and persisted at 46 beats per minute with a sinus rhythm without any ventricular ectopics. An intravenous dose of 0.6 mg atropine sulphate was administered following which his heart rate increased to 80 beats per minute, however, it gradually decreased to 45 beats per minute within an hour. One more dose of intravenous 0.6 mg atropine sulphate was received. Twenty four hours following close monitoring, he maintained stable vitals and an adequate urine output but his heart rate persisted at a range of 48–52 beats per minute. An echocardiogram was performed which showed normal findings. At the end of day two of close monitoring, he was fully alert and active and his heart rate gradually normalized. A repeat 12 lead ECG showed a heart rate of 70 beats per minute with normal sinus rhythm. The congestion in the buccal mucosa was markedly decreased. He was discharged the next morning in good health after an extensive psychiatric counselling session. He was asymptomatic and doing well during a follow up appointment in the outpatient department the next week.
+
+== Discussion ==
+
+Pyrethroids are classified into two types according to their chemical structure and toxidromes. Type I pyrethroids (allethrin, permethrin) have a cyclopropane carboxylic acid structure. Exposure to type I pyrethroids results in reflex hyperexcitability, paresthesias and fine tremors known as the T syndrome. Type II pyrethroids (cypermethrin, deltamethrin) have an alpha-cyano group attached to them which result in salivation, choreoathetosis, coarse tremors, seizures and effects on the skeletal and cardiac muscles also known as the choreoathetosis–salivation or the CS syndrome [1,2]. Cypermethrin is a type II pyrethroid categorized by WHO under moderately hazardous pesticides having a high toxic potential of LD50 250 mg/kg. The toxic oral dose ranges from 100−1000 mg/kg body weight and the potentially lethal oral dose is 1−10 g [4]. It is considered comparatively safer for humans than for insects due to its slow dermal absorption in humans owing to the large body surface area and rapid metabolism in the liver to the nontoxic metabolites which are excreted from the urine [[3], [4], [5]].
+
+The mechanism of action of cypermethrin is complex and it acts by modifying the voltage gated sodium channels thereby delaying their closure. Moreover, voltage gated calcium channels and gamma amino butyric acid mediated chloride channels also have a role in the toxic properties of cypermethrin [2,3,6]. Vardavas et al. has described the toxicity of cypermethrin in white male rabbits following its long term administration which resulted in chronic inflammation of the liver and kidney and induced genotoxicity [7]. Cha et al. in a case series of 59 patients has reported life threatening toxicities like hypotension, seizures, coma, acute kidney injury, pneumonia, respiratory failure requiring mechanical ventilation, and even death [8]. In our case, the patient presented with mild symptoms like vomiting and pain abdomen initially which resolved within a few hours though having consumed a potentially lethal dose of 12.5 g of the poison.
+
+Cardiotoxicity due to cypermethrin is a rare entity. A study on animal models reviewed the cardiac pathology due to cypermethrin which showed serious complications like abnormalities in the ECG, myocardial infarction, impaired systolic and diastolic functions and abnormal histopathologic findings [9]. Moreover, repeated long term exposure to these pesticides includes oxidative modifications in the DNA genome of cardiac tissues [10]. A case of transient complete heart block caused by pyrethroid toxicity following accidental exposure to bed bug repellent spray managed conservatively has been reported in the literature [11]. An animal study performed by Spencer et al. reported that type I pyrethroids like tefluthrin and type II pyrethroids like cypermethrin had possible arrhythmogenic effects caused by prolonged action potentials evoking afterdepolarisations in cardiac myocytes of rat and guinea pigs [12]. Bhaskar et al. reported a case of prolonged sinus arrest with an escape junctional rhythm for three days after a suicidal poisoning with prallethrin, a type I pyrethroid [13]. Our patient presented with an uncommon cardiovascular manifestation in the form of prolonged bradycardia for two days. Occasional ventricular ectopic beats were also present at the time of presentation which resolved within a few hours spontaneously. A possible mechanism of action of the prolonged bradycardia and the ectopic beats in our patient could be explained by sodium channel blockage on the sinoatrial or the atrioventricular node.
+
+Optimization of the airway, breathing and circulation in the ED by hemodynamic stabilization with intravenous fluid resuscitation, oxygen supplementation, reduction of absorption by decontamination and enhanced elimination continue to be the mainstay of management since there is no antidote available to counter this poison. Dermal decontamination of skin with soap and water is an essential component of management. Activated charcoal administration along with gastric lavage can be performed if the patient presents within an hour of ingestion, however, more evidence is needed to strengthen its use considering the risk of aspiration pneumonia [12,13]. The only case that reported prolonged bradycardia following pyrethroid ingestion was by Cham et al. He described a case of toxicity by an unknown amount of pyrethroid with prolonged bradycardia, hypotension and ischemic events and the patient was managed with an infusion of atropine for ten days [14]. Our case required two bolus doses of the muscarinic antagonist to alleviate bradycardia resulting in complete recovery.
+
+== Conclusion ==
+
+An uncommon feature like prolonged bradycardia without any neurotoxicity can occur as a result of cypermethrin intoxication. Despite the unavailability of antidote, a good prognosis can be expected regardless of a severe symptomatology if managed appropriately with an aim to stabilize the patient with conservative therapy. Preventive measures of poisoning by designing the poison containers with warning labels is recommended. Behavioural counselling in cases with suicidal ideations and a high level of awareness among the clinicians regarding atypical presentations of cypermethrin toxicity is essential for a favourable outcome.
+
+== Ethical approval ==
+
+Not applicable.
+
+== Consent for publication ==
+
+Written informed consent was taken from the patient for publication of this case report.
+
+== Conflict of interest ==
+
+The authors declare no conflict of interest.
+
+== Acknowledgment ==
+
+None.
+
+== References ==

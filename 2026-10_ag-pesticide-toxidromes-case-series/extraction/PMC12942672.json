@@ -1,0 +1,77 @@
+{
+ "pmcid": "PMC12942672",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "66 years",
+   "sex": "male",
+   "exposure_context": "occupational/agricultural",
+   "exposure_context_quote": "On 21 April 2025, after several days of flu-like symptoms, the patient performed agricultural activities and was accidentally exposed by inhalation to vapors and aerosols of a glyphosate-based herbicide, without adequate respiratory protection.",
+   "agent": "glyphosate-based herbicide (vapors and aerosols)",
+   "agent_quote": "accidentally exposed by inhalation to vapors and aerosols of a glyphosate-based herbicide, without adequate respiratory protection",
+   "route": "inhalation",
+   "circumstance": "Accidental inhalational exposure during agricultural activities, without adequate respiratory protection.",
+   "symptoms": [
+    {
+     "finding": "frontal headache and bilateral blurred vision within a few hours of exposure, worsening over four days",
+     "quote": "Within a few hours, he developed frontal headache and bilateral blurred vision. Over the following four days, visual disturbances significantly worsened."
+    },
+    {
+     "finding": "visual acuity limited to light perception in both eyes; slowed pupillary reflexes with relative afferent pupillary defect",
+     "quote": "neurological examination revealed visual acuity limited to light perception in both eyes. Pupillary reflexes were slowed, with a relative afferent pupillary defect."
+    },
+    {
+     "finding": "bilateral T2 hyperintensities of the optic nerves on MRI (optic neuritis)",
+     "quote": "Brain magnetic resonance imaging showed bilateral T2 hyperintensities of the optic nerves, predominantly involving the intraorbital and intracanalicular segments (Figure 1)."
+    },
+    {
+     "finding": "sensory-motor polyneuropathy of the lower limbs on electroneurography",
+     "quote": "Electroneurography revealed a sensory-motor polyneuropathy of the lower limbs."
+    }
+   ],
+   "time_to_care": "presented to the emergency department on 25 April, 4 days after the exposure on 21 April (severe visual impairment the next day led to admission on 26 April)",
+   "labs": [
+    {
+     "name": "cerebrospinal fluid examination",
+     "value": "normal",
+     "quote": "Cerebrospinal fluid examination was normal, and anti-aquaporin-4 antibodies were negative."
+    },
+    {
+     "name": "anti-aquaporin-4 antibodies",
+     "value": "negative",
+     "quote": "Cerebrospinal fluid examination was normal, and anti-aquaporin-4 antibodies were negative."
+    },
+    {
+     "name": "visual evoked potentials",
+     "value": "markedly prolonged latencies",
+     "quote": "Visual evoked potentials showed markedly prolonged latencies."
+    },
+    {
+     "name": "brain CT (25 April)",
+     "value": "no relevant abnormalities",
+     "quote": "he presented to the emergency department, where brain computed tomography and ophthalmological evaluation showed no relevant abnormalities."
+    },
+    {
+     "name": "glyphosate biological levels",
+     "value": "not quantified",
+     "quote": "it was not possible to quantify biological levels of glyphosate or its metabolites, which could have further strengthened the etiopathogenetic hypothesis."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "high-dose intravenous corticosteroids (methylprednisolone 5 g IV)",
+     "quote": "The patient was treated with high-dose intravenous corticosteroids (methylprednisolone 5 g IV), with progressive visual improvement over the following days."
+    }
+   ],
+   "icu_admission": "no (admitted to the neurology ward; ICU admission not mentioned)",
+   "outcome": "survived with near-complete visual recovery; follow-up MRI on 12 June 2025 showed no new lesions and no contrast enhancement; visual field examinations showed complete recovery",
+   "outcome_quote": "Humphrey visual field testing documented marked improvement, and in the following months the patient achieved almost complete visual recovery. Visual field examinations performed during hospitalization and several weeks later showed complete recovery (Figure 2 and Figure 3).",
+   "sequelae": "almost complete (near-complete) visual recovery; no residual deficits stated",
+   "notes": "Comorbidities: hypertension, hypercholesterolemia, hypothyroidism. Causal relationship between glyphosate exposure and optic neuritis could not be definitively established; diagnosis by exclusion of demyelinating, autoimmune, and ischemic causes."
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "pmcid": "PMC12722966",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "37 years",
+   "sex": "male",
+   "exposure_context": "unclear",
+   "exposure_context_quote": "The patient, a farmer engaged in crop cultivation and poultry farming, denied any recent history of direct contact with or accidental ingestion of rodenticides.",
+   "agent": "brodifacoum and bromadiolone (anticoagulant rodenticides, mixed poisoning)",
+   "agent_quote": "Blood toxicology analysis confirmed mixed poisoning with brodifacoum (24.7 ng/mL) and bromadiolone (12 ng/mL).",
+   "route": "UNVERIFIED (route of exposure not stated; patient denied direct contact or accidental ingestion)",
+   "circumstance": "Previously healthy farmer with crop cultivation and poultry farming; denied recent direct contact with or accidental ingestion of rodenticides; developed painless macroscopic hematuria and gingival bleeding for 8 days then anuria for 1 day.",
+   "symptoms": [
+    {
+     "finding": "painless macroscopic hematuria with small blood clots",
+     "quote": "On November 15, 2024, a 37-year-old previously healthy male patient presented to our hospital with chief complaints of “hematuria and gingival bleeding for 8 days, and anuria for 1 day.” On pre-admission day 8 (November 7), the patient developed painless macroscopic hematuria without obvious precipitating factors. The urine color progressively darkened from light red to dark red and contained small blood clots, along with spontaneous gingival bleeding."
+    },
+    {
+     "finding": "spontaneous gingival bleeding",
+     "quote": "The urine color progressively darkened from light red to dark red and contained small blood clots, along with spontaneous gingival bleeding."
+    },
+    {
+     "finding": "acute urinary retention and periumbilical pain",
+     "quote": "On pre-admission day 1 (November 14), the patient experienced acute urinary retention and periumbilical pain, prompting a visit to a local hospital."
+    },
+    {
+     "finding": "anuria (urine output only 35 mL on admission day)",
+     "quote": "Although coagulation function showed some improvement with treatment, the urine output on the day of admission was only 35 mL."
+    },
+    {
+     "finding": "pallor and minor active bleeding from oral mucosa and gingiva",
+     "quote": "The patient exhibited pallor. Minor active bleeding was observed from the oral mucosa and gingiva."
+    }
+   ],
+   "time_to_care": "8 days after symptom onset (sought care at a local hospital on pre-admission day 1 after acute urinary retention; transferred to study hospital on day 8)",
+   "labs": [
+    {
+     "name": "PT",
+     "value": "> 120.00 s",
+     "quote": "Coagulation profile: prothrombin time (PT) > 120.00 s, international normalized ratio (INR) 13.58, activated partial thromboplastin time (APTT) 119.20 s, thrombin time (TT) 15.1 s, and fibrinogen (Fib) 6.12 g/L"
+    },
+    {
+     "name": "INR",
+     "value": "13.58",
+     "quote": "international normalized ratio (INR) 13.58"
+    },
+    {
+     "name": "APTT",
+     "value": "119.20 s",
+     "quote": "activated partial thromboplastin time (APTT) 119.20 s"
+    },
+    {
+     "name": "fibrinogen",
+     "value": "6.12 g/L",
+     "quote": "fibrinogen (Fib) 6.12 g/L"
+    },
+    {
+     "name": "Factor II",
+     "value": "23.4%",
+     "quote": "Coagulation factor: Factor II 23.4%, Factor VII 43.5%, Factor IX 42.9%, Factor X 22.2%"
+    },
+    {
+     "name": "Factor VII",
+     "value": "43.5%",
+     "quote": "Coagulation factor: Factor II 23.4%, Factor VII 43.5%, Factor IX 42.9%, Factor X 22.2%"
+    },
+    {
+     "name": "Factor IX",
+     "value": "42.9%",
+     "quote": "Coagulation factor: Factor II 23.4%, Factor VII 43.5%, Factor IX 42.9%, Factor X 22.2%"
+    },
+    {
+     "name": "Factor X",
+     "value": "22.2%",
+     "quote": "Coagulation factor: Factor II 23.4%, Factor VII 43.5%, Factor IX 42.9%, Factor X 22.2%"
+    },
+    {
+     "name": "serum creatinine (admission)",
+     "value": "1.86 mg/dL",
+     "quote": "Renal function: serum creatinine (Scr) 1.86 mg/dL"
+    },
+    {
+     "name": "serum creatinine (post-admission day 1)",
+     "value": "5.93 mg/dL",
+     "quote": "Renal function: Scr 5.93 mg/dL"
+    },
+    {
+     "name": "WBC",
+     "value": "14.53 × 109/L",
+     "quote": "Complete blood count (CBC): white blood cell count (WBC) 14.53 × 109/L, hemoglobin (Hb) 69 g/L, platelet count (PLT) 254 × 109/L, and neutrophil percentage 84.90%"
+    },
+    {
+     "name": "hemoglobin",
+     "value": "69 g/L",
+     "quote": "hemoglobin (Hb) 69 g/L"
+    },
+    {
+     "name": "platelet count",
+     "value": "254 × 109/L",
+     "quote": "platelet count (PLT) 254 × 109/L"
+    },
+    {
+     "name": "procalcitonin",
+     "value": "0.29 ng/mL",
+     "quote": "Procalcitonin (PCT) 0.29 ng/mL"
+    },
+    {
+     "name": "blood toxicology",
+     "value": "brodifacoum 24.7 ng/mL, bromadiolone 12 ng/mL",
+     "quote": "Blood toxicology screen detected brodifacoum 24.7 ng/mL and bromadiolone 12 ng/mL."
+    },
+    {
+     "name": "serum creatinine (post-admission day 2)",
+     "value": "5.64 mg/dL",
+     "quote": "Repeat testing on post-admission day 2 (November 17) showed Scr 5.64 mg/dL."
+    },
+    {
+     "name": "serum creatinine (discharge)",
+     "value": "1.52 mg/dL",
+     "quote": "At discharge, Scr decreased to 1.52 mg/dL."
+    },
+    {
+     "name": "PT/INR/Scr (10 days post-discharge)",
+     "value": "PT 11.1 s, INR 0.88, Scr 1.01 mg/dL",
+     "quote": "Ten days post-discharge, follow-up tests showed PT 11.1 s, INR 0.88, and Scr 1.01 mg/dL."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "levofloxacin and tranexamic acid (local hospital)",
+     "quote": "Despite empirical antibiotic treatment with levofloxacin and tranexamic acid for hemostasis at the local hospital, his symptoms showed no improvement."
+    },
+    {
+     "name": "400 mL leukocyte-depleted suspended red blood cells; 200 mL fresh frozen plasma; vitamin K1 (80 mg initial, 20 mg every 12 h maintenance)",
+     "quote": "Following admission, immediate interventions included intravenous infusion of 400 mL leukocyte-depleted suspended red blood cells to ameliorate anemia, alongside intravenous infusion of 200 mL fresh frozen plasma combined with vitamin K1 (initial dose 80 mg, maintenance dose 20 mg every 12 h) to improve coagulation function."
+    },
+    {
+     "name": "continuous bladder irrigation; cystoscopic evacuation of blood clots and bilateral ureteroscopic double-J stent placement",
+     "quote": "After ineffective continuous bladder irrigation, cystoscopic evacuation of blood clots and bilateral ureteroscopic double-J stent placement were performed on post-admission day 1."
+    },
+    {
+     "name": "continuous renal replacement therapy (CRRT)",
+     "quote": "Given the persistent renal injury and volume overload, continuous renal replacement therapy (CRRT) was initiated from 13:00 on post-admission day 2 and continued until 10:40 on post-admission day 3 (November 18)."
+    },
+    {
+     "name": "oral vitamin K1 40 mg once daily after discharge (continued until February 20, 2025)",
+     "quote": "After discharge, the local hospital prescribed oral vitamin K1 (40 mg once daily) to correct coagulation function."
+    }
+   ],
+   "icu_admission": "UNVERIFIED (not explicitly stated; CRRT was given in hospital)",
+   "outcome": "survived; discharged on post-admission day 6 with Scr 1.52 mg/dL; renal function and coagulation normal at follow-up until June 20, 2025",
+   "outcome_quote": "Renal function and coagulation profiles remained within normal ranges during follow-up until June 20, 2025.",
+   "sequelae": "none; no recurrence of hematuria or bleeding manifestations in other organs at 7-month telephone follow-up",
+   "notes": "Diagnosis: AKI from dual mechanisms — anticoagulation-related nephropathy and obstructive nephropathy (bladder/ureteral blood clots); abdominal CT showed bilateral ureteral dilation with hydronephrosis and patchy hyperdense bladder areas."
+  }
+ ]
+}

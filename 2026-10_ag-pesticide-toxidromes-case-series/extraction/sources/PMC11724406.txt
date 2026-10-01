@@ -1,0 +1,115 @@
+== ARTICLE TITLE ==
+A case report on acute combined poisoning of Indoxacarb and Novoluron and its management
+
+== ABSTRACT ==
+AbstractIn India, it is not uncommon for individuals to attempt suicide by ingesting pesticides. Though several publications have reported cases, there are no specific guidelines for managing indoxacarb poisoning. There is no established antidote for indoxacarb poisoning; however, early recognition and treatment of methemoglobinaemia, the primary manifestation, is essential. Early intervention is crucial for a positive outcome. Methemoglobinaemia can be successfully treated with methylene blue, which serves as the first line of management. This case report describes a 24-year-old man presenting with methemoglobinaemia following the ingestion of indoxacarb combined with novaluron and was successfully treated with early administration of methylene blue, leading to rapid recovery despite a methaemoglobin level as high as 75%.Keywords: Methylene blue, methemoglobinaemia, pesticides, indoxacarb, novoluron
+
+Keywords: Methylene blue, methemoglobinaemia, pesticides, indoxacarb, novoluron
+
+Received 2024 Aug 2; Accepted 2024 Nov 18; Collection date 2025.
+
+== Introduction ==
+
+Indoxacarb, a powerful oxadiazine insecticide, was developed by DuPont to effectively target lepidopteran larvae, a significant pest in agriculture.
+1
+ Over time, various formulations of Indoxacarb have been introduced in India, including Indoxacarb 14.50% suspension concentrate (SC) and 15.80% Emusiiable concentrate (EC), as well as combination products such as Novaluron 5.25% + Indoxacarb 4.5% SC, Indoxacarb 14.5% + Acetamiprid 7.7% SC and Indoxacarb 5% + Fipronil 5% SC, all registered under the Insecticides Act of 1968.
+2
+ According to the World Health Organization’s International Program on Chemical Safety, Indoxacarb is classified as a Class II moderately hazardous pesticide.
+3
+
+
+The product label indicates no specific antidote is available, with only general supportive care advised in adverse reactions.
+4
+ Although data on Indoxacarb poisoning is limited, several case reports have demonstrated that methemoglobinaemia, which developed in patients exposed to Indoxacarb, was effectively treated without the need for specific antidotes.5–16
+
+This case report presents the successful management of methemoglobinaemia in a young male patient following the intentional ingestion of a pesticide formulation containing both Indoxacarb and Novaluron in a suicide attempt. This case is particularly noteworthy because most documented instances of methemoglobinaemia have involved poisoning from Indoxacarb alone. In contrast, this case involves the ingestion of a combination pesticide containing both Indoxacarb and Novaluron, which introduces new complexities in understanding the effects of such combined exposure.
+
+== Case report ==
+
+A 24-year-old male farmer was brought to the emergency department after voluntarily consuming 100 mL of ACCOUNT (Novaluron 5.25% + Indoxacarb 4.5%) diluted in a soft carbonated beverage. He had received gastric lavage at a nearby hospital before being transferred to our centre. His Glasgow Coma Scale score on arrival was 15/15.
+17
+ He was afebrile, with a pulse of 110 beats/min and regular rhythm, a respiratory rate of 30 breaths/min, blood pressure of 130/70 mm Hg in the right arm in the supine position and an oxygen saturation of 84% on 14 L/min of oxygen via a non-rebreather mask.
+
+On examination, the patient was conscious, oriented to time, place and person, and appeared tachypnoeic with intercostal retractions. Chest auscultation revealed bilateral normal vesicular breath sounds. Bluish discolouration of the buccal mucosa was noted. No murmurs, clicks or additional sounds were heard during cardiac auscultation. He responded to oral commands, with normal pupils equally reactive to light, bilateral flexor responses upon eliciting plantar reflex and no muscle fasciculations.
+
+The differential diagnoses considered at this point after history and clinical examination were:
+
+Arterial blood gas (ABG) analysis showed a pH of 7.45, pCO2 of 39 mm Hg, pO2 of 89 mm Hg and sO2 of 100%. Other laboratory results were within normal limits. High-resolution computed tomography of the chest revealed minimal bilateral pleural effusions (right greater than left) with no consolidations.
+
+The patient was shifted to the intensive care unit and tested for methaemoglobin levels, which were 11.3 g/dL (75.16 %). A 100 mg injection of methylene blue diluted in 5% dextrose was administered over 30 min. The bluish discolouration of the buccal mucosa completely disappeared the next day, and oxygen saturation improved to 95% on room air. A repeat methaemoglobin level decreased to 3.8%. The patient was transferred to the general ward and discharged the following day.
+
+== Discussion ==
+
+In this case study, the patient ingested a pesticide containing two active ingredients: indoxacarb (4.5%) and novaluron (5.25%). The toxicological profiles of these compounds present differing risks in terms of acute toxicity and systemic effects. According to the Pesticide Action Network (PAN) North America’s database, indoxacarb has a moderate level of acute toxicity, while novaluron does not. However, novaluron can induce acute systemic poisoning, though larger doses are required compared to indoxacarb.18,19
+
+Chemically, indoxacarb is a methyl ester from the organochlorine insecticide class, functioning as a sodium voltage-gated channel blocker. Both indoxacarb and its metabolite, N-decarbomethoxylated (DCJW), block tetrodotoxin-resistant (TTX-R) sodium channels in rat Dorsal root ganglion neurons, causing hyperpolarisation shifts. Neurotoxicity has been observed in studies involving rats and mice, with symptoms like weakness, head tilting, abnormal mobility (including paralysis) and death. In humans, indoxacarb ingestion is believed to result in aromatic metabolites that transform into active intermediates, producing methaemoglobin, circulatory shock, acute renal failure and metabolic acidosis, though the exact mechanism is unclear. The Globally Harmonized System of Classification and Labelling of Chemicals identifies indoxacarb as a significant health and environmental hazard. Its Acute Population Adjusted Dose (PAD) or Reference Dose (RfD) is 0.12 mg/kg/day (No Observed Adverse Effect Level = 12.5 mg/day; Uncertainty Factor = 100), meaning the maximum safe 1-day exposure for humans is 0.12 mg/kg of body weight. The Acute Human Health Benchmark for Pesticides (HHBP) is 800 ppb, considered safe for acute exposure in drinking water, with children being the sensitive population. For chronic exposure, the PAD/RfD is set at 0.02 mg/kg/day, and the chronic HHBP is 100 ppb. PAN North America rates its acute toxicity as moderate, with the potential for immediate adverse health effects in humans. Indoxacarb is classified as ‘not likely’ to be a human carcinogen.20,21
+
+Conversely, novaluron is a benzoylurea insecticide, classified as an aromatic ether, monochlorobenzene and organofluoride compound. It inhibits insect chitin synthesis, affecting insect growth and development, and is categorised as an insect growth regulator rather than a neurotoxin. In a rat oral study, even at 2000 ppm, observed effects such as weight gain and histopathological changes in the spleen were not statistically significant. Similarly, a rat dermal toxicity study revealed no systemic impact up to 1000 mg/kg/day, with no observed maternal or developmental toxicity. In humans, novaluron may cause temporary eye injury, can be absorbed through the skin, and may result in skin sensitisation. However, it is not classified as an eye or dermal irritant nor a skin sensitiser, placing it in Toxicity Category IV for oral and inhalation exposure and Category III for dermal exposure. Unlike indoxacarb, novaluron has low acute health toxicity and is mainly classified as an environmental hazard. Its chronic PAD/RfD is 0.011 mg/kg/day, and the chronic HHBP is 65 ppb. There are no anticipated dietary or residential exposures, so an aggregate risk assessment is not required. Novaluron is categorised as ‘Not Likely to Be Carcinogenic to Humans’.22,23
+
+Increased methaemoglobin is a potential secondary toxic effect of novaluron, and this is significant in the current case, as methemoglobinaemia is primarily associated with indoxacarb. An additive or synergistic effect may theoretically worsen the patient’s clinical course or outcome.
+22
+
+
+Case reports by Prasanna et al.,
+9
+ Park et al.,
+15
+ Wu et al.
+13
+ and Mohammad et al.
+7
+ have shown that acute intake of indoxacarb results in methemoglobinaemia. Methemoglobinemia, a known acute manifestation after ingesting metaflumizone (chemically like indoxacarb), was also described in a case report by Oh and Choi.
+10
+
+
+There are also case reports showing different presentations of indoxacarb ingestion, including seizures, vomiting, diarrhoea, altered sensorium and rhabdomyolysis. However, all the case reports indicate that patients had underlying methemoglobinemia and were treated with methylene blue or other forms of treatment.5,6,8,11,12,14,16
+
+In our case, the patient presented with a history of pesticide ingestion, followed by tachypnoea and respiratory failure, without parenchymal illness visible on chest imaging. Even with full-flow oxygen, the inability to achieve 100% oxygen saturation suggested reduced haemoglobin levels. ABG analysis and the muddy brown colour of the blood sample further indicated a high likelihood of methemoglobinaemia. The methaemoglobin level was determined to be 11.2 g/dL (75.16%).
+
+Methaemoglobin is a type of haemoglobin that has undergone oxidation, containing ferric iron (Fe3+) instead of ferrous iron (Fe2+) in the heme moiety. It produces a characteristic muddy colouration that is bluish-brown and mimics cyanosis. Methaemoglobin has a strong affinity for oxygen, providing little oxygen to tissues. Levels above 50%–60% are often fatal. Methemoglobinemia can be congenital or acquired. Congenital causes include globin chain mutations (HbM) or CYB5R3 deficiency. In contrast, acquired causes are more common and typically result from toxins oxidising heme iron, such as dapsone and topical anaesthetics such as benzocaine.24,25
+
+Methaemoglobin is measured as a concentration or percentage. The percentage of methaemoglobin is determined by dividing the concentration of methaemoglobin by the total haemoglobin concentration. Cyanosis may be clinically evident, with methaemoglobin levels as low as 10%. Even at 15%, ‘chocolate brown blood’ can appear normal. Symptoms such as anxiety, dizziness and headaches occur at 20% methaemoglobin, while tachypnoea, disorientation and loss of consciousness occur at 30%–50% levels. Levels over 70% are frequently lethal.26,27
+
+Methemoglobinemia is diagnosed based on the patient’s medical history and symptoms, such as hypoxemia resistant to oxygen supplementation and chocolate-coloured blood. ‘Refractory hypoxemia’ is a key diagnostic indicator.
+28
+ Methods to detect methemoglobinemia include blood gas measurement (arterial or venous), co-oximetry and the Evelyn-Malloy assay. Routine pulse oximetry and PaO2 and SaO2 readings on blood gases are not helpful. SaO2 estimates are falsely normal, and SpO2 readings are lowered by wavelength interference, frequently to 75%–90%, even with more oxygen. The difference between the low SpO2 value and the falsely normal SaO2 is known as the ‘saturation gap’.
+29
+
+
+An arterial or venous blood gas with the co-oximetry test confirms the diagnosis, followed by determining methaemoglobin concentration and percentage. The evaluation must distinguish methemoglobinemia from other reduced haemoglobins, such as carboxyhaemoglobin and sulfhaemoglobin, and establish whether it is acquired or congenital.
+30
+
+
+No specific antidote is available for indoxacarb poisoning, and treatment focuses on managing methemoglobinaemia and its complications. Supportive measures include intravenous access, hydration for hypotension, ventilator support for respiratory impairment or therapy for neurologic effects (antiseizure medications). Methaemoglobin levels above 30% constitute a medical emergency requiring methylene blue and supportive measures. Patients with symptoms and levels of 20%–30% also require methylene blue.
+31
+
+
+Treatment typically starts with 1 mg/kg methylene blue for mild cases and 1–2 mg/kg for severe cases. Methylene blue should be diluted in 1% sterile water and infused over 5 min. Most patients show quick improvement, with methaemoglobin levels dropping to less than 10% within 10–60 min. Up to 7 mg/kg can be administered hourly for 24 h. More than 2–3 doses (>7 mg/kg) are discouraged due to the risk of haemolysis. When methylene blue is contraindicated, ascorbic acid can be used. Hyperbaric oxygen and therapeutic whole-blood exchange have been effective in some cases when first-line treatments were ineffective.25,30,31
+
+From the case reports and our case, age and comorbidities play a role in the outcome.11–16,29,31 Though all cases are discharged, variations in hospital stay and outcomes can be a financial burden and affect long-term results. The worst hospital course was observed in an elderly lady with comorbidities.
+15
+ A better outcome was noted in our case, where methylene blue was administered early. In addition, hospital outcomes tend to be more complicated in cases with delayed diagnosis, as seen in the case report by Prasanna et al.
+9
+ As is shown in Table 1, it also needs to be noted that another compound’s presence can alter the clinical course, as seen in Park et al.,
+15
+ Oh and Choi
+10
+ and in our case when compared with case reports by Mohammad et al.
+7
+ and Oh and Choi
+10
+ where the main compound is only indoxacarb. We suggest that early recognition and administration of methylene blue result in better outcomes and reduce the need for vitamin C, as better hospital courses are seen with early recognition and treatment.
+
+In our case specifically, both compounds tend to cause methemoglobinemia.20,22 This could be one of the reasons for the highest level of methemoglobinemia compared with other case reports, though the quantity is almost the same. However, we experienced a better outcome due to early recognition and prompt administration of methylene blue. A limitation of this study is that we did not conduct follow-ups with the patient after discharge.
+
+== Conclusion ==
+
+In conclusion, the successful management of indoxacarb poisoning depends on the early recognition of methemoglobinaemia and the administration of methylene blue at a dose based on body weight. In this case, the patient responded well to a dose of 2 mg/kg of methylene blue. Despite a methaemoglobin level reaching 75%, the patient was transferred out of the intensive care unit early and discharged within a day. This case illustrates that although the symptoms were severe, prompt recognition and early treatment led to a positive outcome compared to other cases reported in the literature. However, further research is needed to understand better the mechanisms of toxicity and the level of toxicity when indoxacarb is combined with other compounds and to develop specific antidotes.
+
+== Acknowledgments ==
+
+We thank Prof. (Dr.) T.M.V. Rao for his guidance and support. We used Artificial Intelligence for grammar assistance.
+
+== Footnotes ==
+
+== References ==

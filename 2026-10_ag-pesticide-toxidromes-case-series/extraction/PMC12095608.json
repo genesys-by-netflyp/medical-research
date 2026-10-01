@@ -1,0 +1,78 @@
+{
+ "pmcid": "PMC12095608",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "24 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 24-year-old Indian gentleman with no past medical history was brought in by emergency medical services (EMS) with a suspected suicide attempt.",
+   "agent": "insect killer containing deltamethrin and cypermethrin, 400 mL ingested",
+   "agent_quote": "History reported by a bystander indicated that the patient had ingested 400 mL of insect killer, which contained deltamethrin and cypermethrin",
+   "route": "oral",
+   "circumstance": "intentional ingestion (suspected suicide attempt)",
+   "symptoms": [
+    {
+     "finding": "persistent tachycardia (heart rate up to 180)",
+     "quote": "The patient was intubated and sedated, with a heart rate of 180, and the rest of the examination was unremarkable."
+    },
+    {
+     "finding": "reduced level of consciousness (GCS 14, dropping to 6 en route)",
+     "quote": "The patient demonstrated a Glasgow Coma Scale (GCS) score of 14 out of 15 ... en route, his GCS dropped to 6."
+    },
+    {
+     "finding": "ST elevation in anterolateral leads with Troponin T rising from 12 to 800; reverse Takotsubo cardiomyopathy (EF 31%)",
+     "quote": "The ECG (Figure 4) monitor showed ST elevation in the anterolateral leads, with an increase in Troponin T from 12 to 800."
+    },
+    {
+     "finding": "pulmonary edema on initial chest X-ray; elevated creatine kinase, myoglobin, and troponin",
+     "quote": "Initial chest X-ray (Figure 3) showed increased bronchovascular markings, which were likely due to pulmonary edema ... Initial blood investigations revealed elevated levels of creatine kinase, myoglobin, and troponin"
+    }
+   ],
+   "time_to_care": "ingested 'just a short while before the crew's arrival' (UNVERIFIED exact interval)",
+   "labs": [
+    {
+     "name": "Troponin T",
+     "value": "increased from 12 to 800",
+     "quote": "The ECG (Figure 4) monitor showed ST elevation in the anterolateral leads, with an increase in Troponin T from 12 to 800."
+    },
+    {
+     "name": "echocardiogram (day 2)",
+     "value": "EF 31%, global basal hypokinesia, normal apical contractility",
+     "quote": "an official echocardiogram (Figure 6) was conducted, which showed an ejection fraction (EF) of 31%, with global basal hypokinesia and normal apical contractility, suggestive of reverse Takotsubo cardiomyopathy."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "intubation and sedation; skin and eye decontamination",
+     "quote": "full personal protective equipment (PPE) was worn, and skin and eye decontamination was performed. The patient was intubated and sedated"
+    },
+    {
+     "name": "supportive management: rehydration, airway/breathing/circulation support (per toxicology)",
+     "quote": "they advised supportive management, including rehydration, airway, breathing and circulation support, and neurological vital signs observation."
+    },
+    {
+     "name": "aspirin and clopidogrel",
+     "quote": "They advised continuing medical treatment with aspirin and clopidogrel, with no immediate intervention."
+    },
+    {
+     "name": "500 mg bolus of normal saline",
+     "quote": "a 500 mg bolus of normal saline was given."
+    },
+    {
+     "name": "mechanical ventilation with progressive weaning, vasopressors, extubated on day 3",
+     "quote": "the patient was more awake and had decreasing mechanical ventilation (MV) settings along with reduced vasopressor requirements. The patient was subsequently extubated."
+    }
+   ],
+   "icu_admission": "yes (medical intensive care unit)",
+   "outcome": "survived; returned to baseline and discharged on the seventh day",
+   "outcome_quote": "On the seventh day of admission, the patient had returned to his baseline and was discharged with regular follow-up planned with cardiology and psychiatry.",
+   "sequelae": "none reported",
+   "notes": "Cardiology attributed coronary event to spasm from a metabolic cause, not occlusive coronary artery disease."
+  }
+ ]
+}

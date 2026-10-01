@@ -1,0 +1,131 @@
+{
+  "pmcid": "PMC10985417",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10985417_case1",
+      "age": "79-year-old",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "The patient drank almost 50 mL dichlorvos impulsively due to family conflict with her daughter-in-law and agitation on March 27, 2023.",
+      "agent": "dichlorvos (organophosphorus insecticide)",
+      "agent_quote": "The patient drank almost 50 mL dichlorvos impulsively due to family conflict with her daughter-in-law and agitation on March 27, 2023.",
+      "route": "ingestion",
+      "circumstance": "impulsive ingestion in a suicide attempt due to family conflict; urgently sent to local hospital for gastric lavage",
+      "symptoms": [
+        {
+          "finding": "epigastric pain",
+          "quote": "Symptoms: Epigastric pain • mental apathy • vomiting"
+        },
+        {
+          "finding": "mental apathy",
+          "quote": "Symptoms: Epigastric pain • mental apathy • vomiting"
+        },
+        {
+          "finding": "vomiting (over subsequent 3 months, pyloric obstruction)",
+          "quote": "Over the next 3 months, she presented with intermittent nausea, vomiting, epigastric pain, and mental apathy, and was readmitted."
+        },
+        {
+          "finding": "gastric retention / inability to eat",
+          "quote": "The patient could not eat or drink water."
+        }
+      ],
+      "time_to_care": "immediate (urgently sent to local hospital)",
+      "labs": [
+        {
+          "name": "white blood count",
+          "value": "4.54×109/L",
+          "quote": "Laboratory test results showed white blood count of 4.54×109/L"
+        },
+        {
+          "name": "hemoglobin",
+          "value": "77 g/L",
+          "quote": "low hemoglobin level of 77 g/L"
+        },
+        {
+          "name": "platelet count",
+          "value": "279×109/L",
+          "quote": "platelet count of 279×109/L"
+        },
+        {
+          "name": "prealbumin",
+          "value": "88 mg/L (low)",
+          "quote": "low prealbumin level of 88 mg/L"
+        },
+        {
+          "name": "total protein",
+          "value": "53.5 g/L (low)",
+          "quote": "low total protein level of 53.5 g/L"
+        },
+        {
+          "name": "albumin",
+          "value": "27.0 g/L (low)",
+          "quote": "low albumin level of 27.0 g/L"
+        },
+        {
+          "name": "potassium",
+          "value": "3.07 mmol/L (low)",
+          "quote": "low potassium level of 3.07 mmol/L"
+        },
+        {
+          "name": "sodium",
+          "value": "134 mmol/L (low)",
+          "quote": "low sodium level of 134 mmol/L"
+        },
+        {
+          "name": "calcium",
+          "value": "1.97 mmol/L (low)",
+          "quote": "low calcium level of 1.97 mmol/L"
+        },
+        {
+          "name": "C-reactive protein",
+          "value": "10.78 mg/L (high)",
+          "quote": "high C-reactive protein level of 10.78 mg/L"
+        },
+        {
+          "name": "erythrocyte sedimentation rate",
+          "value": "25 mm/h (high)",
+          "quote": "high erythrocyte sedimentation rate of 25 mm/h"
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage and detoxification",
+          "quote": "She improved after being urgently sent to local hospital for gastric lavage and detoxification."
+        },
+        {
+          "name": "omeprazole (proton pump inhibitor)",
+          "quote": "The use of a proton pump inhibitor (omeprazole) to inhibit gastric acid secretion"
+        },
+        {
+          "name": "pralidoxime chloride (cholinesterase reactivator)",
+          "quote": "cholinesterase reactivator (pralidoxime chloride)"
+        },
+        {
+          "name": "atropine (anticholinergic drug)",
+          "quote": "anticholinergic drug (atropine)"
+        },
+        {
+          "name": "fluid/electrolyte maintenance (potassium and sodium supplementation)",
+          "quote": "the maintenance of water-electrolyte balance (supplementing fluid with potassium and sodium) improved the patient’s symptoms."
+        },
+        {
+          "name": "gastrojejunostomy, Braun anastomosis, nasojejunal feeding tube placement",
+          "quote": "Gastrojejunostomy, Braun anastomosis, and nasojejunal feeding tube placement were selected for the surgical procedure."
+        },
+        {
+          "name": "cholecystectomy, choledochotomy, intraoperative choledochoscopy, basket stone extraction, primary suture of common bile duct",
+          "quote": "Meanwhile, cholecystectomy, choledochotomy, intraoperative choledochoscopy examination, basket stone extraction, and primary suture of the common bile duct were performed for biliary calculi."
+        }
+      ],
+      "icu_admission": "UNVERIFIED",
+      "outcome": "recovered; discharged 9 days after surgery, well at 2-month (66-day) follow-up",
+      "outcome_quote": "The patient recovered and was discharged 9 days after surgery. At the 66-day postoperative follow-up, the patient had a good appetite, smooth eating, and no nausea, vomiting, acid regurgitation, abdominal pain, abdominal distension, jaundice, or other discomfort.",
+      "sequelae": "pyloric obstruction due to dichlorvos-induced corrosive scarring (persisted ~3 months post-ingestion); transient mental apathy possibly related to CNS sequelae of dichlorvos poisoning",
+      "notes": "Suicide attempt (per Introduction: 'dichlorvos-induced pyloric obstruction due to attempted suicide'). Acute poisoning phase managed at local hospital; this admission was for delayed pyloric obstruction plus coexisting cholelithiasis/choledocholithiasis. BMI 17.3 kg/m2; history of hypertension."
+    }
+  ]
+}

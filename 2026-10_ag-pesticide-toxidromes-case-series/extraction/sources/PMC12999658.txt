@@ -1,0 +1,200 @@
+== ARTICLE TITLE ==
+Paraquat Peril: A Retrospective Study from the Frontlines of a Quaternary Care Hospital in South India
+
+== ABSTRACT ==
+AbstractBackground and aimParaquat (PQ) dichloride is a commonly used herbicide across agricultural sectors worldwide. Despite being banned in over 70 countries, PQ is still frequently misused in India for suicidal and homicidal poisoning. The study aims to evaluate the clinical and laboratory predictors of survival and to estimate time-to-event outcomes of patients admitted to a quaternary care center in South India with a history of PQ poisoning.Patients and methodsThis retrospective study included patients aged 16 and above who presented with PQ poisoning over 10 years (January 2015 to October 2024). Data were collected from the emergency department (ED) triage registry and hospital electronic database. Statistical analyses were conducted to identify factors predicting survival.ResultsDuring the study period, 166 patients with PQ poisoning were included. The majority were young males, with 79.5% experiencing poor outcomes. Acute kidney injury (AKI) (92.2%) and lung injury (57.6%) were common complications. The overall survival rate was 20.5%, with a median survival time of 5 days. Multivariate Cox regression analysis identified N-acetylcysteine, ascorbic acid, cyclophosphamide, and steroids (NACS) combination therapy, a low acute physiology and chronic health evaluation (APACHE) II score, and activated charcoal as independent predictors of survival. A meta-analysis of 15 Indian studies revealed a pooled bad outcome rate of 79%.ConclusionHigh morbidity and mortality associated with PQ poisoning in India have been highlighted in our study. The authors suggest that a combination therapy using NACS may improve survival; however, this needs to be explored further. Despite these interventions, delayed presentation with multiorgan system involvement points toward a poor prognosis. Further research is needed to standardize treatment protocols and guide policy interventions to limit PQ use and enhance outcomes.How to cite this articleNeeraj GPP, Philip AJ, Prakash G, Praneeth CS, Chandiraseharan VK, Zachariah A, et al. Paraquat Peril: A Retrospective Study from the Frontlines of a Quaternary Care Hospital in South India. Indian J Crit Care Med 2026;30(2):107–116.
+
+== Background and aim ==
+
+Paraquat (PQ) dichloride is a commonly used herbicide across agricultural sectors worldwide. Despite being banned in over 70 countries, PQ is still frequently misused in India for suicidal and homicidal poisoning. The study aims to evaluate the clinical and laboratory predictors of survival and to estimate time-to-event outcomes of patients admitted to a quaternary care center in South India with a history of PQ poisoning.
+
+== Patients and methods ==
+
+This retrospective study included patients aged 16 and above who presented with PQ poisoning over 10 years (January 2015 to October 2024). Data were collected from the emergency department (ED) triage registry and hospital electronic database. Statistical analyses were conducted to identify factors predicting survival.
+
+== Results ==
+
+During the study period, 166 patients with PQ poisoning were included. The majority were young males, with 79.5% experiencing poor outcomes. Acute kidney injury (AKI) (92.2%) and lung injury (57.6%) were common complications. The overall survival rate was 20.5%, with a median survival time of 5 days. Multivariate Cox regression analysis identified N-acetylcysteine, ascorbic acid, cyclophosphamide, and steroids (NACS) combination therapy, a low acute physiology and chronic health evaluation (APACHE) II score, and activated charcoal as independent predictors of survival. A meta-analysis of 15 Indian studies revealed a pooled bad outcome rate of 79%.
+
+== Conclusion ==
+
+High morbidity and mortality associated with PQ poisoning in India have been highlighted in our study. The authors suggest that a combination therapy using NACS may improve survival; however, this needs to be explored further. Despite these interventions, delayed presentation with multiorgan system involvement points toward a poor prognosis. Further research is needed to standardize treatment protocols and guide policy interventions to limit PQ use and enhance outcomes.
+
+== How to cite this article ==
+
+Neeraj GPP, Philip AJ, Prakash G, Praneeth CS, Chandiraseharan VK, Zachariah A, et al. Paraquat Peril: A Retrospective Study from the Frontlines of a Quaternary Care Hospital in South India. Indian J Crit Care Med 2026;30(2):107–116.
+
+== Highlights ==
+
+In contrast to currently available literature on paraquat (PQ) poisoning, which focuses largely on predictors of mortality, our study shifts the perspective to predictors of survival, aiming to identify factors that may guide clinical decision-making toward improving patient outcomes. Based on our findings, we also propose a preliminary management algorithm for toxic ingestion, which we believe warrants further evaluation and validation in prospective, multicentric studies. This study identifies key clinical and laboratory predictors of survival in PQ poisoning, which can aid emergency and critical care physicians in early risk stratification and guide resource allocation and treatment decisions in high-mortality toxic exposures.
+
+== Introduction ==
+
+Paraquat dichloride (1,1’-dimethyl-4,4’-bipyridinium dichloride) is one of the most widely used herbicides globally. Paraquat was initially made available for commercial applications in 1961. It acts quickly and is non-selective, killing green plant tissue upon contact.1–3 As a predominantly agricultural country, India frequently experiences the misuse of agricultural chemicals for poisoning, whether for suicidal or homicidal purposes.
+
+Despite its known toxicity, PQ dichloride remains legally available in India as a 24% soluble liquid (SL), approved for weed control in nine crops.4 Paraquat, a brown, syrupy liquid, poses severe health risks when consumed.5 Goyal et al. reported a fatality of 88% among those who consumed PQ.6 Ingesting PQ typically leads to skin ulceration around the mouth and the oral cavity, pharynx, and esophagus. Ingesting large amounts of PQ is almost always lethal, resulting in death from multiorgan failure and cardiogenic shock within 1–4 days. When smaller quantities are consumed, PQ accumulates in the lungs, where it triggers a neutrophil-mediated inflammatory response due to redox cycling and the generation of free radicals. This leads to an irreversible fibrotic process, which typically results in patient mortality within a few weeks. Furthermore, PQ ingestion can cause acute respiratory failure, renal failure, and acute liver injury, in addition to corrosive injury in the gastrointestinal tract.7,8
+
+Although PQ has been banned in over 70 countries due to its high lethality and lack of an antidote, its availability and continued use in the country raise serious public health concerns.9 The high fatality rate, widespread misuse, and limited treatment options underscore the urgent need for better clinical understanding and policy intervention. This study addresses a critical gap by documenting one of the largest cohorts of PQ poisoning cases (166) in the Indian context, aiming to inform clinical management strategies and support regulatory efforts. It further seeks to evaluate clinical and laboratory predictors of survival and to estimate time-to-event outcomes, defined as the duration from hospital admission to the occurrence of clinically significant events such as death or discharge, using survival analysis techniques.
+
+== Patients and Methods ==
+
+== Study Design ==
+
+This was a retrospective descriptive observational study that characterized the clinical profile, complications, and outcomes of patients presenting with PQ poisoning.
+
+== Study Setting ==
+
+The study was conducted at a quaternary care center in South India and included data available over the last 10 years, from January 2015 to October 2024. The emergency department (ED) of the hospital is organized into three zones based on the severity of patient presentation:
+
+== Participants ==
+
+We included all patients aged 16 years and above who presented to the ED with a confirmed or suspected history of PQ ingestion during the study period.
+
+== Inclusion Criteria ==
+
+Patients with deliberate self-poisoning (DSP) involving PQ ingestion were included in the study.
+
+== Exclusion Criteria ==
+
+Deliberate self-poisoning due to causes other than PQ poisoning, and patients with missing data and brought dead to the ED were excluded from the analysis.
+
+== Data Sources/Measurement ==
+
+Data were sourced from the ED triage registry and the hospital electronic database. A standardized pro forma collected information on demographics, symptoms, complications, outcomes, treatment, and laboratory findings.
+
+== Variables ==
+
+Some of the variables included were age, sex, mode of DSP, factors triggering DSP, comorbidities, and details of both prehospital and in-hospital resuscitation.
+
+== Outcome Variables ==
+
+The primary outcome focused on was “survival.” This was compared against “non-survivors,” which were defined as death during treatment or discharge against medical advice due to poor prognosis. The terminology “bad outcome” has been used synonymously with “non-survivors” in the meta-analysis. Key secondary outcomes included the following:
+
+== Sample Size Calculation ==
+
+As this was a retrospective study that included all eligible cases of PQ poisoning presenting to the ED over a 10-year period (January 2015 to October 2024), no formal sample size or power calculation was performed.
+
+== Data Completeness and Handling of Missing Data ==
+
+Data completeness was assessed during the extraction process from the electronic hospital database and ED triage registry. Records were reviewed for completeness of key variables, including demographics, clinical presentation, laboratory findings, and outcomes. Patients with substantial missing data, defined as the absence of critical outcome variables or treatment details, were excluded from the analysis. Minimal missing data were handled by excluding those specific cases from regression analyses to maintain the integrity of statistical results. The final dataset included only those patients with sufficient documentation to allow meaningful analysis.
+
+== Statistical Methods ==
+
+The categorical variables were reported as frequencies with percentages, while continuous variables were reported as means with standard deviations or medians and interquartile ranges (IQRs), depending on the distribution assumption. The comparison of categorical variables between survivors vs non-survivors was performed using the Chi-square test or Fisher's exact test as appropriate. Survival analysis was performed using Cox proportional hazards regression. Variables significant at the univariate Cox model were entered into a multivariate Cox regression model, and results were expressed as hazard ratios (HRs) with 95% confidence intervals. A two-sided p-value of < 0.05 was considered statistically significant. The statistical analysis was performed using SPSS version 27 software. In addition, a supplementary random-effects meta-analysis was conducted using a few published Indian case series to contextualize our findings, and the results were presented graphically in a forest plot.
+
+== Ethical Considerations ==
+
+Ethical approval was obtained from the institutional review board (IRB Min. No. 14228). The IRB approved a waiver of consent, as this was a retrospective study.
+
+== Patient and Public Involvement ==
+
+Neither patients nor the public were involved in the design, conduct, reporting, or dissemination plans of this research.
+
+== Results ==
+
+== Participants ==
+
+Between January 2015 and October 2024, 5,963 patients presented with DSP. Among these cases, the incidence of PQ DSP was recorded at 2.7%, encompassing 166 patients included in the study. The frequency of consumption demonstrated an exponential increase throughout the study (Fig. 1). The patient cohort predominantly consisted of males (n = 121, 72.9%), with the majority of patients falling within the 25–40-year age-group (n = 82, 49.4%). Thirty individuals (18.1%) had a preexisting comorbidity. A significant proportion of patients (n = 124, 74.7%) presented to the yellow zone of the ED. Most patients (n = 109, 65.7%) were residents of the neighboring state of Andhra Pradesh, with the districts of Kadapa and Chittoor accounting for 75.2% of these cases. The state of Tamil Nadu reported the highest number of PQ victims from the district of Tiruvannamalai.
+
+== Descriptive Data ==
+
+Forty-eight patients (28.9%) ingested more than 100 mL of the compound, whereas 47 (28.3%) consumed less than 20 mL. The primary reason for DSP was determined to be suicidal in 162 patients (97.6%), with accidental ingestion observed in four patients (2.4%). Only 21 patients (12.6%) presented to the hospital within 6 hours of PQ consumption, while 73 (44%) took more than 24 hours to seek medical attention post-ingestion. The mean (SD) baseline acute physiology and chronic health evaluation (APACHE) II score at presentation was 10.64 ± 7.41. The median hospital stay was 4 days (IQR: 2–7.5 days), with a median time to death of 3 days (IQR: 3–5 days). The intent of poisoning was primarily suicidal in nature (97.6%), with only four patients presenting with an accidental exposure. The baseline characteristics of the study cohort are summarized in Table 1.
+
+== Outcomes ==
+
+The predominant symptoms observed among patients were vomiting (n = 150, 90.4%), followed by dysphagia or a burning sensation in the throat (n = 77, 46.4%) and breathlessness (n = 47, 28.3%). Acute kidney injury was present in 92.2% of the evaluated patients, while elevation of liver enzymes was observed in 73.8% of them. Additionally, 57.6% of the cases (n = 91) developed lung injury (Fig. 2). The overall survival rate was 20.5% (n = 34), with a bad outcome of 79.5% (n = 132).
+
+Of the patients, 128 (77.1%) underwent gastric lavage post-PQ consumption, with 25 cases (19.5%) involving activated charcoal lavage. A total of 99 patients (59.6%) were administered N-acetylcysteine, while 103 patients (62%) received steroids. Thiamine was provided to 40 patients (24.1%), and a select few were administered vitamin E (n = 28, 16.4%). Ascorbic acid was administered to 51 patients (30.7%), while cyclophosphamide treatment was provided to 17 patients (10.2%). Additionally, nine patients (5.4%) received tyrosine kinase inhibitors, and pirfenidone was used for five patients with pulmonary fibrosis. Hemodialysis was performed on 29 patients, and one underwent plasma exchange therapy. Thirty patients (18.1%) received the N-acetylcysteine, ascorbic acid, cyclophosphamide, and steroids (NACS) combination therapy. During the course of treatment, 40 patients (24.1%) required endotracheal intubation.
+
+== Cox Regression Analysis for Predictors of Survival ==
+
+Univariate Cox regression modeling identified several significant predictors of survival in patients with PQ poisoning. Use of steroids, cyclophosphamide, NAC, ascorbic acid, vitamin E, and activated charcoal lavage were predictors of better survival. Interestingly, the combination therapy (NACS) also demonstrated a remarkable survival advantage (HR: 2.70, 95% CI: 1.18–6.17, p = 0.02). In contrast, higher total bilirubin levels (>1.2 mg/dL), low serum bicarbonate (≤21 mEq/L), an increased APACHE II score (≥9), acute lung or kidney injury, and elevated liver enzymes were predictors of poorer survival (Table 2).
+
+In a multivariate Cox regression analysis, three variables were identified as being associated with improved survival. Patients treated with the NACS combination therapy had significantly higher survival rates (HRs: 4.57, 95% CI: 1.05–19.93, p = 0.04). An APACHE II score <9 was also found to be associated with survival (HR: 5.10, 95% CI: 1.71–15.23, p = 0.004). Furthermore, administration of activated charcoal after PQ consumption showed a borderline significant positive association with survival (HR: 3.15, 95% CI: 0.99–10.08, p = 0.05) (Table 3). These factors were considered for inclusion in the multivariate model based on clinical relevance and univariate statistical significance, while other statistically significant univariate predictors were omitted due to documented relationships with mortality in the existing literature on PQ poisoning.
+
+== Meta-analysis ==
+
+A supplementary meta-analysis was performed on 15 Indian case series, reporting bad outcomes in PQ poisoning. Abstracts, case reports, and case series with fewer than five patients were excluded. Studies were identified through a brief search of PubMed, EMBASE, and Google Scholar using the keyword “paraquat.” A random-effects model was used to estimate the pooled proportion of bad outcomes. The analysis revealed a pooled rate of 0.79 (95% CI: 0.71–0.87), as shown in Figure 3.
+
+== Discussion ==
+
+Our study highlighted a concerning trend in the increasing use of PQ as a deliberate agent for DSP. Although many countries have prohibited the use of PQ because of its high toxicity and absence of a specific antidote, India still reports increasing cases. This calls for immediate national policy interventions to limit or prohibit its use in agriculture and heighten the public awareness of its risks.
+
+A review of the literature in India found mortality due to PQ poisoning between 50 and 100% with a pooled bad outcome rate of 79% (95% CI: 71–87).6,10–23 Despite the high burden, only a few states have published extensive cohort studies from India, with the remainder comprising case reports or small case series. Among these, Goyal et al. have reported a cohort of 109 PQ patients with a mortality rate of 88%.6 Other studies by Ravichandran et al., Rao et al., and Wilson et al. reported lower mortality rates of 74.7, 61.4, and 72.7%, respectively, compared to the observed rate of 79.5% in our study. It is worth noting that Rao et al. excluded patients who left against medical advice from their mortality calculations, whereas our study included all such cases.11,16,17
+
+Lung injury is a hallmark of PQ toxicity, typically evolving over several days to weeks. Pulmonary fibrosis is a major contributor to mortality and often manifests within the first week of PQ exposure, particularly in patients who ingest large volumes.7,24 In our cohort, lung injury was significantly associated with reduced survival. Interestingly, a P/F ratio greater than 5 may serve as an early marker of severe pulmonary compromise in PQ poisoning. In our cohort, none of the patients with a P/F ratio greater than 5 survived, indicating a strong association with poor outcomes. As a result, this variable could not be included in the Cox regression analysis because there were no survivors in that subgroup. Nevertheless, this novel observation warrants further validation to determine whether this threshold can reliably predict mortality. Oxygen therapy in PQ poisoning must be used cautiously, since too much oxygen can encourage free radical formation, consequently worsening lung damage. Current recommendations advise titrating oxygen only to prevent hypoxia (SpO2 < 90%).25
+
+In contrast to previous studies, our cohort did not show an association between hypokalemia and mortality.6 A notable clinical sign observed in our cohort was “PQ tongue,” characterized by ulceration of the oral mucosa, seen in 39.9% of patients. This finding has been previously reported in several Indian studies.6,11,21,26–28
+
+In terms of treatment, 62% of patients received steroids, while only 10.2% were administered a combination of steroids and cyclophosphamide. Findings in our study suggested that NACS combination therapy appears to be a robust therapeutic intervention, even after adjusting for severity (APACHE II). Acute physiology and chronic health evaluation II itself remained a strong prognostic marker, reinforcing its utility in early risk stratification. Activated charcoal may offer benefit, though the wide confidence interval suggests the need for cautious interpretation or further study.
+
+Among those who received the combination of steroid and cyclophosphamide alone, 52.9% (9 out of 17) survived to discharge, a statistically significant finding (p = 0.001). Although some case reports and a small randomized controlled trial have suggested potential benefits of cyclophosphamide, Gawarammana et al. found no survival advantage with high-dose immunosuppression.29,30 Our study findings suggested that combining both steroids and cyclophosphamide may benefit select patients. Several studies have highlighted the potential benefit of combining glucocorticoids and cyclophosphamide in the treatment of moderate-to-severe PQ poisoning.31–35 This approach targets the immune-mediated pulmonary injury and fibrosis that are central to PQ toxicity.35
+
+The administration of NAC, vitamin E, and thiamine alone did not significantly impact survival in our cohort. However, vitamin C was associated with improved survival (p < 0.001). This is consistent with a study by Moon and Chun in which high-dose vitamin C, when used in combination with steroids and cyclophosphamide, was shown to improve clinical outcomes.36 Despite these promising findings, the optimal dose and therapy duration are still not well understood, and more large-scale trials will be necessary to provide standardized treatment protocols.
+
+Rao et al. previously demonstrated that early hemoperfusion (HP) following PQ ingestion can reduce mortality in severe cases.16 Given that PQ is rapidly excreted by the kidneys (80–90% within 6 hours and nearly 100% within 24 hours), early intervention is critical.11,24 Our center, a quaternary referral hospital, received most patients (96.4%) after significant delays. As a result, HP or hemodialysis (HD) may not have conferred additional benefit in patients with preserved renal function. This may explain why the need for HD emerged as a predictor of poor survival in our study.
+
+Our study had several limitations. Only a few patients (25/166) underwent qualitative confirmation of PQ exposure using the PQ dithionite urine test. No quantitative plasma PQ measurements were available for our patients, which are widely recognized as a direct marker of mortality. The dosage of PQ varies significantly among individuals, making it a challenging parameter for analysis due to its subjective nature. In a study of 70 patients, all 25 fatalities among those tested had an interpolated urine PQ concentration of ≥1 μg/mL.23
+
+We conducted a single-point-in-time assessment of clinical findings and laboratory data without incorporating continuous monitoring of parameters. As a retrospective study, some patients did not undergo all necessary investigations upon arrival, and there were instances of incomplete documentation. Additionally, we did not follow up with patients who left against medical advice due to poor prognosis. Nevertheless, given the well-known lethality of PQ, these patients were included in the mortality analysis for statistical purposes.
+
+== Conclusion ==
+
+Paraquat poisoning continues to pose a significant public health challenge, with high rates of morbidity and mortality. Our study highlights the predominance of intentional ingestion, delayed presentation, and the critical role of organ dysfunction, particularly AKI and lung injury, in predicting poor survival. While conventional therapies, such as NAC, thiamine, and vitamin E, showed limited benefit, the combination of N-acetylcysteine, ascorbic acid, steroids, and cyclophosphamide was associated with statistically improved outcomes. The findings underscore the urgent need for early recognition, timely referral, and standardized treatment protocols. Future multicentric prospective studies are essential to validate these findings and guide evidence-based treatment protocols for PQ poisoning in India.
+
+== Author Contributions ==
+
+== Acknowledgments ==
+
+The authors would like to thank our social workers, Mr Sathishkumar, Mrs Bagyalakhsmi, Mr Praveen Kumar Milkies, Mrs Shanmuga Priya, Ms Komathi, Mr Prabhu, and Mr Rajkumar for sincerely maintaining a database of the poisoning victims presenting to the emergency department.
+
+== Orcid ==
+
+George PP Neeraj
+https://orcid.org/0000-0002-6886-832X
+
+Adarsh J Philip
+https://orcid.org/0000-0003-0178-3724
+
+Gokul Prakash
+https://orcid.org/0009-0003-6138-3711
+
+Chandra S Praneeth
+https://orcid.org/0009-0005-1222-1948
+
+Vignesh K Chandiraseharan
+https://orcid.org/0000-0001-9117-1996
+
+Anand Zachariah
+https://orcid.org/0000-0002-9039-364X
+
+Sudha J Rajan
+https://orcid.org/0000-0003-4852-9301
+
+Arun J Nellickal
+https://orcid.org/0000-0002-7445-0042
+
+Ramya Iyyadurai
+https://orcid.org/0000-0001-8453-6205
+
+Kishore K Pichamuthu
+https://orcid.org/0000-0002-6977-1183
+
+Samuel G Hansdak
+https://orcid.org/0000-0002-3389-1220
+
+Karthik Gunasekaran
+https://orcid.org/0000-0002-8615-5753
+
+Kundavaram PP Abhilash
+https://orcid.org/0000-0002-2382-4411
+
+John V Peter
+https://orcid.org/0000-0002-3423-1830
+
+Bijesh Yadav
+https://orcid.org/0000-0002-5764-1373
+
+== Data Availability Statement ==
+
+The data that support the findings of this study are not publicly available due to ethical restrictions. As this was a retrospective study, individual consent for data sharing was not obtained from participants. Therefore, the supporting data is available from the corresponding author upon reasonable request, subject to institutional approval and privacy considerations.

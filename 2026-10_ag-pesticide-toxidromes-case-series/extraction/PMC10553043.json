@@ -1,0 +1,44 @@
+{
+  "pmcid": "PMC10553043",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10553043_case_1",
+      "age": "15 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Fifteen years old Nepali female was brought to the emergency department of our academic hospital with an alleged history of chemical poison ingestion 2 days ago, followed by vomiting and difficulty swallowing for 2 days.",
+      "agent": "Paraquat (herbicide, ~10 ml)",
+      "agent_quote": "For these symptoms, she was taken to the nearby medical center, where she was found to have consumed about 10 ml of paraquat.",
+      "route": "oral ingestion",
+      "circumstance": "Alleged chemical poison ingestion (paraquat); intent not explicitly stated; diagnosis confirmed with the mother showing the bottle containing the herbicide",
+      "symptoms": [
+        {"finding": "multiple episodes of non-projectile, non-bilious, non-blood-stained vomiting with food particles, generalized abdominal pain, two to three episodes of greenish loose stool", "quote": "She started having multiple episodes of vomiting following the ingestion, which was nonprojectile, non-bilious, not blood-stained, and containing food particles. Vomiting was associated with generalized pain abdomen and two to three episodes of greenish-colored loose stool for a day."},
+        {"finding": "difficulty swallowing food and liquids", "quote": "Nevertheless, her condition deteriorated and she started having difficulty swallowing food and liquids, so she was shifted to our center for further management."},
+        {"finding": "shortness of breath, increased oxygen requirement, decreased urine output, chest pain (day 3)", "quote": "On the third day of admission, she started having shortness of breath, increased oxygen requirement, decreased urine output, and chest pain."},
+        {"finding": "ARDS with fibrotic changes on chest X-ray (day 12)", "quote": "Chest X-ray showed fibrotic changes over bilateral lung fields and features suggestive of acute respiratory distress syndrome (ARDS), as shown in Figure 1."}
+      ],
+      "time_to_care": "Presented to the emergency department 2 days after ingestion; initially managed at a nearby private hospital PICU",
+      "labs": [
+        {"name": "creatinine (initial)", "value": "4.3 mg/dl", "quote": "Her baseline investigations were notable for elevated creatinine of 4.3 and raised bilirubin (total 6.6 mg/dl, direct 4.5 mg/dl) besides normal hematological parameters, electrolytes, and cardiac enzymes level."},
+        {"name": "bilirubin (total/direct)", "value": "6.6 mg/dl / 4.5 mg/dl", "quote": "Her baseline investigations were notable for elevated creatinine of 4.3 and raised bilirubin (total 6.6 mg/dl, direct 4.5 mg/dl) besides normal hematological parameters, electrolytes, and cardiac enzymes level."},
+        {"name": "creatinine (day 19)", "value": "8.8 mg/dl", "quote": "Her creatinine level was 8.8 mg/dl."},
+        {"name": "ABG (day 12)", "value": "pH 7.50, PaCO2 42.6, PaO2 60.2, HCO3 33.8", "quote": "Arterial blood gas (ABG) analysis revealed metabolic alkalosis with pH 7.50, PaCO2=42.6, PaO2=60.2, and HCO3=33.8, while her serum urea and creatinine were still deranged."}
+      ],
+      "treatment": [
+        {"name": "dexamethasone 4 mg, cefepime 1 g, N-acetyl cysteine 70 mg/h parenteral", "quote": "She has been managed conservatively with tablet dexamethasone 4 mg, cefepime 1 g, and N-acetyl cysteine at 70 mg/h via the parenteral route."},
+        {"name": "hemodialysis (two sessions)", "quote": "Oxygen was supplemented via noninvasive ventilation for respiratory distress, and dexamethasone was also used. She was then shifted to ICU for hemodialysis."},
+        {"name": "meropenem 1 g and vancomycin 500 mg", "quote": "The antibiotic was also upgraded to meropenem 1 g and vancomycin 500 mg via the parenteral route."},
+        {"name": "mechanical ventilation and vasopressors (noradrenaline, vasopressin)", "quote": "In addition, she required vasopressor (noradrenaline) support to maintain her blood pressure. Gradually, her condition improved, but she still had difficulty maintaining oxygen saturation and blood pressure, so her management in ICU was continued. At that time, noradrenaline and vasopressin were both used."}
+      ],
+      "icu_admission": "Yes (\"She was then shifted to ICU for hemodialysis.\")",
+      "outcome": "died of multiorgan failure on day 19 of admission",
+      "outcome_quote": "She became nonresponsive to the therapy provided and eventually died of multiorgan failure.",
+      "sequelae": "UNVERIFIED (patient died)",
+      "notes": "Paraquat poisoning complicated by acute kidney injury, pulmonary fibrosis and ARDS."
+    }
+  ]
+}

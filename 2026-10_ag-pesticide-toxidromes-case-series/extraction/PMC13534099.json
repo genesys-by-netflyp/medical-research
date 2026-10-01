@@ -1,0 +1,108 @@
+{
+ "pmcid": "PMC13534099",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC13534099_case1",
+   "age": "69 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "The patient himself, upon recovery, recalled possibly ingesting contaminated food in the days preceding symptom onset, though the exact source was unclear.",
+   "agent": "brodifacoum (second-generation superwarfarin anticoagulant rodenticide)",
+   "agent_quote": "The test returned a high serum concentration of Brodifacoum at 77.86 ng/mL.",
+   "route": "oral (suspected ingestion of contaminated food)",
+   "circumstance": "unclear exposure history; family could not provide a definitive history of rodenticide exposure; no anticoagulant medication use",
+   "symptoms": [
+    {
+     "finding": "oral bleeding (9-day history)",
+     "quote": "A 69-year-old man was admitted to the hospital with a 9-day history of oral bleeding and an 8-day history of pain in the lower back, abdomen, and chest."
+    },
+    {
+     "finding": "pain in lower back, abdomen, and chest (8-day history)",
+     "quote": "A 69-year-old man was admitted to the hospital with a 9-day history of oral bleeding and an 8-day history of pain in the lower back, abdomen, and chest."
+    },
+    {
+     "finding": "pain in right calf and both upper limbs",
+     "quote": "Three days before admission, he developed pain in his right calf and both upper limbs."
+    },
+    {
+     "finding": "large ecchymosis on right upper limb",
+     "quote": "Physical examination on the day of admission revealed a blood pressure of 146/96 mmHg, active oral bleeding, and a large ecchymosis on the right upper limb."
+    },
+    {
+     "finding": "aortic dissection from distal abdominal aorta to bilateral iliac arteries with intramural hematoma",
+     "quote": "Aortic computed tomography angiography (CTA) confirmed an extensive aortic dissection involving the distal abdominal aorta down to the bilateral iliac arteries (Figures 1, 2)."
+    }
+   ],
+   "time_to_care": "UNVERIFIED (admitted 9 days after symptom onset of oral bleeding; time from exposure to care not stated)",
+   "labs": [
+    {
+     "name": "prothrombin time (PT)",
+     "value": "unmeasurably high / undetectable",
+     "quote": "both prothrombin time (PT) and the international normalized ratio (INR) were unmeasurably high"
+    },
+    {
+     "name": "INR",
+     "value": "undetectable",
+     "quote": "both prothrombin time (PT) and the international normalized ratio (INR) were unmeasurably high"
+    },
+    {
+     "name": "APTT",
+     "value": "160.1 s",
+     "quote": "the activated partial thromboplastin time (APTT) was markedly prolonged to 160.1 s"
+    },
+    {
+     "name": "hemoglobin",
+     "value": "102 g/L, decreasing to 88 g/L",
+     "quote": "Persistent bleeding led to moderate-to-severe anemia, with hemoglobin decreasing from 102 g/L to 88 g/L"
+    },
+    {
+     "name": "serum brodifacoum (GC/MS)",
+     "value": "77.86 ng/mL",
+     "quote": "The test returned a high serum concentration of Brodifacoum at 77.86 ng/mL."
+    },
+    {
+     "name": "alanine aminotransferase",
+     "value": "9.20 U/L",
+     "quote": "normal liver function (alanine aminotransferase 9.20 U/L and aspartate aminotransferase 14.90 U/L)"
+    },
+    {
+     "name": "aspartate aminotransferase",
+     "value": "14.90 U/L",
+     "quote": "normal liver function (alanine aminotransferase 9.20 U/L and aspartate aminotransferase 14.90 U/L)"
+    },
+    {
+     "name": "creatinine",
+     "value": "55.0 μmol/L",
+     "quote": "renal function (creatinine 55.0 μmol/L)"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "fresh frozen plasma (initial 300 mL bolus, then 400 mL daily for 5 days)",
+     "quote": "The patient received an initial bolus transfusion of 300 mL of FFP upon admission, followed by daily transfusions of 400 mL for the next five consecutive days"
+    },
+    {
+     "name": "high-dose intravenous vitamin K1 (10 mg every 12 h, tapered to 10 mg once daily)",
+     "quote": "high-dose intravenous vitamin K1 was administered at 10 mg every 12 h"
+    },
+    {
+     "name": "oral metoprolol sustained-release 47.5 mg once daily",
+     "quote": "This was achieved with oral metoprolol sustained-release (47.5 mg once daily) to reduce heart rate and contractility"
+    },
+    {
+     "name": "oral felodipine sustained-release 5 mg once daily",
+     "quote": "and oral felodipine sustained-release (5 mg once daily) for vasodilation"
+    }
+   ],
+   "icu_admission": "UNVERIFIED",
+   "outcome": "stabilized; coagulation parameters normalized over two weeks; discharged with long-term outpatient follow-up; dissection stable with hematoma resolution at 1-month CTA",
+   "outcome_quote": "The patient's condition was stabilized through aggressive management, including infusion of fresh frozen plasma (FFP), high-dose intravenous vitamin K, and strict blood pressure control. His coagulation parameters gradually normalized over two weeks.",
+   "sequelae": "persistent but stable aortic dissection (dissection flap and intramural hematoma remained stable, with hematoma resolution at 1-month follow-up CTA)",
+   "notes": "Blood pressure on admission 146/96 mmHg; BP targets 100–120 mmHg systolic, HR 60–80 bpm. Final diagnoses: extensive aortic dissection and severe acquired coagulopathy due to superwarfarin (brodifacoum) poisoning."
+  }
+ ]
+}

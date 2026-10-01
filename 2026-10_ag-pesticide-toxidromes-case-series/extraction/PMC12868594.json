@@ -1,0 +1,92 @@
+{
+ "pmcid": "PMC12868594",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "32 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 32‑year‑old Black African man intentionally ingested 4 aluminum phosphide tablets acquired locally and presented to our regional hospital 4 hours later. He reported the ingestion was a suicide attempt related to severe financial stress.",
+   "agent": "aluminum phosphide (4 tablets)",
+   "agent_quote": "intentionally ingested 4 aluminum phosphide tablets acquired locally",
+   "route": "ingestion",
+   "circumstance": "Suicide attempt related to severe financial stress; tablets acquired locally; no history of psychiatric illness, substance misuse, or chronic medical conditions.",
+   "symptoms": [
+    {
+     "finding": "generalized weakness and 2 episodes of non-bloody vomiting (1 h after ingestion, at clinic)",
+     "quote": "One hour after ingestion, he first attended a nearby clinic with generalized weakness and 2 episodes of non‑bloody vomiting; no gastric lavage was performed there."
+    },
+    {
+     "finding": "drowsiness, dizziness, nausea; disorientation to time; GCS 14/15",
+     "quote": "On arrival at the emergency department, the patient was drowsy but arousable, complaining of dizziness and nausea. ... Neurologically, he was intermittently disoriented to time but followed simple commands, Glasgow Coma Scale (GCS 14/15)"
+    },
+    {
+     "finding": "hypotension (BP 78/48 mmHg), feeble radial pulse 120 bpm, tachypnea (RR 26), pale, diaphoretic, cool peripheries",
+     "quote": "Initial vital signs were: blood pressure 78/48 mmHg, radial pulse 120 beats/minute (feeble), respiratory rate 26 breaths/minute, SpO2 96% on room air, and temperature 35.6 °C. He appeared pale, diaphoretic, and cool peripherally."
+    },
+    {
+     "finding": "palpitations, agitation, persistent hypotension; new atrial fibrillation with rapid ventricular response (HR 130-150/min) 6 h into ICU care",
+     "quote": "Six hours after ICU admission, he developed sudden worsening palpitations, agitation, and persistent hypotension. A repeat 12‑lead ECG demonstrated new atrial fibrillation with rapid ventricular response (heart rate 130-150 beats/minute; Figure 1)."
+    },
+    {
+     "finding": "mild global left ventricular systolic dysfunction (LVEF ~45%-50%) on echocardiography",
+     "quote": "Bedside transthoracic echocardiography demonstrated mild global left ventricular systolic dysfunction (estimated left ventricular ejection fraction [LVEF] ~45%-50%) without regional wall motion abnormalities and no pericardial effusion."
+    }
+   ],
+   "time_to_care": "attended a nearby clinic 1 hour after ingestion; presented to the regional hospital 4 hours after ingestion",
+   "labs": [
+    {
+     "name": "baseline CBC, CRP, random glucose, serum electrolytes, renal and liver function tests",
+     "value": "within institutional reference ranges",
+     "quote": "Baseline laboratory tests, including complete blood count, C‑reactive protein, random glucose, serum electrolytes, renal, and liver function tests, were within institutional reference ranges."
+    },
+    {
+     "name": "cardiac troponin",
+     "value": "within normal range (baseline and repeat)",
+     "quote": "A baseline cardiac troponin was within the normal range. ... Repeat cardiac troponin remained within the normal range."
+    },
+    {
+     "name": "arterial blood gas and serum lactate",
+     "value": "not available at our center",
+     "quote": "Arterial blood gas (pH, HCO3−) and serum lactate were not available at our center (Table 1)."
+    },
+    {
+     "name": "ECG",
+     "value": "initial sinus tachycardia; new atrial fibrillation with rapid ventricular response at 6 h",
+     "quote": "the initial 12‑lead ECG demonstrated sinus tachycardia. ... A repeat 12‑lead ECG demonstrated new atrial fibrillation with rapid ventricular response (heart rate 130-150 beats/minute; Figure 1)."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "1 L normal saline at nearby clinic (no gastric lavage)",
+     "quote": "The clinic staff administered 1 L of normal saline and arranged transfer when symptoms persisted."
+    },
+    {
+     "name": "IV hydrocortisone, calcium gluconate, repeated magnesium sulfate, fluid resuscitation, vasoactive support",
+     "quote": "He was admitted to the ICU for close monitoring and supportive care for ALP toxicity, including IV hydrocortisone, calcium gluconate, repeated magnesium sulfate, fluid resuscitation, and vasoactive support for refractory hypotension."
+    },
+    {
+     "name": "dopamine (5 µg/kg/min titrated to max 10 µg/kg/min)",
+     "quote": "Vasoactive support with dopamine was started at 5 µg/kg/minute and was titrated to a maximum of 10 µg/kg/minute for persistent hypotension."
+    },
+    {
+     "name": "IV amiodarone (150 mg bolus over 10 min, then 1 mg/min for 6 h, then 0.5 mg/min for 18 h)",
+     "quote": "Intravenous amiodarone was administered as a 150 mg IV bolus over 10 minutes, followed by a continuous infusion at 1 mg/minute for 6 hours and then 0.5 mg/minute for the subsequent 18 hours; the infusion was stopped after conversion to sinus rhythm."
+    },
+    {
+     "name": "magnesium sulfate 2 g IV slow bolus; stress-dose hydrocortisone 50 mg IV every 6 h (200 mg/day)",
+     "quote": "Magnesium sulfate (2 g IV slow bolus) was given for membrane stabilization/electrolyte correction. Stress-dose corticosteroids (hydrocortisone 50 mg IV every 6 hours; total 200 mg/day) were administered for refractory shock."
+    }
+   ],
+   "icu_admission": "yes (72 hours in ICU)",
+   "outcome": "survived; sinus rhythm restored ~18 h after AF onset, dopamine stopped ICU day 2, discharged after 5 days; at 2-week and 1-month reviews asymptomatic with normal ECG, echocardiography, and troponin",
+   "outcome_quote": "He was transferred to the ward for psychiatric assessment and discharged after 5 days with cardiology and psychiatry follow‑up. At 2‑week and 1‑month reviews, he remained asymptomatic with normal ECG, echocardiography, and troponin measurements.",
+   "sequelae": "none (full recovery without neurologic sequelae; normal cardiac function at follow-up)",
+   "notes": "Insulin-euglycemia therapy, NAC, and mechanical support were NOT used, mainly due to lack of availability. Case presented as case report with literature review."
+  }
+ ]
+}

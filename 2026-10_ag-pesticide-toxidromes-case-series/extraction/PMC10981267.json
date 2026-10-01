@@ -1,0 +1,91 @@
+{
+  "pmcid": "PMC10981267",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10981267_case1",
+      "age": "18-year-old",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Here, we report a rare case of paraquat poisoning in an individual using cannabis, adhering to the CARE 2020 Guidelines.",
+      "agent": "paraquat (paraquat dichloride 24% SL, 24% (w/V) solution)",
+      "agent_quote": "Four days ago, he had consumed 10–15 mL of a 24% (w/V; paraquat dichloride 24% SL) paraquat solution.",
+      "route": "ingestion",
+      "circumstance": "accidental ingestion under the influence of marijuana; discloses exposure to guardians on third post-ingestion day who transported him to a nearby healthcare facility",
+      "symptoms": [
+        {
+          "finding": "vomiting with hematemesis and regurgitated food particles",
+          "quote": "The day after ingestion, he experienced multiple episodes of vomiting, characterized by the presence of blood and food particles."
+        },
+        {
+          "finding": "heartburn and dysphagia",
+          "quote": "He also reported complaints of heartburn, difficulty swallowing and reduced urine production."
+        },
+        {
+          "finding": "reduced urine output",
+          "quote": "He also reported complaints of heartburn, difficulty swallowing and reduced urine production."
+        },
+        {
+          "finding": "intraoral mucosal erosion with haemorrhagic manifestations",
+          "quote": "However, notable intraoral mucosal erosion accompanied by haemorrhagic manifestations was observed (Figure 1)."
+        },
+        {
+          "finding": "respiratory deterioration with falling oxygen saturation",
+          "quote": "On evaluation, during the third day of ICU admission, a gradual decrement in oxygen saturation levels and a reduction in urine output was seen."
+        }
+      ],
+      "time_to_care": "presented on the third post-ingestion day (ingestion 4 days before ER arrival)",
+      "labs": [
+        {
+          "name": "PaO2/FiO2 ratio",
+          "value": "below 100",
+          "quote": "Arterial blood gas (ABG) analysis demonstrated a deteriorated PaO2/FiO2 ratio, measuring below 100, indicative of compromised oxygen exchange."
+        },
+        {
+          "name": "neutrophil and total leukocyte counts",
+          "value": "rising over time (values UNVERIFIED)",
+          "quote": "His complete blood count showed rising neutrophil and total leukocyte counts over time (Table 1)."
+        },
+        {
+          "name": "creatinine and liver enzymes",
+          "value": "progressively rising (values UNVERIFIED)",
+          "quote": "The patient’s creatinine levels and liver enzymes were progressively rising indicating both liver and renal insult (Table 2)."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "intravenous fluid resuscitation and proton pump inhibitor therapy",
+          "quote": "On hospital admission, intravenous fluid resuscitation and proton pump inhibitor therapy were initiated."
+        },
+        {
+          "name": "admission to ICU with conservative management including intravenous dexamethasone",
+          "quote": "the patient was subsequently admitted to the intensive care unit (ICU) and was subjected to a conservative management approach, which included the administration of intravenous dexamethasone (Table 3)."
+        },
+        {
+          "name": "oxygen supplementation via non-rebreathing mask",
+          "quote": "To address the escalating respiratory demands, the patient was given oxygen supplementation through a non-rebreathing mask."
+        },
+        {
+          "name": "vitamin C and vitamin E",
+          "quote": "The therapeutic regimen encompassed the continued administration of intravenous dexamethasone, supplemented by vitamin C and vitamin E (Table 3)."
+        },
+        {
+          "name": "ceftriaxone",
+          "quote": "Antibiotics (ceftriaxone) were given to address the increased neutrophilic counts."
+        },
+        {
+          "name": "intravenous cyclophosphamide",
+          "quote": "To address the advancing disease, intravenous cyclophosphamide was added."
+        }
+      ],
+      "icu_admission": "yes",
+      "outcome": "died",
+      "outcome_quote": "However, the patient left the medical facility against medical advice which resulted in an adverse outcome. Tragically, the patient passed away on the second day after he left the hospital.",
+      "sequelae": "UNVERIFIED (pulmonary injury ongoing at discharge from care)",
+      "notes": "Adolescent; suicidal vs accidental intent unclear - authors describe ingestion as accidental ('the accidental consumption of paraquat coincided with the influence of marijuana'). No quantitative lab values available in text (tables not rendered in source text)."
+    }
+  ]
+}

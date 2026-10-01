@@ -1,0 +1,80 @@
+{
+  "pmcid": "PMC13149246",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13149246-case1",
+      "age": "60 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 60-year-old woman was found unconscious on July 6, 2025 (Day 0) following intentional ingestion of approximately 300 mL (15 g) of avermectin in a suicide attempt.",
+      "agent": "avermectin",
+      "agent_quote": "following intentional ingestion of approximately 300 mL (15 g) of avermectin in a suicide attempt",
+      "route": "ingestion",
+      "circumstance": "Intentional ingestion in a suicide attempt; found by family about 2 hours after ingestion; no co-ingestion reported.",
+      "symptoms": [
+        {
+          "finding": "unconsciousness/coma",
+          "quote": "A 60-year-old woman was found unconscious on July 6, 2025 (Day 0)"
+        },
+        {
+          "finding": "anuria",
+          "quote": "Shortly after admission, she developed anuria (urine output <100 mL/24h) with progressive elevation of serum creatinine (Scr), peaking at 256 μmol/L."
+        },
+        {
+          "finding": "deep coma with anisocoria",
+          "quote": "Physical examination revealed deep coma with anisocoria (pupil sizes 1.5 and 2.5 mm)."
+        },
+        {
+          "finding": "shock/hypotension",
+          "quote": "vital signs were as follows: temperature 36.0 °C, pulse 84 beats/min, respiratory rate 18 breaths/min, and blood pressure 77/47 mmHg"
+        }
+      ],
+      "time_to_care": "Found by family members about 2 hours after ingestion and admitted to the intensive care unit",
+      "labs": [
+        {
+          "name": "serum creatinine (peak)",
+          "value": "256 μmol/L",
+          "quote": "she developed anuria (urine output <100 mL/24h) with progressive elevation of serum creatinine (Scr), peaking at 256 μmol/L."
+        },
+        {
+          "name": "thrombocytopenia, schistocytes, LDH",
+          "value": "anemia, severe thrombocytopenia, elevated schistocyte, and markedly increased lactate dehydrogenase (LDH)",
+          "quote": "Laboratory evaluation at admission revealed anemia, severe thrombocytopenia, elevated schistocyte, and markedly increased lactate dehydrogenase (LDH) (Table 1)."
+        },
+        {
+          "name": "terminal complement complex C5b-9",
+          "value": "markedly elevated",
+          "quote": "Complement testing demonstrated markedly elevated terminal complement complex (C5b-9) levels, indicating ongoing complement activation."
+        },
+        {
+          "name": "renal biopsy",
+          "value": "TMA-like lesions predominantly in glomeruli",
+          "quote": "Histopathology revealed TMA-like lesions predominantly in glomeruli, including capillary loop occlusion, ischemic alterations, and red blood cell stasis in the Bowman’s space."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage, intravenous fluid resuscitation, endotracheal intubation",
+          "quote": "She was discovered by family members about 2 hours after ingestion and admitted to the intensive care unit, where gastric lavage, intravenous fluid resuscitation, and endotracheal intubation were performed."
+        },
+        {
+          "name": "hemoperfusion and CRRT",
+          "quote": "Despite 4 days of hemoperfusion for toxin clearance and continuous renal replacement therapy (CRRT) for acute kidney injury (AKI), there was no improvement in consciousness or renal function."
+        },
+        {
+          "name": "eculizumab (complement inhibition)",
+          "quote": "The patient subsequently received complement inhibition therapy with eculizumab during the disease course."
+        }
+      ],
+      "icu_admission": "Yes (admitted to the intensive care unit on Day 0)",
+      "outcome": "Hematologic abnormalities resolved and renal function recovered with discontinuation of dialysis; renal function stable without relapse at follow-up on March 30, 2026",
+      "outcome_quote": "At follow-up on March 30, 2026, the patient’s renal function remained stable without evidence of relapse, supporting the possibility that short-term complement inhibition may be sufficient in toxin-triggered TMA, although longer-term observation is warranted.",
+      "sequelae": "None reported at follow-up; renal function stable without relapse",
+      "notes": "First reported case of TMA following avermectin poisoning; TTP and STEC-HUS excluded; ITGA2B variant of uncertain significance identified."
+    }
+  ]
+}

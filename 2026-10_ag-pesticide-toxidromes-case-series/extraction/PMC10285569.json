@@ -1,0 +1,45 @@
+{
+  "pmcid": "PMC10285569",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10285569_case_1",
+      "age": "22 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 22-year-old male patient of Indian descent, working as a farmer, consumed 500 ml of monocrotophos and an undisclosed quantity of ethanol around 8:30 PM on January 2, 2023.",
+      "agent": "Monocrotophos (organophosphate insecticide) with ethanol",
+      "agent_quote": "A 22-year-old male patient of Indian descent, working as a farmer, consumed 500 ml of monocrotophos and an undisclosed quantity of ethanol around 8:30 PM on January 2, 2023.",
+      "route": "oral ingestion",
+      "circumstance": "Suicide attempt (ingested monocrotophos and ethanol); text states the case involved a farmer who \"ingested monocrotophos and ethanol in a suicide attempt\".",
+      "symptoms": [
+        {"finding": "two episodes of vomiting", "quote": "He encountered two episodes of vomiting, characterized by the expulsion of watery fluid mixed with food particles."},
+        {"finding": "tachycardia, hypertension, fever, constricted unresponsive pupils, sluggish deep tendon reflexes, power 3/5 in all four limbs, generalized muscle twitches, weak head-holding", "quote": "The patient presented with a pulse rate of 140 beats per minute, a blood pressure reading of 180/90 mm Hg, a respiratory rate of 25 breaths per minute, and a high fever. ... The Glasgow Coma Scale score was 8 out of 15, and the patient's pupils were constricted and unresponsive in both eyes. Deep tendon reflexes were sluggish, with a power grade of 3/5 in all four limbs, but there was no sensory impairment. Generalized muscle twitches were observed. The patient exhibited weak head-holding"},
+        {"finding": "intermediate syndrome with prolonged weakness and respiratory paralysis requiring ventilation", "quote": "This report describes the case of a farmer who ingested monocrotophos and ethanol in a suicide attempt, leading to a prolonged stay in the hospital and invasive ventilation, along with complications including ventilator-associated pneumonia."}
+      ],
+      "time_to_care": "Initial medical attention at a private hospital; referred to the study institute's emergency department at 3:30 AM on January 3, 2023 (ingestion ~8:30 PM January 2, 2023)",
+      "labs": [
+        {"name": "hemoglobin", "value": "8.7 g/dL", "quote": "The hemoglobin level was found to be 8.7g/dL, as revealed by the test results."},
+        {"name": "serum AChE day 2", "value": "127.7 U/L (normal 4900-11900 U/L)", "quote": "However, the serum AChE levels on day 2 were significantly low, measuring 127.7 U/L, whereas the normal range is 4900-11900 U/L. On day 4, the levels increased to 251.8 U/L."},
+        {"name": "serum AChE day 4", "value": "251.8 U/L", "quote": "On day 4, the levels increased to 251.8 U/L."},
+        {"name": "ABG pH", "value": "7.288 (pCO2 41.9; mixed acidosis)", "quote": "The patient's ABG values showed a mixed acidosis with a blood pH of 7.288 and partial pressure of carbon dioxide (pCO2) of 41.9, alongside right middle-lobe pneumonia."},
+        {"name": "sputum culture", "value": "Acinetobacter and Pseudomonas species (Gram-negative bacilli)", "quote": "However, sputum samples collected on the morning of day two indicated the presence of Gram-negative bacilli, specifically Acinetobacter and Pseudomonas species."}
+      ],
+      "treatment": [
+        {"name": "gastric lavage", "quote": "Upon admission, the patient was admitted and underwent gastric lavage."},
+        {"name": "pralidoxime (four daily doses on day one and day two)", "quote": "Intravenous administration of pralidoxime was initiated, with four daily doses on both day one and day two."},
+        {"name": "atropine (total 9000 mg over 14 days)", "quote": "Notably, the patient required an exceptionally high dosage of atropine (9000 mg) over a period of 14 days (Figure 1)."},
+        {"name": "invasive mechanical ventilation", "quote": "Invasive mechanical ventilation was initiated in response to the abnormal ABG findings."},
+        {"name": "IV colistin and ceftriaxone (antibiotics per sensitivity testing)", "quote": "Four days after admission, the patient was administered antibiotics based on sensitivity testing, namely IV colistin and ceftriaxone, as well as atropine and pralidoxime."}
+      ],
+      "icu_admission": "Yes (invasive mechanical ventilation; explicit ICU wording UNVERIFIED)",
+      "outcome": "discharged against medical advice on February 5, 2023; alive at discharge",
+      "outcome_quote": "On February 5, 2023, the patient's family members made a request for discharge against medical advice, which was subsequently approved by the authorities.",
+      "sequelae": "Persistent inability to swallow requiring Ryle's tube feeding and reliance on external support when sitting at discharge",
+      "notes": "Sequelae quote: 'Despite these positive indicators, the patient still required Ryle's tube feeding due to his inability to swallow and remained reliant on external support when sitting.' Ventilator-associated pneumonia with Acinetobacter and Pseudomonas; improved limb movements from January until February 5, 2023."
+    }
+  ]
+}

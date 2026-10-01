@@ -1,0 +1,131 @@
+== ARTICLE TITLE ==
+Intravenous indoxacarb toxicity: A rare case of unusual exposure with clinical implications
+
+== ABSTRACT ==
+AbstractA 25-year-old male farmer presented to the emergency department with confusion, cyanosis, and low oxygen saturation (SpO₂) after an intentional intravenous injection of indoxacarb. Initial laboratory tests revealed severe methemoglobinemia (40.8 %), hypokalemia, hyponatremia, leukocytosis, and coagulation abnormalities. Despite supplemental oxygen, SpO₂ remained low, prompting Intensive Care Unit (ICU) admission. Methylene blue (2 mg/kg IV loading dose, followed by 1 mg/kg after one hour) was administered to reduce methemoglobin levels, which decreased to 2 % within six hours, leading to significant clinical improvement. By the second day, the patient’s symptoms resolved, and SpO₂ stabilized at 96 % on room air. Following stabilization, he was transferred to the toxicology ward in good condition. This case highlights clinical presentation, management, and rapid recovery in an instance of intravenous indoxacarb poisoning.Keywords: Indoxacarb toxicity, Intravenous poisoning, Methemoglobinemia, Pesticide exposure
+
+Keywords: Indoxacarb toxicity, Intravenous poisoning, Methemoglobinemia, Pesticide exposure
+
+Received 2024 Nov 8; Revised 2024 Dec 2; Accepted 2024 Dec 17; Collection date 2025 Jun.
+
+== Introduction ==
+
+Indoxacarb, a member of the oxadiazine class of insecticides, is primarily used for controlling lepidopteran pests and has shown effectiveness against pests resistant to pyrethroids. This compound acts as a voltage-dependent sodium channel blocker, disrupting nerve signal transmission and leading to paralysis and death in target organisms [1].
+
+This insecticide effectively combats a variety of pests, including those resistant to traditional insecticides like carbamates and organophosphorus compounds [2], [3]. The insect's nervous system is affected by this pesticide as it blocks sodium channels, results in malfunction, and insect death [1], [4]. The larvae's feeding activity is disrupted by insecticide, causing paralysis and their demise [5], [6].
+
+Due to the rare use of this pesticide in suicidal attempts, arguments persist regarding the impact on humans, clinical symptoms, and poisoning treatment in accidental or intentional exposure [4], [7], [8]. Poisoning can occur through ingestion, inhalation, or cutaneous and mucous membrane exposure [9]. Intravenous injection of indoxacarb is a rare route of poisoning. In this particular case, indoxacarb poisoning occurred intentionally through intravenous injection. Previous case reports indicated that indoxacarb poisoning may cause hypoxia [10], a decrease in oxygen saturation (SpO2), and respiratory distress [11], as well as seizure and methemoglobinemia [12], [13], [14]. Methemoglobinemia, a common consequence of indoxacarb toxicity, results in hypoxia and cyanosis in affected individuals [4], [8]. In the present case, apart from methemoglobinemia, electrolyte imbalances, coagulation disorders, and hemoptysis were also observed.
+
+As far as we know, this is the first case reported poisoning with intravenous injection of indoxacarb.
+
+== Case presentation ==
+
+== Patient information ==
+
+A 25-year-old male farmer presented to the hospital after self-injecting indoxacarb into the antecubital vein of his right upper limb. He was transferred to the hospital by Emergency Medical Services and admitted to the emergency department.
+
+The patient reported no previous exposure to other industrial toxins, pesticides, or medications. He also had no history of chronic medical conditions such as liver or kidney disease that could influence toxin metabolism. However, he had a background of untreated depression, which likely played a role in the intentional nature of the poisoning.
+
+== Physical examination findings ==
+
+The patient was confused and had cyanosis, with Glasgow Coma Scale score of 10, regular-sized pupils, reactive to light. Because of loss of consciousness, examination of cranial nerves wasn’t possible to be performed. He also had SpO2 level of 86 %, blood pressure of 110/60 mmHg, pulse rate of 109 beats per minute (bpm), respiratory rate of 18 breaths per minute, and temperature of 37°C.
+
+== Supportive and therapeutic care ==
+
+Supplemental oxygen therapy with a face mask at a flow rate of 4–6 liters per minute was administered to achieve a SpO2 level above 94–98 %. Cardiac monitoring with the 12-lead electrocardiogram (ECG) was done and revealed no abnormal findings. The patient was administered 1 liter of normal saline upon admission followed by 3 L in the next 24 h. laboratory tests including complete blood cell (CBC) counts, kidney function assessment, liver function evaluation, serum electrolyte levels, and venous blood gas (VBG) analysis were done.
+
+Due to the observation of chocolate-brown blood during sampling and the presence of cyanosis, methemoglobinemia was suspected. As a result of the observations and patient’s loss of consciousness, the patient was promptly transferred to the Intensive Care Unit (ICU) for further treatment and supportive care. Co-oximetry revealed a methemoglobin level of 40.8 %, prompting the administration of methylene blue at a loading dose of 2 mg/kg IV, followed by an additional dose of 1 mg/kg one hour later. Methylene blue works by activating the NADPH methemoglobin reductase system, helping to reduce methemoglobin back to functional hemoglobin, thereby improving oxygen delivery.
+
+Two hours after treatment, the patient regained consciousness and provided details of the poisoning, disclosing that he had injected approximately 5 mL of a 15 % indoxacarb solution intravenously. After being conscious, the patient reported right-sided chest pain and mild hemoptysis, along with mild dyspnea. Besides untreated depression, he had no other known medical or drug history, with an SpO₂ level above 93 % without supplemental oxygen. The patient did not complain of hemoptysis after 24 hours.
+
+== Diagnostic assessment ==
+
+The patient's laboratory findings are reported in Table 1. Liver function tests were normal, and the patient had hypokalemia and hyponatremia on admission. Elevated WBC levels, as observed with a count of 23.1 million/mm³ compared to the normal range, indicate a significant leukocytosis. The patient's Creatine Phosphokinase (CPK) was within the normal range, but Lactic Dehydrogenase (LDH) was slightly elevated and was in the normal range after 24 hr. ECG results did not indicate any unusual findings. Concerning the patient's abnormal coagulation test, supportive care and hydration were administered, without needing vitamin K or specific medications.
+
+After careful history taking, although abnormalities in coagulation parameters (e.g., elevated PT and PTT) were observed, these changes were consistent with the effects of indoxacarb toxicity and were not suggestive of anticoagulant rodenticide poisoning.
+
+== Follow-up and outcome ==
+
+After 2 days of ICU stay, the patient was stable, and vital signs and lab data were within normal limits.
+
+After treatment, a detailed neurological assessment revealed normal cranial nerve function, with no focal neurological deficits or cognitive impairments and GCS was 15 of 15.
+
+He was transferred to the general toxicology ward and psychiatry consultation was requested for depression.
+
+== Discussion ==
+
+Indoxacarb insecticide acts by blocking insects' voltage-dependent sodium channels within the nervous system, and results in paralysis and death [15]. Previous case reports have indicated that indoxacarb poisoning via ingestion or oral routes can result in symptoms like dyspnea, hypoxia, methemoglobinemia, and cyanosis [8], [12].
+
+The patient in our case report was intentionally poisoned with indoxacarb through IV injection. Symptoms observed included dyspnea, hypoxia, methemoglobinemia, coughing, and mild hemoptysis. Laboratory investigations revealed abnormalities such as coagulation disorder, leukocytosis, hyponatremia, and hypokalemia.
+
+Methemoglobinemia, a condition characterized by the oxidation of hemoglobin to methemoglobin, leads to impaired oxygen delivery and cyanosis. While genetically linked methemoglobinemia is rare, acquired methemoglobinemia due to exposure to xenobiotics, such as certain medications and chemicals, is relatively more common in humans [16].
+
+Indoxacarb undergoes extensive hepatic metabolism, producing biologically active metabolites such as N-decarbomethoxylated indoxacarb. These metabolites can oxidize hemoglobin (Fe2+) to methemoglobin (Fe3+), impairing the oxygen-carrying capacity of red blood cells. This oxidative process is a key mechanism underlying the development of methemoglobinemia in indoxacarb poisoning [17].
+
+Intravenous administration of indoxacarb can lead to electrolyte and coagulation abnormalities. Hyponatremia and hypokalemia observed in this case are likely linked to indoxacarb's inhibition of voltage-dependent sodium channels, which disrupt ionic gradients essential for maintaining cellular homeostasis. This ionic imbalance may result from the impaired transport of sodium and potassium ions across cell membranes, leading to reduced extracellular concentrations of these electrolytes [18].
+
+Indoxacarb metabolites generate reactive oxygen species (ROS), inducing oxidative stress that directly impacts endothelial integrity and platelet function. Oxidative damage to endothelial cells may impair vascular integrity, while the altered platelet membrane dynamics disrupt normal aggregation processes [19]. Typically, intoxication by anticoagulant rodenticides leads to significant prolongation of PT and INR without resolution after hydration alone [20]. In this case, the normalization of clotting parameters without the use of vitamin K further supports the diagnosis of indoxacarb-induced coagulation disturbances rather than rodenticide toxicity.
+
+These pathophysiological mechanisms emphasize the need for vigilant monitoring and tailored interventions, including electrolyte correction and management of coagulation abnormalities, to optimize outcomes in patients with intravenous indoxacarb exposure.
+
+In contrast, oral ingestion of indoxacarb may not cause the same degree of electrolyte disturbances, as the compound undergoes extensive metabolism by the liver into biologically active metabolites, potentially altering its systemic impact on electrolyte balance. The more pronounced electrolyte abnormalities observed with IV administration underscore the importance of considering the route of exposure when evaluating the toxicity and clinical manifestations of indoxacarb poisoning [21].
+
+A key feature of methemoglobinemia is the chocolate-brown color of the blood, as well as a SpO2 level of approximately 85 % and a methemoglobin level of approximately 15 % in patients with cyanosis [8]. Levels above 70 % are very lethal and determined with co-oximetry [17]. Previous case reports suggests that methylene blue and vitamin C are viable options for managing severe cases of methemoglobinemia and cyanosis [4].
+
+As a result, the symptoms of hypoxia and cyanosis improve rapidly. Clinical studies have demonstrated that administering methylene blue can lead to significant increases in oxygen saturation levels and resolution of cyanosis within hours, making it crucial for treating severe cases of methemoglobinemia, including those caused by toxic exposures like indoxacarb poisoning [16].
+
+High-dose ascorbic acid (vitamin C) has been shown to aid in reducing methemoglobin levels, particularly in patients with contraindications to methylene blue, such as those with G6PD deficiency [12]. Hyperbaric oxygen therapy, while less commonly used, can be beneficial in severe cases by enhancing oxygen delivery despite the impaired hemoglobin function. Including these alternatives broadens the therapeutic perspective and highlights the need for tailored treatment strategies based on individual patient conditions [22].
+
+Methylene blue was utilized in the patient's treatment, and after approximately 2 hours, the patient's cyanosis disappeared, and SpO2 levels exceeded 92 % without the administration of oxygen. Intravenous indoxacarb can result in leukocytosis with 90 % neutrophils and hypokalemia. Furthermore, in this particular scenario, hemoptysis was observed, a possible adverse event following IV injection of indoxacarb, possibly linked to coagulation abnormalities. This hemoptysis was mild and gradually improved and decreased.
+
+== Conclusion ==
+
+Intravenous injections of indoxacarb can lead to severe complications, including coagulation disorders, electrolyte imbalances, and methemoglobinemia, with symptoms such as hemoptysis and chest pain. Effective management requires oxygen therapy, fluid replacement, correction of electrolyte imbalances, and close monitoring in an ICU setting.
+
+Future studies should focus on understanding the long-term effects of indoxacarb poisoning, the mechanisms underlying coagulation abnormalities, and the development of standardized treatment protocols. However, it is important to note that current research on indoxacarb poisoning is limited to case reports, and therefore, large-scale toxicology studies are necessary to confirm these findings and provide more robust evidence.
+
+== Ethics approval ==
+
+This study received ethical approval from the relevant committee under code iR.JMU.REC.1403.054.
+
+== Funding ==
+
+The authors declare that no funds, grants, or other support were received.
+
+== CRediT authorship contribution statement ==
+
+Hamidreza Ghasemirad: Writing – review & editing, Supervision, Methodology, Data curation, Conceptualization. Amir Amirkhani: Writing – review & editing, Conceptualization. Hamidreza Farhadi Rad: Writing – original draft, Methodology. Habibeh Mashayekhi-sardoo: Writing – review & editing. Maryam Shahrokhi: Writing – review & editing, Conceptualization.
+
+== Declaration of Competing Interest ==
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+== Acknowledgments ==
+
+The authors express their gratitude to Imam Khomeini Hospital and the student research committee of Jiroft University of Medical Sciences. Additionally, we would like to thank ChatGPT and AI tools for their assistance in refining the grammatical aspects of this manuscript. This version acknowledges both the institutions, and the AI tools used for editing, enhancing the professionalism of your article.
+
+== Author contributions ==
+
+Data collection was performed by [Hamidreza Farhadi Rad]. The first draft of the manuscript was written by [Hamidreza Farhadi Rad] and [Habibeh Mashayekhi-sardoo]. [Maryam Shahrokhi] and [Amir Amirkhani] contributed to the editing and conceptualization. [Hamidreza Ghasemirad] served as the corresponding author and was involved in manuscript preparation and oversight. All authors commented on previous versions of the manuscript. All authors read and approved the final manuscript.
+
+== Consent to participate ==
+
+Informed consent was obtained from the patient for participation in this study and for the publication of this case report. This modification clearly states that consent was obtained, ensuring ethical compliance in your research.
+
+== Consent for publication ==
+
+All authors have approved this manuscript for publication.
+
+Handling Editor: Prof. L.H. Lash
+
+== Data availability ==
+
+Data will be made available on request.
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Data will be made available on request.

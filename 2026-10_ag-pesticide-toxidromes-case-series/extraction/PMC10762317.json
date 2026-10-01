@@ -1,0 +1,44 @@
+{
+  "pmcid": "PMC10762317",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10762317_case_1",
+      "age": "15 months",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "Following a detailed history, the mother reported that she and her work colleagues visited the patient at the primary hospital on their way home from work. They all worked with agricultural pesticides and had significant contact with the patient during the afternoon’s visiting hours.",
+      "agent": "Methamidophos (detected in blood and urine); likely a byproduct of acephate exposure",
+      "agent_quote": "The Sciex X500R was used and methamidophos was detected in both blood and urine samples at a peak intensity of 1.5e5 (blood) and 2.0e5 (urine), which is considered significant.",
+      "route": "dermal exposure (most likely from workers' clothes; no oral exposure noted) — \"With no oral exposure being noted, the most likely route of exposure was dermal. The source is likely to be the workers’ clothes.\"",
+      "circumstance": "Secondary dermal exposure: agricultural-pesticide workers (mother and work colleagues) visited the hospitalized child on their way home from work; symptoms developed 4 h after visiting hours",
+      "symptoms": [
+        {"finding": "acute deterioration with worsening respiratory distress, marked bronchial secretions, hypersalivation, altered level of consciousness", "quote": "At the primary hospital she deteriorated acutely with worsening respiratory distress, marked bronchial secretions and hypersalivation with an altered level of consciousness."},
+        {"finding": "cholinergic toxidrome: GCS 8/15, pinpoint pupils, oral secretions, bilateral crepitations", "quote": "On arrival at the tertiary hospital she was assessed as presenting with features suggestive of a cholinergic toxidrome. ... Her Glasgow coma scale (GCS) was 8/15, pinpoint pupils and oral secretions noted with bilateral crepitations on chest auscultation."},
+        {"finding": "second deterioration: copious bronchial secretions, hypersalivation, lethargy but arousable, constricted pupils, clinical seizure", "quote": "Copious bronchial secretions and hypersalivation were noted with marked transmitted sounds and crepitations. The patient was lethargic but arousable, and pupils were constricted. ... but had a clinical seizure and required one dose of intramuscular lorazepam."}
+      ],
+      "time_to_care": "Symptoms developed 4 h after the pesticide workers' visit (\"Four hours after visiting hours, the patient deteriorated.\"); she was already in hospital for an unrelated illness",
+      "labs": [
+        {"name": "cholinesterase (initial)", "value": "<1000 U/L", "quote": "Cholinesterase concentrations were < 1000 units per litre (U/L), confirming the likelihood of organophosphate toxicity."},
+        {"name": "cholinesterase (5 days later)", "value": "1140 U/L", "quote": "Repeat cholinesterase concentrations were 1140 U/L, five days after the initial cholinesterase concentrations and a day after discharge from PICU."},
+        {"name": "cholinesterase (PICU re-admission)", "value": "<1000 U/L", "quote": "She was re-admitted to PICU and an atropine infusion was started via a right tibial intra-osseous line. Repeat cholinesterase concentrations were < 1000 U/L."},
+        {"name": "cholinesterase (3-week follow-up)", "value": "5540 U/L", "quote": "During her routine follow-up three weeks later at her local hospital, she was clinically well, and her repeat cholinesterase concentration was 5540 U/L."},
+        {"name": "toxicology screen", "value": "methamidophos detected in blood (peak intensity 1.5e5) and urine (2.0e5)", "quote": "The Sciex X500R was used and methamidophos was detected in both blood and urine samples at a peak intensity of 1.5e5 (blood) and 2.0e5 (urine), which is considered significant."}
+      ],
+      "treatment": [
+        {"name": "atropine infusion 0.05 mg/kg/hr (initial PICU admission)", "quote": "An atropine infusion was started at 0.05 mg/kg/hr with no initial bolus given."},
+        {"name": "intramuscular atropine 0.2 mg x 3 doses, 15 min apart", "quote": "Whilst awaiting PICU, the patient received three doses of intra-muscular atropine 0.2 mg, 15 min apart."},
+        {"name": "intramuscular lorazepam (one dose) for seizure", "quote": "but had a clinical seizure and required one dose of intramuscular lorazepam."},
+        {"name": "atropine re-started at 0.05 mg/kg/hr via intra-osseous line; CPAP and antibiotics during earlier admissions", "quote": "Atropine was re-started at 0.05 mg/kg/hr, a blood and urine sample were taken for a toxicology screen"}
+      ],
+      "icu_admission": "Yes (\"The patient was admitted to Paediatric Intensive Care Unit (PICU) with suspected organophosphate toxicity.\")",
+      "outcome": "survived; uneventful recovery, weaned off atropine, transferred to general ward, clinically well at 3-week follow-up",
+      "outcome_quote": "Atropine was weaned as secretions and bronchorrhea allowed and stopped on day two of PICU re-admission. She made an uneventful recovery and was transferred to the general paediatric ward on day three of PICU re-admission. During her routine follow-up three weeks later at her local hospital, she was clinically well, and her repeat cholinesterase concentration was 5540 U/L.",
+      "sequelae": "None reported at 3-week follow-up",
+      "notes": "Prolonged cholinergic toxidrome lasting 10 days; intermediate syndrome was not considered as the patient did not present with typical clinical features."
+    }
+  ]
+}

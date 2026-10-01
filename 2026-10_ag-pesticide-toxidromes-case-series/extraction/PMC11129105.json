@@ -1,0 +1,99 @@
+{
+  "pmcid": "PMC11129105",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11129105_case1",
+      "age": "38-year-old",
+      "sex": "male",
+      "exposure_context": "occupational/agricultural",
+      "exposure_context_quote": "A 38-year-old male, identified as a farmer, presented to the emergency department following a suicide attempt by ingestion of an unidentified toxic substance.",
+      "agent": "indoxacarb (non-organophosphorus oxadiazine insecticide); initially unidentified substance, later identified by family",
+      "agent_quote": "Upon further inquiry with the patient's family, they provided information regarding the ingested substance, which was identified as indoxacarb, a non-organophosphorus oxadiazine insecticide.",
+      "route": "ingestion",
+      "circumstance": "suicide attempt by ingestion; first treated at a nearby primary healthcare facility before ED presentation",
+      "symptoms": [
+        {
+          "finding": "cyanosis of tongue; hypoventilation; GCS 14/15; SpO2 83% on 4 L oxygen",
+          "quote": "his oxygen saturation was 83% while receiving four liters of supplemental oxygen."
+        },
+        {
+          "finding": "tongue cyanosis",
+          "quote": "the patient displayed signs of hypoventilation and exhibited evidence of tongue cyanosis, as depicted in Figure 1."
+        },
+        {
+          "finding": "chocolate brown appearance of blood on arterial blood gas analysis",
+          "quote": "Notably, arterial blood gas analysis unveiled a distinct chocolate brown appearance of the patient's blood, as illustrated in Figure 2, indicative of possible methemoglobinemia."
+        }
+      ],
+      "time_to_care": "UNVERIFIED (presented after prior treatment at a nearby primary healthcare facility; no interval given)",
+      "labs": [
+        {
+          "name": "serum cholinesterase",
+          "value": "0.76 IU/L (normal range 0.6-1.5 IU/L)",
+          "quote": "serum cholinesterase level was 0.76 IU/L (within the normal range of 0.6-1.5 IU/L), indicative of nominal enzymatic activity."
+        },
+        {
+          "name": "alanine aminotransferase",
+          "value": "80 IU/L (mildly elevated)",
+          "quote": "Liver function tests revealed mildly elevated levels of alanine aminotransferase (80 IU/L) and aspartate aminotransferase (106 IU/L)"
+        },
+        {
+          "name": "aspartate aminotransferase",
+          "value": "106 IU/L (mildly elevated)",
+          "quote": "Liver function tests revealed mildly elevated levels of alanine aminotransferase (80 IU/L) and aspartate aminotransferase (106 IU/L)"
+        },
+        {
+          "name": "total leukocyte count",
+          "value": "9600 (within normal limits)",
+          "quote": "The total leukocyte count measured 9600, within normal limits, while serum creatinine remained within the reference range."
+        },
+        {
+          "name": "serum creatinine",
+          "value": "within the reference range (numeric value UNVERIFIED)",
+          "quote": "The total leukocyte count measured 9600, within normal limits, while serum creatinine remained within the reference range."
+        },
+        {
+          "name": "urinalysis specific gravity / pH",
+          "value": "1.016 / 5.8",
+          "quote": "Urinalysis demonstrated a specific gravity of 1.016 with a pH of 5.8, devoid of pus or red blood cells."
+        },
+        {
+          "name": "serum methemoglobin level",
+          "value": "UNVERIFIED (test unavailable at facility: 'due to the unavailability of serum methemoglobin testing at our facility, definitive confirmation of the diagnosis was impossible')",
+          "quote": "However, due to the unavailability of serum methemoglobin testing at our facility, definitive confirmation of the diagnosis was impossible through conventional means."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "atropine and gastric lavage (at primary healthcare facility)",
+          "quote": "He had previously received treatment at a nearby primary healthcare facility, where he underwent atropine administration and gastric lavage."
+        },
+        {
+          "name": "oxygen (non-rebreather mask)",
+          "quote": "Following oxygen analysis using a non-rebreather mask"
+        },
+        {
+          "name": "intravenous methylene blue 1 mg/kg in 100 cc normal saline, then 60 mg twice daily",
+          "quote": "intravenous methylene blue (1 mg/kg) was administered in 100 cc of normal saline ... Subsequently, the patient received intravenous methylene blue (60 mg) twice daily"
+        },
+        {
+          "name": "intravenous vitamin C 1 gram, then 500 mg twice daily",
+          "quote": "alongside intravenous vitamin C (1 gram) and dextrose-containing fluids. Subsequently, the patient received ... vitamin C (500 mg) intravenously twice daily."
+        },
+        {
+          "name": "dextrose-containing fluids",
+          "quote": "alongside intravenous vitamin C (1 gram) and dextrose-containing fluids."
+        }
+      ],
+      "icu_admission": "UNVERIFIED (not stated)",
+      "outcome": "gradual improvement; SpO2 92-95% day 2, 95-97% after tapering oxygen, 98% on 5 L/min by day 5",
+      "outcome_quote": "By day five, the patient demonstrated remarkable gas exchange while on an oxygen face mask, with oxygen saturation reaching 98% at five liters per minute.",
+      "sequelae": "none reported in text",
+      "notes": "Methemoglobinemia not laboratory-confirmed (MetHb assay unavailable); diagnosis clinical. Hospitalization duration beyond day 5 and formal outcome (discharge status) UNVERIFIED."
+    }
+  ]
+}

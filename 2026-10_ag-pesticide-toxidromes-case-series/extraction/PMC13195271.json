@@ -1,0 +1,177 @@
+{
+  "pmcid": "PMC13195271",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13195271-case1",
+      "age": "4 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "The youngest sibling was exposed to paraquat following scalp application after complete shaving of the hair as part of a home remedy for head lice.",
+      "agent": "paraquat ('Gamaline 20', paraquat-containing herbicide)",
+      "agent_quote": "The substance, obtained from an agricultural supply outlet and dispensed into a tied nylon sachet, was identified by the caregivers as “Gamaline 20,” a paraquat-containing herbicide.",
+      "route": "dermal (scalp application on freshly shaved, abraded scalp)",
+      "circumstance": "Home remedy for head lice: chemical applied directly onto freshly shaved scalp; not washed off; no immediate medical care sought before presentation.",
+      "symptoms": [
+        {
+          "finding": "sudden severe respiratory distress with hypoxemia",
+          "quote": "Approximately 36 h later, the child developed sudden onset severe respiratory distress, and was brought to the emergency department. On arrival, she was conscious but in marked respiratory distress with hypoxemia."
+        },
+        {
+          "finding": "scalp abrasions, excoriations and ulcerative lesions",
+          "quote": "Physical examination revealed multiple scalp abrasions, excoriations and ulcerative lesions."
+        },
+        {
+          "finding": "cardiorespiratory collapse and cardiac arrest",
+          "quote": "Her condition deteriorated rapidly within minutes, progressing to cardiorespiratory collapse."
+        }
+      ],
+      "time_to_care": "Approximately 36 h after exposure",
+      "labs": [],
+      "treatment": [
+        {
+          "name": "immediate resuscitation, airway support and advanced life support",
+          "quote": "Despite immediate resuscitative efforts, including airway support and advanced life support measures, she suffered cardiac arrest and died shortly after presentation."
+        }
+      ],
+      "icu_admission": "No (died shortly after presentation; 'Laboratory investigations were not performed due to the rapid progression.')",
+      "outcome": "Died shortly after presentation",
+      "outcome_quote": "Despite immediate resuscitative efforts, including airway support and advanced life support measures, she suffered cardiac arrest and died shortly after presentation.",
+      "sequelae": "Not applicable (died)",
+      "notes": "Youngest sibling with more extensive scalp injury; laboratory investigations not performed due to rapid progression."
+    },
+    {
+      "case_id": "PMC13195271-case2",
+      "age": "6 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "The second sibling presented at the same time with mild respiratory symptoms and initially stable vital signs.",
+      "agent": "paraquat ('Gamaline 20', paraquat-containing herbicide)",
+      "agent_quote": "The substance, obtained from an agricultural supply outlet and dispensed into a tied nylon sachet, was identified by the caregivers as “Gamaline 20,” a paraquat-containing herbicide.",
+      "route": "dermal (scalp application on shaved, abraded scalp)",
+      "circumstance": "Same exposure event as siblings: paraquat-containing herbicide applied to freshly shaved scalp as home remedy for head lice.",
+      "symptoms": [
+        {
+          "finding": "mild cough, throat irritation, early respiratory discomfort",
+          "quote": "She was conscious and oriented at presentation, with complaints of mild cough, throat irritation, and early respiratory discomfort."
+        },
+        {
+          "finding": "oliguria with rising serum creatinine (acute kidney injury)",
+          "quote": "Within the first 24 h of hospitalization, she developed oliguria with rising serum creatinine, consistent with acute kidney injury."
+        },
+        {
+          "finding": "worsening tachypnoea and declining oxygen saturation",
+          "quote": "This was followed by worsening tachypnoea and declining oxygen saturation, necessitating admission to the intensive care unit (ICU)."
+        },
+        {
+          "finding": "scalp abrasions, excoriations, shallow ulcerative lesions",
+          "quote": "Scalp examination showed complete hair shaving with multiple superficial abrasions, excoriated areas, and shallow ulcerative lesions, some with mild serous discharge"
+        }
+      ],
+      "time_to_care": "Approximately 36 h after exposure (presented at the same time as siblings)",
+      "labs": [
+        {
+          "name": "serum creatinine (day 1)",
+          "value": "290 µmol/L (reference 35–90)",
+          "quote": "For the 6-year-old, admission values showed markedly elevated serum creatinine (290 µmol/L, (reference range 35–90 µmol/L)) and urea (11.6 mmol/L (reference range 2.5–6.5 mmol/L)) with mild electrolyte imbalance and metabolic acidosis."
+        },
+        {
+          "name": "urea (day 1)",
+          "value": "11.6 mmol/L (reference 2.5–6.5)",
+          "quote": "For the 6-year-old, admission values showed markedly elevated serum creatinine (290 µmol/L, (reference range 35–90 µmol/L)) and urea (11.6 mmol/L (reference range 2.5–6.5 mmol/L)) with mild electrolyte imbalance and metabolic acidosis."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "haemodialysis (two sessions, days 3 and 6)",
+          "quote": "Each child underwent two sessions of haemodialysis (on days 3 and 6 of admission), which resulted in transient biochemical improvement"
+        },
+        {
+          "name": "corticosteroids (intravenous hydrocortisone)",
+          "quote": "Systemic corticosteroid therapy was instituted using intravenous hydrocortisone, in the absence of methylprednisolone, with the aim of attenuating pulmonary inflammation and limiting progression to fibrosis."
+        },
+        {
+          "name": "oxygen therapy and ventilatory support",
+          "quote": "Both patients required escalating oxygen therapy due to worsening hypoxemia and progressive respiratory compromise."
+        },
+        {
+          "name": "maintenance intravenous fluids and electrolyte correction",
+          "quote": "Maintenance intravenous fluids were administered using 5% dextrose-based solutions, with careful titration to avoid fluid overload while maintaining adequate perfusion. Electrolyte imbalances were corrected as required."
+        }
+      ],
+      "icu_admission": "Yes (admitted to the intensive care unit)",
+      "outcome": "Died on the ninth day of hospitalization from progressive respiratory failure",
+      "outcome_quote": "The 6-year-old child died on the ninth day of admission from progressive respiratory failure",
+      "sequelae": "Not applicable (died)",
+      "notes": "Serial labs in Table 1; baseline oxygen saturation 88–92% on room air."
+    },
+    {
+      "case_id": "PMC13195271-case3",
+      "age": "8 years",
+      "sex": "female",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "The eldest sibling also presented at the same time after paraquat exposure via scalp application.",
+      "agent": "paraquat ('Gamaline 20', paraquat-containing herbicide)",
+      "agent_quote": "The substance, obtained from an agricultural supply outlet and dispensed into a tied nylon sachet, was identified by the caregivers as “Gamaline 20,” a paraquat-containing herbicide.",
+      "route": "dermal (scalp application on shaved, abraded scalp)",
+      "circumstance": "Same exposure event as siblings: paraquat-containing herbicide applied after scalp shaving as home remedy for head lice.",
+      "symptoms": [
+        {
+          "finding": "mild respiratory symptoms",
+          "quote": "At admission, she was fully conscious and initially appeared clinically stable, although she reported mild respiratory symptoms similar to her siblings."
+        },
+        {
+          "finding": "acute kidney injury with rising creatinine and reduced urine output",
+          "quote": "Over the subsequent days, she developed acute kidney injury, evidenced by rising serum creatinine levels and reduced urine output, necessitating admission to the ICU and initiation of haemodialysis."
+        },
+        {
+          "finding": "progressive hypoxemia and respiratory failure",
+          "quote": "Her respiratory status progressively worsened, with increasing oxygen requirements and persistent hypoxemia."
+        },
+        {
+          "finding": "multi-organ failure",
+          "quote": "She subsequently developed multi-organ failure dominated by severe respiratory compromise"
+        },
+        {
+          "finding": "scalp excoriations, abrasions, ulcerated areas",
+          "quote": "Examination of the scalp revealed recent shaving with widespread excoriations, superficial abrasions, and small ulcerated areas"
+        }
+      ],
+      "time_to_care": "Approximately 36 h after exposure (presented at the same time as siblings)",
+      "labs": [
+        {
+          "name": "serum creatinine (day 1)",
+          "value": "325 µmol/L (reference 35–90)",
+          "quote": "Similarly, the 8-year-old had elevated serum creatinine (325 µmol/L) and urea (12.5 mmol/L), with comparable electrolyte findings (Table 1, Table 2)."
+        },
+        {
+          "name": "urea (day 1)",
+          "value": "12.5 mmol/L (reference 2.5–6.5)",
+          "quote": "Similarly, the 8-year-old had elevated serum creatinine (325 µmol/L) and urea (12.5 mmol/L), with comparable electrolyte findings (Table 1, Table 2)."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "haemodialysis (two sessions, days 3 and 6)",
+          "quote": "Each child underwent two sessions of haemodialysis (on days 3 and 6 of admission), which resulted in transient biochemical improvement"
+        },
+        {
+          "name": "corticosteroids and ventilatory support",
+          "quote": "Despite aggressive supportive therapy, including corticosteroids and ventilatory support, her condition continued to deteriorate (Table 1, Table 2; Fig. 1, Fig. 2)."
+        },
+        {
+          "name": "oxygen supplementation and supportive care",
+          "quote": "the two older siblings were commenced on aggressive supportive therapy, including close monitoring of vital parameters, cautious oxygen supplementation to avoid risk of oxygen-enhanced oxidative injury, and correction of fluid and electrolyte abnormalities."
+        }
+      ],
+      "icu_admission": "Yes (necessitating admission to the ICU)",
+      "outcome": "Died on the tenth day of hospitalization following multi-organ failure",
+      "outcome_quote": "She subsequently developed multi-organ failure dominated by severe respiratory compromise and succumbed to the effects of paraquat toxicity on the tenth day of hospitalization.",
+      "sequelae": "Not applicable (died)",
+      "notes": "Serial labs in Table 2; diagnosis supported by exposure history and container identification; no quantitative paraquat measurements available."
+    }
+  ]
+}

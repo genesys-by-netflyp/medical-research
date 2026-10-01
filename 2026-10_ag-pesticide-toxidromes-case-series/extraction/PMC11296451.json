@@ -1,0 +1,90 @@
+{
+  "pmcid": "PMC11296451",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC11296451_case1",
+      "age": "65-year-old",
+      "sex": "male",
+      "exposure_context": "occupational/agricultural",
+      "exposure_context_quote": "Five days prior to symptom onset, he had been applying a 1- to 2-thousand-fold dilution of imidacloprid pesticide to fruit trees. Accidentally, the pesticide entered his eye during application",
+      "agent": "imidacloprid pesticide (1- to 2-thousand-fold dilution), applied to fruit trees (NOTE: the Discussion inconsistently calls the agent 'pyraclostrobin')",
+      "agent_quote": "he had been applying a 1- to 2-thousand-fold dilution of imidacloprid pesticide to fruit trees",
+      "route": "ocular (direct eye contact)",
+      "circumstance": "accidental eye contact while spraying pesticide on fruit trees; did not seek care at that time; treated at local clinic without improvement, then admitted",
+      "symptoms": [
+        {
+          "finding": "immediate burning and discomfort in the eye",
+          "quote": "When the pesticide spray inadvertently made contact with the patient’s eyes, they were seared with a burning sensation and discomfort."
+        },
+        {
+          "finding": "diplopia in the right eye and difficulty opening the right eye (ptosis), from day 2 post-exposure",
+          "quote": "Subsequent to this incident, on the second day, the individual began to experience diplopia in the right eye and found it arduous to elevate his eyelids"
+        },
+        {
+          "finding": "right eye upward and rightward gaze restriction, conjunctival congestion, 3 mm pupil with diminished light reflexes",
+          "quote": "Notably, upward and rightward gazes were restricted in the right eye, accompanied by conjunctival congestion, a clear cornea, a round pupil measuring approximately 3 mm, diminished direct and consensual light reflexes"
+        },
+        {
+          "finding": "vitreal opacities on B-mode ultrasonography",
+          "quote": "B-mode ultrasonography of both eyes indicated vitreous opacities, with no other remarkable findings (Fig. 1)."
+        }
+      ],
+      "time_to_care": "symptoms persisted 4 days before admission; treated first at a local clinic without improvement (no interval given)",
+      "labs": [
+        {
+          "name": "complete blood count, liver and kidney function tests, chest CT, head CT, ECG",
+          "value": "no obvious abnormalities",
+          "quote": "On the day of admission, routine examinations such as chest computed tomography (CT), head CT, electrocardiogram, complete blood count, and liver and kidney function tests were conducted and no obvious abnormalities were found."
+        },
+        {
+          "name": "visual acuity",
+          "value": "1.0 in each eye",
+          "quote": "Ophthalmological evaluation revealed visual acuities of 1.0 in each eye."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "intravenous dexamethasone (5 mg→10 mg→20 mg→5 mg daily escalation/de-escalation)",
+          "quote": "dexamethasone 5 mg was administered intravenously once daily to reduce inflammatory response in the eye"
+        },
+        {
+          "name": "pantoprazole enteric-coated tablets 40 mg orally once daily",
+          "quote": "pantoprazole enteric-coated tablets 40 mg were given orally once daily to protect the stomach"
+        },
+        {
+          "name": "Xuesaitong 400 mg IV once daily",
+          "quote": "Xuesaitong 400 mg was administered intravenously once daily to improve blood supply to the eye and promote metabolism of toxic substances"
+        },
+        {
+          "name": "vitamin C 2 g IV once daily",
+          "quote": "vitamin C 2 g was injected intravenously once daily to nourish nerves"
+        },
+        {
+          "name": "tobramycin-dexamethasone eye drops (local), continued at home after discharge",
+          "quote": "tobramycin-dexamethasone eye drops were used locally to anti-inflammatory"
+        },
+        {
+          "name": "repeated saline flushing of conjunctival sac",
+          "quote": "the conjunctival sac was flushed repeatedly with saline"
+        },
+        {
+          "name": "oral cobamamide 0.5 mg (3 times/d)",
+          "quote": "oral cobamamide 0.5 mg (3 times/d)"
+        },
+        {
+          "name": "vitamin B1 0.1 g intramuscularly (twice/day)",
+          "quote": "vitamin B1 0.1 g injected intramuscularly (twice/day) to nourish nerves"
+        }
+      ],
+      "icu_admission": "no (ordinary hospitalization, ophthalmology)",
+      "outcome": "improved (diplopia resolved and ptosis significantly improved); discharged day 7; at day-13 follow-up eyelid aperture equal to left eye",
+      "outcome_quote": "On the fifth day, the patient reported no diplopia and significant improvement in ptosis ... and the patient was discharged on the seventh day with instructions to continue using tobramycin-dexamethasone eye drops at home.",
+      "sequelae": "none reported; at follow-up the size of the right eyelid aperture was the same as that of the left eye",
+      "notes": "First reported case of oculomotor nerve palsy from this insecticide. Important inconsistency: title/abstract/case report name imidacloprid, but the entire Discussion section uses 'pyraclostrobin'. Article states acute conjunctivitis followed by a latent period before ptosis/diplopia."
+    }
+  ]
+}

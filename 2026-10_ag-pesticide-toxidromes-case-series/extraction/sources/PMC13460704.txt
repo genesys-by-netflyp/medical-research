@@ -1,0 +1,83 @@
+== ARTICLE TITLE ==
+A tale of three mimickers: Amitraz, fipronil, and 2,4-dichlorophenoxyacetic acid poisoning confounding organophosphate toxicity
+
+== ABSTRACT ==
+AbstractOrganophosphates (OP) and carbamates frequently cause acute poisoning worldwide via acetylcholinesterase inhibition, leading to characteristic cholinergic toxidrome manifestations. However, some agents such as Amitraz, Fipronil, and 2,4-dichlorophenoxyacetic acid act through different mechanisms yet clinically mimic OP poisoning, complicating diagnosis and management. This case series presents three patients exposed to these mimickers, highlighting differing clinical features, investigations, and management strategies. Recognizing these pesticide mimickers is critical to avoid inappropriate therapy and optimize outcomes.Keywords: 2,4-dichlorophenoxyacetic acid toxicity; amitraz poisoning; cholinergic toxidrome; emergency medicine; fipronil toxicity; organophosphate mimickers; pesticide poisoning; toxicology
+
+Keywords: 2,4-dichlorophenoxyacetic acid toxicity; amitraz poisoning; cholinergic toxidrome; emergency medicine; fipronil toxicity; organophosphate mimickers; pesticide poisoning; toxicology
+
+Received 2025 Aug 21; Revised 2025 Dec 4; Accepted 2026 Jan 6; Collection date 2026 Jul-Sep.
+
+== Introduction ==
+
+Acute pesticide poisoning is a major global health problem, with organophosphates (OP) and carbamates common culprits due to acetylcholinesterase (AChE) inhibition.[1,2,3] The resultant cholinergic toxidrome includes muscarinic effects (salivation, lacrimation, miosis, bronchorrhea, bradycardia, and diarrhea), nicotinic features (fasciculations and weakness), and central nervous system (CNS) complications (confusion, seizures, and coma).[1,2,3]
+
+Certain non-OP agents, known as OP mimickers, produce overlapping signs but via different pathways. Amitraz is an alpha-2 adrenergic receptor agonist, Fipronil blocks gamma-aminobutyric acid (GABA)-gated chloride channels, and 2,4-dichlorophenoxyacetic acid (2,4-D) causes mitochondrial dysfunction and myotoxic injury.[4,5,6,7] These agents complicate diagnosis as their management diverges from OP poisoning protocols. This series details cases of these mimickers and discusses differentiating features.
+
+== Case Report ==
+
+== Case 1: Amitraz poisoning presenting as organophosphate toxicity ==
+
+A 53-year-old male agricultural worker presented approximately 3 h after ingesting an unknown pesticide. Initial local care included gastric lavage with activated charcoal. On arrival, he was obtunded (Glasgow Coma Scale [GCS] 9/15) with bilaterally constricted pupils, unrecordable blood pressure, bradycardia at 56 beats per min, and oxygen saturation around 85% on room air. Excessive secretions and diarrhea were absent. Lung auscultation was clear. Based on miosis and bradycardia, atropine intravenous 6 mg was given with oxygen therapy. Subsequently, relatives produced the pesticide container revealing Amitraz (125 mg/mL formulation) (Taktic 12.5% EC [MSD Animal Health, Pune, India]), prompting reconsideration.
+
+Laboratory tests showed mild leukocytosis and elevated liver enzymes. Serum cholinesterase was normal, excluding OP poisoning. Despite fluid resuscitation, hypotension persisted, requiring dopamine infusion. The neurological status declined; GCS dropped to 4/15, pupils dilated, and respiratory effort weakened. Arterial blood gas revealed type II respiratory failure; he was intubated and ventilated. Support continued over 4 days with gradual recovery and successful extubation at 96 h.
+
+Written informed consent for publication was obtained from the patient’s legal guardian.
+
+== Case 2: Fipronil poisoning masquerading as carbamate toxicity ==
+
+A 21-year-old male presented 3 h after ingestion of a rodenticide identified initially as “Khatnil spray” containing 1% Propoxur (a carbamate) (Hindustan Insecticides Ltd., New Delhi, India). He had vomiting, altered mental status (GCS E2V2M3), bradycardia (58 bpm), bilateral miosis, respiratory distress, coarse crepitations, and abundant oral secretions. Due to airway compromise, he was intubated and ventilated. Atropine was administered.
+
+Improvement followed supportive care and atropine, with extubation at 18 h. Detailed history and analysis identified the agent as 0.05% Fipronil gel (Ankur Chemicals, Maharashtra, India). Fipronil toxicity blocks GABA channels, causing CNS symptoms, differing mechanistically from OP and carbamates. Atropine may not always be beneficial in such poisoning.
+
+Written informed consent for publication was obtained from the patient’s legal guardian.
+
+== Case 3: 2,4-dichlorophenoxyacetic acid poisoning mimicking organophosphates toxicity ==
+
+A 32-year-old male exposed to pesticide ingestion and treated with atropine at a peripheral hospital presented with vomiting, altered sensorium, bradycardia (52 bpm), hypotension (90/60 mmHg), respiratory distress, excessive secretions, constricted reactive pupils, and decreased muscle tone.
+
+Laboratory investigations showed markedly elevated creatine phosphokinase (CPK) (12,400 U/L), metabolic acidosis, and normal cholinesterase. Family confirmed ingestion of 2,4-D herbicide (United Phosphorus Ltd., Mumbai, India). He received intravenous hydration and urinary alkalinization with sodium bicarbonate. Over 72 h, neurological and lab parameters improved, and he was discharged in good condition.
+
+Written informed consent for publication was obtained from the patient’s legal guardian.
+
+== Discussion ==
+
+Pesticide poisoning continues to be a significant cause of morbidity and mortality worldwide, particularly in agricultural communities and developing countries. OP and carbamates remain the most common agents implicated due to their widespread availability and mechanism of AChE inhibition, leading to the characteristic cholinergic toxidrome.[1,2,3] However, as highlighted in this case series, several non-OP pesticides and chemicals – referred to as OP mimickers – can produce clinical presentations closely resembling OP poisoning but operate through fundamentally different toxicological mechanisms.[4,5,6,7] This mimicry poses a critical diagnostic challenge that can have profound implications on management and outcomes.
+
+Amitraz, an alpha-2 adrenergic receptor agonist commonly used in veterinary and agricultural settings, often manifests with CNS depression, miosis initially followed by mydriasis, hypotension, and bradycardia, without the prominent secretory features seen in OP poisoning.[4] Unlike OP poisoning, serum cholinesterase levels remain normal, serving as an important laboratory clue. Dopamine infusion to counteract persistent hypotension may be required, alongside supportive ventilation when respiratory depression occurs.[4,8] Atropine use is limited to treating bradycardia rather than targeting a cholinergic toxidrome, which differs from the standard OP approach.
+
+Fipronil poisoning, acting via GABA receptor blockade, primarily causes CNS excitation, seizures, and neuromuscular symptoms.[5,9] Clinically, it may mimic carbamate or OP poisoning with miosis and bradycardia but often has profuse secretions and respiratory distress overlapping with cholinergic toxidrome features. Atropine’s effectiveness is variable, underscoring the importance of detailed history and agent identification, as oximes commonly used in OP poisoning provide no benefit. Supportive care and benzodiazepines for seizure control are central to management in fipronil toxicity.[5,9]
+
+2,4-D herbicide toxicity presents yet another masquerade with features such as vomiting, altered sensorium, hypotension, bradycardia, and copious secretions mimicking OP toxicity.[6,7] Elevated CPK levels reflecting rhabdomyolysis, metabolic acidosis, and normal cholinesterase are key distinguishing features.[7,10] Unlike OP poisoning, atropine is ineffective. Treatment revolves around aggressive hydration and urinary alkalinization to promote renal excretion of 2,4-D and prevent renal toxicity[7,10] [Table 1].
+
+The clinical overlap among pesticide mimickers and true OP poisoning demands heightened clinical vigilance and a structured diagnostic approach. Laboratory investigations, especially serum cholinesterase levels, though sometimes limited by availability and turnaround time, play an indispensable role in guiding therapy. Reliance solely on cholinergic signs without biochemical corroboration risks misdiagnosis and could lead to administration of inappropriate antidotes such as oximes, which may be futile or even harmful in mimicker poisonings [Table 2].
+
+Furthermore, this series emphasizes the value of obtaining a detailed history, including substance identification whenever possible, and advocates cautious use of atropine guided by clinical response rather than automatic administration. Ventilatory support remains a cornerstone for severe poisonings with CNS involvement, irrespective of the agent.
+
+From a public health perspective, awareness and education regarding these mimickers can reduce misidentification, leading to delays in tailored supportive management. Toxicological facilities and rapid confirmatory tests would improve diagnostic accuracy but remain challenging in resource-limited settings. Future studies to develop specific antidotes or targeted therapies for poisons such as Amitraz, Fipronil, and 2,4-D could significantly improve prognosis.
+
+In summary, recognizing pesticide mimickers through their distinct clinical patterns, laboratory features, and differential response to therapy is essential for optimally managing patients who present with suspected pesticide poisoning. The cases presented underscore the diversity of mechanisms and the need for a systematic approach to avoid the pitfalls of misdiagnosis in emergency medicine and toxicology practice.
+
+== Conclusion ==
+
+This case series underscores the clinical challenge posed by Amitraz, Fipronil, and 2,4-D poisoning, which mimics OP poisoning but requires fundamentally different management approaches. Distinguishing features – such as the absence of hypersecretory symptoms in Amitraz poisoning or rapid recovery in Fipronil toxicity and failure of atropine therapy, markedly elevated serum CPK due to rhabdomyolysis (classic diagnostic clue) in 2,4-D poisoning – should prompt clinicians to consider an alternative diagnosis. The absence of a specific antidote accentuates the importance of meticulous supportive care and awareness. Prompt and early differentiation prevents unethical administration of antidotes ineffective against these agents, optimizing supportive care, reducing morbidity, and improving patient outcomes.
+
+== Conflicts of interest ==
+
+None Declared.
+
+== Declaration of patient consent ==
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given his consent for his images and other clinical information to be reported in the journal. The patient understands that name and initials will not be published and due efforts will be made to conceal identity, but anonymity cannot be guaranteed.
+
+== Acknowledgments ==
+
+We sincerely thank the patients and their families for their cooperation in this study. Their consent and support were invaluable to this work.
+
+== Funding Statement ==
+
+
+None.
+
+
+== References ==

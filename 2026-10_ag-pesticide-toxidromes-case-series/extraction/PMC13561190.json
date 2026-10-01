@@ -1,0 +1,110 @@
+{
+ "pmcid": "PMC13561190",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "PMC13561190_case1",
+   "age": "18 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "An 18-year-old woman presented to the emergency department 6 hours after ingesting approximately 5 mL of 24% PQ, taken with suicidal intent.",
+   "agent": "paraquat (24% solution, approximately 5 mL = 1.2 g; ~26 mg/kg)",
+   "agent_quote": "ingesting approximately 5 mL of 24% PQ, taken with suicidal intent",
+   "route": "oral ingestion",
+   "circumstance": "intentional suicidal ingestion",
+   "symptoms": [
+    {
+     "finding": "12 episodes of vomiting",
+     "quote": "She experienced 12 episodes of vomiting."
+    },
+    {
+     "finding": "sore throat, epigastric pain, chest pain",
+     "quote": "On arrival at our center, she complained of sore throat, epigastric pain, and chest pain but denied difficulty breathing."
+    },
+    {
+     "finding": "dysphagia and oral ulcers (tongue, lips, buccal mucosa) within 24 h",
+     "quote": "Within the first 24 hours, she developed dysphagia along with ulcers on her tongue, lips, and buccal mucosa."
+    },
+    {
+     "finding": "severe high anion gap metabolic acidosis (day 3)",
+     "quote": "On day 3, arterial blood gasABG analysis revealed severe metabolic acidosis with a high anion gap."
+    },
+    {
+     "finding": "early paraquat-induced pulmonary changes on chest X-ray (day 3)",
+     "quote": "A repeat chest X-ray performed on day 3 showed prominent bronchovascular markings in the right middle zone and slight heterogeneity in the bilateral lower zones"
+    },
+    {
+     "finding": "sinus tachycardia on ECG",
+     "quote": "The electrocardiogram showed sinus tachycardia."
+    }
+   ],
+   "time_to_care": "6 hours to our emergency department; taken to a nearby hospital 30 minutes after ingestion",
+   "labs": [
+    {
+     "name": "serum creatinine",
+     "value": "1.0 mg/dL on admission rising to 7.3 mg/dL by day 6 (KDIGO stage 3 AKI)",
+     "quote": "serum creatinine rising from 1.0 mg/dL on the day of admission to 7.3 mg/dL by day 6 (eGFR declining from 83.7 mL/min/1.73m2 to 7.7 mL/min/1.73 m2)"
+    },
+    {
+     "name": "eGFR",
+     "value": "83.7 declining to 7.7 mL/min/1.73 m2",
+     "quote": "serum creatinine rising from 1.0 mg/dL on the day of admission to 7.3 mg/dL by day 6 (eGFR declining from 83.7 mL/min/1.73m2 to 7.7 mL/min/1.73 m2)"
+    },
+    {
+     "name": "SGOT (AST)",
+     "value": "16 U/L on presentation rising to 242 U/L on day 6",
+     "quote": "she had a significant rise in her transaminases (AST and ALT), which were 8 U/L and 16 U/L on the day of presentation, and they gradually increased to 242 U/L and 192 U/L on Day 6"
+    },
+    {
+     "name": "SGPT (ALT)",
+     "value": "8 U/L on presentation rising to 192 U/L on day 6",
+     "quote": "she had a significant rise in her transaminases (AST and ALT), which were 8 U/L and 16 U/L on the day of presentation, and they gradually increased to 242 U/L and 192 U/L on Day 6"
+    },
+    {
+     "name": "leukocyte count",
+     "value": "8680/µL baseline rising to peak 16,500/µL on day 5",
+     "quote": "The leukocyte count increased from a baseline of 8680/µL to a peak of 16 500/µL on day 5, showing a 90% increase above baseline"
+    },
+    {
+     "name": "urea",
+     "value": "33 mg/dL day 1 rising to 289 mg/dL day 8 (Table 1)",
+     "quote": "Urea (mg/dL)3392.418422829729728915–45 mg/dL"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage and activated charcoal (at nearby hospital)",
+     "quote": "Thirty minutes after ingestion, she was taken to a nearby hospital, where gastric lavage was performed and activated charcoal was administered."
+    },
+    {
+     "name": "ceftriaxone 1 g IV twice daily",
+     "quote": "she was treated with antibiotics (ceftriaxone 1 g IV twice daily)"
+    },
+    {
+     "name": "pantoprazole 40 mg IV twice daily",
+     "quote": "a proton pump inhibitor (pantoprazole 40 mg IV twice daily)"
+    },
+    {
+     "name": "dexamethasone 8 mg IV three times daily",
+     "quote": "steroids (dexamethasone 8 mg IV three times daily)"
+    },
+    {
+     "name": "N-acetylcysteine 1 g IV three times daily",
+     "quote": "N-acetylcysteine 1 g IV three times daily, intravenous fluids, analgesics, and antiemetics"
+    },
+    {
+     "name": "intravenous fluids, analgesics, antiemetics; NPO",
+     "quote": "N-acetylcysteine 1 g IV three times daily, intravenous fluids, analgesics, and antiemetics. ... She was kept nil per oral NPO."
+    }
+   ],
+   "icu_admission": "yes, medical intensive care unit",
+   "outcome": "survived; discharged day 7; no respiratory, gastrointestinal, or renal manifestations at 3-month follow-up",
+   "outcome_quote": "Three-month follow-up showed no respiratory, gastrointestinal, or renal manifestations.",
+   "sequelae": "none at 3-month follow-up",
+   "notes": "Hemodialysis was indicated (severe high anion-gap metabolic acidosis) but not performed; family discharged her against medical advice on day 7 due to financial constraints. Follow-up was by video call only."
+  }
+ ]
+}

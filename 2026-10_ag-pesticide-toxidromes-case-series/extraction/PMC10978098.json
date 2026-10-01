@@ -1,0 +1,82 @@
+{
+  "pmcid": "PMC10978098",
+  "case_type": "case series",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10978098_case_1",
+      "age": "54 years",
+      "sex": "male",
+      "exposure_context": "unclear",
+      "exposure_context_quote": "A 54-year-old male farmer was admitted to the emergency room (ER) over consciousness disorder accompanied by the weakness of the limbs while working outdoors in the heat.",
+      "agent": "Carbofuran (furan, carbamate pesticide); blood concentration 1.8 µg/mL",
+      "agent_quote": "Approximately three hours later, poison testing identified furan (carbamate) poisoning, whose blood concentration was 1.8 µg/mL, which is why pralidoxime chloride was discontinued and replaced with intramuscular injections of 0.5 mg atropine every four hours.",
+      "route": "UNVERIFIED (exposure route not stated; blood, urine and stomach contents sampled for testing)",
+      "circumstance": "Fell ill with consciousness disorder and limb weakness while working outdoors in the heat; initially suspected heatstroke or cerebrovascular accident; later confirmed carbofuran poisoning",
+      "symptoms": [
+        {"finding": "consciousness disorder, limb weakness, dyspnoea, profuse foaming from nasal cavity", "quote": "On arrival, the patient, who had had no underlying diseases, presented with dyspnoea and profuse foaming from the nasal cavity."},
+        {"finding": "hypothermia, lethargy, bilateral pinpoint pupils 1.0 mm, pulmonary wetness, active bowel sounds, involuntary limb movement", "quote": "Physical examination upon admission to ER showed hypothermia, normal blood pressure, stable pulse, regular breathing, lethargy, bilateral pupil diameter of 1.0 mm with moderate light reflexes, significant pulmonary wetness in both lungs, uniform heart rhythm, active bowel sounds in the abdomen, and involuntary limb movement."},
+        {"finding": "in ICU: coma, diaphoresis, foaming at mouth, bradycardia (35 bpm), miosis, fibrillation", "quote": "Nine hours later the patient was transferred to the intensive care unit (ICU), where he developed coma, diaphoresis, foaming at the mouth, bradycardia (35 bpm), miosis, and fibrillation."}
+      ],
+      "time_to_care": "UNVERIFIED (exact interval from symptom onset to ER admission not stated)",
+      "labs": [
+        {"name": "WBC", "value": "17.42×10^9/L", "quote": "Laboratory tests were as follows: increased white blood cell (WBC) count (17.42×109/L), prolonged activated partial thromboplastin time (aPTT) (20.00 s), low cholinesterase (CHE) (1095.47 U/L), hyperglycaemia (14.44 mmol/L), hypokalaemia (3.04 mmol/L)"},
+        {"name": "cholinesterase (initial)", "value": "1095.47 U/L", "quote": "Laboratory tests were as follows: increased white blood cell (WBC) count (17.42×109/L), prolonged activated partial thromboplastin time (aPTT) (20.00 s), low cholinesterase (CHE) (1095.47 U/L), hyperglycaemia (14.44 mmol/L), hypokalaemia (3.04 mmol/L)"},
+        {"name": "glucose", "value": "14.44 mmol/L", "quote": "hyperglycaemia (14.44 mmol/L), hypokalaemia (3.04 mmol/L)"},
+        {"name": "potassium", "value": "3.04 mmol/L", "quote": "hyperglycaemia (14.44 mmol/L), hypokalaemia (3.04 mmol/L)"},
+        {"name": "blood CHE (ICU)", "value": "721.72 U/L; repeat 784.44 U/L", "quote": "Samples of blood, urine, and stomach contents were taken to check for poisoning. Blood CHE was 721.72 U/L. ... On re-examination, blood CHE level was still low, 784.44 U/L, suggesting anticholinesterase poisoning."},
+        {"name": "blood furan (carbamate) concentration", "value": "1.8 µg/mL", "quote": "Approximately three hours later, poison testing identified furan (carbamate) poisoning, whose blood concentration was 1.8 µg/mL"},
+        {"name": "serum CHE after treatment", "value": "increased from 784.44 U/L to 2424.86 U/L", "quote": "Serum CHE gradually increased from 784.44 U/L to 2424.86 U/L."}
+      ],
+      "treatment": [
+        {"name": "tracheal intubation and mechanical ventilation", "quote": "Blood gas analysis showed hypoxaemia and hypercapnia, which immediately prompted tracheal intubation and mechanical ventilation."},
+        {"name": "atropine 1 mg IV (initial), later 10 mg infusion, then 0.5 mg IM every 4 h", "quote": "He immediately received atropine (1 mg) intravenously ... This prompted immediate gastric lavage, enema, and laxative administration, 10 mg atropine infusion, and intramuscular injection of 1 g of pralidoxime chloride every hour."},
+        {"name": "pralidoxime chloride 1 g IM every hour (discontinued after furan identified)", "quote": "This prompted immediate gastric lavage, enema, and laxative administration, 10 mg atropine infusion, and intramuscular injection of 1 g of pralidoxime chloride every hour."},
+        {"name": "gastric lavage, enema, laxative", "quote": "This prompted immediate gastric lavage, enema, and laxative administration, 10 mg atropine infusion, and intramuscular injection of 1 g of pralidoxime chloride every hour."},
+        {"name": "propofol infusion 1 µg/min", "quote": "the heart rate increased to 140 bpm, but it had to be maintained with 1 µg/min propofol infusion."}
+      ],
+      "icu_admission": "Yes (\"Nine hours later the patient was transferred to the intensive care unit (ICU)\")",
+      "outcome": "survived; discharged from ICU on the third day; in excellent health at one-year follow-up",
+      "outcome_quote": "The patient’s nervous, circulatory, and liver and kidney function were normal and he was discharged from the ICU on the third day. After a one-year follow-up, the patient remained in excellent health.",
+      "sequelae": "None; excellent health at one-year follow-up",
+      "notes": "Initial misdiagnosis as heatstroke; pralidoxime discontinued once carbamate (carbofuran) poisoning identified. Hospital stay 3 days (vs 18 days in Case 2)."
+    },
+    {
+      "case_id": "PMC10978098_case_2",
+      "age": "68 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 68-year-old male who had been in perfect health in the past ingested intentionally 200 mL of dichlorvos and was discovered by his family about two hours later.",
+      "agent": "Dichlorvos (organophosphate); blood dichlorvos 0.08 μg/mL and trimethylate phosphate 3.4 μg/mL",
+      "agent_quote": "Twenty-four hours later, the blood poison test report from the Beijing Gaoxin Hospital revealed 0.08 μg/mL of dichlorvos and 3.4 μg/mL of trimethylate phosphate, which called for continued intramuscular pralidoxime chloride injection every 4 h.",
+      "route": "oral ingestion",
+      "circumstance": "Intentional self-poisoning: ingested 200 mL of dichlorvos; discovered by family about two hours later; failed treatment at county hospital then transferred to tertiary ER",
+      "symptoms": [
+        {"finding": "consciousness disorder, sweating, salivation, incontinence, dyspnoea, nausea, vomiting, garlic odour of breath", "quote": "He presented with consciousness disorder, sweating, salivation, incontinence, dyspnoea, nausea, and vomiting, and his breath had a characteristic odour of garlic."},
+        {"finding": "pupils ~4 mm bilaterally non-reactive to light; irregular heart rhythm; BP 96/54 mmHg; pulse 130 bpm", "quote": "His body temperature was normal, pulse 130 bpm, and blood pressure low, measuring 96/54 mmHg. ... The pupils measured about 4 mm bilaterally and did not respond to light stimulation. Coarse breathing was auscultated bilaterally without any signs of dry or wet rales. Heart rhythm appeared irregular"},
+        {"finding": "atropine poisoning (pupils dilated to 7.0 mm, dry skin) during treatment; atrial fibrillation 4 h after admission; hemodynamic instability", "quote": "Upon admission to the ICU of the Affiliated Hospital of Chengde Medical College, the heart rate was 150–160 bpm, pupils gradually dilated to 7.0 mm, light reflex returned, the skin became dry, and atropine poisoning developed."},
+        {"finding": "lung infection, possibly aspiration-related", "quote": "Subsequently, the patient developed a lung infection, possibly associated with aspiration, even though sputum cultures were negative for pathogenic bacteria."}
+      ],
+      "time_to_care": "Discovered by family about two hours after ingestion; on ER admission at the tertiary hospital he had been exposed to the pesticide for nine hours",
+      "labs": [
+        {"name": "WBC", "value": "14.92×10^9/L", "quote": "Laboratory tests showed high WBC count (14.92*109/L), prolonged prothrombin time (PT, 13.90s) and aPTT (56.40 s), elevated D-dimer (6.47 µg/mL), hyperchloraemia (120.29 mmol/L), hypocalcaemia (1.73 mmol/L), high lactate dehydrogenase (343.84 U/L), procalcitonin (3.640 ng/mL), BNP (366.00 pg/mL), and low CHE (200.00 U/L)."},
+        {"name": "cholinesterase (CHE)", "value": "200.00 U/L", "quote": "Laboratory tests showed high WBC count (14.92*109/L), prolonged prothrombin time (PT, 13.90s) and aPTT (56.40 s), elevated D-dimer (6.47 µg/mL), hyperchloraemia (120.29 mmol/L), hypocalcaemia (1.73 mmol/L), high lactate dehydrogenase (343.84 U/L), procalcitonin (3.640 ng/mL), BNP (366.00 pg/mL), and low CHE (200.00 U/L)."},
+        {"name": "blood gas (FiO2 40%)", "value": "pH 7.18, PaCO2 34.00 mmHg, PaO2 78.00 mmHg, HCO3− 12.80 mmol/L, BEecf 15.70 mmol/L", "quote": "Blood gas analysis at FiO2 of 40 % showed pH 7.18, PaCO2 34.00 mmHg, PaO2 78.00 mmHg, HCO3− 12.80 mmol/L, and base excess in the extracellular fluid (BEecf) of 15.70 mmol/L."},
+        {"name": "blood dichlorvos / trimethylate phosphate", "value": "0.08 μg/mL / 3.4 μg/mL", "quote": "Twenty-four hours later, the blood poison test report from the Beijing Gaoxin Hospital revealed 0.08 μg/mL of dichlorvos and 3.4 μg/mL of trimethylate phosphate"}
+      ],
+      "treatment": [
+        {"name": "gastric lavage, mechanical ventilation, haemoperfusion, atropine 5 mg infusion every 5 min", "quote": "He was diagnosed with dichlorvos poisoning and treated with gastric lavage, mechanical ventilation, haemoperfusion, and 5 mg atropine infusion every 5 min."},
+        {"name": "mannitol 20%, propofol 1 mg/kg/h, remifentanil 0.1 µg/kg/min, CRRT + haemoperfusion, pralidoxime chloride IM every 2 h (later every 4 h)", "quote": "The patient was given 20 % mannitol to reduce intracranial pressure, 1 mg/kg/h propofol and 0.1 µg/kg/min remifentanil for analgesia and sedation, continuous renal replacement therapy (CRRT) in combination with haemoperfusion, and intramuscular injections of pralidoxime chloride every 2 h."},
+        {"name": "norepinephrine 0.2 µg/kg/min plus fluids, albumin, plasma, cryoprecipitate", "quote": "As the patient developed hemodynamic instability, he was also given 0.2 µg/kg/min of norepinephrine and fluids (crystalline fluid, albumin, plasma and cryoprecipitate clotting factors) to maintain circulation."},
+        {"name": "piperacillin tazobactam for lung infection", "quote": "Considering that levofloxacin could affect pesticide metabolism, piperacillin tazobactam was administered instead to treat the infection."}
+      ],
+      "icu_admission": "Yes (\"Upon admission to the ICU of the Affiliated Hospital of Chengde Medical College...\")",
+      "outcome": "died one day after transfer back to Longhua County Hospital, due to respiratory failure",
+      "outcome_quote": "The patient requested to be transferred back to the Longhua County Hospital for further treatment and died one day later due to respiratory failure.",
+      "sequelae": "UNVERIFIED (patient died)",
+      "notes": "Atropine poisoning developed during treatment; hospital stay 18 days (vs 3 days in Case 1). CRRT+haemoperfusion stopped after 4 days, vasopressors after 5, ventilator removed after 6 days."
+    }
+  ]
+}

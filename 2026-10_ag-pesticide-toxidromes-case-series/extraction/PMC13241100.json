@@ -1,0 +1,100 @@
+{
+  "pmcid": "PMC13241100",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC13241100-case1",
+      "age": "30 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "A 30-year-old man arrived at our hospital after allegedly drinking 20 ml of 24% PQ after a family argument.",
+      "agent": "paraquat (24% solution)",
+      "agent_quote": "after allegedly drinking 20 ml of 24% PQ after a family argument",
+      "route": "ingestion",
+      "circumstance": "Drank 20 mL of 24% paraquat after a family argument; abstract describes the consumption as inadvertent. Started vomiting 4 hours after the meal; treated at a nearby hospital then referred.",
+      "symptoms": [
+        {
+          "finding": "severe vomiting",
+          "quote": "Upon arrival, the patient continued to experience severe vomiting, significant difficulty in swallowing, and multiple painful oral ulcers."
+        },
+        {
+          "finding": "dysphagia/odynophagia",
+          "quote": "Upon arrival, the patient continued to experience severe vomiting, significant difficulty in swallowing, and multiple painful oral ulcers."
+        },
+        {
+          "finding": "painful oral ulcers with erosion of lips and oral cavity",
+          "quote": "Clinical examination revealed erosion of the lips and oral cavity."
+        },
+        {
+          "finding": "sudden breathlessness on day 4",
+          "quote": "On day 4 of admission, the patient started complaining about breathlessness, which was a sudden onset of breathlessness."
+        },
+        {
+          "finding": "significant respiratory distress with room air saturation 80%",
+          "quote": "The patient also developed significant respiratory distress, with room air saturation decreasing to 80%."
+        },
+        {
+          "finding": "pneumomediastinum, pneumothorax, subcutaneous emphysema on HRCT",
+          "quote": "High-resolution computed tomography (HRCT) of the thorax suggested suggestive bilateral pneumomediastinum with pneumothorax along with confluent areas of patchy consolidation in the dependent segment of bilateral lung fields"
+        }
+      ],
+      "time_to_care": "UNVERIFIED (initially treated at a nearby hospital; exact interval not stated)",
+      "labs": [
+        {
+          "name": "serum creatinine",
+          "value": "rose from 0.8 to 3.3",
+          "quote": "However, his condition worsened with serum creatinine rising from 0.8 to 3.3, and liver function tests deteriorated markedly over the following days."
+        },
+        {
+          "name": "AST (day 6)",
+          "value": "530 U/L",
+          "quote": "On day 6, liver function test results were alarmingly elevated, with aspartate aminotransferase (AST) at 530 U/L, alkaline phosphatase (ALP) at 604 U/L, and a serum bilirubin level of 5.0 mg/dL."
+        },
+        {
+          "name": "ALP (day 6)",
+          "value": "604 U/L",
+          "quote": "On day 6, liver function test results were alarmingly elevated, with aspartate aminotransferase (AST) at 530 U/L, alkaline phosphatase (ALP) at 604 U/L, and a serum bilirubin level of 5.0 mg/dL."
+        },
+        {
+          "name": "serum bilirubin (day 6)",
+          "value": "5.0 mg/dL",
+          "quote": "On day 6, liver function test results were alarmingly elevated, with aspartate aminotransferase (AST) at 530 U/L, alkaline phosphatase (ALP) at 604 U/L, and a serum bilirubin level of 5.0 mg/dL."
+        }
+      ],
+      "treatment": [
+        {
+          "name": "gastric lavage, activated charcoal, IV fluids, H2 blockers, antiemetics (at nearby hospital)",
+          "quote": "He was treated at a nearby hospital, where he was given gastric lavage, activated charcoal, and supportive care, such as intravenous fluids, H2 blockers, and antiemetics."
+        },
+        {
+          "name": "intravenous N-acetylcysteine infusion",
+          "quote": "In response to acute hepatic failure, intravenous N-acetylcysteine infusion (NAC). After NAC infusion, the patient’s liver function test results improved."
+        },
+        {
+          "name": "intensive hydration for acute kidney injury",
+          "quote": "Intensive hydration was administered to manage acute kidney injury, leading to an improvement in renal function."
+        },
+        {
+          "name": "feeding jejunostomy",
+          "quote": "a gastrosurgery opinion was sought, and a feeding jejunostomy was advised. The patient was then fed jejunostomy."
+        },
+        {
+          "name": "nintedanib 150 mg for pulmonary fibrosis",
+          "quote": "As the patient developed pulmonary fibrosis (PF), he was started on the tablet. Nintedanib 150 [Figure 4]."
+        },
+        {
+          "name": "invasive ventilation, tracheostomy, ionotropic support",
+          "quote": "Given the prolonged need for invasive ventilation, the patient was tracheostomized and maintained in volume control mode. However, despite adequate care, the patient’s respiratory distress increased. The patient developed cardiogenic shock and hypotension and was started on ionotropic support on day 16."
+        }
+      ],
+      "icu_admission": "UNVERIFIED (invasive ventilation and tracheostomy documented; formal ICU admission not stated)",
+      "outcome": "Died on day 24 of admission",
+      "outcome_quote": "The patient’s condition deteriorated, and he succumbed to death on day 24.",
+      "sequelae": "Not applicable (died)",
+      "notes": "Hemodialysis/hemoperfusion not performed as patient reported late; nephrology advised against dialysis 4 days after ingestion."
+    }
+  ]
+}

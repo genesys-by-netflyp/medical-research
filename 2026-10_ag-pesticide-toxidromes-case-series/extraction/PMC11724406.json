@@ -1,0 +1,67 @@
+{
+ "pmcid": "PMC11724406",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "case 1",
+   "age": "24 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 24-year-old male farmer was brought to the emergency department after voluntarily consuming 100 mL of ACCOUNT (Novaluron 5.25% + Indoxacarb 4.5%) diluted in a soft carbonated beverage.",
+   "agent": "ACCOUNT (Novaluron 5.25% + Indoxacarb 4.5%), 100 mL diluted in a soft carbonated beverage",
+   "agent_quote": "voluntarily consuming 100 mL of ACCOUNT (Novaluron 5.25% + Indoxacarb 4.5%) diluted in a soft carbonated beverage",
+   "route": "oral",
+   "circumstance": "intentional ingestion in a suicide attempt",
+   "symptoms": [
+    {
+     "finding": "methemoglobinemia (75.16%) with cyanosis/bluish discolouration of buccal mucosa and hypoxia (SpO2 84% on 14 L/min oxygen)",
+     "quote": "The patient was shifted to the intensive care unit and tested for methaemoglobin levels, which were 11.3 g/dL (75.16 %)."
+    },
+    {
+     "finding": "tachypnoea with intercostal retractions, tachycardia 110 bpm",
+     "quote": "He was afebrile, with a pulse of 110 beats/min and regular rhythm, a respiratory rate of 30 breaths/min, blood pressure of 130/70 mm Hg in the right arm in the supine position and an oxygen saturation of 84% on 14 L/min of oxygen via a non-rebreather mask."
+    },
+    {
+     "finding": "minimal bilateral pleural effusions on HRCT chest",
+     "quote": "High-resolution computed tomography of the chest revealed minimal bilateral pleural effusions (right greater than left) with no consolidations."
+    }
+   ],
+   "time_to_care": "UNVERIFIED (received gastric lavage at a nearby hospital before transfer)",
+   "labs": [
+    {
+     "name": "methaemoglobin",
+     "value": "11.3 g/dL (75.16%), decreased to 3.8% after treatment",
+     "quote": "A repeat methaemoglobin level decreased to 3.8%."
+    },
+    {
+     "name": "arterial blood gas",
+     "value": "pH 7.45, pCO2 39 mm Hg, pO2 89 mm Hg, sO2 100%",
+     "quote": "Arterial blood gas (ABG) analysis showed a pH of 7.45, pCO2 of 39 mm Hg, pO2 of 89 mm Hg and sO2 of 100%."
+    },
+    {
+     "name": "other laboratory results",
+     "value": "within normal limits",
+     "quote": "Other laboratory results were within normal limits."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage at nearby hospital",
+     "quote": "He had received gastric lavage at a nearby hospital before being transferred to our centre."
+    },
+    {
+     "name": "methylene blue 100 mg diluted in 5% dextrose over 30 min",
+     "quote": "A 100 mg injection of methylene blue diluted in 5% dextrose was administered over 30 min."
+    }
+   ],
+   "icu_admission": "yes",
+   "outcome": "survived; bluish discolouration resolved next day, SpO2 95% on room air, discharged the following day after transfer to general ward",
+   "outcome_quote": "The bluish discolouration of the buccal mucosa completely disappeared the next day, and oxygen saturation improved to 95% on room air. A repeat methaemoglobin level decreased to 3.8%. The patient was transferred to the general ward and discharged the following day.",
+   "sequelae": "none reported (no post-discharge follow-up conducted)",
+   "notes": "GCS 15/15 on arrival."
+  }
+ ]
+}

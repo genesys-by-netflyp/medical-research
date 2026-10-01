@@ -1,0 +1,288 @@
+{
+ "pmcid": "PMC12680488",
+ "case_type": "case series",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case I",
+   "age": "27 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 27‐year‐old woman was admitted to the emergency room of CMTH at around 9 pm on July 29, 2023, 4 h after ingesting about 20 mL of 24% PQ (Gramoxone), with suicidal intent.",
+   "agent": "paraquat (24% PQ, Gramoxone)",
+   "agent_quote": "ingesting about 20 mL of 24% PQ (Gramoxone)",
+   "route": "ingestion",
+   "circumstance": "Suicidal ingestion of about 20 mL of 24% paraquat; worked at a farm where she had access to herbicides.",
+   "symptoms": [
+    {
+     "finding": "nausea and vomiting",
+     "quote": "She experienced nausea and vomiting and arrived at the hospital with a sore throat and epigastric pain."
+    },
+    {
+     "finding": "sore throat",
+     "quote": "She experienced nausea and vomiting and arrived at the hospital with a sore throat and epigastric pain."
+    },
+    {
+     "finding": "epigastric pain",
+     "quote": "She experienced nausea and vomiting and arrived at the hospital with a sore throat and epigastric pain."
+    },
+    {
+     "finding": "erythematous and edematous oral mucosa",
+     "quote": "Her oral mucosa was erythematous and edematous."
+    },
+    {
+     "finding": "severe dysphagia and shortness of breath",
+     "quote": "In the following 24 h, the patient experienced increasing epigastric pain, severe dysphagia, and shortness of breath."
+    },
+    {
+     "finding": "bilateral lower-lobe and perihilar infiltration; later pneumomediastinum and pneumopericardium",
+     "quote": "On Day 3, the chest radiograph revealed bilateral infiltrates, pneumomediastinum and pneumopericardium."
+    }
+   ],
+   "time_to_care": "4 h after ingestion",
+   "labs": [
+    {
+     "name": "urine dithionite test",
+     "value": "strongly positive",
+     "quote": "Urine dithionite test was strongly positive, confirming the presence of PQ."
+    },
+    {
+     "name": "blood paraquat level (6 h after ingestion)",
+     "value": "1.98 μg/mL",
+     "quote": "Blood level for PQ at 6 h after ingestion was 1.98 μg/mL."
+    },
+    {
+     "name": "arterial blood gas (Day 2)",
+     "value": "pH 7.48, PaCO2 32 mmHg, PaO2 56 mmHg",
+     "quote": "Her arterial blood gas values on Day 2 were pH 7.48, PaCO2 32 mmHg, and PaO2 56 mmHg."
+    },
+    {
+     "name": "blood urea nitrogen, creatinine, liver enzymes (Day 2)",
+     "value": "elevated",
+     "quote": "Blood chemistries on the second day of Intensive Care Unit (ICU) admission revealed elevated blood urea nitrogen, creatinine, and liver enzymes."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "activated charcoal 100 g + 70% sorbitol 100 mL via nasogastric tube, IV fluids",
+     "quote": "The patient was given 100 g of activated charcoal plus 100 mL of 70% sorbitol via nasogastric tube and intravenous fluid."
+    },
+    {
+     "name": "repeated activated charcoal and sorbitol; analgesics; ICU observation",
+     "quote": "After admission the patient was given a repeated dose of activated charcoal and sorbitol. Other supportive treatments included analgesics to control her epigastric pain."
+    },
+    {
+     "name": "intubation and mechanical ventilation",
+     "quote": "She became increasingly hypoxemic and required intubation and mechanical ventilation."
+    },
+    {
+     "name": "hemodialysis",
+     "quote": "Hemodialysis was started."
+    }
+   ],
+   "icu_admission": "yes (admitted to ICU for close observation)",
+   "outcome": "died on Day 4 after admission from progressive multi-organ failure",
+   "outcome_quote": "Progressive multiple‐organ failure ensued, and she died on Day 4 after admission.",
+   "sequelae": "died; severe respiratory and renal failure culminating in multi-organ failure",
+   "notes": "Oxygen saturation 95% on room air on arrival; BP 100/50 mmHg, HR 110 bpm."
+  },
+  {
+   "case_id": "Case II (mother)",
+   "age": "35 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 35‐year‐old woman was admitted to Chitwan Medical College and Teaching Hospital's Emergency Room (CMCTH ER) on May 31, 2023, at around 7 pm, after ingesting 20 mL of PQ Dichloride with suicidal intent, approximately 3.5 h before presentation.",
+   "agent": "paraquat dichloride (PQ Dichloride)",
+   "agent_quote": "ingesting 20 mL of PQ Dichloride with suicidal intent",
+   "route": "ingestion",
+   "circumstance": "Suicidal ingestion of 20 mL of paraquat dichloride; she also administered paraquat to her two sons aged 7 years and 1 year by mixing it with milk.",
+   "symptoms": [
+    {
+     "finding": "dry mouth",
+     "quote": "During her stay in the MICU, she complained of dry mouth on the first day"
+    },
+    {
+     "finding": "redness in oral cavity including the tongue",
+     "quote": "On the second day, she developed redness in her oral cavity including the tongue"
+    },
+    {
+     "finding": "ulcers on the tongue and odynophagia",
+     "quote": "She also developed ulcers on her tongue and odynophagia managed with Chlorhexidine mouth wash."
+    },
+    {
+     "finding": "polyuria",
+     "quote": "On the third day, the patient developed polyuria with a creatinine level of 1.07 mg/dL."
+    },
+    {
+     "finding": "bradycardia (HR 28 bpm) and hypokalemia",
+     "quote": "she started developing bradycardia (heart rate dropped to 28 bpm) and hypokalemia."
+    }
+   ],
+   "time_to_care": "approximately 3.5 h after ingestion",
+   "labs": [
+    {
+     "name": "creatinine",
+     "value": "1.07 mg/dL",
+     "quote": "On the third day, the patient developed polyuria with a creatinine level of 1.07 mg/dL."
+    },
+    {
+     "name": "potassium",
+     "value": "3.04 mmol/L",
+     "quote": "Her potassium level was 3.04 mmol/L for which intravenous potassium chloride supplementation was given."
+    },
+    {
+     "name": "initial CBC, renal and liver function tests",
+     "value": "within normal limits",
+     "quote": "Initial examination and lab tests, including complete blood count, renal and liver function tests, were within normal limits."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "intravenous pantoprazole, ondansetron, and fluids",
+     "quote": "She was treated with intravenous pantoprazole, ondansetron, and fluids, and then transferred to the Medical Intensive Care Unit (MICU) for further care."
+    },
+    {
+     "name": "intravenous dexamethasone, N-acetylcysteine, vitamin C",
+     "quote": "was treated with intravenous dexamethasone, N‐acetylcysteine, and vitamin C"
+    },
+    {
+     "name": "intravenous vasopressin 1.8 mL/h; potassium chloride supplementation; chlorhexidine mouthwash; Delta gel topical ointment",
+     "quote": "She was started on intravenous vasopressin at 1.8 mL/h. Her potassium level was 3.04 mmol/L for which intravenous potassium chloride supplementation was given. She also developed ulcers on her tongue and odynophagia managed with Chlorhexidine mouth wash."
+    },
+    {
+     "name": "sucralfate syrup and antiseptic mouthwash; psychiatric treatment and counseling",
+     "quote": "Gastroenterology and ENT consultations were provided due to her throat pain, and she was treated with sucralfate syrup and antiseptic mouthwash. After 19 days of treatment and counseling, she was discharged on June 19, 2023."
+    }
+   ],
+   "icu_admission": "yes (transferred to the Medical Intensive Care Unit)",
+   "outcome": "survived; condition stabilized on day 5, discharged on June 19, 2023 after 19 days of treatment",
+   "outcome_quote": "Her condition stabilized on the fifth day, and she was transferred to the high‐dependency unit (HDU) for continued care including oral potassium supplementation. ... After 19 days of treatment and counseling, she was discharged on June 19, 2023.",
+   "sequelae": "psychiatric evaluation revealed severe depressive episode (Hamilton Depression Rating Scale: 23 and Suicidal Intent scale: 17)",
+   "notes": ""
+  },
+  {
+   "case_id": "Case II (elder son, 7 years)",
+   "age": "7 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "His mother had mixed the poison with milk in a homicidal attempt and given it to both of her sons, but the child spat it out due to the bitter taste.",
+   "agent": "paraquat dichloride 24%",
+   "agent_quote": "The elder son was admitted to CMCTH on May 31, 2023, at around 7 pm after being exposed to PQ Dichloride 24% poisoning. 3 h prior to ER presentation.",
+   "route": "ingestion",
+   "circumstance": "Homicidal poisoning by his mother, who mixed the paraquat with milk; the child spat most of it out due to the bitter taste; exact time since ingestion unclear; referred from a nearby hospital after 3.5 h.",
+   "symptoms": [
+    {
+     "finding": "vomited twice with greenish contents",
+     "quote": "He vomited twice with greenish contents."
+    },
+    {
+     "finding": "ill-looking and drowsy, GCS 14/15",
+     "quote": "On arrival at CMCTH, the child was ill‐looking and drowsy, with a Glasgow Coma Scale (GCS) of 14/15."
+    },
+    {
+     "finding": "mild/dry cough with wheezing",
+     "quote": "He developed a mild cough with wheezing, which resolved after nebulization with salbutamol and budesonide."
+    }
+   ],
+   "time_to_care": "treated at a nearby hospital, referred to CMCTH after 3.5 h; exact time since ingestion unclear",
+   "labs": [
+    {
+     "name": "urea",
+     "value": "143 mg/dL",
+     "quote": "Renal function tests showed transient elevation of urea (143 mg/dL) and creatinine (2 mg/dL), which gradually improved with supportive treatment."
+    },
+    {
+     "name": "creatinine",
+     "value": "2 mg/dL (later Ur/Cr = 141/2.14 mg/dL; 90 mg/dL and 1.54 mg/dL at discharge)",
+     "quote": "By the day of discharge, his urea (90 mg/dL) and creatinine (1.54 mg/dL) had returned to normal."
+    },
+    {
+     "name": "kidney ultrasound",
+     "value": "increased cortical echogenicity in both kidneys",
+     "quote": "Ultrasound revealed increased cortical echogenicity in both kidneys."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "ceftriaxone and ranitidine (nearby hospital)",
+     "quote": "where he was treated with ceftriaxone and ranitidine before being referred to CMCTH after 3.5 h."
+    },
+    {
+     "name": "intravenous ondansetron; PICU observation",
+     "quote": "After receiving intravenous ondansetron in the ER, he was transferred to the Pediatric Intensive Care Unit (PICU) for further observation."
+    },
+    {
+     "name": "nebulization with salbutamol and budesonide; IV pantoprazole, IV PCM, ondansetron IV",
+     "quote": "He was treated with IV Pantoprazole, IV PCM, and Ondansetron IV. ... which was resolved after nebulization with salbutamol and budesonide."
+    }
+   ],
+   "icu_admission": "yes (transferred to the Pediatric Intensive Care Unit for observation, then to the ward)",
+   "outcome": "survived; discharged after 8 days with normal urea and creatinine and stable condition",
+   "outcome_quote": "By the day of discharge, his urea (90 mg/dL) and creatinine (1.54 mg/dL) had returned to normal. He was stable, had normal urine output, and was discharged after 8 days with a prescription for Foracort via mask and spacer, along with follow‐up instructions.",
+   "sequelae": "none reported; discharged with Foracort prescription and follow-up instructions",
+   "notes": "Ingestion amount UNVERIFIED (child reportedly spat out the mixture)."
+  },
+  {
+   "case_id": "Case II (younger son, 1 year)",
+   "age": "1 year",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "The mother had intentionally poisoned herself and her two sons, including this child, by mixing approximately 5 mL of PQ with milk, a dose of around 100 mg/kg (above the lethal threshold).",
+   "agent": "paraquat dichloride 24% (approximately 5 mL with milk, around 100 mg/kg)",
+   "agent_quote": "by mixing approximately 5 mL of PQ with milk, a dose of around 100 mg/kg (above the lethal threshold)",
+   "route": "ingestion",
+   "circumstance": "Homicidal poisoning by his mother, who mixed approximately 5 mL of paraquat with milk; child had global developmental delay, dystonia, and seizure disorder; referred from a nearby hospital after 3.5 h.",
+   "symptoms": [
+    {
+     "finding": "excessive crying and worsening of dystonic postures, arching backward",
+     "quote": "After ingestion, the child experienced excessive crying and worsening of dystonic postures, arching backward which alerted family members."
+    },
+    {
+     "finding": "three episodes of vomiting with greenish, non-bloody content",
+     "quote": "He had three episodes of vomiting with greenish, non‐bloody content."
+    },
+    {
+     "finding": "unstable airway with audible stridor; respiratory rate 71/min; HR 195 bpm; temperature 101.9°F; SpO2 91% on facemask",
+     "quote": "the child was in critical condition, with an unstable airway and audible stridor. His respiratory rate was 71 breaths/min, heart rate 195 bpm, temperature 101.9°F, and oxygen saturation (SpO2) was 91% on a facemask."
+    },
+    {
+     "finding": "hypertonia with dystonia, GCS 14/15, muscle power 3/5, crusted lips, erythematous oral mucosa",
+     "quote": "Neurological examination showed hypertonia with dystonia, a GCS score of 14/15, and muscle power of 3/5. The child had crusted lips and erythematous oral mucosa."
+    },
+    {
+     "finding": "generalized tonic-clonic seizure; worsening sensorium with central cyanosis and respiratory desaturation",
+     "quote": "The child developed one episode of generalized tonic–clonic seizure, which was aborted with intramuscular midazolam. The child had worsening of sensorium with central cyanosis. The child had respiratory desaturation."
+    }
+   ],
+   "time_to_care": "managed with oxygen, ceftriaxone, ranitidine, and hydrocortisone at a nearby hospital, then referred to CMCTH 3.5 h after ingestion",
+   "labs": [
+    {
+     "name": "blood samples",
+     "value": "not collected (IV cannulation failed due to vein collapse)",
+     "quote": "Despite efforts, IV cannulation failed due to vein collapse, and no blood samples were collected."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "oxygen, ceftriaxone, ranitidine, and hydrocortisone (nearby hospital)",
+     "quote": "the younger son was taken to a nearby hospital, where he was managed with oxygen, ceftriaxone, ranitidine, and hydrocortisone before being referred to CMCTH after 3.5 h."
+    },
+    {
+     "name": "intravenous dexamethasone, adrenaline nebulization, intravenous paracetamol, CPAP",
+     "quote": "The younger son was treated with intravenous dexamethasone, adrenaline nebulization, intravenous paracetamol, and resuscitated with Continuous Positive Airway Pressure (CPAP) improving his oxygen saturation to 95%."
+    },
+    {
+     "name": "intramuscular midazolam (seizure); bag and mask ventilation followed by endotracheal intubation",
+     "quote": "The child developed one episode of generalized tonic–clonic seizure, which was aborted with intramuscular midazolam. ... The child was resuscitated with bag and mask ventilation followed by endotracheal intubation."
+    }
+   ],
+   "icu_admission": "yes (shifted to the Pediatric Intensive Care Unit)",
+   "outcome": "died 7 h after admission despite resuscitation (bradycardia < 60 bpm, could not be revived)",
+   "outcome_quote": "At around 6 h of admission in the Pediatric Intensive Care Unit (PICU), the child gradually developed bradycardia with heart rate reaching < 60 b/m. Unfortunately, despite resuscitation efforts, the child could not be revived and was declared dead 7 h after admission.",
+   "sequelae": "died",
+   "notes": "Developmental age estimated between 3 and 9 months; abstract describes death '7 h after admission despite continuous positive airway pressure and intubation'."
+  }
+ ]
+}

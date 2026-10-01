@@ -1,0 +1,443 @@
+{
+ "pmcid": "PMC12672530",
+ "case_type": "case series",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "21 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 21-year-old male presented to our emergency department on 8 August 2022, after intentionally ingesting 200 mL of diquat the previous day.",
+   "agent": "diquat",
+   "agent_quote": "after intentionally ingesting 200 mL of diquat the previous day",
+   "route": "ingestion",
+   "circumstance": "Intentional (suicidal) ingestion of 200 mL of diquat the day before presentation; two sessions of unspecified blood perfusion at another hospital with poor effect.",
+   "symptoms": [
+    {
+     "finding": "multi-organ dysfunction (heart, lung, kidney)",
+     "quote": "He was diagnosed with pesticide poisoning (diquat poisoning), pulmonary infection, multi-organ dysfunction (heart, lung, kidney), fatty liver, metabolic acidosis, hypoproteinemia, and gastrointestinal bleeding."
+    },
+    {
+     "finding": "pulmonary infection",
+     "quote": "He was diagnosed with pesticide poisoning (diquat poisoning), pulmonary infection, multi-organ dysfunction (heart, lung, kidney), fatty liver, metabolic acidosis, hypoproteinemia, and gastrointestinal bleeding."
+    },
+    {
+     "finding": "gastrointestinal bleeding",
+     "quote": "He was diagnosed with pesticide poisoning (diquat poisoning), pulmonary infection, multi-organ dysfunction (heart, lung, kidney), fatty liver, metabolic acidosis, hypoproteinemia, and gastrointestinal bleeding."
+    },
+    {
+     "finding": "chest CT ground-glass opacities",
+     "quote": "The chest computed tomography (CT) showed scattered ground-glass opacities and cord-like shadows in the lower lobes of both lungs, decreased liver density suggestive of fatty liver, gastrointestinal fluid and gas accumulation with scattered air-fluid levels, and dilated colon."
+    }
+   ],
+   "time_to_care": "presented the day after ingestion; had two sessions of blood perfusion at another hospital before transfer",
+   "labs": [
+    {
+     "name": "diquat plasma concentration",
+     "value": "3125.47 ng/ml",
+     "quote": "Laboratory tests revealed a diquat plasma concentration of 3125.47 ng/ml"
+    },
+    {
+     "name": "white blood cell count",
+     "value": "27.72 × 109/L",
+     "quote": "white blood cell count of 27.72 × 109/L"
+    },
+    {
+     "name": "platelet count",
+     "value": "164 × 109/L",
+     "quote": "platelet count of 164 × 109/L"
+    },
+    {
+     "name": "alanine aminotransferase (ALT)",
+     "value": "92 IU/L",
+     "quote": "alanine aminotransferase (ALT) 92 IU/L"
+    },
+    {
+     "name": "aspartate aminotransferase (AST)",
+     "value": "174 IU/L",
+     "quote": "aspartate aminotransferase (AST) 174 IU/L"
+    },
+    {
+     "name": "glucose",
+     "value": "12.33 mmol/L",
+     "quote": "glucose 12.33 mmol/L"
+    },
+    {
+     "name": "urea",
+     "value": "9.5 mmol/L",
+     "quote": "urea 9.5 mmol/L"
+    },
+    {
+     "name": "creatinine",
+     "value": "323.00 μmol/L",
+     "quote": "creatinine 323.00 μmol/L"
+    },
+    {
+     "name": "serum cystatin C",
+     "value": "3.65 mg/L",
+     "quote": "serum cystatin C 3.65 mg/L"
+    },
+    {
+     "name": "creatine kinase",
+     "value": "285 IU/L",
+     "quote": "creatine kinase 285 IU/L"
+    },
+    {
+     "name": "lactate dehydrogenase",
+     "value": "864 IU/L",
+     "quote": "lactate dehydrogenase 864 IU/L"
+    },
+    {
+     "name": "prothrombin time (PT)",
+     "value": "14.3 s",
+     "quote": "prothrombin time (PT) 14.3 s"
+    },
+    {
+     "name": "activated partial thromboplastin time (APTT)",
+     "value": "123.5 s",
+     "quote": "activated partial thromboplastin time (APTT) 123.5 s"
+    },
+    {
+     "name": "pH",
+     "value": "7.33",
+     "quote": "pH 7.33"
+    },
+    {
+     "name": "albumin",
+     "value": "27 g/L",
+     "quote": "albumin 27 g/L"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "blood perfusion (at another hospital)",
+     "quote": "He had undergone two sessions of blood perfusion (unspecified) at another hospital with poor therapeutic effect."
+    },
+    {
+     "name": "CRRT and HP",
+     "quote": "CRRT and HP were performed, combined with antioxidant therapy, anti-infection, enema, and catharsis."
+    },
+    {
+     "name": "antioxidant therapy, anti-infection, enema, catharsis",
+     "quote": "CRRT and HP were performed, combined with antioxidant therapy, anti-infection, enema, and catharsis."
+    }
+   ],
+   "icu_admission": "yes (transferred to ICU and nephrology department)",
+   "outcome": "survived, discharged 12 September with obvious improvement; at 3-month follow-up diquat undetectable and blood routine, liver, kidney, coagulation function normal",
+   "outcome_quote": "he was discharged on 12 September after obvious improvement. During the follow-up of 3 months, the blood concentration of diquat was undetectable, and there were no abnormalities in the blood routine, liver function, kidney function, or coagulation function.",
+   "sequelae": "none reported at 3-month follow-up",
+   "notes": "Diagnoses also included fatty liver, metabolic acidosis, hypoproteinemia."
+  },
+  {
+   "case_id": "Case 2",
+   "age": "19 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 19-year-old female presented to our emergency department on 24 March 2023, with a history of intentional ingestion of 120 ml of diquat 10 h before.",
+   "agent": "diquat",
+   "agent_quote": "intentional ingestion of 120 ml of diquat 10 h before",
+   "route": "ingestion",
+   "circumstance": "Intentional ingestion of 120 mL of diquat 10 h before presentation.",
+   "symptoms": [
+    {
+     "finding": "inflammatory nodules left lower lung lobe on chest CT",
+     "quote": "The chest CT revealed inflammatory nodules in the left lower lobe of the lung."
+    }
+   ],
+   "time_to_care": "10 h after ingestion",
+   "labs": [
+    {
+     "name": "diquat plasma concentration",
+     "value": "5591.6 ng/ml",
+     "quote": "Laboratory tests showed a diquat plasma concentration of 5591.6 ng/ml"
+    },
+    {
+     "name": "APTT",
+     "value": "37.0 s",
+     "quote": "APTT 37.0 s"
+    },
+    {
+     "name": "thrombin time (TT)",
+     "value": "> 120 s",
+     "quote": "thrombin time (TT) > 120 s"
+    },
+    {
+     "name": "glucose",
+     "value": "6.84 mmol/L",
+     "quote": "glucose 6.84 mmol/L"
+    },
+    {
+     "name": "creatinine",
+     "value": "104.00 μmol/L",
+     "quote": "creatinine 104.00 μmol/L"
+    },
+    {
+     "name": "serum cystatin C",
+     "value": "1.55 mg/L",
+     "quote": "serum cystatin C 1.55 mg/L"
+    },
+    {
+     "name": "hemoglobin",
+     "value": "155 g/L",
+     "quote": "hemoglobin 155 g/L"
+    },
+    {
+     "name": "white blood cell count",
+     "value": "18.43 × 109/L",
+     "quote": "white blood cell count 18.43 × 109/L"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "symptomatic treatment (cefmetazole, lactulose, fluid replacement)",
+     "quote": "She was diagnosed with diquat poisoning and treated with symptomatic treatment, including cefmetazole, lactulose, and fluid replacement."
+    },
+    {
+     "name": "catharsis, anti-infection, antioxidant, blood perfusion and CRRT, hepatoprotective and gastric protective therapy",
+     "quote": "She was then transferred to the ICU for further therapy, including catharsis, anti-infection therapy, antioxidant treatment, blood purification (blood perfusion and CRRT), and hepatoprotective and gastric protective approaches based on multidisciplinary consultations."
+    }
+   ],
+   "icu_admission": "yes (transferred to the ICU)",
+   "outcome": "survived; requested voluntary discharge on March 29; good survival condition at 3-month follow-up with normal labs and undetectable diquat",
+   "outcome_quote": "On March 29th, the patient requested to be discharged voluntarily, and her survival condition was good during follow-up. Follow-up for 3 months showed normal blood routine, liver function, kidney function, or coagulation function, and the concentration of diquat was undetectable.",
+   "sequelae": "none reported at 3-month follow-up",
+   "notes": ""
+  },
+  {
+   "case_id": "Case 3",
+   "age": "23 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 23-year-old female presented to our hospital on 30 November 2021, with a history of ingesting 30–40 ml of diquat 2 days prior and vomiting a small amount afterward.",
+   "agent": "diquat",
+   "agent_quote": "ingesting 30–40 ml of diquat 2 days prior",
+   "route": "ingestion",
+   "circumstance": "Ingested 30–40 mL of diquat 2 days prior and vomited a small amount afterward; circumstances (intent) not stated in the text.",
+   "symptoms": [
+    {
+     "finding": "pale skin and sclera",
+     "quote": "Physical examination revealed pale skin and sclera, oral mucosal erosion, and non-pitting edema in both lower limbs."
+    },
+    {
+     "finding": "oral mucosal erosion",
+     "quote": "Physical examination revealed pale skin and sclera, oral mucosal erosion, and non-pitting edema in both lower limbs."
+    },
+    {
+     "finding": "non-pitting edema in both lower limbs",
+     "quote": "Physical examination revealed pale skin and sclera, oral mucosal erosion, and non-pitting edema in both lower limbs."
+    },
+    {
+     "finding": "vomiting",
+     "quote": "with a history of ingesting 30–40 ml of diquat 2 days prior and vomiting a small amount afterward"
+    },
+    {
+     "finding": "brainstem infarction, irregular respiratory rhythm, decreased SpO2, coma",
+     "quote": "On December 2, her condition worsened and she was transferred to the ICU. Brain CT indicated brainstem infarction. Her respiratory rhythm became irregular and the SpO2 was decreased."
+    }
+   ],
+   "time_to_care": "2 days after ingestion",
+   "labs": [
+    {
+     "name": "diquat plasma concentration",
+     "value": "2475.1 ng/ml",
+     "quote": "Laboratory tests on admission showed a diquat plasma concentration of 2475.1 ng/ml"
+    },
+    {
+     "name": "hemoglobin",
+     "value": "72 g/L",
+     "quote": "hemoglobin 72 g/L"
+    },
+    {
+     "name": "platelet count",
+     "value": "328 × 10∧9/L",
+     "quote": "platelet count 328 × 10∧9/L"
+    },
+    {
+     "name": "white blood cell count",
+     "value": "18.26 × 10∧9/L",
+     "quote": "white blood cell count 18.26 × 10∧9/L"
+    },
+    {
+     "name": "ALT",
+     "value": "150 IU/L",
+     "quote": "ALT 150 IU/L"
+    },
+    {
+     "name": "AST",
+     "value": "114 IU/L",
+     "quote": "AST 114 IU/L"
+    },
+    {
+     "name": "urea",
+     "value": "15.6 mmol/L",
+     "quote": "urea 15.6 mmol/L"
+    },
+    {
+     "name": "creatinine",
+     "value": "654.00 μmol/L",
+     "quote": "creatinine 654.00 μmol/L"
+    },
+    {
+     "name": "GFR",
+     "value": "7.13 ml/min/1.73 m2",
+     "quote": "glomerular filtration rate (GFR) 7.13 ml/min/1.73 m2"
+    },
+    {
+     "name": "creatine kinase",
+     "value": "14869 IU/L",
+     "quote": "creatine kinase 14869 IU/L"
+    },
+    {
+     "name": "serum potassium",
+     "value": "6.15 mmol/L",
+     "quote": "serum potassium 6.15 mmol/L"
+    }
+   ],
+   "treatment": [
+    {
+     "name": "diuretics, catharsis, fluid replacement, anti-infection therapy, CRRT combined with blood perfusion, hepatoprotective measures",
+     "quote": "Treatments including diuretics, catharsis, fluid replacement, anti-infection therapy, CRRT combined with blood perfusion, and hepatoprotective measures were performed."
+    },
+    {
+     "name": "reducing intracranial pressure, blood perfusion, antioxidant therapy, hepatoprotection, electrolyte regulation, endotracheal intubation, CRRT combined with blood perfusion",
+     "quote": "Treatments, including reducing intracranial pressure, blood perfusion, antioxidant therapy, hepatoprotection, electrolyte regulation, endotracheal intubation, and CRRT combined with blood perfusion were given to her"
+    }
+   ],
+   "icu_admission": "yes (transferred to the ICU on December 2)",
+   "outcome": "died on December 9 (remained in coma; discharged due to financial difficulties and died the same day)",
+   "outcome_quote": "Despite these efforts, she remained in a coma and was discharged on December 9 due to financial difficulties. The patient died on December 9th.",
+   "sequelae": "died; diagnosed with multi-organ damage, rhabdomyolysis, acute renal failure, liver dysfunction, moderate anemia, hyperkalemia, brainstem infarction",
+   "notes": "Intent of ingestion not stated; heart rate/respiratory rate/BP/SpO2 given (89 bpm, 19 breaths/min, 131/85 mmHg, 92%)."
+  },
+  {
+   "case_id": "Case 4",
+   "age": "14 years",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 14-year-old female with a history of depression for 1 year presented to our emergency department on 5 February 2022, approximately 14 h after intentional ingestion of diquat.",
+   "agent": "diquat",
+   "agent_quote": "approximately 14 h after intentional ingestion of diquat",
+   "route": "ingestion",
+   "circumstance": "Intentional ingestion; patient had a 1-year history of depression; underwent gastric lavage at another hospital.",
+   "symptoms": [
+    {
+     "finding": "mild dyspnea and burning sensation in throat and upper abdomen",
+     "quote": "She experienced mild dyspnea and a burning sensation in her throat and upper abdomen."
+    },
+    {
+     "finding": "oliguria",
+     "quote": "She had oliguria."
+    },
+    {
+     "finding": "low urine output and generalized edema",
+     "quote": "The patient had a low urine output and generalized edema."
+    }
+   ],
+   "time_to_care": "approximately 14 h after ingestion",
+   "labs": [
+    {
+     "name": "diquat plasma concentration",
+     "value": "4512.26 ng/ml",
+     "quote": "Laboratory tests showed a diquat plasma concentration of 4512.26 ng/ml"
+    },
+    {
+     "name": "ALT",
+     "value": "112 IU/L",
+     "quote": "ALT 112 IU/L"
+    },
+    {
+     "name": "AST",
+     "value": "216 IU/L",
+     "quote": "AST 216 IU/L"
+    },
+    {
+     "name": "glucose",
+     "value": "7.55 mmol/L",
+     "quote": "glucose 7.55 mmol/L"
+    },
+    {
+     "name": "creatinine",
+     "value": "214.00 μmol/L",
+     "quote": "creatinine 214.00 μmol/L"
+    },
+    {
+     "name": "GFR",
+     "value": "29.12 ml/min/1.73 m2",
+     "quote": "GFR 29.12 ml/min/1.73 m2"
+    },
+    {
+     "name": "uric acid",
+     "value": "552 μmol/L",
+     "quote": "uric acid 552 μmol/L"
+    },
+    {
+     "name": "PT",
+     "value": "9.2 s",
+     "quote": "PT 9.2 s"
+    },
+    {
+     "name": "APTT",
+     "value": "22.2 s",
+     "quote": "APTT 22.2 s"
+    },
+    {
+     "name": "white blood cell count",
+     "value": "17.76 × 109/L",
+     "quote": "white blood cell count 17.76 × 109/L"
+    },
+    {
+     "name": "creatinine (after treatment)",
+     "value": "427 μmol/L",
+     "quote": "creatinine 427 μmol/L"
+    },
+    {
+     "name": "eGFR (after treatment)",
+     "value": "12.63 ml/min/1.73 m2",
+     "quote": "estimated glomerular filtration rate (eGFR) 12.63 ml/min/1.73 m2"
+    },
+    {
+     "name": "myoglobin",
+     "value": "66.41 ng/ml",
+     "quote": "myoglobin 66.41 ng/ml"
+    },
+    {
+     "name": "NT-proBNP",
+     "value": "> 35,000 ng/L",
+     "quote": "NT-proBNP > 35,000 ng/L"
+    },
+    {
+     "name": "troponin T",
+     "value": "30.2 ng/L",
+     "quote": "troponin T 30.2 ng/L"
+    },
+    {
+     "name": "serum creatinine (3-month follow-up)",
+     "value": "287 μmol/L",
+     "quote": "Serum creatinine was 287 μmol/L with an eGFR of 20.63 mL/min/1.73 m2, and NT-proBNP was 900 ng/L, indicating chronic renal insufficiency and chronic cardiac dysfunction."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage (at another hospital)",
+     "quote": "The patient immediately underwent gastric lavage at another hospital."
+    },
+    {
+     "name": "antioxidant therapy, anti-infection measures, fluid replacement, blood perfusion combined with CRRT",
+     "quote": "Treatment approaches, including antioxidant therapy, anti-infection measures, fluid replacement, and blood perfusion combined with CRRT were given."
+    },
+    {
+     "name": "anti-infection, diuresis, and blood purification",
+     "quote": "After symptomatic supportive treatments such as anti-infection, diuresis, and blood purification, the creatinine level decreased significantly, and the patient’s condition stabilized."
+    }
+   ],
+   "icu_admission": "UNVERIFIED (no explicit ICU admission stated; managed with blood purification and later nephrology department care)",
+   "outcome": "survived; condition stabilized and discharged on March 9; at 3-month follow-up diquat undetectable, blood count/liver/coagulation normal, but chronic renal insufficiency and chronic cardiac dysfunction",
+   "outcome_quote": "The patient was discharged on March 9th. At the 3-month follow-up after discharge, diquat was undetectable in the blood. Complete blood count, liver function, and coagulation parameters were within normal limits. Serum creatinine was 287 μmol/L with an eGFR of 20.63 mL/min/1.73 m2, and NT-proBNP was 900 ng/L, indicating chronic renal insufficiency and chronic cardiac dysfunction.",
+   "sequelae": "chronic renal insufficiency and chronic cardiac dysfunction at 3-month follow-up",
+   "notes": "Diagnoses included stage 3 acute kidney injury, liver insufficiency, cardiac insufficiency, depression, gastrointestinal bleeding, pulmonary infection."
+  }
+ ]
+}

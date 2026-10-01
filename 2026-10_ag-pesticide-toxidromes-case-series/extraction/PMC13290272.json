@@ -1,0 +1,83 @@
+{
+ "pmcid": "PMC13290272",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "en",
+ "cases": [
+  {
+   "case_id": "PMC13290272-c1",
+   "age": "29",
+   "sex": "female",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 29-year-old female presented in a local hospital emergency with an alleged history of ingestion of gramashru (Paraquat dichloride 24%).",
+   "agent": "paraquat dichloride 24% (ingested as 'gramashru')",
+   "agent_quote": "alleged history of ingestion of gramashru (Paraquat dichloride 24%)",
+   "route": "oral ingestion",
+   "circumstance": "intentional ingestion suspected; she was a known case of schizophrenia on antipsychotics for 6 years (not explicitly stated as intentional)",
+   "symptoms": [
+    {
+     "finding": "AKI and electrolyte imbalance",
+     "quote": "Renal function test showed acute kidney injury (AKI) and electrolyte imbalance."
+    },
+    {
+     "finding": "raised bilirubin and transaminitis",
+     "quote": "Liver function test showed raised total bilirubin level and transaminitis."
+    },
+    {
+     "finding": "pulmonary fibrosis with ARDS on HRCT",
+     "quote": "High-resolution computed tomography (HRCT) chest was done which was suggestive of pulmonary fibrosis with acute respiratory distress syndrome."
+    },
+    {
+     "finding": "oral mucosal lesions",
+     "quote": "Mucosal lesions were present on the mouth and tongue."
+    },
+    {
+     "finding": "hypoxaemia at referral (SpO2 88% on room air)",
+     "quote": "Her vitals at the time of presentation were BP-110/70 mmHg, PR- 105/min, RR-26/min, Temp-Afebrile, Spo2- 88% on room air."
+    }
+   ],
+   "time_to_care": "presented to local hospital on day of ingestion; referred to tertiary hospital on day 4",
+   "labs": [
+    {
+     "name": "Hb",
+     "value": "10.9 mg/dl (as printed)",
+     "quote": "Laboratory investigation revealed Hb–10.9 mg/dl, TLC-9.63 103/mm3, low platelet count 100 × 103/mm3."
+    },
+    {
+     "name": "TLC",
+     "value": "9.63 ×10^3/mm3 (as printed)",
+     "quote": "Laboratory investigation revealed Hb–10.9 mg/dl, TLC-9.63 103/mm3, low platelet count 100 × 103/mm3."
+    },
+    {
+     "name": "platelets",
+     "value": "low, 100 ×10^3/mm3 (as printed)",
+     "quote": "Laboratory investigation revealed Hb–10.9 mg/dl, TLC-9.63 103/mm3, low platelet count 100 × 103/mm3."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "Fuller's earth decontamination",
+     "quote": "Immediately, Fuller's earth was used to minimize adsorption."
+    },
+    {
+     "name": "hemodialysis (local hospital, day of ingestion)",
+     "quote": "One session of hemodialysis was done at a local hospital on the day of ingestion of poison."
+    },
+    {
+     "name": "therapeutic plasma exchange, 1.5 plasma volumes with FFP",
+     "quote": "One and a half plasma volume exchange was done with 100% replacement with FFP on the Spectra Optia apheresis system"
+    },
+    {
+     "name": "IV antibiotics, steroids, supportive care; intubation and vasopressors",
+     "quote": "The patient appeared sick, was intubated, and put on vasopressor support."
+    }
+   ],
+   "icu_admission": "UNVERIFIED (ICU not explicitly stated; intubated and on vasopressor support)",
+   "outcome": "initial improvement after TPE then clinical worsening; death not explicitly stated",
+   "outcome_quote": "The patient exhibited significant improvement following a 1.5-volume plasma exchange, which can be attributed to the elimination of toxins. Nevertheless, the patient’s condition worsened, indicating that in cases of severe systemic paraquat poisoning, even with pro",
+   "sequelae": "UNVERIFIED",
+   "notes": "Extraction done directly from source text PMC13290272.txt by primary agent after filename-rotation incident destroyed the original JSON; quotes copy-pasted verbatim from the converted source text. Exposure context: ingestion with psychiatric history; agricultural agent in occupational-health series as non-occupational subcohort."
+  }
+ ]
+}

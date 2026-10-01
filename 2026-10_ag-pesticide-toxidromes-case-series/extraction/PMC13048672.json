@@ -1,0 +1,92 @@
+{
+ "pmcid": "PMC13048672",
+ "case_type": "case report",
+ "suitable": true,
+ "unsuitable_reason": null,
+ "language": "English",
+ "cases": [
+  {
+   "case_id": "Case 1",
+   "age": "40 years",
+   "sex": "male",
+   "exposure_context": "non-occupational",
+   "exposure_context_quote": "A 40-year-old Nepali male presented with alleged history of suicidal ingestion of 30 ml of Amitraz (12.5% W/V) following a dispute with his wife under influence of alcohol was presented to emergency room of Lumbini Provincial Hospital, Rupandehi, Nepal after 1 hour of ingestion.",
+   "agent": "amitraz (12.5% W/V), 30 mL (~3750 mg, 46.8 mg/kg)",
+   "agent_quote": "suicidal ingestion of 30 ml of Amitraz (12.5% W/V) ... This patient ingested approximately 3750 mg orally (46.8 mg/kg).",
+   "route": "ingestion (oral)",
+   "circumstance": "Suicidal ingestion following a dispute with his wife, under the influence of alcohol.",
+   "symptoms": [
+    {
+     "finding": "three episodes of non-projectile vomiting and epigastric pain",
+     "quote": "He had three episodes of non-projectile vomiting and pain in the epigastric region."
+    },
+    {
+     "finding": "hypotension (BP 100/70 mmHg) and bradycardia (radial pulse 52 bpm)",
+     "quote": "His Blood pressure was 100/70 mmHg in right brachial artery, radial pulse was 52 beats per minute, SpO2 was 96% in room air, respiratory rate was 15 breaths/minutes, temperature 97°F and GRBS 119 mg/dL."
+    },
+    {
+     "finding": "bilateral pinpoint pupils, sluggish to light",
+     "quote": "On examination, his both pupils were pin-point and sluggish to reaction to light."
+    },
+    {
+     "finding": "sinus bradycardia on ECG",
+     "quote": "Twelve leads electrocardiograph (ECG) showed sinus bradycardia (Fig. 1)."
+    },
+    {
+     "finding": "decreased consciousness (GCS E1V2M3) with respiratory depression (RR 9/min) 40–60 min after presentation",
+     "quote": "After 40–60 minutes of emergency presentation his Glasgow Coma Scale (GCS) dropped to E1V2M3 with respiratory rate of 9 breaths/minute."
+    }
+   ],
+   "time_to_care": "1 hour after ingestion",
+   "labs": [
+    {
+     "name": "GRBS (random glucose)",
+     "value": "119 mg/dL",
+     "quote": "temperature 97°F and GRBS 119 mg/dL"
+    },
+    {
+     "name": "ECG",
+     "value": "sinus bradycardia, then sinus tachycardia post-atropine challenge",
+     "quote": "Twelve leads electrocardiograph (ECG) showed sinus bradycardia (Fig. 1). ... His 12 leads ECG showed sinus tachycardia (Fig. 2) post-atropine challenge test."
+    },
+    {
+     "name": "arterial blood gas",
+     "value": "normal",
+     "quote": "His arterial blood gas (ABG) was normal."
+    },
+    {
+     "name": "blood parameters incl. thyroid function test and ABG (day 3)",
+     "value": "normal",
+     "quote": "he was extubated as he was hemodynamically stable, and his blood parameters were normal including thyroid function test (TFT) and ABG."
+    }
+   ],
+   "treatment": [
+    {
+     "name": "gastric lavage with normal saline and activated charcoal (1 g/kg), within 30 min of presentation",
+     "quote": "Gastric lavage was done within 30 minutes of presentation to emergency with normal saline and activated charcoal (1 g/kg), and patient was given 500 mL of 0.9% normal saline and 1.2 mg of atropine intravenously."
+    },
+    {
+     "name": "atropine 1.2 mg IV (atropine challenge test)",
+     "quote": "patient was given 500 mL of 0.9% normal saline and 1.2 mg of atropine intravenously. This resulted in an increased heart rate to 114 bpm indicating atropine challenge test to be positive."
+    },
+    {
+     "name": "intubation under IV ketamine and midazolam; ICU mechanical ventilation",
+     "quote": "He was then intubated in the emergency room under proper sedation with intravenous ketamine and midazolam. Patient was then shifted to intensive care unit (ICU) for mechanical ventilation."
+    },
+    {
+     "name": "symptomatic treatment: IV fluids, prophylactic antibiotics, sedation with IV midazolam and fentanyl",
+     "quote": "As there is no known antidote for amitraz, only symptomatic treatment was done, which includes intravenous fluids, prophylactic antibiotics, sedation by intravenous midazolam and fentanyl."
+    },
+    {
+     "name": "extubation day 3; psychiatric consultation; sertraline prescribed",
+     "quote": "On the third day he was extubated ... He was prescribed Sertraline and advised to follow-up in 2 weeks."
+    }
+   ],
+   "icu_admission": "yes (shifted to ICU for mechanical ventilation; extubated day 3, medical ward day 4)",
+   "outcome": "survived; discharged on day 5 after psychiatric consultation; at 2-week follow-up basic blood investigations normal and treated per depression guidelines",
+   "outcome_quote": "On the fourth day, he was shifted to medical ward and on fifth day he was discharged from ward after psychiatric consultation. He was prescribed Sertraline and advised to follow-up in 2 weeks. After 2 weeks he came back for follow-up in the medical and psychiatric outpatient department. His basic blood investigations came normal and was treated accordingly based on depression guidelines.",
+   "sequelae": "none — no neurological deficit and no cardiovascular symptoms at extubation",
+   "notes": "Authors note amitraz poisoning can be misdiagnosed as organophosphate/carbamate poisoning; atropine challenge test positive argued against OP poisoning."
+  }
+ ]
+}

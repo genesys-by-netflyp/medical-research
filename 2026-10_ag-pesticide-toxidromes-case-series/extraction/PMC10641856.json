@@ -1,0 +1,43 @@
+{
+  "pmcid": "PMC10641856",
+  "case_type": "case report",
+  "suitable": true,
+  "unsuitable_reason": null,
+  "language": "English",
+  "cases": [
+    {
+      "case_id": "PMC10641856_case_1",
+      "age": "38 years",
+      "sex": "male",
+      "exposure_context": "non-occupational",
+      "exposure_context_quote": "History taken with the relatives revealed the patient had taken half a glass of around 100 ml of insecticide thiamethoxam and lambda-cyclothrin in an alcohol-intoxicated state in the afternoon, after which he had intractable vomiting and became unconscious.",
+      "agent": "Thiamethoxam and lambda-cyhalothrin (neonicotinoid + pyrethroid insecticide combination), ~100 ml",
+      "agent_quote": "A 38-year-old male was brought to our hospital by his relatives ... History taken with the relatives revealed the patient had taken half a glass of around 100 ml of insecticide thiamethoxam and lambda-cyclothrin in an alcohol-intoxicated state in the afternoon",
+      "route": "oral ingestion",
+      "circumstance": "Suicide attempt: brought to hospital \"after he had ingested this insecticide in an alcohol-intoxicated state to end his life\"",
+      "symptoms": [
+        {"finding": "partially rigid posture with gasping type of breathing; GCS 5/15; hypotension; SpO2 60% on room air", "quote": "A 38-year-old male was brought to our hospital by his relatives in a partially rigid posture with a gasping type of breathing. His Glasgow coma scale (GCS) on admission was 5/15 E1V2M2 with a pulse rate of 100 per minute, blood pressure of 70/50 mmHg, oxygen saturation of 60% on room air, and a blood sugar level of 66 mg/dl."},
+        {"finding": "generalized tonic-clonic seizure with uprolling of eyeballs, frothing, involuntary micturition en route", "quote": "On the way to the hospital, the patient had thrown an episode of generalized tonic-clonic seizures with uprolling of the eyeballs, frothing from the mouth, and involuntary micturition in his clothes for a minute, after which his body went into a partially rigid state."},
+        {"finding": "intractable vomiting followed by unconsciousness", "quote": "in an alcohol-intoxicated state in the afternoon, after which he had intractable vomiting and became unconscious."}
+      ],
+      "time_to_care": "UNVERIFIED (ingestion in the afternoon; exact interval to hospital arrival not stated)",
+      "labs": [
+        {"name": "blood sugar", "value": "66 mg/dl", "quote": "His Glasgow coma scale (GCS) on admission was 5/15 E1V2M2 with a pulse rate of 100 per minute, blood pressure of 70/50 mmHg, oxygen saturation of 60% on room air, and a blood sugar level of 66 mg/dl."},
+        {"name": "arterial blood gas", "value": "metabolic acidosis with bicarbonate deficit of 432 mmol", "quote": "Arterial blood gas analysis of the patient upon arrival revealed metabolic acidosis with a bicarbonate deficit of 432 mmol."}
+      ],
+      "treatment": [
+        {"name": "endotracheal intubation and mechanical ventilation", "quote": "Given low GCS and hypoxia, immediate endotracheal intubation was done, and mechanical ventilator support was commenced."},
+        {"name": "fluid resuscitation and noradrenaline", "quote": "Adequate fluid resuscitation and Inj. Noradrenaline support at 8mg in 50 ml of normal saline (NS) at 3 ml/hr was started."},
+        {"name": "sodium bicarbonate", "quote": "An injection of bicarbonate (150 mEq IV stat f/b 150 mEq IV three times a day (TDS)"},
+        {"name": "levetiracetam", "quote": "injection of levetiracetam (1 gm IV loading followed by 500mg IV twice a day (BD))"},
+        {"name": "hydrocortisone", "quote": "injection of hydrocortisone (100mg IV stat followed by 100mg IV BD), and injection of pheniramine (2 mL IV stat) were also administered."},
+        {"name": "T-piece trial day 2, extubation day 3", "quote": "Supportive management was continued; the patient was weaned from the mechanical ventilator, and a T-piece trial was given on the second day, followed by extubation on the third day."}
+      ],
+      "icu_admission": "UNVERIFIED (ventilated and sedated for one day; explicit ICU admission not stated)",
+      "outcome": "survived; weaned, extubated, shifted to ward, discharged after three further days of monitoring; follow-up uneventful",
+      "outcome_quote": "The patient was later shifted to the ward, and counseling sessions were undertaken by the psychiatrist. The patient was monitored for another three days and discharged. Follow-up has been uneventful.",
+      "sequelae": "None mentioned in text (follow-up uneventful)",
+      "notes": "Serum cholinesterase was sent but no result reported in text."
+    }
+  ]
+}

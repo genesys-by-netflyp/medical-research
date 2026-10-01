@@ -1,0 +1,137 @@
+== ARTICLE TITLE ==
+Acute paraquat poisoning complicated by acute kidney injury and lung fibrosis: a case report from Nepal
+
+== ABSTRACT ==
+AbstractIntroduction and importance:While incidents are rare elsewhere, paraquat herbicide poisoning is a serious medical issue in some parts of Asia. It can cause the failure of various organs, including the heart, kidneys, liver, adrenal glands, central nervous system, muscles, and spleen. Due to its inherent toxicity and lack of available therapies, paraquat has a very high case fatality rate.Case presentation:The authors discuss a case of a 15-year-old female with an alleged history of paraquat ingestion who presented with complaints of vomiting, abdominal pain, and loose stools. Initially, she had gastrointestinal symptoms, but she developed renal failure and respiratory symptoms and died of multiple organ failure.Clinical discussion:Acute gastrointestinal tract necrosis and multiorgan failure are the initial effects of paraquat intake, and among those who survive the immediate post-ingestion interval, the lung is the target organ for poisoning. Ingestion of large amounts of liquid concentrates results in fulminant organ failure: pulmonary edema, cardiac, renal, and hepatic failure, and convulsions. The course of treatment can range from supportive care alone to various integration of immune modulation, antioxidant therapy, hemoperfusion, and hemodialysis.Conclusion:Patients presenting to the emergency department with an alleged history of ingestion of paraquat poisoning should be admitted even if they have mild symptoms initially. There is no specific antidote available. Early renal failure, along with progressive pulmonary fibrosis, can lead to death.Keywords: case report, hemodialysis, paraquat poisoning, pulmonary fibrosis, renal failure
+
+== Introduction and importance: ==
+
+While incidents are rare elsewhere, paraquat herbicide poisoning is a serious medical issue in some parts of Asia. It can cause the failure of various organs, including the heart, kidneys, liver, adrenal glands, central nervous system, muscles, and spleen. Due to its inherent toxicity and lack of available therapies, paraquat has a very high case fatality rate.
+
+== Case presentation: ==
+
+The authors discuss a case of a 15-year-old female with an alleged history of paraquat ingestion who presented with complaints of vomiting, abdominal pain, and loose stools. Initially, she had gastrointestinal symptoms, but she developed renal failure and respiratory symptoms and died of multiple organ failure.
+
+== Clinical discussion: ==
+
+Acute gastrointestinal tract necrosis and multiorgan failure are the initial effects of paraquat intake, and among those who survive the immediate post-ingestion interval, the lung is the target organ for poisoning. Ingestion of large amounts of liquid concentrates results in fulminant organ failure: pulmonary edema, cardiac, renal, and hepatic failure, and convulsions. The course of treatment can range from supportive care alone to various integration of immune modulation, antioxidant therapy, hemoperfusion, and hemodialysis.
+
+== Conclusion: ==
+
+Patients presenting to the emergency department with an alleged history of ingestion of paraquat poisoning should be admitted even if they have mild symptoms initially. There is no specific antidote available. Early renal failure, along with progressive pulmonary fibrosis, can lead to death.
+
+Keywords: case report, hemodialysis, paraquat poisoning, pulmonary fibrosis, renal failure
+
+Received 2023 Jun 3; Accepted 2023 Aug 2; Collection date 2023 Oct.
+
+== Introduction ==
+
+While paraquat poisoning is infrequent elsewhere, it is a significant medical issue in some parts of Asia. Up to 25 million agricultural workers in the developing world may have a poisoning episode each year, according to an analysis of self-reported mild poisoning conducted in the Asian region1. Due to its low cost and high effectiveness as a pesticide, it initially served to eradicate marijuana weeds in Mexico and the United States2.
+
+Paraquat can be absorbed by the skin and respiratory tract and is strongly toxic to humans and animals3. Due to its inherent toxicity and lack of available therapies, paraquat has a very high case fatality rate. The generation of intracellular reactive oxygen species, which results in cellular damage through lipid peroxidation, nuclear factor kappa B activation, mitochondrial damage, and apoptosis, is primarily responsible for the clinical signs of paraquat poisoning4. Despite a concentration gradient, paraquat readily penetrates lung tissue, causing lung fibrosis and pneumonitis. Moreover, it harms several organs, including the heart, kidneys, liver, adrenal glands, central nervous system (CNS), muscles, and spleen, leading to multiple organ failures4.
+
+Herein, we discuss a case of a 15-year-old female with an alleged history of paraquat ingestion who presented with complaints of vomiting, abdominal pain, and loose stools. Initially, she had gastrointestinal symptoms, and her initial creatinine level was 4.3 mg/dl but with time, she started to have respiratory symptoms and an elevated creatinine level of 8.8 mg/dl. Eventually, she died of multiple organ failure. This study also aims to highlight how the symptoms progress over time and the management of paraquat poisoning. The case has been reported in line with SCARE (Surgical CAse REport) 2020 guidelines5.
+
+== Case presentation ==
+
+Fifteen years old Nepali female was brought to the emergency department of our academic hospital with an alleged history of chemical poison ingestion 2 days ago, followed by vomiting and difficulty swallowing for 2 days. She started having multiple episodes of vomiting following the ingestion, which was nonprojectile, non-bilious, not blood-stained, and containing food particles. Vomiting was associated with generalized pain abdomen and two to three episodes of greenish-colored loose stool for a day. For these symptoms, she was taken to the nearby medical center, where she was found to have consumed about 10 ml of paraquat. However, she did not have shortness of breath, chest pain, loss of consciousness, abnormal body movements, frothing from the mouth, fever, limb swelling, or rashes. There was neither significant past medical, surgical, or family history nor history of any drug use. Due to these complaints, she was brought to a nearby private hospital, where she was admitted to Paediatric Intensive Care Unit (PICU) and managed. Nevertheless, her condition deteriorated and she started having difficulty swallowing food and liquids, so she was shifted to our center for further management.
+
+On examination, she was in distress, moderately built, and conscious. Her Glasgow Coma Scale (GCS) score was 15/15; she was oriented to time, place, and person. Vital signs were stable initially and general examination was non-revealing. Likewise, systemic examinations were also unremarkable.
+
+With these complaints, she was admitted to the pediatric ward for further evaluation and management. Her baseline investigations were notable for elevated creatinine of 4.3 and raised bilirubin (total 6.6 mg/dl, direct 4.5 mg/dl) besides normal hematological parameters, electrolytes, and cardiac enzymes level. She has been managed conservatively with tablet dexamethasone 4 mg, cefepime 1 g, and N-acetyl cysteine at 70 mg/h via the parenteral route.
+
+Her initial chest X-ray was found to be normal. After the baseline investigations were obtained, she was diagnosed with acute paraquat poisoning complicated by acute kidney injury.
+
+On the third day of admission, she started having shortness of breath, increased oxygen requirement, decreased urine output, and chest pain. Oxygen was supplemented via noninvasive ventilation for respiratory distress, and dexamethasone was also used. She was then shifted to ICU for hemodialysis.
+
+The review of her baseline investigations and general condition the next day showed her creatinine level was still high, so the second session of hemodialysis was done. The antibiotic was also upgraded to meropenem 1 g and vancomycin 500 mg via the parenteral route. Despite this, she was persistently agitated, complained of chest pain, and was unable to maintain oxygen saturation, so she was intubated.
+
+Her condition improved from the fifth day onward, and baseline investigations normalized. However, on day 12 of admission, her condition again started deteriorating suddenly with increasing difficulty breathing, chest pain, and altered mental status. Arterial blood gas (ABG) analysis revealed metabolic alkalosis with pH 7.50, PaCO2=42.6, PaO2=60.2, and HCO3=33.8, while her serum urea and creatinine were still deranged.
+
+Chest X-ray showed fibrotic changes over bilateral lung fields and features suggestive of acute respiratory distress syndrome (ARDS), as shown in Figure 1.
+
+Therefore, based on the chest X-ray and ABG finding, ARDS was supposed, and mechanical ventilation was continued. In addition, she required vasopressor (noradrenaline) support to maintain her blood pressure. Gradually, her condition improved, but she still had difficulty maintaining oxygen saturation and blood pressure, so her management in ICU was continued. At that time, noradrenaline and vasopressin were both used.
+
+However, on day 19 of admission, her condition deteriorated. She had bradycardia, became increasingly hypoxic, and her renal and liver functions deteriorated. Her creatinine level was 8.8 mg/dl. She became nonresponsive to the therapy provided and eventually died of multiorgan failure.
+
+== Clinical discussion ==
+
+This case represents a typical presentation of paraquat poisoning with presenting symptoms of vomiting, pain abdomen, and loose stools. The diagnosis was confirmed with the mother showing the bottle containing the herbicide. Paraquat has been demonstrated in animals to induce complete oxidation of both nicotinamide adenine dinucleotide phosphate (NADPH) and nicotinamide adenine dinucleotide (reduced form) (NADH) and enhance lipid peroxidation, while the mechanism of harm in humans has not been fully understood6.
+
+The target organ for toxicity in individuals who survive the immediate post-ingestion period is the lung, even though paraquat ingestion causes acute gastrointestinal tract necrosis and multiorgan failure7. In terms of clinical classification, there are three levels of intoxication; mild poisoning (intake of less than 20 mg of paraquat ion/kg body weight), moderate to severe poisoning (20–40 mg), and acute fulminant toxicity (>40 mg)8. Ingestion of large amounts of liquid concentrate (>50–100 ml of 20% ion weight/volume) results in fulminant organ failure: pulmonary edema, cardiac, renal, and hepatic failure, and convulsions due to CNS involvement4.
+
+Smaller doses frequently cause toxicity in the kidneys and lungs, the two primary target organs, over the course of the following 2–6 days. Renal failure develops quite rapidly, and creatinine and/or cystatin-C concentrations can be monitored over the first day to detect this group, and these also predict long-term outcomes4. The toxins build up in the lung tissue, causing the oxidation of lipids, the production of free radicals, and the depletion of NADPH . Diffuse alveolitis results from this, and severe lung fibrosis follows9. Because the kidneys are the main organs responsible for excreting paraquat, individuals exposed to it and with severe acute renal failure have a prolonged half-life of paraquat and a significantly higher mortality rate10.
+
+There are no widely accepted recommendations for treating those who have self-inflicted paraquat poisoning, and the course of treatment can range from supportive care alone to different combinations of immune modulation, antioxidant therapy, hemoperfusion, and hemodialysis4. Treatment can range from general treatment of poisoning (aiming to decontaminate the gut and minimize absorption) to hypo-oxygenation, lung radiotherapy, hemodialysis, and hemoperfusion, but the results are controversial8. Steroid treatment may decrease inflammation due to paraquat poisoning11. As a result, steroid therapy may be successful in treating paraquat poisoning (after traditional remedies fail), as lung inflammation may be a major factor in patients’ potentially fatal hypoxemia12. There are no recognized treatments for paraquat poisoning, and increased clearance methods like hemoperfusion are not beneficial. This is consistent with an oxidant process; additional oxygen and radiation therapy may worsen things6.
+
+Our patient had initially presented with gastrointestinal features and subsequently developed renal failure requiring hemodialysis. She developed pulmonary symptoms and acute respiratory distress syndrome during her hospital stay. Nevertheless, we decided to treat our patient with hemodialysis, steroid, and supportive management.
+
+The strength of this case report is that it provides valuable insights regarding the clinical presentation, progression, and management of paraquat poisoning. However, it is limited by being a single case report requiring further research and larger studies to enhance our understanding of the poisoning and its management.
+
+== Conclusion ==
+
+Both paraquat’s inherent toxicity and the lack of any effective treatments contribute to its extremely high case fatality rate. The patient may present to the hospital with mild symptoms, but the prognosis depends on the amount ingested and the time of arrival. Hence every patient with an alleged history of paraquat poisoning should be admitted, monitored, and managed promptly.
+
+== Ethical approval ==
+
+For a case report, ethical approval is waived at our institution.
+
+== Consent ==
+
+Written informed consent was obtained from the patient for the publication of this case report and accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal on request.
+
+== Sources of funding ==
+
+Authors received no funding for this study.
+
+== Author contribution ==
+
+R.K.Y.: led data collection and contributed to writing the case information; S.G: literature review, led data collection, revising, and editing the manuscript; S.K.: concept of study, revising, and editing the rough draft into the final manuscript; S.L.: literature review, writing an initial manuscript draft, revising, and editing the manuscript; S.T.: literature review, led data collection, revising, and editing the manuscript; M.P.: literature review, revising, and editing the manuscript. All authors were involved in manuscript drafting and revising and approved the final version.
+
+== Conflicts of interest disclosure ==
+
+There are no conflicts of interest.
+
+== Research registration unique identifying number (UIN) ==
+
+Not applicable.
+
+== Guarantor ==
+
+Dr Saurab Karki.
+
+== Data availability statement ==
+
+Data sharing is not applicable to this article.
+
+== Provenance and peer review ==
+
+Not commissioned, externally peer-reviewed.
+
+== Acknowledgements ==
+
+We acknowledge Bibek Timilsina for his valuable comments and review.
+
+== Footnotes ==
+
+== Contributor Information ==
+
+Rupesh K. Yadav, Email: rupeshyadav4232@gmail.com.
+
+Shekhar Gurung, Email: drshekhargurung@gmail.com.
+
+Saurab Karki, Email: saurabkarki1010@gmail.com.
+
+Susan Lama, Email: susar.lama@naihs.edu.np.
+
+Shrejung Tamang, Email: Sherjungtamang7@gmail.com.
+
+Manish Poudel, Email: Poudelmanish1@gmail.com.
+
+== References ==
+
+== Associated Data ==
+
+== Data Availability Statement ==
+
+Data sharing is not applicable to this article.
