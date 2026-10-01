@@ -30,12 +30,12 @@ Metagenomic next-generation sequencing (mNGS) is increasingly used to diagnose i
 
 ## Status
 - [x] Protocol written
-- [ ] Search executed
-- [ ] Screening CSV generated → awaiting HUMAN SCREENING REVIEW (end-of-run)
-- [ ] Full-text data extraction
+- [x] Search executed
+- [x] Screening CSV generated → awaiting HUMAN SCREENING REVIEW (end-of-run)
+- [x] Full-text data extraction
 - [ ] Extraction spot-check → awaiting HUMAN EXTRACTION REVIEW (end-of-run)
-- [ ] Statistical analysis + figures
-- [ ] Manuscript draft
+- [x] Statistical analysis + figures
+- [x] Manuscript draft
 - [ ] HUMAN FINAL REVIEW
 - [ ] Ready for submission
 
