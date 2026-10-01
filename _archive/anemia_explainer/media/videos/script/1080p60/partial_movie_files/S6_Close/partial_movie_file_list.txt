@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/433431764_3053715771_223132457.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_4155926595_1585539931.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_499328632_3292205138.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_3158013684_691226297.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_3049464482_4043974176.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_696955689_3064402212.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_4039060768_3848423058.mp4'
+file 'file:/opt/data/medical-research/_archive/anemia_explainer/media/videos/script/1080p60/partial_movie_files/S6_Close/179185522_174116396_2358810818.mp4'

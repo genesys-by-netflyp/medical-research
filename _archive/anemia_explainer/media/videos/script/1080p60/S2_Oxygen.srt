@@ -1,0 +1,4 @@
+1
+00:00:10,900 --> 00:00:13,900
+Each hemoglobin carries oxygen — less Hb means less oxygen delivered.
+

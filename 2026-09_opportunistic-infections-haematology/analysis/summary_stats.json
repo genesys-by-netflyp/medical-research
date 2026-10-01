@@ -1,0 +1,30 @@
+{
+ "n_cases": 10,
+ "n_sources": 7,
+ "median_age": 18,
+ "age_range": [
+  2,
+  47
+ ],
+ "age_reported": 9,
+ "paediatric": 4,
+ "adult": 5,
+ "male": 3,
+ "female": 7,
+ "aml": 5,
+ "all_": 5,
+ "species_identified": 8,
+ "c_tropicalis": 4,
+ "c_albicans": 3,
+ "c_parapsilosis": 1,
+ "iris": 3,
+ "surgery": 4,
+ "mortality": 0,
+ "resolved_or_in_remission": 8,
+ "lost_to_followup": 1,
+ "fulltext_verified": true,
+ "languages": [
+  "English",
+  "Chinese"
+ ]
+}

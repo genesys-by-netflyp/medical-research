@@ -1,0 +1,7 @@
+*/analysis/maenv
+maenv/
+__pycache__/
+cache/
+*.pyc
+secrets*
+*.env

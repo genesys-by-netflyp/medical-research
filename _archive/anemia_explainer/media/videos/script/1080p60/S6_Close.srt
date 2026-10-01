@@ -1,0 +1,4 @@
+1
+00:00:05,800 --> 00:00:08,800
+Treat the cause, not just the number.
+

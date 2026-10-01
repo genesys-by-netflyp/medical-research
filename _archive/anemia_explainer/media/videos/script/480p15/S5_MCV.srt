@@ -1,0 +1,8 @@
+1
+00:00:02,600 --> 00:00:06,600
+Microcytic, normocytic, macrocytic — the MCV organizes the differential.
+
+2
+00:00:10,066 --> 00:00:13,066
+Ferritin, hemolysis screen or B12 next — guided by the column.
+

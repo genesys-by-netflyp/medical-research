@@ -1,0 +1,6 @@
+file 'media/videos/script/1080p60/S1_Title.mp4'
+file 'media/videos/script/1080p60/S2_Oxygen.mp4'
+file 'media/videos/script/1080p60/S3_Definition.mp4'
+file 'media/videos/script/1080p60/S4_Mechanisms.mp4'
+file 'media/videos/script/1080p60/S5_MCV.mp4'
+file 'media/videos/script/1080p60/S6_Close.mp4'

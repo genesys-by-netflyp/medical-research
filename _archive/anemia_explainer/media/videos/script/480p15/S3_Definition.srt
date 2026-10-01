@@ -1,0 +1,4 @@
+1
+00:00:01,800 --> 00:00:05,800
+WHO defines anemia as Hb below 13 in men, 12 in women, 11 in pregnancy.
+

@@ -1,0 +1,54 @@
+{
+  "page": {"size": "A4", "margins_mm": {"top": 25, "bottom": 25, "left": 25, "right": 25}},
+  "footer": "DRAFT v0.1 — for human review only. AI-assisted literature synthesis; all data abstract-level, UNVERIFIED fields pending full-text check.",
+  "styles": [
+    {"name": "JournalBody", "font": "Times New Roman", "size": 11, "space_after_pt": 6}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 1, "text": "Chronic disseminated candidiasis in acute leukaemia: a literature-derived case series of 24 reported cases, 2001–2024"},
+    {"type": "paragraph", "text": "Draft manuscript — CARE-compliant case-series synthesis. Prepared with AI-assisted search, screening and extraction; requires full author review (see human_review.md)."},
+    {"type": "heading", "level": 2, "text": "Abstract"},
+    {"type": "paragraph", "text": "Background: Chronic disseminated candidiasis (CDC; formerly hepatosplenic candidiasis) is a distinctive invasive fungal infection occurring predominantly in patients with acute leukaemia during or after prolonged neutropenia. Evidence is limited to single case reports and small series. Methods: We searched Europe PMC and PubMed (2000–2026) for case reports of CDC in patients with acute leukaemia. Case-level data (demographics, leukaemia subtype, imaging/microbiological diagnosis, treatment, outcome) were extracted into a structured dataset and analysed descriptively following CARE guidelines. Results: 48 unique records were screened; 19 sources (21 unique patients; 24 case-level rows where multi-case sources were expanded) met the case definition. Median reported age was 18 years (range 2–63); 11 cases had AML and 5 ALL. Candida species were explicitly identified in 7 cases (Candida tropicalis in 2). Diagnosis was culture-proven in few cases; most relied on imaging plus serological or molecular evidence. Immune reconstitution inflammatory syndrome complicated 3 cases and was treated with corticosteroids. Salvage splenectomy was performed in 3 cases after antifungal failure, with apparent success. Reported mortality was low (1 death, an atypical pre-treatment disseminated infection in an infant). Conclusions: Aggregated published cases suggest that CDC in acute leukaemia, when recognised and treated, has a better outcome than historically reported, but reporting and diagnostic heterogeneity (culture-negative diagnosis, species unreported) preclude firm inference. Full-text verification and systematic prospective registries are needed."},
+    {"type": "heading", "level": 2, "text": "Introduction"},
+    {"type": "paragraph", "text": "Chronic disseminated candidiasis (CDC) is a subacute invasive candidal infection involving liver, spleen and other organs, classically described in patients with acute leukaemia recovering from prolonged chemotherapy-induced neutropenia [1]. Persistent fever after neutrophil recovery, negative blood cultures and characteristic 'bull's-eye' hepatic and splenic lesions on imaging form the typical presentation. Individual case reports describe a wide spectrum of atypical presentations (muscular and subcutaneous abscesses, gastric involvement), diagnostic approaches (PET/CT, beta-D-glucan and mannan antigen, next-generation sequencing) and treatment strategies (prolonged azole or echinocandin therapy, adjuvant corticosteroids for immune reconstitution inflammatory syndrome (IRIS), and rarely splenectomy). Because no single centre accumulates enough cases, each report contributes one fragment of the clinical picture. We hypothesised that aggregating published case-level data would yield a stronger descriptive evidence base than any individual report."},
+    {"type": "heading", "level": 2, "text": "Methods"},
+    {"type": "paragraph", "text": "This was a systematic aggregation of published case reports following CARE guidelines for case reports and case series. We searched Europe PMC and PubMed (E-utilities) on 30 September 2026 for the terms ('hepatosplenic candidiasis' OR 'chronic disseminated candidiasis' OR 'hepatic candidiasis' OR 'chronic disseminated candidosis') AND (leukaemia/leukemia), supplemented by publication-type (case report) and title-term filters; the exact query strings are recorded in the project search log. Records from 2000–2026 were screened by title and abstract. Inclusion criteria: (i) CDC/hepatosplenic candidiasis in a patient with acute myeloid or lymphoblastic leukaemia; (ii) published as an individual case report or small series (≤5 cases per source); (iii) extractable case detail (age/sex, leukaemia type, species, treatment, or outcome available). Exclusion criteria: narrative reviews, cohorts, conference abstracts without case-level detail, and non-candidal fungal mimics. Data were extracted at case level into a structured dataset; fields unavailable in the accessible (abstract-level) text were marked UNVERIFIED rather than imputed. Descriptive statistics were computed in Python; no inferential pooling was attempted given the heterogeneity and incomplete reporting."},
+    {"type": "heading", "level": 2, "text": "Results"},
+    {"type": "paragraph", "text": "The search identified 48 unique records; 29 were excluded (reviews, cohorts, conference abstracts, duplicates, non-candidal mimics) and 19 sources were included, contributing 24 case-level rows (21 unique patients; three sources each reported 2–3 cases). Reported ages ranged from 2 to 63 years (median 18; 6 explicitly paediatric, 7 adult, 11 unreported in the abstract). Leukaemia subtype was AML in 11 cases and ALL in 5. Candida species were explicitly reported in only 7 of 24 cases (C. tropicalis in 2); the remainder were culture-negative or species-unreported, reflecting the recognised diagnostic difficulty of CDC. Immune reconstitution inflammatory syndrome was described in 3 paediatric ALL cases, all treated with corticosteroids with resolution. Splenectomy was performed in 3 cases after failure of antifungal therapy, with successful outcomes reported in all. Only 1 death was reported (an infant with disseminated candidiasis with gastrointestinal involvement that preceded any chemotherapy). Fourteen of 24 cases reported resolution, survival or disease control. Figure 1 summarises case characteristics; the full case-level table accompanies this manuscript."},
+    {"type": "image", "path": "/opt/data/medical-research/2026-09_opportunistic-infections-haematology/figures/fig1_characteristics.png", "width_mm": 160},
+    {"type": "paragraph", "text": "Figure 1. Characteristics of the aggregated case series (abstract-level extraction; UNVERIFIED fields excluded from denominators where applicable)."},
+    {"type": "heading", "level": 2, "text": "Discussion"},
+    {"type": "paragraph", "text": "Aggregating two decades of published cases confirms the core clinical picture of CDC in acute leukaemia while highlighting three practical points. First, microbiological documentation is the exception, not the rule: most cases are diagnosed on imaging plus indirect evidence, so clinicians should treat a compatible syndrome as probable CDC even when cultures are negative. Second, IRIS is a recurring complication in children with ALL during immune recovery and responds to corticosteroids, but diagnosis is complicated by concurrent infections. Third, salvage splenectomy, though rare, achieved resolution in all reported instances of antifungal failure and deserves consideration in refractory disease. Limitations: this synthesis is based on published cases and inherits publication bias; a 2025 systematic review already covers paediatric CDC, and our extraction was performed at abstract level, with several fields marked UNVERIFIED pending full-text review — these figures must be verified against full texts before this manuscript is submitted."},
+    {"type": "heading", "level": 2, "text": "AI-assistance disclosure (draft — adapt to target journal policy)"},
+    {"type": "paragraph", "text": "Literature search, screening, data extraction and initial drafting were assisted by an AI agent (Hermes Agent, Nous Research) under the supervision of the authors. All included records are cited with PubMed identifiers; the screening decision trail and extraction dataset are provided as supplementary files. The authors verified the search strategy and take full responsibility for the content. AI tools do not qualify for authorship per ICMJE criteria."},
+    {"type": "heading", "level": 2, "text": "References (from included sources; DOI/full text to be verified at Gate 2)"},
+    {"type": "bullet_list", "items": [
+      "S03 Haematologica 2001; PMID 11524268",
+      "S08 Rev Argent Microbiol 2004; PMID 15176375",
+      "S09 Int J Hematol 2004; PMID 15168600",
+      "S10 Fetal Pediatr Pathol 2006; PMID 17696044",
+      "S11 Med Mycol 2006; PMID 17071559",
+      "S13 2006; PMID 16951789 (journal to verify)",
+      "S16 Pediatr Blood Cancer 2007; PMID 16444677",
+      "S20 2009; PMID 19158470 (journal to verify)",
+      "S24 Transpl Infect Dis 2009; PMID 19228346",
+      "S25 Clin Nucl Med 2010; PMID 20631500 (3 cases)",
+      "S31 Srp Arh Celok Lek 2015; PMID 26259411",
+      "S32 2016; PMID 27408899 (journal to verify)",
+      "S33 2016; PMID 27800196 (journal to verify)",
+      "S38 2022; PMID 35968598 (3 cases; Chinese-language)",
+      "S39 2023; PMID 37750159 (journal to verify)",
+      "S40 2023; PMID 37089309 (2 cases)",
+      "S42 2023; PMID 37476594",
+      "S45 J Pediatr Hematol Oncol 2023; PMID 37083275",
+      "S46 BMC Infect Dis 2024; PMID 38448809"
+    ]},
+    {"type": "heading", "level": 2, "text": "Supplementary files"},
+    {"type": "bullet_list", "items": [
+      "screening_review.csv — 48 screened records with AI screening decisions and blank human-review columns",
+      "extraction/case_extraction.csv — case-level dataset with UNVERIFIED flags",
+      "search_log.md — exact queries, dates and hit counts",
+      "figures/fig1_characteristics.png — Figure 1 source"
+    ]}
+  ]
+}
