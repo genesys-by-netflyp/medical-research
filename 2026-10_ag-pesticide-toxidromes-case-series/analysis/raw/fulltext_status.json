@@ -1,0 +1,20 @@
+{
+ "fetched": 88,
+ "failed": [
+  [
+   "38383128",
+   "PMC10882451",
+   "no/empty fullTextXML"
+  ],
+  [
+   "35396244",
+   "PMC8995944",
+   "no/empty fullTextXML"
+  ]
+ ],
+ "no_pmcid": [
+  "39253837",
+  "41995614",
+  "35945885"
+ ]
+}

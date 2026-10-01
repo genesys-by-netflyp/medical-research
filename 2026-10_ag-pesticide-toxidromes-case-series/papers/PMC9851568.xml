@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="case-report"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">2757</journal-id><journal-id journal-id-type="pmc-domain">cureus</journal-id><journal-title-group><journal-title>Cureus</journal-title><abbrev-journal-title>Cureus</abbrev-journal-title></journal-title-group><publisher><publisher-name>Cureus Inc.</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9851568</article-id><article-id pub-id-type="pmcaid">9851568</article-id><article-id pub-id-type="pmcaiid">9851568</article-id><article-id pub-id-type="pmid">36686108</article-id><article-id pub-id-type="doi">10.7759/cureus.32746</article-id><title-group><article-title>Management of Lambda-Cyhalothrin Poisoning in a North Indian Healthcare Setup: A Rare Case</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Sudan</surname><given-names initials="S">Sourav</given-names></name><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="author-notes" rid="_fncrsp93pmc__">✉</xref></contrib><contrib><name name-style="western"><surname>Kaur</surname><given-names initials="N">Navjot</given-names></name><xref ref-type="aff" rid="aff-2">2</xref></contrib><contrib><name name-style="western"><surname>Taneja</surname><given-names initials="R">Rishabh</given-names></name><xref ref-type="aff" rid="aff-3">3</xref><xref ref-type="aff" rid="aff-4">4</xref></contrib><contrib><name name-style="western"><surname>Kaur</surname><given-names initials="N">Navjot</given-names></name><xref ref-type="aff" rid="aff-5">5</xref></contrib><contrib><name name-style="western"><surname>Mehmi</surname><given-names initials="P">Prachi</given-names></name><xref ref-type="aff" rid="aff-5">5</xref></contrib></contrib-group><contrib-group content-type="editor"><contrib><name name-style="western"><surname>Muacevic</surname><given-names initials="A">Alexander</given-names></name></contrib><contrib><name name-style="western"><surname>Adler</surname><given-names initials="JR">John R</given-names></name></contrib></contrib-group><aff id="aff-1">
+<label>1</label>
+Internal Medicine, Government Medical College, Rajouri, Rajouri, IND </aff><aff id="aff-2">
+<label>2</label>
+Emergency Department, Sadbhavna Medical and Heart Institute, Patiala, IND </aff><aff id="aff-3">
+<label>3</label>
+Medical School, Government Multi-Specialty Hospital, Chandigarh, IND </aff><aff id="aff-4">
+<label>4</label>
+Graduate Medical Education, Adesh Institute of Medical Sciences and Research, Bathinda, IND </aff><aff id="aff-5">
+<label>5</label>
+Internal Medicine, Adesh Institute of Medical Sciences and Research, Bathinda, IND </aff><author-notes><fn id="cor1"><label>✉</label><p>
+Sourav Sudan <email>speedbiology@gmail.com</email>
+</p></fn><fn id="_fncrsp93pmc__"><label>✉</label><p>Corresponding author.</p></fn></author-notes><pub-date><day>20</day><month>12</month><year>2022</year></pub-date><volume>14</volume><issue>12</issue><fpage>e32746</fpage><page-range>e32746</page-range><pub-history><event event-type="pmc-release"><date><day>20</day><month>1</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2022, Sudan et al.</copyright-statement><license><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cureus-0014-00000032746.pdf" content-type="pmc-pdf"><?cloudpmc-path e607/9851568/2096eb1adc0d/cureus-0014-00000032746.pdf?><?cloudpmc-bucket app?><?size 84746?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Agricultural product (insecticides and pesticides) poisoning is common in the rural Indian setup, and in most cases, it occurs due to suicidal attempts rather than accidental intake. Furthermore, most cases of agrochemical poisoning are organophosphate poisoning rather than other less commonly used pesticides. Lambda-cyhalothrin is a less commonly used insecticide in India, and there have been a few instances in the literature where lambda-cyhalothrin poisoning and its subsequent management have been described. In this case report, we describe accidental lambda-cyhalothrin poisoning in a 26-year-old female and its management at our center.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> lambda-cyhalothrin, agricultural insecticide, organophosphates, pyrethroids, poisoning</p></sec></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Accepted 2022 Dec 20; Collection date 2022 Dec.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><title>Introduction</title><p>With the increasing availability of insecticides/pesticides in rural India, cases of self-poisoning have risen steeply [<xref rid="REF1" ref-type="bibr">1</xref>]. Similarly, on a global scale, the problem has worsened with approximately 300,000 annual deaths due to poisoning, the majority of which occur due to insecticide and pesticide intake [<xref rid="REF2" ref-type="bibr">2</xref>].</p><p>The majority of cases of insecticide/pesticide poisoning in central and south India are due to organophosphates, while those in the northern parts of India are due to aluminum phosphide poisoning [<xref rid="REF3" ref-type="bibr">3</xref>,<xref rid="REF4" ref-type="bibr">4</xref>]. Cases of pyrethroid, carbamate, and organochlorine poisoning are less common [<xref rid="REF1" ref-type="bibr">1</xref>].</p><p>Lambda-cyhalothrin is a synthetic pyrethroid, and its use in agriculture for insect and pest control has recently increased, linking it to various adverse effects [<xref rid="REF5" ref-type="bibr">5</xref>]. Studies have linked exposure to lambda-cyhalothrin to endocrinological disorders, disruptions in the reproductive system, and even cancers [<xref rid="REF6" ref-type="bibr">6</xref>]. Here, we report a case of accidental ingestion of lambda-cyhalothrin in a 26-year-old female who presented at our center with hemodynamic instability and respiratory distress. The patient was mechanically ventilated and given supportive treatment before her discharge, three days later.</p></sec><sec id="sec2" disp-level="1"><title>Case presentation</title><p>A 26-year-old female presented at our center eight hours after ingesting an unknown insecticide. Eight hours prior to the presentation, she accidentally ingested the insecticide while manipulating a spraying device and developed intractable vomiting 20 minutes later. After informing her family, she was rushed to a local healthcare center where the staff treated her for organophosphate poisoning as the family did not specify the insecticide ingested.</p><p>Her vitals upon admission at that center were as follows: blood pressure (BP) of 90/60 mmHg, pulse rate (PR) of 62 beats per minute (bpm), and SaO<sub>2</sub> of 96%. Gastric lavage was performed, and she was administered the standard treatment for organophosphate poisoning, i.e., intravenous (IV) fluids, injection pralidoxime (PAM) 1 g IV eight hourly, and injection atropine 20 mg IV stat, followed by 10 mg in 100 mL normal saline (NS) over the next two hours.</p><p>The patient’s condition continued to deteriorate despite the treatment, and her vitals in the next two hours were as follows: BP of 100/60 mmHg, PR of 110 bpm, and SaO<sub>2</sub> of 88% (on room air). Furthermore, the patient became irritable and had an altered mental sensorium. She was subsequently referred to our center.</p><p>Upon arrival at our center, the patient was unconscious with a Glasgow Coma Scale (GCS) score of 4/15, BP of 78/42 mmHg, PR of 85 bpm, and SaO<sub>2</sub> of 92% on high-flow oxygen. Considering her low GCS score, endotracheal intubation was performed, and mechanical ventilation was commenced.</p><p>After much probing, the family brought the bottle of the insecticide, which revealed that the compound ingested was lambda-cyhalothrin, an uncommon insecticide. The patient was then commenced on noradrenaline 2 mg in 500 mL NS at 30 mL/hour. Injection hydrocortisone 100 mg BD and injection pheniramine 2 mL IV stat were also administered.</p><p>All baseline investigations were ordered, and she was kept sedated and on mechanical ventilation for the next two days with continuous monitoring. Noradrenaline was infused for hemodynamic support, and her vitals were monitored regularly (Tables <xref rid="TAB1" ref-type="table">1</xref>, <xref rid="TAB2" ref-type="table">2</xref>).</p><table-wrap id="TAB1" position="float"><?disp-level 2?><label>Table 1</label><caption><title>Basic blood workup during the three days of inpatient admission.</title><p>SGOT = serum glutamic-oxaloacetic transaminase; SGPT = serum glutamic pyruvic transaminase</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Parameters (normal)
+</td><td rowspan="1" colspan="1">
+Day one
+</td><td rowspan="1" colspan="1">
+Day two
+</td><td rowspan="1" colspan="1">
+Day three
+</td></tr><tr><td rowspan="1" colspan="1">
+Serum urea (10–50 mg/dL)
+</td><td rowspan="1" colspan="1">
+46.0 mg/dL
+</td><td rowspan="1" colspan="1">
+42.4 mg/dL
+</td><td rowspan="1" colspan="1">
+38.0 mg/dL
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Serum creatinine (0.8–1.5 mg/dL)
+</td><td rowspan="1" colspan="1">
+1.3 mg/dL
+</td><td rowspan="1" colspan="1">
+1.2 mg/dL
+</td><td rowspan="1" colspan="1">
+1.4 mg/dL
+</td></tr><tr><td rowspan="1" colspan="1">
+SGOT (4–40 IU/L)
+</td><td rowspan="1" colspan="1">
+30.4 IU/L
+</td><td rowspan="1" colspan="1">
+38.0 IU/L
+</td><td rowspan="1" colspan="1">
+36.6 IU/L
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+SGPT (3–35 IU/L)
+</td><td rowspan="1" colspan="1">
+35.7 IU/L
+</td><td rowspan="1" colspan="1">
+38.6 IU/L
+</td><td rowspan="1" colspan="1">
+40.0 IU/L
+</td></tr><tr><td rowspan="1" colspan="1">
+Blood sugar random (up to 150 mg/dL)
+</td><td rowspan="1" colspan="1">
+116.0 mg/dL
+</td><td rowspan="1" colspan="1">
+124 mg/dL
+</td><td rowspan="1" colspan="1">
+118 mg/dL
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+Serum bilirubin (0.2–1.2 mg/dL)
+</td><td rowspan="1" colspan="1">
+0.95 mg/dL
+</td><td rowspan="1" colspan="1">
+0.9 mg/dL
+</td><td rowspan="1" colspan="1">
+1.1 mg/dL
+</td></tr></tbody></table></table-wrap><table-wrap id="TAB2" position="float"><?disp-level 2?><label>Table 2</label><caption><title>Arterial blood gas values over three days of inpatient admission.</title><p>ABG = arterial blood gas; pCO<sub>2</sub> = partial pressure of carbon dioxide; pO<sub>2</sub> = partial pressure of oxygen; SaO<sub>2</sub> = arterial oxygen saturation; sNa<sup>+</sup> = serum sodium; sK<sup>+</sup> = serum potassium, sCa<sup>+</sup> = serum calcium; sCl<sup>-</sup>: serum chloride; sHCO<sub>3</sub><sup>-</sup> = serum bicarbonate</p></caption><table frame="hsides" rules="groups"><tbody><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+ABG parameters (normal values)
+</td><td rowspan="1" colspan="1">
+Day one
+</td><td rowspan="1" colspan="1">
+Day two
+</td><td rowspan="1" colspan="1">
+Day three
+</td></tr><tr><td rowspan="1" colspan="1">
+pH (7.350–7.450)
+</td><td rowspan="1" colspan="1">
+7.315
+</td><td rowspan="1" colspan="1">
+7.281
+</td><td rowspan="1" colspan="1">
+7.404
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+pCO<sub>2</sub> (35.0–45.0 mmHg)
+</td><td rowspan="1" colspan="1">
+37.9 mmHg
+</td><td rowspan="1" colspan="1">
+45.4 mmHg
+</td><td rowspan="1" colspan="1">
+31.5 mmHg
+</td></tr><tr><td rowspan="1" colspan="1">
+pO<sub>2</sub> (83.0–108 mmHg)
+</td><td rowspan="1" colspan="1">
+95.2 mmHg
+</td><td rowspan="1" colspan="1">
+100 mmHg
+</td><td rowspan="1" colspan="1">
+98 mmHg
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+SaO<sub>2</sub> (95.0%–99.0%)
+</td><td rowspan="1" colspan="1">
+99.9%
+</td><td rowspan="1" colspan="1">
+97.8%
+</td><td rowspan="1" colspan="1">
+99%
+</td></tr><tr><td rowspan="1" colspan="1">
+sNa<sup>+</sup> (135–145 mmol/L)
+</td><td rowspan="1" colspan="1">
+146 mmol/L
+</td><td rowspan="1" colspan="1">
+154 mmol/L
+</td><td rowspan="1" colspan="1">
+144 mmol/L
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+sK<sup>+</sup> (3.5–5.5 mmol/L)
+</td><td rowspan="1" colspan="1">
+3.7 mmol/L
+</td><td rowspan="1" colspan="1">
+3.3 mmol/L
+</td><td rowspan="1" colspan="1">
+3.0 mmol/L
+</td></tr><tr><td rowspan="1" colspan="1">
+sCa<sup>+</sup> (1.15–1.29 mmol/L)
+</td><td rowspan="1" colspan="1">
+0.84 mmol/L
+</td><td rowspan="1" colspan="1">
+0.92 mmol/L
+</td><td rowspan="1" colspan="1">
+1.00 mmol/L
+</td></tr><tr style="background-color:#ccc"><td rowspan="1" colspan="1">
+sCl<sup>-</sup> (96–106 mmol/L)
+</td><td rowspan="1" colspan="1">
+109 mmol/L
+</td><td rowspan="1" colspan="1">
+112 mmol/L
+</td><td rowspan="1" colspan="1">
+114 mmol/L
+</td></tr><tr><td rowspan="1" colspan="1">
+sHCO<sub>3</sub><sup>-</sup> (18–24 mmol/L)
+</td><td rowspan="1" colspan="1">
+19.9 mmol/L
+</td><td rowspan="1" colspan="1">
+26.2 mmol/L
+</td><td rowspan="1" colspan="1">
+19.3 mmol/L
+</td></tr></tbody></table></table-wrap><p>The patient was successfully extubated on day three and placed on a high-flow mask, which was subsequently removed after six hours. Her vitals were stable, and after a few hours of monitoring, she was moved to the medical ward. She was monitored for two more days and discharged on oral proton pump inhibitors. Follow-up has been uneventful.</p></sec><sec id="sec3" disp-level="1"><title>Discussion</title><p>Lambda-cyhalothrin belongs to a class of chemical compounds known as pyrethroids, which are of two types, namely, type 1 (which includes compounds such as allethrin and permethrin) and type 2 (which includes lambda-cyhalothrin and related compounds) pyrethroids. The symptoms of toxicity of the two types differ, with type 1 pyrethroid toxicity inducing mild symptoms such as fine tremors and hyperexcitability (type 1 syndrome or T syndrome) [<xref rid="REF7" ref-type="bibr">7</xref>] and type 2 pyrethroid toxicity inducing moderate-to-severe symptoms such as incoordination, choreoathetosis, seizures, hypersalivation, and direct damage to the skeletal and cardiac musculature (type 2 syndrome) [<xref rid="REF7" ref-type="bibr">7</xref>].</p><p>The major life-threatening manifestations of pyrethroid poisoning include seizures, pulmonary edema, and hemorrhage [<xref rid="REF8" ref-type="bibr">8</xref>]. The mechanism of toxicity is attributed to changes in ionic conduction across the various sodium, calcium, and chloride channels and to direct oxidative damage to tissues [<xref rid="REF9" ref-type="bibr">9</xref>,<xref rid="REF10" ref-type="bibr">10</xref>].</p><p>Because there is no known antidote for lambda-cyhalothrin poisoning, management is mainly supportive. Immediate steps are similar to those of other cases of poisoning and include removal from the environment of exposure and decontamination.</p><p>At the medical center, the airway, breathing, and circulation should be secured first. If there are associated seizures, as seen in type 2 syndrome, they should be managed with proper antiepileptic therapy. There are reports showing that benzodiazepines are more effective than barbiturates in controlling seizures caused by pyrethroid toxicity [<xref rid="REF11" ref-type="bibr">11</xref>]. Furthermore, hemodynamic instability, if present, should be managed with vasopressors, as we did for this patient.</p><p>Research regarding the antidote for pyrethroid toxicity is ongoing, and animal studies have shown a possible therapeutic role of methocarbamol; however, this has not been studied in human subjects [<xref rid="REF12" ref-type="bibr">12</xref>].</p></sec><sec id="sec4" disp-level="1"><title>Conclusions</title><p>This case report describes acute lambda-cyhalothrin toxicity and how it can present with hemodynamic instability, respiratory distress, and neurological manifestations. As seen in this case, treatment is primarily supportive and symptomatic. Mechanical ventilation may be required, and a low threshold should be kept for invasive mechanical ventilation. The outcome was favorable in our patient, and the same can be expected in young populations.</p></sec><sec id="notes1" disp-level="1"><p>The content published in Cureus is the result of clinical experience and/or research by independent individuals or organizations. Cureus is not responsible for the scientific accuracy or reliability of data or conclusions published herein. All content published within Cureus is intended only for educational, research and reference purposes. Additionally, articles published within Cureus should not be deemed a suitable substitute for the advice of a qualified health care professional. Do not disregard or avoid professional medical advice due to content published within Cureus.</p></sec><sec id="fn-group1" sec-type="fn-group" disp-level="1"><fn-group><fn id="fn1"><p>The authors have declared that no competing interests exist.</p></fn></fn-group></sec><sec id="fn-group2" sec-type="fn-group" disp-level="1"><title>Human Ethics</title><fn-group><fn id="fn2"><p>Consent was obtained or waived by all participants in this study</p></fn></fn-group></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="REF1"><label>1.</label><mixed-citation><named-content content-type="citation-string">Self poisoning with pesticides. Eddleston M, Phillips MR. BMJ. 2004;328:42–44. doi: 10.1136/bmj.328.7430.42.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.328.7430.42"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC313909"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14703547"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMJ&amp;title=Self poisoning with pesticides&amp;volume=328&amp;publication_year=2004&amp;pages=42-44&amp;pmid=14703547&amp;doi=10.1136/bmj.328.7430.42&amp;"/></mixed-citation></ref><ref id="REF2"><label>2.</label><mixed-citation><named-content content-type="citation-string">Where is the evidence for treatments used in pesticide poisoning? Is clinical toxicology fiddling while the developing world burns? Buckley NA, Karalliedde L, Dawson A, Senanayake N, Eddleston M. J Toxicol Clin Toxicol. 2004;42:113–116. doi: 10.1081/clt-120028756.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1081/clt-120028756"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2295213"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15083947"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Toxicol Clin Toxicol&amp;title=Where is the evidence for treatments used in pesticide poisoning? Is clinical toxicology fiddling while the developing world burns?&amp;volume=42&amp;publication_year=2004&amp;pages=113-116&amp;pmid=15083947&amp;doi=10.1081/clt-120028756&amp;"/></mixed-citation></ref><ref id="REF3"><label>3.</label><mixed-citation><named-content content-type="citation-string">Profile of hospital admissions following acute poisoning--experiences from a major teaching hospital in south India. Thomas M, Anandan S, Kuruvilla PJ, Singh PR, David S. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/11212461/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/11212461/</ext-link> Adverse Drug React Toxicol Rev. 2000;19:313–317.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11212461"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adverse Drug React Toxicol Rev&amp;title=Profile of hospital admissions following acute poisoning--experiences from a major teaching hospital in south India&amp;volume=19&amp;publication_year=2000&amp;pages=313-317&amp;pmid=11212461&amp;"/></mixed-citation></ref><ref id="REF4"><label>4.</label><mixed-citation><named-content content-type="citation-string">The profile of acute poisonings in Harayana-Rohtak study. Siwach SB, Gupta A. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/8773034/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/8773034/</ext-link> J Assoc Physicians India. 1995;43:756–759.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8773034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Assoc Physicians India&amp;title=The profile of acute poisonings in Harayana-Rohtak study&amp;volume=43&amp;publication_year=1995&amp;pages=756-759&amp;pmid=8773034&amp;"/></mixed-citation></ref><ref id="REF5"><label>5.</label><mixed-citation><named-content content-type="citation-string">Lambda-cyhalothrin-induced biochemical and histopathological changes in the liver of rats: ameliorative effect of ascorbic acid. Fetoui H, Garoui el M, Zeghal N. Exp Toxicol Pathol. 2009;61:189–196. doi: 10.1016/j.etp.2008.08.002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.etp.2008.08.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18835144"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Exp Toxicol Pathol&amp;title=Lambda-cyhalothrin-induced biochemical and histopathological changes in the liver of rats: ameliorative effect of ascorbic acid&amp;volume=61&amp;publication_year=2009&amp;pages=189-196&amp;pmid=18835144&amp;doi=10.1016/j.etp.2008.08.002&amp;"/></mixed-citation></ref><ref id="REF6"><label>6.</label><mixed-citation><named-content content-type="citation-string">Pyrethroid insecticide lambda-cyhalothrin and its metabolites induce liver injury through the activation of oxidative stress and proinflammatory gene expression in rats following acute and subchronic exposure. Aouey B, Derbali M, Chtourou Y, Bouchard M, Khabir A, Fetoui H. Environ Sci Pollut Res Int. 2017;24:5841–5856. doi: 10.1007/s11356-016-8323-4.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11356-016-8323-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28058584"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ Sci Pollut Res Int&amp;title=Pyrethroid insecticide lambda-cyhalothrin and its metabolites induce liver injury through the activation of oxidative stress and proinflammatory gene expression in rats following acute and subchronic exposure&amp;volume=24&amp;publication_year=2017&amp;pages=5841-5856&amp;pmid=28058584&amp;doi=10.1007/s11356-016-8323-4&amp;"/></mixed-citation></ref><ref id="REF7"><label>7.</label><mixed-citation><named-content content-type="citation-string">Neurotoxicology of pyrethrin and the pyrethroid insecticides. Dorman DC, Beasley VR. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov/1713367/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/1713367/</ext-link> Vet Hum Toxicol. 1991;33:238–243.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1713367"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Vet Hum Toxicol&amp;title=Neurotoxicology of pyrethrin and the pyrethroid insecticides&amp;volume=33&amp;publication_year=1991&amp;pages=238-243&amp;pmid=1713367&amp;"/></mixed-citation></ref><ref id="REF8"><label>8.</label><mixed-citation><named-content content-type="citation-string">Poisoning due to pyrethroids. Bradberry SM, Cage SA, Proudfoot AT, Vale JA. Toxicol Rev. 2005;24:93–106. doi: 10.2165/00139709-200524020-00003.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2165/00139709-200524020-00003"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16180929"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol Rev&amp;title=Poisoning due to pyrethroids&amp;volume=24&amp;publication_year=2005&amp;pages=93-106&amp;pmid=16180929&amp;doi=10.2165/00139709-200524020-00003&amp;"/></mixed-citation></ref><ref id="REF9"><label>9.</label><mixed-citation><named-content content-type="citation-string">Evidence for a separate mechanism of toxicity for the type I and the type II pyrethroid insecticides. Breckenridge CB, Holden L, Sturgess N, et al.  Neurotoxicology. 2009;30 Suppl 1:0–31. doi: 10.1016/j.neuro.2009.09.002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.neuro.2009.09.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19766671"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neurotoxicology&amp;title=Evidence for a separate mechanism of toxicity for the type I and the type II pyrethroid insecticides&amp;volume=30 Suppl 1&amp;publication_year=2009&amp;pages=0-31&amp;pmid=19766671&amp;doi=10.1016/j.neuro.2009.09.002&amp;"/></mixed-citation></ref><ref id="REF10"><label>10.</label><mixed-citation><named-content content-type="citation-string">Toxic effects of lambda-cyhalothrin, a synthetic pyrethroid pesticide, on the rat kidney: involvement of oxidative stress and protective role of ascorbic acid. Fetoui H, Makni M, Garoui el M, Zeghal N. Exp Toxicol Pathol. 2010;62:593–599. doi: 10.1016/j.etp.2009.08.004.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.etp.2009.08.004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19735994"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Exp Toxicol Pathol&amp;title=Toxic effects of lambda-cyhalothrin, a synthetic pyrethroid pesticide, on the rat kidney: involvement of oxidative stress and protective role of ascorbic acid&amp;volume=62&amp;publication_year=2010&amp;pages=593-599&amp;pmid=19735994&amp;doi=10.1016/j.etp.2009.08.004&amp;"/></mixed-citation></ref><ref id="REF11"><label>11.</label><mixed-citation><named-content content-type="citation-string">Pyrethroid insecticides: poisoning syndromes, synergies, and therapy. Ray DE, Forshaw PJ. J Toxicol Clin Toxicol. 2000;38:95–101. doi: 10.1081/clt-100100922.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1081/clt-100100922"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10778904"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Toxicol Clin Toxicol&amp;title=Pyrethroid insecticides: poisoning syndromes, synergies, and therapy&amp;volume=38&amp;publication_year=2000&amp;pages=95-101&amp;pmid=10778904&amp;doi=10.1081/clt-100100922&amp;"/></mixed-citation></ref><ref id="REF12"><label>12.</label><mixed-citation><named-content content-type="citation-string">Pyrethroid poisoning. Ramchandra AM, Chacko B, Victor PJ. Indian J Crit Care Med. 2019;23:0–71. doi: 10.5005/jp-journals-10071-23304.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.5005/jp-journals-10071-23304"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6996658"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32021002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Indian J Crit Care Med&amp;title=Pyrethroid poisoning&amp;volume=23&amp;publication_year=2019&amp;pages=0-71&amp;pmid=32021002&amp;doi=10.5005/jp-journals-10071-23304&amp;"/></mixed-citation></ref></ref-list></sec></sec></body></article>

@@ -12,13 +12,13 @@ The Europe PMC `PUB_TYPE:"Case Reports"` facet is the primary case-type filter f
 project; title/abstract screening will additionally catch untagged case reports/series.
 
 ## PRISMA counts (update as pipeline progresses)
-- Records identified:
-- Duplicates removed:
-- Titles/abstracts screened:
-- Excluded at screening:
-- Full texts assessed:
-- Excluded at full text (with reasons):
-- Included:
+- Records identified: 186 (Europe PMC, searches 4–5, deduplicated)
+- Duplicates removed: 0 (dedup at record ID level during search merge)
+- Titles/abstracts screened: 186 (heuristic tagging + manual review of all exclusions; 6 wrongly-dropped records rescued)
+- Excluded at screening: 93 (animal studies, conference abstract collections, reviews/guidelines without per-case data, non-pesticide toxicology, topic drift)
+- Full texts assessed: 93 attempted → 88 retrieved (5 unavailable: 3 no PMC record, 2 empty fullTextXML — see analysis/raw/fulltext_status.json)
+- Excluded at full text (with reasons): pending
+- Included: pending full-text suitability verification
 
 ## Planned formal search strings (to execute next)
 PubMed / Europe PMC (same string both, subject to field syntax):

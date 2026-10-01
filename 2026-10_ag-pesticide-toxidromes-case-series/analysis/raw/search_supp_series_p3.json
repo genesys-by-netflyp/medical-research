@@ -1,0 +1,3790 @@
+{
+ "version": "6.9",
+ "hitCount": 412,
+ "nextCursorMark": "AoIIQBcEzig0MjMxNDg0OQ==",
+ "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28pesticide*+OR+organophosphate*+OR+paraquat+OR+herbicide*+OR+fungicide*+OR+insecticide*%29+AND+%28farmer*+OR+%22agricultural+worker*%22+OR+%22farm+worker*%22+OR+applicator+OR+agricultural%29+AND+%28%22case+series%22%29+AND+%28poisoning+OR+intoxication+OR+poisoning%29&cursorMark=AoIIQBcEzig0MjMxNDg0OQ%3D%3D&resultType=lite&pageSize=100&format=json",
+ "request": {
+  "queryString": "(pesticide* OR organophosphate* OR paraquat OR herbicide* OR fungicide* OR insecticide*) AND (farmer* OR \"agricultural worker*\" OR \"farm worker*\" OR applicator OR agricultural) AND (\"case series\") AND (poisoning OR intoxication OR poisoning)",
+  "resultType": "lite",
+  "cursorMark": "*",
+  "pageSize": 100,
+  "sort": "",
+  "synonym": false
+ },
+ "resultList": {
+  "result": [
+   {
+    "id": "42179648",
+    "source": "MED",
+    "pmid": "42179648",
+    "pmcid": "PMC13195271",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13195271"
+     ]
+    },
+    "doi": "10.1016/j.toxrep.2026.102272",
+    "title": "Fatal pediatric paraquat poisoning following scalp application for head lice treatment: Public health implications for pesticide regulation and emergency care - A case series.",
+    "authorString": "Solomon A, Omachi PA, Eze EC, Ahmed G, Ojewole OE, Oyeleye AE, Abdullahi U, Mammud A, Abdullahi H, Idris ZF, Idris U, Abubakar U.",
+    "journalTitle": "Toxicol Rep",
+    "journalVolume": "16",
+    "pubYear": "2026",
+    "journalIssn": "2214-7500",
+    "pageInfo": "102272",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-05-08",
+    "firstIndexDate": "2026-05-25"
+   },
+   {
+    "id": "42123549",
+    "source": "MED",
+    "pmid": "42123549",
+    "pmcid": "PMC13163954",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13163954"
+     ]
+    },
+    "doi": "10.3390/ijms27093970",
+    "title": "Evidence-Based Assessment of Pesticide-Related Nephrotoxicity: Clinical Outcomes, Experimental Data, and Molecular Signatures.",
+    "authorString": "Lu HY, Chang Y, Chiang CK.",
+    "journalTitle": "Int J Mol Sci",
+    "issue": "9",
+    "journalVolume": "27",
+    "pubYear": "2026",
+    "journalIssn": "1422-0067",
+    "pageInfo": "3970",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-04-29",
+    "firstIndexDate": "2026-05-15"
+   },
+   {
+    "id": "42583459",
+    "source": "MED",
+    "pmid": "42583459",
+    "pmcid": "PMC13460704",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13460704"
+     ]
+    },
+    "doi": "10.4103/tjem.tjem_314_25",
+    "title": "A tale of three mimickers: Amitraz, fipronil, and 2,4-dichlorophenoxyacetic acid poisoning confounding organophosphate toxicity.",
+    "authorString": "Bhimani KS, Shinde V, Kanani P, Birru JD, Salam MAA.",
+    "journalTitle": "Turk J Emerg Med",
+    "issue": "3",
+    "journalVolume": "26",
+    "pubYear": "2026",
+    "journalIssn": "2452-2473",
+    "pageInfo": "248-251",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-07-09",
+    "firstIndexDate": "2026-08-13"
+   },
+   {
+    "id": "42683993",
+    "source": "MED",
+    "pmid": "42683993",
+    "pmcid": "PMC13610748",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13610748"
+     ]
+    },
+    "doi": "10.4103/ijp.ijp_81_26",
+    "title": "A rare intravenous paraquat exposure presenting with novel and atypical severe clinical manifestations.",
+    "authorString": "Patil VM, Inamdar SS, Jadhav NS, Mali DP.",
+    "journalTitle": "Indian J Pharmacol",
+    "issue": "5",
+    "journalVolume": "58",
+    "pubYear": "2026",
+    "journalIssn": "0253-7613; 1998-3751; ",
+    "pageInfo": "597-601",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-09-02",
+    "firstIndexDate": "2026-09-03"
+   },
+   {
+    "id": "42756941",
+    "source": "MED",
+    "pmid": "42756941",
+    "pmcid": "PMC13585111",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13585111"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-25250",
+    "title": "Indian Society of Critical Care Medicine Position Statement on the Management of Paraquat Poisoning.",
+    "authorString": "Gautam PL, Takkellapati LR, Bhalla A, Peter JV, Mahajan RK, Krishna MR, Dharanindra M, Sinha S, Singh YP, Anand P, Kola VR, Chattopadhyay R, M\u00e9garbane B, Chowdhury FR, Ayyan SM, Alhatali BA, Mahajan R, Goyal A, Garg SK, Hazarika K, Routray PK, Kumar P, Gupta S, Jagiasi BG, Ramakrishnan N, Samavedam S, Tyagi R.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "8",
+    "journalVolume": "30",
+    "pubYear": "2026",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "632-649",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-08-20",
+    "firstIndexDate": "2026-09-19"
+   },
+   {
+    "id": "42249321",
+    "source": "MED",
+    "pmid": "42249321",
+    "pmcid": "PMC13466133",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13466133"
+     ]
+    },
+    "doi": "10.1186/s12872-026-05967-7",
+    "title": "Pesticide exposure and the risk of arterial hypertension and obesity in farm workers: a systematic review of literature.",
+    "authorString": "Ulrich J, J\u00e4ggi L, R\u00fcfli D, Fuhrimann S.",
+    "journalTitle": "BMC Cardiovasc Disord",
+    "issue": "1",
+    "journalVolume": "26",
+    "pubYear": "2026",
+    "journalIssn": "1471-2261",
+    "pageInfo": "684",
+    "pubType": "systematic review; review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-06-05",
+    "firstIndexDate": "2026-06-06"
+   },
+   {
+    "id": "41995614",
+    "source": "MED",
+    "pmid": "41995614",
+    "doi": "10.1177/10806032261436381",
+    "title": "Paraquat Poisoning from a Tertiary Care Center in Northern India: A Case Series.",
+    "authorString": "Nair A, Mylapalli JL, A J, Jamshed N, Mk S.",
+    "journalTitle": "Wilderness Environ Med",
+    "pubYear": "2026",
+    "journalIssn": "1080-6032; 1545-1534; ",
+    "pageInfo": "10806032261436381",
+    "pubType": "review; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "N",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-04-17",
+    "firstIndexDate": "2026-04-18"
+   },
+   {
+    "id": "42582822",
+    "source": "MED",
+    "pmid": "42582822",
+    "pmcid": "PMC13458497",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13458497"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-25244",
+    "title": "Urine Dithionite-guided Hemoperfusion in Acute Paraquat Poisoning: A Retrospective Observational Study from South India.",
+    "authorString": "Yelanati R, Moturu D, Rayana S, Shaik MN, Jampala K, Gontla VDK, Potineni RB.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "7",
+    "journalVolume": "30",
+    "pubYear": "2026",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "572-577",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-07-21",
+    "firstIndexDate": "2026-08-13"
+   },
+   {
+    "id": "42735371",
+    "source": "MED",
+    "pmid": "42735371",
+    "pmcid": "PMC13583247",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13583247"
+     ]
+    },
+    "doi": "10.1177/03000605261485126",
+    "title": "Another Etiology of persistent pupillary fluctuations: A case of pesticide poisoning.",
+    "authorString": "Yu H, Zheng Y, Lu M, Li C, Fang M.",
+    "journalTitle": "J Int Med Res",
+    "issue": "9",
+    "journalVolume": "54",
+    "pubYear": "2026",
+    "journalIssn": "0300-0605; 1473-2300; ",
+    "pageInfo": "3000605261485126",
+    "pubType": "research-article; journal article; case reports",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-09-14",
+    "firstIndexDate": "2026-09-15"
+   },
+   {
+    "id": "42750240",
+    "source": "MED",
+    "pmid": "42750240",
+    "pmcid": "PMC13596013",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13596013"
+     ]
+    },
+    "doi": "10.12659/ajcr.953336",
+    "title": "Delayed Myoclonus and Bilateral Globus Pallidus Lesions Following Organophosphate Poisoning: A Case Report.",
+    "authorString": "Sharma N, Sukriya S.",
+    "journalTitle": "Am J Case Rep",
+    "journalVolume": "27",
+    "pubYear": "2026",
+    "journalIssn": "1941-5923",
+    "pageInfo": "e953336",
+    "pubType": "research-article; journal article; case reports",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-09-17",
+    "firstIndexDate": "2026-09-17"
+   },
+   {
+    "id": "41356634",
+    "source": "MED",
+    "pmid": "41356634",
+    "pmcid": "PMC12680488",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12680488"
+     ]
+    },
+    "doi": "10.1002/ccr3.71638",
+    "title": "Paraquat Poisoning: A Case Series.",
+    "authorString": "Khadka R, Shrestha A, Shrestha H, Kafle P, Pandit A, Neupane M, Prasai P, Awasthi RR.",
+    "journalTitle": "Clin Case Rep",
+    "issue": "12",
+    "journalVolume": "13",
+    "pubYear": "2025",
+    "journalIssn": "2050-0904",
+    "pageInfo": "e71638",
+    "pubType": "case-study; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-12-05",
+    "firstIndexDate": "2025-12-08"
+   },
+   {
+    "id": "41868073",
+    "source": "MED",
+    "pmid": "41868073",
+    "pmcid": "PMC12999658",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12999658"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-25131",
+    "title": "Paraquat Peril: A Retrospective Study from the Frontlines of a Quaternary Care Hospital in South India.",
+    "authorString": "Neeraj GP, Philip AJ, Prakash G, Praneeth CS, Chandiraseharan VK, Zachariah A, Rajan SJ, Nellickal AJ, Iyyadurai R, Pichamuthu KK, Hansdak SG, Gunasekaran K, Abhilash KP, Peter JV, Yadav B.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "2",
+    "journalVolume": "30",
+    "pubYear": "2026",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "107-116",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 3,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-02-13",
+    "firstIndexDate": "2026-03-23"
+   },
+   {
+    "id": "42088828",
+    "source": "MED",
+    "pmid": "42088828",
+    "pmcid": "PMC13137143",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13137143"
+     ]
+    },
+    "doi": "10.1016/j.toxrep.2026.102260",
+    "title": "Acute 2,4-dichlorophenoxyacetic acid herbicide poisoning in rural India: clinical spectrum, multiorgan toxicity, and outcomes in an eight-patient observational study.",
+    "authorString": "Guhagarkar S, Salunkhe P, Roy S, Taksande B, Jain J, Kalantri S.",
+    "journalTitle": "Toxicol Rep",
+    "journalVolume": "16",
+    "pubYear": "2026",
+    "journalIssn": "2214-7500",
+    "pageInfo": "102260",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-04-23",
+    "firstIndexDate": "2026-05-13"
+   },
+   {
+    "id": "41939114",
+    "source": "MED",
+    "pmid": "41939114",
+    "pmcid": "PMC13048672",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13048672"
+     ]
+    },
+    "doi": "10.1097/ms9.0000000000004837",
+    "title": "Amitraz poisoning: A case report of rare pesticide poisoning from Nepal.",
+    "authorString": "Pahari N, Pahari M, Ghimire S, Khadka RB, Shrestha AS, Gautam D, Dewan S.",
+    "journalTitle": "Ann Med Surg (Lond)",
+    "issue": "4",
+    "journalVolume": "88",
+    "pubYear": "2026",
+    "journalIssn": "2049-0801",
+    "pageInfo": "2698-2702",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-03-20",
+    "firstIndexDate": "2026-04-07"
+   },
+   {
+    "id": "40337403",
+    "source": "MED",
+    "pmid": "40337403",
+    "pmcid": "PMC12055129",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12055129"
+     ]
+    },
+    "doi": "10.1097/ms9.0000000000003174",
+    "title": "Paraquat poisoning: a case series of 15 survivors and narrative review.",
+    "authorString": "Pasam SS, Majety SK, Nayeem O, Mishra D, Chakra G S, Singh R, Karuchola MP, Anumolu A.",
+    "journalTitle": "Ann Med Surg (Lond)",
+    "issue": "5",
+    "journalVolume": "87",
+    "pubYear": "2025",
+    "journalIssn": "2049-0801",
+    "pageInfo": "2537-2546",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 7,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-03-18",
+    "firstIndexDate": "2025-05-09"
+   },
+   {
+    "id": "41222711",
+    "source": "MED",
+    "pmid": "41222711",
+    "pmcid": "PMC12855454",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12855454"
+     ]
+    },
+    "doi": "10.1007/s00702-025-03054-3",
+    "title": "Pesticides and parkinson's disease: causal relationship at the population and individual level?",
+    "authorString": "H\u00f6llerhage M.",
+    "journalTitle": "J Neural Transm (Vienna)",
+    "issue": "2",
+    "journalVolume": "133",
+    "pubYear": "2026",
+    "journalIssn": "0300-9564; 1435-1463; ",
+    "pageInfo": "229-264",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-11-12",
+    "firstIndexDate": "2025-11-12"
+   },
+   {
+    "id": "42015459",
+    "source": "MED",
+    "pmid": "42015459",
+    "pmcid": "PMC13532876",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13532876"
+     ]
+    },
+    "doi": "10.1002/jat.70215",
+    "title": "Understanding Chlorfenapyr Toxicity: An Overview of Acute Human Exposure and Clinical Outcomes.",
+    "authorString": "Ahmed DAM, Emam NM, Badawy MM.",
+    "journalTitle": "J Appl Toxicol",
+    "issue": "10",
+    "journalVolume": "46",
+    "pubYear": "2026",
+    "journalIssn": "0260-437x; 1099-1263; ",
+    "pageInfo": "3314-3320",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-04-21",
+    "firstIndexDate": "2026-04-22"
+   },
+   {
+    "id": "42258859",
+    "source": "MED",
+    "pmid": "42258859",
+    "pmcid": "PMC13246183",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13246183"
+     ]
+    },
+    "doi": "10.5811/westjem.50823",
+    "title": "Therapeutic Interventions in Organophosphate Poisoning: An Umbrella Review of Systematic Reviews.",
+    "authorString": "Chauhan V, Goyal D, Thakur S, Galwankar S, Peredy TR.",
+    "journalTitle": "West J Emerg Med",
+    "issue": "3",
+    "journalVolume": "27",
+    "pubYear": "2026",
+    "journalIssn": "1936-900x; 1936-9018; ",
+    "pageInfo": "819-830",
+    "pubType": "systematic review; review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-05-19",
+    "firstIndexDate": "2026-06-09"
+   },
+   {
+    "id": "41346989",
+    "source": "MED",
+    "pmid": "41346989",
+    "pmcid": "PMC12672530",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12672530"
+     ]
+    },
+    "doi": "10.3389/fmed.2025.1713595",
+    "title": "Optimization of concentration-directed blood purification therapy in the management of diquat poisoning.",
+    "authorString": "Qian W, Xie X, Liu B, He C, Cao Y.",
+    "journalTitle": "Front Med (Lausanne)",
+    "journalVolume": "12",
+    "pubYear": "2025",
+    "journalIssn": "2296-858x",
+    "pageInfo": "1713595",
+    "pubType": "brief-report; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-11-19",
+    "firstIndexDate": "2025-12-05"
+   },
+   {
+    "id": "41114391",
+    "source": "MED",
+    "pmid": "41114391",
+    "pmcid": "PMC12532245",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12532245"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-25026",
+    "title": "A Prospective Study to Assess the Profile and Outcome of Acute Paraquat Poisoning in a Tertiary Care Hospital of West Bengal.",
+    "authorString": "Kotal S, Chatterjee S, Pain S, Kundu AK.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "8",
+    "journalVolume": "29",
+    "pubYear": "2025",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "678-683",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-04-01",
+    "firstIndexDate": "2025-10-20"
+   },
+   {
+    "id": "40212197",
+    "source": "MED",
+    "pmid": "40212197",
+    "pmcid": "PMC11981316",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11981316"
+     ]
+    },
+    "doi": "10.1097/ms9.0000000000003103",
+    "title": "Fatal paraquat poisoning: a case report and literature review on rapid deterioration and therapeutic challenges.",
+    "authorString": "Barma A, Poudel A, Rawal G, Karn M, Kc U, Ojha L, Bajgai D, Mandal M.",
+    "journalTitle": "Ann Med Surg (Lond)",
+    "issue": "4",
+    "journalVolume": "87",
+    "pubYear": "2025",
+    "journalIssn": "2049-0801",
+    "pageInfo": "2421-2425",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 3,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-02-28",
+    "firstIndexDate": "2025-04-11"
+   },
+   {
+    "id": "40702417",
+    "source": "MED",
+    "pmid": "40702417",
+    "pmcid": "PMC12866887",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12866887"
+     ]
+    },
+    "doi": "10.1186/s12873-025-01294-w",
+    "title": "Metallophosphide poisoning, a rising public health problem in Ethiopia: a systematic review and meta-analysis.",
+    "authorString": "Altaye KD, Assefa BY, Teka AW, Worku SM, Genet GB, Liyew B, Teshager NW.",
+    "journalTitle": "BMC Emerg Med",
+    "issue": "1",
+    "journalVolume": "25",
+    "pubYear": "2025",
+    "journalIssn": "1471-227x",
+    "pageInfo": "133",
+    "pubType": "meta-analysis; systematic review; review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-07-23",
+    "firstIndexDate": "2025-07-24"
+   },
+   {
+    "id": "42627140",
+    "source": "MED",
+    "pmid": "42627140",
+    "pmcid": "PMC13498817",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13498817"
+     ]
+    },
+    "doi": "10.1177/03000605261477529",
+    "title": "Successful rescue of a patient with extensive lethal-dose aluminum phosphide poisoning complicated by multiple organ dysfunction syndrome.",
+    "authorString": "Li S, Pan Y, Zhang Y, Qi J, Zuo Y, Fan T, Wang N.",
+    "journalTitle": "J Int Med Res",
+    "issue": "8",
+    "journalVolume": "54",
+    "pubYear": "2026",
+    "journalIssn": "0300-0605; 1473-2300; ",
+    "pageInfo": "3000605261477529",
+    "pubType": "research-article; journal article; case reports",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-08-21",
+    "firstIndexDate": "2026-08-22"
+   },
+   {
+    "id": "41965502",
+    "source": "MED",
+    "pmid": "41965502",
+    "pmcid": "PMC13072598",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13072598"
+     ]
+    },
+    "doi": "10.1186/s12245-026-01231-z",
+    "title": "Acute fipronil toxicity in humans following intentional ingestion: a case report with favorable outcome from a resource-limited setting.",
+    "authorString": "Abebe AB, Ayenew DE, Asfaw SD.",
+    "journalTitle": "Int J Emerg Med",
+    "issue": "1",
+    "journalVolume": "19",
+    "pubYear": "2026",
+    "journalIssn": "1865-1372; 1865-1380; ",
+    "pageInfo": "95",
+    "pubType": "journal article; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-04-11",
+    "firstIndexDate": "2026-04-13"
+   },
+   {
+    "id": "40814521",
+    "source": "MED",
+    "pmid": "40814521",
+    "pmcid": "PMC12349849",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12349849"
+     ]
+    },
+    "doi": "10.4103/jfmpc.jfmpc_348_25",
+    "title": "Rubber latex processing acid poisoning in India: Epidemiology, clinical outcomes, and forensic insights - A systematic review.",
+    "authorString": "Das NG, Das N, Saha S.",
+    "journalTitle": "J Family Med Prim Care",
+    "issue": "7",
+    "journalVolume": "14",
+    "pubYear": "2025",
+    "journalIssn": "2249-4863; 2278-7135; ",
+    "pageInfo": "2628-2633",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-07-21",
+    "firstIndexDate": "2025-08-21"
+   },
+   {
+    "id": "38559410",
+    "source": "MED",
+    "pmid": "38559410",
+    "pmcid": "PMC10981267",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10981267"
+     ]
+    },
+    "doi": "10.1177/2050313x241240098",
+    "title": "Acute paraquat poisoning in an adolescent with compromised outcome: A case report.",
+    "authorString": "Yadav M, Shah NA, Ghimire R, Lamichhane S, Yadav S, Yadav D, Jha SK.",
+    "journalTitle": "SAGE Open Med Case Rep",
+    "journalVolume": "12",
+    "pubYear": "2024",
+    "journalIssn": "2050-313x",
+    "pageInfo": "2050313X241240098",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-03-28",
+    "firstIndexDate": "2024-04-02"
+   },
+   {
+    "id": "41179601",
+    "source": "MED",
+    "pmid": "41179601",
+    "pmcid": "PMC12575183",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12575183"
+     ]
+    },
+    "doi": "10.1002/ccr3.71329",
+    "title": "A Cyanotic Dilemma: Nitrobenzene Poisoning-A Case Report.",
+    "authorString": "Singh JK, Villaroman A, Kim J, Majidi G, Torres DSR, Bhandari M, Bibi F, Abdi KEL, Dutta U, Vani S.",
+    "journalTitle": "Clin Case Rep",
+    "issue": "11",
+    "journalVolume": "13",
+    "pubYear": "2025",
+    "journalIssn": "2050-0904",
+    "pageInfo": "e71329",
+    "pubType": "case-study; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-10-30",
+    "firstIndexDate": "2025-11-03"
+   },
+   {
+    "id": "40060083",
+    "source": "MED",
+    "pmid": "40060083",
+    "pmcid": "PMC11883306",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11883306"
+     ]
+    },
+    "doi": "10.25259/ijn_3_2024",
+    "title": "Poisoning and Envenomation Induced Acute Kidney Injury: A Hospital-Based Study.",
+    "authorString": "Khan A, Quaiser S, Khan R, Agrawal N.",
+    "journalTitle": "Indian J Nephrol",
+    "issue": "2",
+    "journalVolume": "35",
+    "pubYear": "2025",
+    "journalIssn": "0971-4065; 1998-3662; ",
+    "pageInfo": "283-289",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-08-14",
+    "firstIndexDate": "2025-03-11"
+   },
+   {
+    "id": "40606291",
+    "source": "MED",
+    "pmid": "40606291",
+    "pmcid": "PMC12221553",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12221553"
+     ]
+    },
+    "doi": "10.1155/carm/2632633",
+    "title": "Mad Honey Disease: A Rare Condition in an Unlikely Locale.",
+    "authorString": "Jamal SW, Elamir E, Usman S, Poolakundan H, Almahri M, Abdul Khaleq A, Darwish Z, Musa E, Zayad A, Al Hariri B.",
+    "journalTitle": "Case Rep Med",
+    "journalVolume": "2025",
+    "pubYear": "2025",
+    "journalIssn": "1687-9627; 1687-9635; ",
+    "pageInfo": "2632633",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-06-25",
+    "firstIndexDate": "2025-07-07"
+   },
+   {
+    "id": "40144811",
+    "source": "MED",
+    "pmid": "40144811",
+    "pmcid": "PMC11944672",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11944672"
+     ]
+    },
+    "doi": "10.1155/jt/6015251",
+    "title": "Acute Poisonings in the Fez-Meknes Region Reported to the Poison Control and Pharmacovigilance Center of Morocco: A 20-Year Retrospective Study.",
+    "authorString": "Iken I, Rhalem N, Abdessadek M, Hmimou R, Soulaymani A, Soulaymani Bencheikh R.",
+    "journalTitle": "J Toxicol",
+    "journalVolume": "2025",
+    "pubYear": "2025",
+    "journalIssn": "1687-8191; 1687-8205; ",
+    "pageInfo": "6015251",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-03-19",
+    "firstIndexDate": "2025-04-01"
+   },
+   {
+    "id": "37420003",
+    "source": "MED",
+    "pmid": "37420003",
+    "pmcid": "PMC10838859",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10838859"
+     ]
+    },
+    "doi": "10.1007/s00127-023-02526-9",
+    "title": "The role of alcohol use in pesticide suicide and self-harm: a scoping review.",
+    "authorString": "Sch\u00f6lin L, Lee KSK, London L, Pearson M, Otieno F, Weerasinghe M, Konradsen F, Eddleston M, S\u00f8rensen JB.",
+    "journalTitle": "Soc Psychiatry Psychiatr Epidemiol",
+    "issue": "2",
+    "journalVolume": "59",
+    "pubYear": "2024",
+    "journalIssn": "0933-7954; 1433-9285; ",
+    "pageInfo": "211-232",
+    "pubType": "scoping review; research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-07-08",
+    "firstIndexDate": "2023-07-09"
+   },
+   {
+    "id": "39280539",
+    "source": "MED",
+    "pmid": "39280539",
+    "pmcid": "PMC11394274",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11394274"
+     ]
+    },
+    "doi": "10.7759/cureus.66842",
+    "title": "Exploring the Landscape of Adult Acute Poisoning in Saudi Arabia: A Comprehensive Narrative Review.",
+    "authorString": "Al Shubbar MD, Bojabara LM, Al Qunais AA, Huldar AS, Alamro S, Alameer MH, Alameer FH.",
+    "journalTitle": "Cureus",
+    "issue": "8",
+    "journalVolume": "16",
+    "pubYear": "2024",
+    "journalIssn": "2168-8184",
+    "pageInfo": "e66842",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-08-14",
+    "firstIndexDate": "2024-09-18"
+   },
+   {
+    "id": "42634103",
+    "source": "MED",
+    "pmid": "42634103",
+    "pmcid": "PMC13500746",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13500746"
+     ]
+    },
+    "doi": "10.1111/1541-4337.70622",
+    "title": "Pesticide Residues, Gut Microbiota, and Gastrointestinal Outcomes: A Scoping Review of Human Evidence.",
+    "authorString": "Ye C, Wu Q, Wang Z, Zhang C.",
+    "journalTitle": "Compr Rev Food Sci Food Saf",
+    "issue": "5",
+    "journalVolume": "25",
+    "pubYear": "2026",
+    "journalIssn": "1541-4337",
+    "pageInfo": "e70622",
+    "pubType": "scoping review; review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-09-01",
+    "firstIndexDate": "2026-08-25"
+   },
+   {
+    "id": "38751624",
+    "source": "MED",
+    "pmid": "38751624",
+    "pmcid": "PMC11092036",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11092036"
+     ]
+    },
+    "doi": "10.1021/acsptsci.4c00046",
+    "title": "Glyphosate: Hepatotoxicity, Nephrotoxicity, Hemotoxicity, Carcinogenicity, and Clinical Cases of Endocrine, Reproductive, Cardiovascular, and Pulmonary System Intoxication.",
+    "authorString": "Mazuryk J, Klepacka K, Kutner W, Sharma PS.",
+    "journalTitle": "ACS Pharmacol Transl Sci",
+    "issue": "5",
+    "journalVolume": "7",
+    "pubYear": "2024",
+    "journalIssn": "2575-9108",
+    "pageInfo": "1205-1236",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 28,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-04-08",
+    "firstIndexDate": "2024-05-17"
+   },
+   {
+    "id": "39253837",
+    "source": "MED",
+    "pmid": "39253837",
+    "doi": "10.1177/00258172241257326",
+    "title": "Organophosphorus poisoning causing haemorrhagic pancreatitis - a case series.",
+    "authorString": "Anand A, Kumar M, Tandon SK.",
+    "journalTitle": "Med Leg J",
+    "issue": "4",
+    "journalVolume": "92",
+    "pubYear": "2024",
+    "journalIssn": "0025-8172; 2042-1834; ",
+    "pageInfo": "194-197",
+    "pubType": "journal article; case reports",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 1,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2024-09-10",
+    "firstIndexDate": "2024-09-10"
+   },
+   {
+    "id": "37041526",
+    "source": "MED",
+    "pmid": "37041526",
+    "pmcid": "PMC10088141",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10088141"
+     ]
+    },
+    "doi": "10.1186/s12889-023-15505-1",
+    "title": "Suicides by pesticide ingestion in Pakistan and the impact of pesticide regulation.",
+    "authorString": "Dabholkar S, Pirani S, Davis M, Khan M, Eddleston M.",
+    "journalTitle": "BMC Public Health",
+    "issue": "1",
+    "journalVolume": "23",
+    "pubYear": "2023",
+    "journalIssn": "1471-2458",
+    "pageInfo": "676",
+    "pubType": "research-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 15,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-04-11",
+    "firstIndexDate": "2023-04-13"
+   },
+   {
+    "id": "40011409",
+    "source": "MED",
+    "pmid": "40011409",
+    "pmcid": "PMC11933582",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11933582"
+     ]
+    },
+    "doi": "10.1007/s13181-025-01061-0",
+    "title": "2025 ACMT Annual Scientific Meeting Abstracts - Vancouver, Canada.",
+    "journalTitle": "J Med Toxicol",
+    "issue": "2",
+    "journalVolume": "21",
+    "pubYear": "2025",
+    "journalIssn": "1556-9039; 1937-6995; ",
+    "pageInfo": "114-228",
+    "pubType": "news",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "N",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-04-01",
+    "firstIndexDate": "2025-02-27"
+   },
+   {
+    "id": "40785961",
+    "source": "MED",
+    "pmid": "40785961",
+    "pmcid": "PMC12331187",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12331187"
+     ]
+    },
+    "doi": "10.4103/jfcm.jfcm_337_24",
+    "title": "Prevalence of toxin exposure in regions of Saudi Arabia: A systematic review and meta-analysis.",
+    "authorString": "Aljumaan MA, Alsulaibikh AH.",
+    "journalTitle": "J Family Community Med",
+    "issue": "3",
+    "journalVolume": "32",
+    "pubYear": "2025",
+    "journalIssn": "1319-1683; 2229-340x; ",
+    "pageInfo": "186-197",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-07-14",
+    "firstIndexDate": "2025-08-21"
+   },
+   {
+    "id": "40202731",
+    "source": "MED",
+    "pmid": "40202731",
+    "pmcid": "PMC12338999",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12338999"
+     ]
+    },
+    "doi": "10.1001/jamadermatol.2025.0404",
+    "title": "Dermatologic Care and Skin Health of Migrant Populations in the US: A Scoping Review.",
+    "authorString": "Castillo Valladares HB, Kim-Lim P, Chang AY.",
+    "journalTitle": "JAMA Dermatol",
+    "issue": "7",
+    "journalVolume": "161",
+    "pubYear": "2025",
+    "journalIssn": "2168-6068; 2168-6084; ",
+    "pageInfo": "739-746",
+    "pubType": "scoping review; research-article; journal article; research support, n.i.h., extramural",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-07-01",
+    "firstIndexDate": "2025-04-09"
+   },
+   {
+    "id": "39114363",
+    "source": "MED",
+    "pmid": "39114363",
+    "pmcid": "PMC11303190",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11303190"
+     ]
+    },
+    "doi": "10.3389/fphar.2024.1421437",
+    "title": "Treatment of an accident of imidacloprid poisoning.",
+    "authorString": "Zeng M, Shi M, Jian X, Dong L.",
+    "journalTitle": "Front Pharmacol",
+    "journalVolume": "15",
+    "pubYear": "2024",
+    "journalIssn": "1663-9812",
+    "pageInfo": "1421437",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-07-24",
+    "firstIndexDate": "2024-08-08"
+   },
+   {
+    "id": "38975359",
+    "source": "MED",
+    "pmid": "38975359",
+    "pmcid": "PMC11224295",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11224295"
+     ]
+    },
+    "doi": "10.3389/fpubh.2024.1368991",
+    "title": "Occupational accidents and the use of PPE: a global meta-analysis.",
+    "authorString": "Malta G, Matera S, Plescia F, Calascibetta A, Argo A, Cannizzaro E.",
+    "journalTitle": "Front Public Health",
+    "journalVolume": "12",
+    "pubYear": "2024",
+    "journalIssn": "2296-2565",
+    "pageInfo": "1368991",
+    "pubType": "meta-analysis; systematic review; systematic-review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 7,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-06-21",
+    "firstIndexDate": "2024-07-08"
+   },
+   {
+    "id": "41836011",
+    "source": "MED",
+    "pmid": "41836011",
+    "pmcid": "PMC12982466",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12982466"
+     ]
+    },
+    "doi": "10.3389/fphar.2026.1765786",
+    "title": "The impact of nutritional, environmental, and lifestyle factors on neurological disorders: therapeutic implications and mechanistic insights.",
+    "authorString": "Chakif D, Furrer J.",
+    "journalTitle": "Front Pharmacol",
+    "journalVolume": "17",
+    "pubYear": "2026",
+    "journalIssn": "1663-9812",
+    "pageInfo": "1765786",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-02-27",
+    "firstIndexDate": "2026-03-17"
+   },
+   {
+    "id": "39330596",
+    "source": "MED",
+    "pmid": "39330596",
+    "pmcid": "PMC11435638",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11435638"
+     ]
+    },
+    "doi": "10.3390/toxics12090668",
+    "title": "Emamectin Poisoning in Thailand: Clinical Characteristics and Outcomes.",
+    "authorString": "Trakulsrichai S, Sittiyuno P, Tansuwannarat P, Tongpoo A.",
+    "journalTitle": "Toxics",
+    "issue": "9",
+    "journalVolume": "12",
+    "pubYear": "2024",
+    "journalIssn": "2305-6304",
+    "pageInfo": "668",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-09-13",
+    "firstIndexDate": "2024-09-28"
+   },
+   {
+    "id": "38222268",
+    "source": "MED",
+    "pmid": "38222268",
+    "pmcid": "PMC10785725",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10785725"
+     ]
+    },
+    "doi": "10.1177/23779608231226081",
+    "title": "Patterns, Clinical Outcome, and Factors Associated with Poisoning Outcomes among Poisoned Patients in Northwest Ethiopia.",
+    "authorString": "Teym A, Melese M, Fenta E, Ayenew T, Fentahun F, Tegegne E, Alamneh AA.",
+    "journalTitle": "SAGE Open Nurs",
+    "journalVolume": "10",
+    "pubYear": "2024",
+    "journalIssn": "2377-9608",
+    "pageInfo": "23779608231226081",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-01-10",
+    "firstIndexDate": "2024-01-15"
+   },
+   {
+    "id": "38145261",
+    "source": "MED",
+    "pmid": "38145261",
+    "pmcid": "PMC10735555",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10735555"
+     ]
+    },
+    "doi": "10.1093/omcr/omad139",
+    "title": "Attempted suicidal poisoning with pretilachlor: case series of a herbicide simulating organophosphorus toxicity.",
+    "authorString": "Dahal A, Shukla S, Chauhan B, Gyawali J, Thapa A, Budhamagar B, Mishra D.",
+    "journalTitle": "Oxf Med Case Reports",
+    "issue": "12",
+    "journalVolume": "2023",
+    "pubYear": "2023",
+    "journalIssn": "2053-8855",
+    "pageInfo": "omad139",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-12-19",
+    "firstIndexDate": "2023-12-26"
+   },
+   {
+    "id": "41142973",
+    "source": "MED",
+    "pmid": "41142973",
+    "pmcid": "PMC12548676",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12548676"
+     ]
+    },
+    "title": "Emergence of mortality due to centrilobular to massive hepatic necrosis in western Canadian beef calves.",
+    "authorString": "Wilson DJ, Davies JL, Huang Y, Cowan VE, Rogers L, Wilhelm BJ.",
+    "journalTitle": "Can Vet J",
+    "issue": "11",
+    "journalVolume": "66",
+    "pubYear": "2025",
+    "journalIssn": "0008-5286",
+    "pageInfo": "1199-1205",
+    "pubType": "research support, non-u.s. gov't; journal article; case reports; case-report",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2025-11-01",
+    "firstIndexDate": "2025-10-27"
+   },
+   {
+    "id": "36422474",
+    "source": "MED",
+    "pmid": "36422474",
+    "pmcid": "PMC10395666",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10395666"
+     ]
+    },
+    "doi": "10.55730/1300-0144.5508",
+    "title": "Prospective analysis of intoxicated patients developing shock and/or organ failure.",
+    "authorString": "Tekin F, Akp\u0131nar AA, Ta\u015fk\u0131n \u00d6, Akday U, Di\u015fel NR, Karako\u00e7 E.",
+    "journalTitle": "Turk J Med Sci",
+    "issue": "5",
+    "journalVolume": "52",
+    "pubYear": "2022",
+    "journalIssn": "1300-0144; 1303-6165; ",
+    "pageInfo": "1665-1673",
+    "pubType": "research-article; journal article; observational study",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-10-19",
+    "firstIndexDate": "2022-11-25"
+   },
+   {
+    "id": "35345719",
+    "source": "MED",
+    "pmid": "35345719",
+    "pmcid": "PMC8942044",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8942044"
+     ]
+    },
+    "doi": "10.7759/cureus.22481",
+    "title": "Pneumothorax and Pneumomediastinum Complicating Organophosphate Poisoning: A Case Series of Complications Less Understood.",
+    "authorString": "Kaeley N, Kabi A, Prasad H, Raj A, Ghosh Hazra A.",
+    "journalTitle": "Cureus",
+    "issue": "2",
+    "journalVolume": "14",
+    "pubYear": "2022",
+    "journalIssn": "2168-8184",
+    "pageInfo": "e22481",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-02-22",
+    "firstIndexDate": "2022-03-30"
+   },
+   {
+    "id": "34294076",
+    "source": "MED",
+    "pmid": "34294076",
+    "pmcid": "PMC8296580",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8296580"
+     ]
+    },
+    "doi": "10.1186/s12889-021-11156-2",
+    "title": "Importance of pesticides for lethal poisoning in India during 1999 to 2018: a systematic review.",
+    "authorString": "Karunarathne A, Bhalla A, Sethi A, Perera U, Eddleston M.",
+    "journalTitle": "BMC Public Health",
+    "issue": "1",
+    "journalVolume": "21",
+    "pubYear": "2021",
+    "journalIssn": "1471-2458",
+    "pageInfo": "1441",
+    "pubType": "research support, non-u.s. gov't; research-article; systematic review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 35,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-07-22",
+    "firstIndexDate": "2021-07-24"
+   },
+   {
+    "id": "38376790",
+    "source": "MED",
+    "pmid": "38376790",
+    "pmcid": "PMC10959886",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10959886"
+     ]
+    },
+    "doi": "10.1007/s13181-024-00994-2",
+    "title": "ACMT Clinicopathological Conference: The Intoxicated, Poisoned Groundskeeper.",
+    "authorString": "Nemanich A, Keenan M.",
+    "journalTitle": "J Med Toxicol",
+    "issue": "2",
+    "journalVolume": "20",
+    "pubYear": "2024",
+    "journalIssn": "1556-9039; 1937-6995; ",
+    "pageInfo": "226-232",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2024-02-20",
+    "firstIndexDate": "2024-02-21"
+   },
+   {
+    "id": "34123928",
+    "source": "MED",
+    "pmid": "34123928",
+    "pmcid": "PMC8144775",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8144775"
+     ]
+    },
+    "doi": "10.4103/jfmpc.jfmpc_2020_20",
+    "title": "Paraquat poisoning in Andaman and Nicobar Islands - Government must intervene.",
+    "authorString": "Panda PK, Manna S, Bhasi A, Singh SS, Maneesh VS.",
+    "journalTitle": "J Family Med Prim Care",
+    "issue": "4",
+    "journalVolume": "10",
+    "pubYear": "2021",
+    "journalIssn": "2249-4863; 2278-7135; ",
+    "pageInfo": "1780-1784",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-04-29",
+    "firstIndexDate": "2021-06-15"
+   },
+   {
+    "id": "36138568",
+    "source": "MED",
+    "pmid": "36138568",
+    "pmcid": "PMC9511329",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9511329"
+     ]
+    },
+    "doi": "10.1177/03000605221122745",
+    "title": "The toxicokinetics of acute paraquat poisoning in specific patients: a case series.",
+    "authorString": "Shi L, Yu G, Li Y, Zhao L, Wen Z, Tao Y, Wang W, Jian X.",
+    "journalTitle": "J Int Med Res",
+    "issue": "9",
+    "journalVolume": "50",
+    "pubYear": "2022",
+    "journalIssn": "0300-0605; 1473-2300; ",
+    "pageInfo": "3000605221122745",
+    "pubType": "research-article; journal article; case reports",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2022-09-01",
+    "firstIndexDate": "2022-09-26"
+   },
+   {
+    "id": "42747330",
+    "source": "MED",
+    "pmid": "42747330",
+    "pmcid": "PMC13580465",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13580465"
+     ]
+    },
+    "doi": "10.1002/jca.70141",
+    "title": "Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.",
+    "authorString": "Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.",
+    "journalTitle": "J Clin Apher",
+    "journalVolume": "41 Suppl 2",
+    "pubYear": "2026",
+    "journalIssn": "0733-2459; 1098-1101; ",
+    "pageInfo": "e70141",
+    "pubType": "research-article; practice guideline; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "nct"
+     ]
+    },
+    "firstPublicationDate": "2026-09-01",
+    "firstIndexDate": "2026-09-17"
+   },
+   {
+    "id": "PMC10959849",
+    "source": "PMC",
+    "pmcid": "PMC10959849",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10959849"
+     ]
+    },
+    "title": "2024 ACMT Annual Scientific Meeting Abstracts \u2013 Washington, DC",
+    "journalTitle": "J Med Toxicol",
+    "issue": "2",
+    "journalVolume": "20",
+    "pubYear": "2024",
+    "journalIssn": "1556-9039; 1937-6995; ",
+    "pageInfo": "86-192",
+    "pubType": "news",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2024-03-08",
+    "firstIndexDate": "2025-04-02"
+   },
+   {
+    "id": "PMC12975069",
+    "source": "PMC",
+    "pmcid": "PMC12975069",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12975069"
+     ]
+    },
+    "title": "Proceedings: National multidisciplinary conference on recent advances in medical specialities",
+    "journalTitle": "J Family Med Prim Care",
+    "issue": "1",
+    "journalVolume": "15",
+    "pubYear": "2026",
+    "journalIssn": "2249-4863; 2278-7135; ",
+    "pageInfo": "450-498",
+    "pubType": "abstract",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2026-01-01",
+    "firstIndexDate": "2026-03-11"
+   },
+   {
+    "id": "35950874",
+    "source": "MED",
+    "pmid": "35950874",
+    "doi": "10.1080/15563650.2022.2105710",
+    "title": "Acute fungicide self-poisoning - a prospective case series.",
+    "authorString": "Nendick E, Mohamed F, Raubenheimer J, Gawarammana I, Buckley NA, Eddleston M.",
+    "journalTitle": "Clin Toxicol (Phila)",
+    "issue": "10",
+    "journalVolume": "60",
+    "pubYear": "2022",
+    "journalIssn": "1556-3650; 1556-9519; ",
+    "pageInfo": "1106-1112",
+    "pubType": "journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2022-08-11",
+    "firstIndexDate": "2022-08-12"
+   },
+   {
+    "id": "41963075",
+    "source": "MED",
+    "pmid": "41963075",
+    "pmcid": "PMC13084919",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC13084919"
+     ]
+    },
+    "doi": "10.1136/bmjresp-2025-003961",
+    "title": "Occupational exposure to toxic particles and risk of pulmonary sarcoidosis: a systematic review and meta-analysis.",
+    "authorString": "Kotti N, Kchaou A, Feki W, Daoud A, Dhouib F, Rmadi N, Feki W, Snoussi M, Kammoun R, Omrane F, Charfi S, Moussa N, Sahnoun R, Hajjaji M, Hammami KJ.",
+    "journalTitle": "BMJ Open Respir Res",
+    "issue": "1",
+    "journalVolume": "13",
+    "pubYear": "2026",
+    "journalIssn": "2052-4439",
+    "pageInfo": "e003961",
+    "pubType": "meta-analysis; research-article; systematic review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-04-10",
+    "firstIndexDate": "2026-04-11"
+   },
+   {
+    "id": "37362485",
+    "source": "MED",
+    "pmid": "37362485",
+    "pmcid": "PMC10285569",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10285569"
+     ]
+    },
+    "doi": "10.7759/cureus.39368",
+    "title": "Intermediate Syndrome Due to Organophosphate Poisoning: A Case Report.",
+    "authorString": "Setia S, Chiwhane A.",
+    "journalTitle": "Cureus",
+    "issue": "5",
+    "journalVolume": "15",
+    "pubYear": "2023",
+    "journalIssn": "2168-8184",
+    "pageInfo": "e39368",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-05-23",
+    "firstIndexDate": "2023-06-27"
+   },
+   {
+    "id": "PMC12945384",
+    "source": "PMC",
+    "pmcid": "PMC12945384",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12945384"
+     ]
+    },
+    "title": "ABSTRACTS FOR E-POSTERS",
+    "journalTitle": "Indian J Psychiatry",
+    "issue": "suppl 1",
+    "journalVolume": "68",
+    "pubYear": "2026",
+    "journalIssn": "0019-5545; 1998-3794; ",
+    "pageInfo": "S184-S307",
+    "pubType": "abstract",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "refsnp"
+     ]
+    },
+    "firstPublicationDate": "2026-01-01",
+    "firstIndexDate": "2026-02-27"
+   },
+   {
+    "id": "39432630",
+    "source": "MED",
+    "pmid": "39432630",
+    "pmcid": "PMC11495704",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11495704"
+     ]
+    },
+    "doi": "10.1097/md.0000000000040066",
+    "title": "Insulin in aluminum phosphide poisoning: A systematic review of the current literature.",
+    "authorString": "Shukla R, Lamichhane K, Pandey D, Gupta CK, Shukla S.",
+    "journalTitle": "Medicine (Baltimore)",
+    "issue": "42",
+    "journalVolume": "103",
+    "pubYear": "2024",
+    "journalIssn": "0304-5412; 1536-5964; 0025-7974; ",
+    "pageInfo": "e40066",
+    "pubType": "research-article; systematic review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-10-01",
+    "firstIndexDate": "2024-10-23"
+   },
+   {
+    "id": "37239684",
+    "source": "MED",
+    "pmid": "37239684",
+    "pmcid": "PMC10218255",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10218255"
+     ]
+    },
+    "doi": "10.3390/healthcare11101398",
+    "title": "A Retrospective Study of Epidemiological Correlations of Food, Drug and Chemical Poisoning in Al-Baha, Western Saudi Arabia.",
+    "authorString": "Beigh S, Mahzari A, Alharbi RA, Al-Ghamdi RA, Alyahyawi HE, Al-Zahrani HA, Al-Jadani S.",
+    "journalTitle": "Healthcare (Basel)",
+    "issue": "10",
+    "journalVolume": "11",
+    "pubYear": "2023",
+    "journalIssn": "2227-9032",
+    "pageInfo": "1398",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-05-11",
+    "firstIndexDate": "2023-05-28"
+   },
+   {
+    "id": "36381386",
+    "source": "MED",
+    "pmid": "36381386",
+    "pmcid": "PMC9662705",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9662705"
+     ]
+    },
+    "doi": "10.18103/mra.v10i9.3015",
+    "title": "Is Serum Creatine Phosphokinase Level Useful to Predict the Severity of Organophosphate Poisoning?",
+    "authorString": "Biswas S, Ghosh R, Mandal A, Lape\u00f1a J, Roy D, Benito-Le\u00f3n J.",
+    "journalTitle": "Med Res Arch",
+    "issue": "9",
+    "journalVolume": "10",
+    "pubYear": "2022",
+    "journalIssn": "2375-1916; 2375-1924; ",
+    "pageInfo": "3015",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-09-20",
+    "firstIndexDate": "2022-11-16"
+   },
+   {
+    "id": "41596374",
+    "source": "MED",
+    "pmid": "41596374",
+    "pmcid": "PMC12840800",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12840800"
+     ]
+    },
+    "doi": "10.3390/ijms27020720",
+    "title": "Metal Pollution in the Air and Its Effects on Vulnerable Populations: A Narrative Review.",
+    "authorString": "Gonzalez-Villalva A, Rojas-Lemus M, L\u00f3pez-Valdez N, Cervantes-Valencia ME, Guerrero-Palomo G, Casarrubias-Tabarez B, Bizarro-Nevares P, Morales-Ricardes G, Garc\u00eda-Pel\u00e1ez I, Ustarroz-Cano M, Salgado-Hern\u00e1ndez J\u00c1, Res\u00e9ndiz Ram\u00edrez P, Villafa\u00f1a Guill\u00e9n N, Cevallos L, Teniza M, Fortoul TI.",
+    "journalTitle": "Int J Mol Sci",
+    "issue": "2",
+    "journalVolume": "27",
+    "pubYear": "2026",
+    "journalIssn": "1422-0067",
+    "pageInfo": "720",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 5,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2026-01-10",
+    "firstIndexDate": "2026-01-28"
+   },
+   {
+    "id": "37876677",
+    "source": "MED",
+    "pmid": "37876677",
+    "pmcid": "PMC10593573",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10593573"
+     ]
+    },
+    "doi": "10.1016/j.lana.2023.100570",
+    "title": "Pesticides and passion: a qualitative psychological autopsy study of suicide in Guyana.",
+    "authorString": "Shaw C, Stuart J, Thomas T, K\u00f5lves K.",
+    "journalTitle": "Lancet Reg Health Am",
+    "journalVolume": "26",
+    "pubYear": "2023",
+    "journalIssn": "2667-193x",
+    "pageInfo": "100570",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 3,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-08-18",
+    "firstIndexDate": "2023-10-25"
+   },
+   {
+    "id": "37082486",
+    "source": "MED",
+    "pmid": "37082486",
+    "pmcid": "PMC10112933",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10112933"
+     ]
+    },
+    "doi": "10.7759/cureus.36369",
+    "title": "A Methodological Review of Drug-Related Toxicological Studies in Saudi Arabia.",
+    "authorString": "Alwafi H, Khayat R, Banjabi A, Salawati E, Alotaibi BJ, Nassir R, Aldhahir A, Ekram R, Alghamdi SM, Naser AY.",
+    "journalTitle": "Cureus",
+    "issue": "3",
+    "journalVolume": "15",
+    "pubYear": "2023",
+    "journalIssn": "2168-8184",
+    "pageInfo": "e36369",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-03-19",
+    "firstIndexDate": "2023-04-21"
+   },
+   {
+    "id": "39108549",
+    "source": "MED",
+    "pmid": "39108549",
+    "pmcid": "PMC11299971",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11299971"
+     ]
+    },
+    "doi": "10.1159/000537745",
+    "title": "The Effects of Environmental Pollutants and Exposures on Hair Follicle Pathophysiology.",
+    "authorString": "Samra T, Lin RR, Maderal AD.",
+    "journalTitle": "Skin Appendage Disord",
+    "issue": "4",
+    "journalVolume": "10",
+    "pubYear": "2024",
+    "journalIssn": "2296-9195; 2296-9160; ",
+    "pageInfo": "262-272",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 13,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-04-17",
+    "firstIndexDate": "2024-08-07"
+   },
+   {
+    "id": "32075613",
+    "source": "MED",
+    "pmid": "32075613",
+    "pmcid": "PMC7031890",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7031890"
+     ]
+    },
+    "doi": "10.1186/s12889-020-8339-z",
+    "title": "Suicide by pesticide poisoning in India: a review of pesticide regulations and their impact on suicide trends.",
+    "authorString": "Bonvoisin T, Utyasheva L, Knipe D, Gunnell D, Eddleston M.",
+    "journalTitle": "BMC Public Health",
+    "issue": "1",
+    "journalVolume": "20",
+    "pubYear": "2020",
+    "journalIssn": "1471-2458",
+    "pageInfo": "251",
+    "pubType": "research-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 105,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2020-02-19",
+    "firstIndexDate": "2020-02-21"
+   },
+   {
+    "id": "34335205",
+    "source": "MED",
+    "pmid": "34335205",
+    "pmcid": "PMC8322659",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8322659"
+     ]
+    },
+    "doi": "10.3389/fnhum.2021.648171",
+    "title": "Neurobehavioral, Neuromotor, and Neurocognitive Effects in Agricultural Workers and Their Children Exposed to Pyrethroid Pesticides: A Review.",
+    "authorString": "Lucero B, Mu\u00f1oz-Quezada MT.",
+    "journalTitle": "Front Hum Neurosci",
+    "journalVolume": "15",
+    "pubYear": "2021",
+    "journalIssn": "1662-5161",
+    "pageInfo": "648171",
+    "pubType": "systematic review; systematic-review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 33,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "pdb",
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-07-16",
+    "firstIndexDate": "2021-08-03"
+   },
+   {
+    "id": "31054622",
+    "source": "MED",
+    "pmid": "31054622",
+    "pmcid": "PMC12881994",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12881994"
+     ]
+    },
+    "doi": "10.1016/j.semnephrol.2019.02.001",
+    "title": "Environmental and Occupational Exposures in Kidney Disease.",
+    "authorString": "Scammell MK, Sennett CM, Petropoulos ZE, Kamal J, Kaufman JS.",
+    "journalTitle": "Semin Nephrol",
+    "issue": "3",
+    "journalVolume": "39",
+    "pubYear": "2019",
+    "journalIssn": "0270-9295; 1558-4488; ",
+    "pageInfo": "230-243",
+    "pubType": "research support, non-u.s. gov't; research-article; review; journal article; research support, n.i.h., extramural",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 47,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2019-05-01",
+    "firstIndexDate": "2019-05-07"
+   },
+   {
+    "id": "41026019",
+    "source": "MED",
+    "pmid": "41026019",
+    "pmcid": "PMC12536831",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12536831"
+     ]
+    },
+    "doi": "10.36141/svdld.v42i3.16384",
+    "title": "Particles exposures and sarcoidosis.",
+    "authorString": "Ghio AJ, Scott SA, Tilley SL.",
+    "journalTitle": "Sarcoidosis Vasc Diffuse Lung Dis",
+    "issue": "3",
+    "journalVolume": "42",
+    "pubYear": "2025",
+    "journalIssn": "1124-0490; 2532-179x; ",
+    "pageInfo": "16384",
+    "pubType": "review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-09-30",
+    "firstIndexDate": "2025-10-01"
+   },
+   {
+    "id": "37948128",
+    "source": "MED",
+    "pmid": "37948128",
+    "pmcid": "PMC10756658",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10756658"
+     ]
+    },
+    "doi": "10.1093/occmed/kqad108",
+    "title": "Hydrogen cyanamide exposure: a case series from Pavia Poison Control Centre.",
+    "authorString": "Bernasconi L, Carnovale M, Lonati D, Petrolini VM, Schicchi A, Brolli B, Negrini VM, Grazioli C, Maystrova O, Buscaglia E, Scaravaggi G, Crema F, Locatelli CA.",
+    "journalTitle": "Occup Med (Lond)",
+    "issue": "8",
+    "journalVolume": "73",
+    "pubYear": "2023",
+    "journalIssn": "0962-7480; 1471-8405; ",
+    "pageInfo": "500-506",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-12-01",
+    "firstIndexDate": "2023-11-13"
+   },
+   {
+    "id": "35604441",
+    "source": "MED",
+    "pmid": "35604441",
+    "pmcid": "PMC9823069",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9823069"
+     ]
+    },
+    "doi": "10.1007/s00420-022-01878-0",
+    "title": "Systematic literature review of the epidemiology of glyphosate and neurological outcomes.",
+    "authorString": "Chang ET, Odo NU, Acquavella JF.",
+    "journalTitle": "Int Arch Occup Environ Health",
+    "issue": "1",
+    "journalVolume": "96",
+    "pubYear": "2023",
+    "journalIssn": "0340-0131; 1432-1246; ",
+    "pageInfo": "1-26",
+    "pubType": "systematic review; review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 11,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-05-23",
+    "firstIndexDate": "2022-05-24"
+   },
+   {
+    "id": "35622682",
+    "source": "MED",
+    "pmid": "35622682",
+    "pmcid": "PMC9144076",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9144076"
+     ]
+    },
+    "doi": "10.3390/toxics10050269",
+    "title": "Development, Optimization, and Validation of Forensic Analytical Method for Quantification of Anticholinesterase Pesticides in Biological Matrices from Suspected Cases of Animal Poisoning.",
+    "authorString": "Fukushima AR, Pe\u00f1a-Mu\u00f1oz JW, Leoni LAB, Nicoletti MA, Ferreira GM, Delorenzi JCMOB, Ricci EL, Brand\u00e3o ME, Pantaleon LP, Gon\u00e7alves-Junior V, Waziry PAF, Maiorka PC, Spinosa HS.",
+    "journalTitle": "Toxics",
+    "issue": "5",
+    "journalVolume": "10",
+    "pubYear": "2022",
+    "journalIssn": "2305-6304",
+    "pageInfo": "269",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 4,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-05-23",
+    "firstIndexDate": "2022-05-28"
+   },
+   {
+    "id": "39314197",
+    "source": "MED",
+    "pmid": "39314197",
+    "pmcid": "PMC11471919",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11471919"
+     ]
+    },
+    "doi": "10.3345/cep.2023.01522",
+    "title": "Effect of pesticide exposure on stunting incidence: a systematic review and meta-analysis.",
+    "authorString": "Soleman SR, Jeem YA, Faruqi MFBA, Kasyiva M, Widyasari V, Kuswati K, Djunet NA, Rizkawati M, Handayani ES.",
+    "journalTitle": "Clin Exp Pediatr",
+    "issue": "10",
+    "journalVolume": "67",
+    "pubYear": "2024",
+    "journalIssn": "2713-4148",
+    "pageInfo": "510-518",
+    "pubType": "review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-09-24",
+    "firstIndexDate": "2024-09-24"
+   },
+   {
+    "id": "34120596",
+    "source": "MED",
+    "pmid": "34120596",
+    "pmcid": "PMC8201746",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8201746"
+     ]
+    },
+    "doi": "10.1186/s12889-021-11155-3",
+    "title": "Suicide by pesticide ingestion in Nepal and the impact of pesticide regulation.",
+    "authorString": "Utyasheva L, Sharma D, Ghimire R, Karunarathne A, Robertson G, Eddleston M.",
+    "journalTitle": "BMC Public Health",
+    "issue": "1",
+    "journalVolume": "21",
+    "pubYear": "2021",
+    "journalIssn": "1471-2458",
+    "pageInfo": "1136",
+    "pubType": "research support, non-u.s. gov't; research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 13,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-06-14",
+    "firstIndexDate": "2021-06-15"
+   },
+   {
+    "id": "40869821",
+    "source": "MED",
+    "pmid": "40869821",
+    "pmcid": "PMC12386648",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12386648"
+     ]
+    },
+    "doi": "10.3390/ijerph22081235",
+    "title": "Thallium Exposure Secondary to Commercial Kale Chip Consumption: California Case Highlights Opportunities for Improved Surveillance and Toxicological Understanding.",
+    "authorString": "Choudhury A, Fowles J, Bartlett R, Miller MD, Durrani T, Harrison R, Barreau T.",
+    "journalTitle": "Int J Environ Res Public Health",
+    "issue": "8",
+    "journalVolume": "22",
+    "pubYear": "2025",
+    "journalIssn": "1661-7827; 1660-4601; ",
+    "pageInfo": "1235",
+    "pubType": "research support, non-u.s. gov't; research support, u.s. gov't, non-p.h.s.; journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-08-07",
+    "firstIndexDate": "2025-09-04"
+   },
+   {
+    "id": "39656729",
+    "source": "MED",
+    "pmid": "39656729",
+    "pmcid": "PMC11630603",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11630603"
+     ]
+    },
+    "doi": "10.1371/journal.pone.0312251",
+    "title": "Occupational health in the Gulf Cooperation Council (GCC): A systematic review and call for comprehensive policy development.",
+    "authorString": "Masood MA, Khaled R, Bin-Ismail A, Semerjian L, Abass K.",
+    "journalTitle": "PLoS One",
+    "issue": "12",
+    "journalVolume": "19",
+    "pubYear": "2024",
+    "journalIssn": "1932-6203",
+    "pageInfo": "e0312251",
+    "pubType": "research-article; systematic review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 7,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2024-12-10",
+    "firstIndexDate": "2024-12-10"
+   },
+   {
+    "id": "35945885",
+    "source": "MED",
+    "pmid": "35945885",
+    "doi": "10.33314/jnhrc.v20i01.3607",
+    "title": "Aluminum Phosphide Poisoning, an Institutional Experience: Case Series.",
+    "authorString": "Basnet A, Thapa AJ, Khadka M, Regmi B, Khadka M, Adhikari K, Thapa AJ, Shrestha DB.",
+    "journalTitle": "J Nepal Health Res Counc",
+    "issue": "1",
+    "journalVolume": "20",
+    "pubYear": "2022",
+    "journalIssn": "1727-5482; 1999-6217; ",
+    "pageInfo": "251-256",
+    "pubType": "journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2022-06-02",
+    "firstIndexDate": "2022-08-10"
+   },
+   {
+    "id": "38859960",
+    "source": "MED",
+    "pmid": "38859960",
+    "pmcid": "PMC11164299",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC11164299"
+     ]
+    },
+    "doi": "10.1016/j.neurop.2023.100138",
+    "title": "Approach to non-compressive myeloneuropathy through a rendezvous of 11 cases from an Indian backdrop.",
+    "authorString": "Ghosh R, Roy D, Mandal A, Le\u00f3n-Ruiz M, Das S, Dubey S, Jana A, Purkait S, Ghosh T, Benito-Le\u00f3n J.",
+    "journalTitle": "Neurol Perspect",
+    "issue": "1",
+    "journalVolume": "4",
+    "pubYear": "2024",
+    "journalIssn": "2667-0496",
+    "pageInfo": "100138",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-11-30",
+    "firstIndexDate": "2024-06-11"
+   },
+   {
+    "id": "32538930",
+    "source": "MED",
+    "pmid": "32538930",
+    "pmcid": "PMC7654463",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7654463"
+     ]
+    },
+    "doi": "10.31729/jnma.4919",
+    "title": "Amitraz Poisoning - Tale of an Unusual Pesticide Poisoning: A Case Report.",
+    "authorString": "Shilpakar O, Karki B, Rajbhandari B.",
+    "journalTitle": "JNMA J Nepal Med Assoc",
+    "issue": "225",
+    "journalVolume": "58",
+    "pubYear": "2020",
+    "journalIssn": "0028-2715; 1815-672x; ",
+    "pageInfo": "338-340",
+    "pubType": "research-article; journal article; case reports",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 7,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2020-05-30",
+    "firstIndexDate": "2020-06-17"
+   },
+   {
+    "id": "34471518",
+    "source": "MED",
+    "pmid": "34471518",
+    "pmcid": "PMC8329602",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8329602"
+     ]
+    },
+    "doi": "10.12688/f1000research.54327.2",
+    "title": "Psychological and clinical-epidemiological profile of poisoning in Nepal: an institutional experience.",
+    "authorString": "Basnet A, Shrestha D, Chaulagain S, Thapa A, Khadka M, Regmi B, Khadka M, Adhikari K, Thapa AJ, Pokharel S, Singh KK, Syangtang P, Adhikari S.",
+    "journalTitle": "F1000Res",
+    "journalVolume": "10",
+    "pubYear": "2021",
+    "journalIssn": "2046-1402",
+    "pageInfo": "556",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 8,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-07-12",
+    "firstIndexDate": "2021-09-03"
+   },
+   {
+    "id": "34134811",
+    "source": "MED",
+    "pmid": "34134811",
+    "pmcid": "PMC8240123",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8240123"
+     ]
+    },
+    "doi": "10.1192/bjo.2021.923",
+    "title": "Suicide by poisoning in Pakistan: review of regional trends, toxicity and management of commonly used agents in the past three decades.",
+    "authorString": "Safdar M, Afzal KI, Smith Z, Ali F, Zarif P, Baig ZF.",
+    "journalTitle": "BJPsych Open",
+    "issue": "4",
+    "journalVolume": "7",
+    "pubYear": "2021",
+    "journalIssn": "2056-4724",
+    "pageInfo": "e114",
+    "pubType": "review-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 13,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-06-17",
+    "firstIndexDate": "2021-06-18"
+   },
+   {
+    "id": "PMC10504454",
+    "source": "PMC",
+    "pmcid": "PMC10504454",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10504454"
+     ]
+    },
+    "title": "ABSTRACTS CRITICARE \u2013 IJCCM2023",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "suppl 1",
+    "journalVolume": "27",
+    "pubYear": "2023",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "S1-S123",
+    "pubType": "abstract",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "nct",
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-01-01",
+    "firstIndexDate": "2023-09-18"
+   },
+   {
+    "id": "34888010",
+    "source": "MED",
+    "pmid": "34888010",
+    "pmcid": "PMC8613664",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8613664"
+     ]
+    },
+    "doi": "10.4239/wjd.v12.i11.1818",
+    "title": "Organophosphate pesticides and new-onset diabetes mellitus: From molecular mechanisms to a possible therapeutic perspective.",
+    "authorString": "Chung YL, Hou YC, Wang IK, Lu KC, Yen TH.",
+    "journalTitle": "World J Diabetes",
+    "issue": "11",
+    "journalVolume": "12",
+    "pubYear": "2021",
+    "journalIssn": "1948-9358",
+    "pageInfo": "1818-1831",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 20,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "refsnp",
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2021-11-01",
+    "firstIndexDate": "2021-12-16"
+   },
+   {
+    "id": "34325742",
+    "source": "MED",
+    "pmid": "34325742",
+    "pmcid": "PMC8321600",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC8321600"
+     ]
+    },
+    "doi": "10.1186/s13256-021-02919-x",
+    "title": "Acute poisoning with acetamiprid: a\u00a0case report.",
+    "authorString": "Pirasath S, Senthuran R, Athirayan C, Gevakaran M, Guruparan M, Gnanathasan A.",
+    "journalTitle": "J Med Case Rep",
+    "issue": "1",
+    "journalVolume": "15",
+    "pubYear": "2021",
+    "journalIssn": "1752-1947",
+    "pageInfo": "419",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 8,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2021-07-30",
+    "firstIndexDate": "2021-07-31"
+   },
+   {
+    "id": "36535986",
+    "source": "MED",
+    "pmid": "36535986",
+    "pmcid": "PMC9763389",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9763389"
+     ]
+    },
+    "doi": "10.1038/s41598-022-25313-z",
+    "title": "Epidemiology and renal injury following 2-methyl-4-chlorophenoxyacetic acid (MCPA) poisoning.",
+    "authorString": "Wijerathna TM, Buckley NA, Gawarammana IB, Raubenheimer J, Shahmy S, Chathuranga U, Palangasinghe C, Shihana F, Mohamed F.",
+    "journalTitle": "Sci Rep",
+    "issue": "1",
+    "journalVolume": "12",
+    "pubYear": "2022",
+    "journalIssn": "2045-2322",
+    "pageInfo": "21940",
+    "pubType": "research support, non-u.s. gov't; research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2022-12-19",
+    "firstIndexDate": "2022-12-23"
+   },
+   {
+    "id": "33364178",
+    "source": "MED",
+    "pmid": "33364178",
+    "pmcid": "PMC7750177",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7750177"
+     ]
+    },
+    "doi": "10.1016/j.toxrep.2020.12.005",
+    "title": "Cypermethrin poisoning manifesting with prolonged bradycardia: A case report.",
+    "authorString": "Shilpakar O, Karki B.",
+    "journalTitle": "Toxicol Rep",
+    "journalVolume": "8",
+    "pubYear": "2021",
+    "journalIssn": "2214-7500",
+    "pageInfo": "10-12",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 19,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2020-12-10",
+    "firstIndexDate": "2020-12-29"
+   },
+   {
+    "id": "34823333",
+    "source": "MED",
+    "pmid": "34823333",
+    "pmcid": "PMC12747447",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12747447"
+     ]
+    },
+    "doi": "10.11622/smedj.2021220",
+    "title": "Secondary exposure to organophosphate in the emergency department: analysis of an incident.",
+    "authorString": "Omar E, Wong Z, Mohamed Jamil AK, Ponampalam R.",
+    "journalTitle": "Singapore Med J",
+    "issue": "12",
+    "journalVolume": "66",
+    "pubYear": "2025",
+    "journalIssn": "0037-5675; 2737-5935; ",
+    "pageInfo": "669-673",
+    "pubType": "other; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2021-11-26",
+    "firstIndexDate": "2021-12-01"
+   },
+   {
+    "id": "31500467",
+    "source": "MED",
+    "pmid": "31500467",
+    "doi": "10.1080/15563650.2019.1662433",
+    "title": "How many premature deaths from pesticide suicide have occurred since the agricultural Green Revolution?",
+    "authorString": "Karunarathne A, Gunnell D, Konradsen F, Eddleston M.",
+    "journalTitle": "Clin Toxicol (Phila)",
+    "issue": "4",
+    "journalVolume": "58",
+    "pubYear": "2020",
+    "journalIssn": "1556-3650; 1556-9519; ",
+    "pageInfo": "227-232",
+    "pubType": "research support, non-u.s. gov't; review; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 65,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2019-09-09",
+    "firstIndexDate": "2019-09-11"
+   },
+   {
+    "id": "32021001",
+    "source": "MED",
+    "pmid": "32021001",
+    "pmcid": "PMC6996657",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC6996657"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-23306",
+    "title": "Paraquat: The Poison Potion.",
+    "authorString": "Sukumar CA, Shanbhag V, Shastry AB.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "suppl 4",
+    "journalVolume": "23",
+    "pubYear": "2019",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "S263-S266",
+    "pubType": "discussion; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 46,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2019-12-01",
+    "firstIndexDate": "2020-02-07"
+   },
+   {
+    "id": "31237170",
+    "source": "MED",
+    "pmid": "31237170",
+    "pmcid": "PMC6598532",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC6598532"
+     ]
+    },
+    "doi": "10.1080/0886022x.2019.1628780",
+    "title": "Acute toxic kidney injury.",
+    "authorString": "Petejova N, Martinek A, Zadrazil J, Teplan V.",
+    "journalTitle": "Ren Fail",
+    "issue": "1",
+    "journalVolume": "41",
+    "pubYear": "2019",
+    "journalIssn": "0886-022x; 1525-6049; ",
+    "pageInfo": "576-594",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 50,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2019-11-01",
+    "firstIndexDate": "2019-06-27"
+   },
+   {
+    "id": "36952114",
+    "source": "MED",
+    "pmid": "36952114",
+    "pmcid": "PMC10035466",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10035466"
+     ]
+    },
+    "doi": "10.1007/s13181-023-00930-w",
+    "title": "2023 ACMT Annual Scientific Meeting Abstracts - San Diego, CA.",
+    "journalTitle": "J Med Toxicol",
+    "pubYear": "2023",
+    "journalIssn": "1556-9039; 1937-6995; ",
+    "pageInfo": "63-168",
+    "pubType": "news",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 3,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2023-03-23",
+    "firstIndexDate": "2023-03-25"
+   },
+   {
+    "id": "33748533",
+    "source": "MED",
+    "pmid": "33748533",
+    "pmcid": "PMC7968045",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7968045"
+     ]
+    },
+    "doi": "10.1007/s12403-020-00361-w",
+    "title": "Associations of acetylcholinesterase inhibition between pesticide spray seasons with depression and anxiety symptoms in adolescents, and the role of sex and adrenal hormones on gender moderation.",
+    "authorString": "Suarez-Lopez JR, Nguyen A, Klas J, Gahagan S, Checkoway H, Lopez-Paredes D, Noble M.",
+    "journalTitle": "Expo Health",
+    "issue": "1",
+    "journalVolume": "13",
+    "pubYear": "2021",
+    "journalIssn": "2451-9766; 2451-9685; ",
+    "pageInfo": "51-64",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 34,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2020-05-21",
+    "firstIndexDate": "2021-03-23"
+   },
+   {
+    "id": "33960866",
+    "source": "MED",
+    "pmid": "33960866",
+    "doi": "10.1080/15563650.2021.1917596",
+    "title": "Acute phenthoate self-poisoning: a prospective case series.",
+    "authorString": "Rambabu L, Mohamed F, Dhanarisi J, Gawarammana I, Raubenheimer J, Mackenzie L, Roberts MS, Buckley N, Eddleston M.",
+    "journalTitle": "Clin Toxicol (Phila)",
+    "issue": "2",
+    "journalVolume": "60",
+    "pubYear": "2022",
+    "journalIssn": "1556-3650; 1556-9519; ",
+    "pageInfo": "214-220",
+    "pubType": "research support, non-u.s. gov't; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "N",
+    "inPMC": "N",
+    "citedByCount": 2,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "N",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2021-05-07",
+    "firstIndexDate": "2021-05-08"
+   },
+   {
+    "id": "36778929",
+    "source": "MED",
+    "pmid": "36778929",
+    "pmcid": "PMC9903603",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC9903603"
+     ]
+    },
+    "doi": "10.1016/j.lana.2022.100253",
+    "title": "Suicidal behaviour and ideation in Guyana: A systematic literature review.",
+    "authorString": "Shaw C, Stuart J, Thomas T, K\u00f5lves K.",
+    "journalTitle": "Lancet Reg Health Am",
+    "journalVolume": "11",
+    "pubYear": "2022",
+    "journalIssn": "2667-193x",
+    "pageInfo": "100253",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 11,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2022-04-07",
+    "firstIndexDate": "2023-02-14"
+   },
+   {
+    "id": "32021000",
+    "source": "MED",
+    "pmid": "32021000",
+    "pmcid": "PMC6996656",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC6996656"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-23308",
+    "title": "Neonicotinoid Poisoning and Management.",
+    "authorString": "Selvam V, Srinivasan S.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "suppl 4",
+    "journalVolume": "23",
+    "pubYear": "2019",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "S260-S262",
+    "pubType": "discussion; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 18,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2019-12-01",
+    "firstIndexDate": "2020-02-07"
+   },
+   {
+    "id": "37397917",
+    "source": "MED",
+    "pmid": "37397917",
+    "pmcid": "PMC10311134",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10311134"
+     ]
+    },
+    "doi": "10.1093/toxres/tfad035",
+    "title": "The therapeutic benefit of antioxidants on the outcome of acute aluminum phosphide poisoning: a systemic review and meta-analysis.",
+    "authorString": "Sobh ZK, Abd-Elhameed A.",
+    "journalTitle": "Toxicol Res (Camb)",
+    "issue": "3",
+    "journalVolume": "12",
+    "pubYear": "2023",
+    "journalIssn": "2045-452x; 2045-4538; ",
+    "pageInfo": "345-354",
+    "pubType": "review-article; review; journal article",
+    "isOpenAccess": "N",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 19,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2023-05-18",
+    "firstIndexDate": "2023-07-04"
+   },
+   {
+    "id": "PMC10775241",
+    "source": "PMC",
+    "pmcid": "PMC10775241",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC10775241"
+     ]
+    },
+    "title": "POSTER PRESENTATIONS",
+    "journalTitle": "Indian J Nephrol",
+    "issue": "suppl 1",
+    "journalVolume": "33",
+    "pubYear": "2023",
+    "journalIssn": "0971-4065; 1998-3662; ",
+    "pageInfo": "S31-S141",
+    "pubType": "abstract",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "N",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "N",
+    "firstPublicationDate": "2023-12-01",
+    "firstIndexDate": "2024-04-02"
+   },
+   {
+    "id": "41216213",
+    "source": "MED",
+    "pmid": "41216213",
+    "pmcid": "PMC12597289",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC12597289"
+     ]
+    },
+    "doi": "10.1016/j.lanwpc.2025.101720",
+    "title": "Adverse health outcomes among migrant workers and transnational families in the Asia-Pacific: a systematic review and meta-analysis.",
+    "authorString": "Chia-Yin Lin R, Lau K, Mackey K, Matthews NR, Selvamani M, Beatriz M, Oumnia B, Kim C, Iwamoto A, Fujita M, Trummer U, Dang TN, Kamenshchikova A, Zimmerman C, Hargreaves S.",
+    "journalTitle": "Lancet Reg Health West Pac",
+    "journalVolume": "64",
+    "pubYear": "2025",
+    "journalIssn": "2666-6065",
+    "pageInfo": "101720",
+    "pubType": "research-article; journal article",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 0,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "Y",
+    "hasLabsLinks": "Y",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2025-10-28",
+    "firstIndexDate": "2025-11-11"
+   },
+   {
+    "id": "32963444",
+    "source": "MED",
+    "pmid": "32963444",
+    "pmcid": "PMC7482335",
+    "fullTextIdList": {
+     "fullTextId": [
+      "PMC7482335"
+     ]
+    },
+    "doi": "10.5005/jp-journals-10071-23479",
+    "title": "The First Case Series Report of <i>Typhonium trilobatum</i> Tuber Poisoning in Humans.",
+    "authorString": "Anandhi D, Prakash Raju K, Pillai VM, Kumaresan V.",
+    "journalTitle": "Indian J Crit Care Med",
+    "issue": "7",
+    "journalVolume": "24",
+    "pubYear": "2020",
+    "journalIssn": "0972-5229; 1998-359x; ",
+    "pageInfo": "581-584",
+    "pubType": "journal article; case reports; case-report",
+    "isOpenAccess": "Y",
+    "inEPMC": "Y",
+    "inPMC": "Y",
+    "citedByCount": 1,
+    "hasReferences": "Y",
+    "hasTextMinedTerms": "Y",
+    "hasDbCrossReferences": "N",
+    "hasPDF": "Y",
+    "hasBook": "N",
+    "hasSuppl": "N",
+    "hasLabsLinks": "N",
+    "hasTMAccessionNumbers": "Y",
+    "tmAccessionTypeList": {
+     "accessionType": [
+      "doi"
+     ]
+    },
+    "firstPublicationDate": "2020-07-01",
+    "firstIndexDate": "2020-09-24"
+   }
+  ]
+ }
+}
