@@ -1,0 +1,93 @@
+{
+  "pmid": "37985857",
+  "pmcid": "PMC10662164",
+  "citation": "Qi Yan, Lin Wu-Qiang, Liao Bin, et al. Blood plasma metagenomic next-generation sequencing for identifying pathogens of febrile neutropenia in acute leukemia patients. Scientific Reports, 2023.",
+  "language": "English",
+  "study_design": "Retrospective single-center cohort",
+  "study_period": "February 2020 to February 2023",
+  "population": {
+    "n_total": 37,
+    "n_haemato_or_transplant": 37,
+    "population_description": "Acute leukemia patients with febrile neutropenia (temperature >38.3°C or twice >38.0°C >1h and neutrophil count <500/mm3) undergoing paired plasma mNGS and blood culture within 24 h",
+    "haemato_subtypes": "AML 26 (70.3%), ALL 5 (13.5%), AMOL 3 (8.1%), AHL 2 (5.4%), AL 1 (2.7%)"
+  },
+  "neutropenic_status": "FN definition: 'oral temperature > 38.3 °C or twice consecutive > 38.0 °C for more than 1 h and neutrophil count < 500/mm3'",
+  "specimens": [
+    {
+      "type": "blood plasma (mNGS)",
+      "n_tests": 37
+    },
+    {
+      "type": "blood culture",
+      "n_tests": 37
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "plasma cfDNA mNGS on MGISEQ-2000 (MGI); Genskey kits; ~12,000-genome SNAP database",
+    "commercial_or_inhouse": "commercial (Genskey Co., Ltd., Beijing)",
+    "dna_and_or_rna": "DNA"
+  },
+  "reference_standard": "Final clinical diagnosis of infectious pathogen at discharge: 'The final diagnosis of the infectious pathogen at the time of discharge was the gold standard', based on comprehensive judgment of three experienced senior physicians",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 37,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "mNGS diagnostic positivity 25/37 (67.6%) vs blood culture 7/37 (18.9%) (p<0.05). Versus final clinical diagnosis in blood samples: sensitivity 100.00%, specificity 40.00%, PPV 28.00%, NPV 100.00%; agreement of mNGS and BC 51.35% (19/37). Of 14 clinically approved pathogens, 9 detected only by mNGS and 5 by both mNGS and BC. Raw 2x2 counts not published (PPV 28% of 25 mNGS-positives implies 7 TP; not explicitly stated)."
+  },
+  "additional_yield_vs_conventional": "Of 37 infections, 6 (16.22%) diagnosed by both BC and mNGS, 18 (48.65%) by mNGS only, 12 (32.43%) negative by both; mNGS detected 9 of 14 final pathogens that BC missed",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Same blood draw split for BC and mNGS; clinicians adjudicating final diagnosis were not blinded to mNGS results (incorporation bias); paper has internal inconsistencies (6+18=24 vs reported 25 mNGS-positive patients)"
+  },
+  "quadas2_notes": "Sensitivity/specificity reported vs discharge clinical diagnosis but no raw TP/FP/FN/TN counts; derived counts would be inconsistent (PPV 28% x 25 = 7 TP, but '6 diagnosed by both BC and mNGS' and sensitivity 100% + NPV 100% constraints do not reconcile cleanly), so no 2x2 built. Note text/figure counting discrepancies.",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "We retrospectively reviewed 37 AL patients with FN and compared the results of mNGS with blood culture (BC) and the clinical features of the mNGS-positive group and the mNGS-negative group.",
+      "section": "Abstract"
+    },
+    {
+      "claim": "period",
+      "quote": "From February 2020 to February 2023, a total of 37 AL patients with FN were enrolled in the Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine.",
+      "section": "Materials and methods"
+    },
+    {
+      "claim": "positivity rates",
+      "quote": "The diagnostic positivity rate of mNGS (25/37, 67.6%) was significantly higher than that of BC (7/37, 18.9%), and the difference was statistically significant (p < 0.05).",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "accuracy",
+      "quote": "The sensitivity and specificity were 100.00% and 40.00%, respectively. The positive prediction value (PPV) and negative prediction value (NPV) were 28.00% and 100.00%, respectively.",
+      "section": "Results"
+    },
+    {
+      "claim": "2x2 vs BC (partial)",
+      "quote": "Of 37 infections, 6 (16.22%) were diagnosed by both BC and mNGS, 18 (48.65%) by mNGS only, and 12 (32.43%) were negative by both BC and mNGS",
+      "section": "Results"
+    },
+    {
+      "claim": "additional yield",
+      "quote": "A total of 14 detected pathogens were the final clinical diagnosis, of which 9 strains were detected only by mNGS and 5 strains were detected by both mNGS and BC.",
+      "section": "Abstract"
+    },
+    {
+      "claim": "gold standard",
+      "quote": "The final diagnosis of the infectious pathogen at the time of discharge was the gold standard.",
+      "section": "Methods: mNGS clinical performance"
+    },
+    {
+      "claim": "FN definition",
+      "quote": "meeting the criteria for FN: oral temperature > 38.3 °C or twice consecutive > 38.0 °C for more than 1 h and neutrophil count < 500/mm3",
+      "section": "Materials and methods"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No raw 2x2 counts; derived counts internally inconsistent; n=37 modest."
+}

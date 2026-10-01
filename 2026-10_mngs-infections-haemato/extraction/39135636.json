@@ -1,0 +1,111 @@
+{
+  "pmid": "39135636",
+  "pmcid": "PMC11317373",
+  "citation": "Cai X, Sun C, Zhong H, Cai Y, Cao M, Wang L, Sun W, Tao Y, Ma G, Huang B, Yan S, Zhong J, Wang J, Lu Y, Guan Y, Song M, Wang Y, Li Y, Su X. The value of metagenomic next-generation sequencing with different nucleic acid extracting methods of cell-free DNA or whole-cell DNA in the diagnosis of non-neutropenic pulmonary aspergillosis. Frontiers in Cellular and Infection Microbiology. 2024;14:1398190.",
+  "language": "English",
+  "study_design": "Multicenter diagnostic-accuracy study (enrollment March-October 2022; prospective collection of BALF tested by cfDNA mNGS, wcDNA mNGS and CMTs; prospective/retrospective label not explicitly stated in text)",
+  "study_period": "March 2022 to October 2022",
+  "population": {
+    "n_total": 71,
+    "n_haemato_or_transplant": "2 (hematologic tumor 2/71, 2.82%); 1 organ transplant",
+    "population_description": "Non-neutropenic adults with suspected pulmonary aspergillosis (COPD, diabetes, corticosteroids, etc.) from 7-8 respiratory departments in Nanjing/Jiangsu; NEUTROPENIC patients were excluded",
+    "haemato_subtypes": "Hematologic tumor 2 (2.82% of 71: 1 PA, 1 non-PA); organ transplantation 1 (1.41%)"
+  },
+  "neutropenic_status": "Exclusion criterion: neutropenia (ANC <0.5x10^9/L) - population is explicitly NON-neutropenic",
+  "specimens": [
+    {
+      "type": "BALF",
+      "n_tests": "71 (cfDNA and wcDNA mNGS plus CMTs; tNGS in 62)"
+    },
+    {
+      "type": "blood cfDNA",
+      "n_tests": "8"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "BALF mNGS cfDNA and wcDNA (Hugobiotech, Beijing; QIAamp DNA Micro Kit, QIAseq Ultralow library); tNGS 153-plex respiratory panel (KingMed) in 62; DNA only",
+    "commercial_or_inhouse": "commercial (Hugobiotech; KingMed for tNGS)",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "Final clinical diagnosis of PA (IPA/CPA) vs non-PA by two senior pulmonologists based on host risk factors, symptoms, chest CT, laboratory findings, treatment response; EORTC/MSGERC 2020, IDSA 2016, ESCMID/ERS/ECMM 2017 criteria",
+  "comparator_2x2": {
+    "TP": null,
+    "FP": null,
+    "FN": null,
+    "TN": null,
+    "against": "clinical diagnosis as gold standard; only sensitivity/specificity percentages reported (Table 2), raw 2x2 counts not given",
+    "unit": "patient",
+    "note": "PA n=19, non-PA n=52 derivable from Table 1 subgroup columns (PA group n=19), but cell counts not reported."
+  },
+  "diagnostic_yield": {
+    "n_tests": "71 BALF (cfDNA + wcDNA each)",
+    "n_positive_relevant_pathogens": "BALF-cfDNA positive 58/71 (81.69%), BALF-wcDNA 51/71 (71.83%), CMTs 34/71 (47.89%)",
+    "yield_percent": "for PA diagnosis: BALF-cfDNA sensitivity 78.95%, specificity 84.62%; BALF-wcDNA 73.68%/88.46%; CMTs 47.37%/84.62%; cfDNA+CMTs 89.47%/73.08% (Table 2)",
+    "basis": "clinical diagnosis as gold standard (Table 2) and pathogen-positive rates among 71 patients"
+  },
+  "additional_yield_vs_conventional": "BALF-cfDNA detected 43 species, wcDNA 44 species vs CMTs 14 species; for Aspergillus detection before antifungals: 6/8 identified by BALF-mNGS vs 1/8 by CMTs; combination cfDNA+CMTs sensitivity 89.47% vs CMTs 47.37%.",
+  "turnaround_time": null,
+  "therapy_change": "Not reported (COVID-19 delays meant mNGS results could not serve as recommendation for antimicrobial drugs)",
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": null,
+    "blinding_of_index_result": "unclear (adjudicators were pulmonologists; not stated whether blinded to mNGS)",
+    "paired_data": true,
+    "overlap_risk": "Each patient has two index tests (cfDNA, wcDNA) plus tNGS - correlated observations; single centers in one region"
+  },
+  "quadas2_notes": "Population is NOT haemato-oncology: non-neutropenic (neutropenia excluded), mostly COPD/diabetes/steroid users; only 2/71 hematologic tumor patients - not usable for mNGS in haemato-oncology. No raw 2x2 cells; percentages only. Clinical adjudication may not be blinded to mNGS.",
+  "evidence_quotes": [
+    {
+      "claim": "n=71 suspected PA, period",
+      "quote": "From March 2022 to October 2022, patients with suspected PA in non-neutropenic admitted to the Department of Respiratory and Critical Care Medicine of Nanjing Jinling Hospital",
+      "section": "Methods"
+    },
+    {
+      "claim": "neutropenia excluded",
+      "quote": "Patients were excluded from the study based on the following criteria: (1) age <18 years; (2) neutropenia (absolute neutrophil count <0.5×10 9",
+      "section": "Methods"
+    },
+    {
+      "claim": "PA n=19",
+      "quote": "For PA patients, BALF-cfDNA identified 21 species (8 fungi, 10 bacteria, 3 viruses), BALF-wcDNA detected 21 species (8 fungi, 9 bacteria, 4 viruses), and CMTs detected 8 species (3 fungi, 5 bacteria)",
+      "section": "Results"
+    },
+    {
+      "claim": "positive rates",
+      "quote": "34 patients had positive responsible pathogens according to CMTs (34/71, 47.89%), 58 and 51 patients were tested positive by BALF-cfDNA and BALF-wcDNA (BALF-cfDNA:58/71, 81.69%; BALF-wcDNA:51/71, 71.83%).",
+      "section": "Results"
+    },
+    {
+      "claim": "Table 2 accuracy",
+      "quote": "Table 2 Diagnostic performance of BALF-cfDNA, BALF-wcDNA, and CMTs in PA. Methods Sensitivity Specificity PPV NPV AUC BALF-cfDNA 78.95% 84.62% 65.22% 91.67% 0.818 ... CMTs 47.37% 84.62% 52.94% 81.48% 0.66 ... Culture 21.05% 96.15% 66.67% 76.92% 0.586 ... BALF-GM 31.58% 90.38% 54.55% 78.33% 0.61 ... cfDNA+CMTs 89.47% 73.08% 54.84% 95.00% 0.813 ... wcDNA+CMTs 84.21% 75.00% 55.17% 92.86% 0.796",
+      "section": "Table 2"
+    },
+    {
+      "claim": "adjudication",
+      "quote": "The clinical diagnosis of PA and whether the microorganism detected was pathogenic or colonizing was made by two senior pulmonologists based on host risk factors, clinical symptoms, chest computed tomography, laboratory findings, and response to treatment.",
+      "section": "Methods"
+    },
+    {
+      "claim": "species counts",
+      "quote": "BALF-cfDNA detected 43 species (14 fungi, 19 bacteria, 6 viruses, 3 mycobacteria, 1 chlamydia), BALF-wcDNA detected 44 species (17 fungi, 18 bacteria, 5 viruses, 3 mycobacteria, 1 chlamydia), and CMTs detected 14 species (4 fungi, 9 bacteria,1 mycobacteria).",
+      "section": "Results"
+    },
+    {
+      "claim": "antifungal pre-treatment Aspergillus detection",
+      "quote": "1 case (1/8, 12.50%) and 6 cases (6/8, 75.00%) were identified to have Aspergillus by CMTs and BALF-mNGS(cfDNA,wcDNA).",
+      "section": "Results"
+    },
+    {
+      "claim": "hematologic tumor only 2",
+      "quote": "Hematologic tumor 2 (2.82) 1 (5.26) 1 (1.92) 0.47",
+      "section": "Table 1"
+    },
+    {
+      "claim": "tNGS subset",
+      "quote": "A total of 62 patients with suspected PA (18 PA and 44 non-PA) were subjected to tNGS. The sensitivity and specificity of the diagnosis of PA by tNGS was 52.94% (0.3096–0.7383), 84.44% (0.7122–0.9225)",
+      "section": "Results"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Population is non-neutropenic, predominantly non-haematology patients (only 2/71 with hematologic tumor); neutropenic patients excluded; also raw 2x2 counts not reported."
+}

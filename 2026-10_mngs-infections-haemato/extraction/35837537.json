@@ -1,0 +1,127 @@
+{
+ "pmid": "35837537",
+ "pmcid": "PMC9273631",
+ "citation": "Retrospective study, Tianjin First Central Hospital: mNGS vs traditional methods in haematological malignancy patients with febrile neutropenia after empiric antibiotics, 2022",
+ "language": "English",
+ "study_design": "Retrospective cohort (mNGS vs traditional microbiology; diagnostic efficiency vs clinical diagnosis)",
+ "study_period": "January 2019 to July 2021",
+ "population": {
+  "n_total": 192,
+  "n_haemato_or_transplant": 192,
+  "population_description": "192 haematological malignancy patients on empiric antibiotics with persistent fever after 72–96 h; 102 FN, 90 non-FN; clinical diagnosis: infected 145 (75.52%), non-infected 22 (11.46%), uncertain 24 (12.50%); 68 (35.42%) had transplantation or CAR-T; specimens: blood 157, BALF 11, tissue 9, body fluid 8, pus 5, sputum 2",
+  "haemato_subtypes": [
+   "AML 53 (27.60%)",
+   "ALL 53 (27.60%)",
+   "MDS 27 (14.06%)",
+   "NHL 28 (14.58%)",
+   "others 31 (16.15%)"
+  ]
+ },
+ "neutropenic_status": "FN defined as absolute neutrophil count (ANC) <0.5 × 10^9/L; non-FN ANC >0.5 × 10^9/L",
+ "specimens": [
+  {
+   "type": "blood",
+   "n_tests": 157
+  },
+  {
+   "type": "BALF",
+   "n_tests": 11
+  },
+  {
+   "type": "tissue",
+   "n_tests": 9
+  },
+  {
+   "type": "body fluid",
+   "n_tests": 8
+  },
+  {
+   "type": "pus",
+   "n_tests": 5
+  },
+  {
+   "type": "sputum",
+   "n_tests": 2
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "BGISEQ-100 gene sequencer; DNA extracted with TIANamp Micro DNA kit, RNA with QIAamp Viral RNA Mini kit, reverse-transcribed to ds cDNA; NCBI-derived reference databases with negative controls",
+  "commercial_or_inhouse": "inhouse workflow (GBI laboratory)",
+  "dna_and_or_rna": "DNA and RNA"
+ },
+ "reference_standard": "Clinical diagnosis adjudicated from clinical manifestations, traditional laboratory results, imaging and microbiological evidence; patients divided into infected (145), non-infected (22) and uncertain (24) groups",
+ "comparator_2x2": {
+  "TP": 66,
+  "FP": 5,
+  "FN": 9,
+  "TN": 7,
+  "against": "clinical diagnosis as reference (FN group, n=102; infected n=75, non-infected n=12); mNGS sensitivity 88.00%, specificity 58.33%, PPV 92.96%, NPV 56.25% (traditional: sens 29.33%, spec 100%, PPV 100%, NPV 18.46%). TP/FN/TN/FP back-derived: 66/75=88.00%, 7/12=58.33%, PPV 66/71=92.96%",
+  "unit": "patient (FN subgroup)"
+ },
+ "diagnostic_yield": {
+  "n_tests": 192,
+  "n_positive_relevant_pathogens": 154,
+  "yield_percent": 80.21,
+  "basis": "mNGS-positive in 154/192 (80.21%) vs traditional 48/192 (25.00%), P<0.001; bacteria 93 (48.44%), fungus 44 (22.92%), virus 81 (42.19%); mixed infection 61 (39.61%) vs 4.17%; 141 pathogen species vs 15 by traditional methods"
+ },
+ "additional_yield_vs_conventional": "both methods positive in 48 (25%) cases; among these 31/48 partly matched, 10/48 fully matched, 7/48 mismatched; FN subgroup: empiric antibiotics of 46/102 (45.10%) patients did not cover all mNGS-detected pathogens",
+ "turnaround_time": "Results typically came back within 24 hours; samples sent to GBI laboratory within 12 h",
+ "therapy_change": "After adjusting the antimicrobial regimen according to mNGS results, effective rate at 72 h was 22/46 (47.83%) and at 7 days 24/102 (52.17%); 5 patients discontinued inappropriate antibiotics without adverse prognosis",
+ "mortality_or_outcomes": null,
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "clinical diagnosis partly incorporates mNGS results; uncertain group (n=24) excluded from accuracy calculations — denominator ambiguity; 2x2 derived, not verbatim"
+ },
+ "quadas2_notes": "Retrospective, single centre, mixed specimen types (mainly blood). Sensitivity/specificity reported per FN and non-FN subgroups vs clinical diagnosis; non-FN mNGS sens 81.42%, spec 63.64%. Derived 2x2 flagged; PPV/NPV verbatim. Fungal diagnosis in FN: 21/33 (63.63%) diagnosed with fungal infection.",
+ "evidence_quotes": [
+  {
+   "claim": "population and period",
+   "quote": "We retrospectively analyzed 192 patients who have received empiric antibiotic treatment. They were diagnosed with hematological malignancies in Tianjin First Central Hospital, Tianjin, China, between January 2019 and July 2021. A total of 102 patients were FN, and the remaining 90 patients were non-FN who did not develop neutropenia but had a fever.",
+   "section": "Study Patients"
+  },
+  {
+   "claim": "FN definition",
+   "quote": "FN patients needed to meet: absolute neutrophil count (ANC) in peripheral blood <0.5 × 10 9 /L.",
+   "section": "Study Patients"
+  },
+  {
+   "claim": "detection rates",
+   "quote": "the pathogen detection rate of mNGS was significantly higher than the traditional method (80.21% vs 25.00%, P <0.001). And it has obvious advantages in detecting mixed pathogens infection (80.21% vs 4.17%, P <0.001).",
+   "section": "Abstract/Results"
+  },
+  {
+   "claim": "sensitivity/specificity FN group",
+   "quote": "Sensitivity 29.33 88.00 <0.001* 37.14 81.42 <0.001* Specificity 100.00 58.33 0.063 100.00 63.64 0.125 PPV 100.00 92.96 100.00 93.44 NPV 18.46 56.25 20.00 35.00",
+   "section": "Table 3 Diagnostic Efficiency of Culture and mNGS Compared to Clinical Diagnosis"
+  },
+  {
+   "claim": "clinical diagnosis categories",
+   "quote": "according to clinical diagnosis, all patients were divided into the infected group (145 cases, 75.52%), the non-infected group (22 cases, 11.46%), and the uncertain (24 cases,12.50%).",
+   "section": "Result, Patient Characteristics"
+  },
+  {
+   "claim": "accuracy definitions",
+   "quote": "(Sensitivity=mNGS-positive/clinical diagnosed infections. Specificity=mNGS-negative/clinical diagnosed non-infections. PPV= clinical diagnosed infections with mNGS-positive/mNGS-positive. NPV= clinical diagnosed non-infections with mNGS-negative/ mNGS-negative.)",
+   "section": "Clinical Evaluation"
+  },
+  {
+   "claim": "antibiotic adjustment",
+   "quote": "In the FN group, empiric antibiotic treatment of 46/102 (45.10%) patients did not treat all the pathogens detected by mNGS. After adjusting the antimicrobial regimen according to the results of mNGS, the effective rate at 72 hours and 7 days was 22/46 (47.83%) and 24/102 (52.17%), respectively.",
+   "section": "Results"
+  },
+  {
+   "claim": "turnaround",
+   "quote": "those samples were collected and the results typically came back within 24 hours, which could help clinicians adjust antibiotics in time.",
+   "section": "Results, The Effect on the Adjustment of Antibiotics"
+  },
+  {
+   "claim": "platform",
+   "quote": "Using the BGISEQ-100 gene sequencer for sequencing.",
+   "section": "Sample Sequencing and Data Analysis"
+  }
+ ],
+ "usable_for_pooled_analysis": "2x2",
+ "exclusion_reason": null
+}

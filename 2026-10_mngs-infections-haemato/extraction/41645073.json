@@ -1,0 +1,67 @@
+{
+  "pmid": "41645073",
+  "pmcid": "PMC12964966",
+  "citation": "Xu C, Zhang L, Liu T, Zhu G, Wei H, Zheng Y, et al. Respiratory and blood samples metagenomic sequencing in diagnosing pulmonary infections in hematologic patients. BMC Infectious Diseases. 2026;26:514.",
+  "language": "English",
+  "study_design": "Retrospective single-centre cohort (Institute of Hematology and Blood Diseases Hospital, Tianjin); paired blood-mNGS and LRTS-mNGS",
+  "study_period": "March 2021 to March 2024",
+  "population": {
+    "n_total": 160,
+    "n_haemato_or_transplant": 160,
+    "population_description": "160 cases (156 patients enrolled; 151 cases/147 patients analyzed after excluding uncertain etiology) with haematological disorders and suspected pulmonary infection who underwent both blood-mNGS and LRTS-mNGS within one week. HSCT recipients: 51/127 BFPI cases (40.2%) had HSCT (47 allo, 4 auto).",
+    "haemato_subtypes": "Analyzed cases (N=147 patients): AML 44.2% (65/147), ALL 17.7% (26/147), lymphoma 15.0% (22/147). In BFPI cases (N=127): AML 54 (42.5%), ALL 24 (18.9%), lymphoma 19 (15.0%), MDS 11 (8.7%), aplastic anemia 7 (5.5%), other 12 (9.4%)."
+  },
+  "neutropenic_status": "Neutropenia reported as neutropenic phase: 30.5% (46/151) of cases; 37/127 (29.1%) BFPI cases neutropenic (Table 1); blood-mNGS PPA stratified by neutropenia (21/37 vs 23/90). ANC median reported (1.78 x 10^9/L IQR 0.37-3.63 in BFPI cases) but ANC cut-off defining neutropenia not stated in main text",
+  "specimens": [
+    {"type": "blood (mNGS)", "n_tests": 160},
+    {"type": "lower respiratory tract samples: BALF 90 (56.3%) + sputum 70 (43.8%) (mNGS)", "n_tests": 160},
+    {"type": "total mNGS tests (blood + LRTS)", "n_tests": 320}
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS (blood and LRTS); workflow described in prior publications and supplementary methods; 7 AMR markers targeted (mecA, blaOXA-23, blaOXA-48, blaKPC, blaNDM, blaVIM, blaIMP)",
+    "commercial_or_inhouse": "partly commercial (Tianjin Union Precision Medical Diagnostic Co., Ltd.)",
+    "dna_and_or_rna": "not reported in main text"
+  },
+  "reference_standard": "Clinical composite diagnosis (CCD) by an expert panel (microbiologist, radiologist, two hematologists, chaired by senior hematologist) based on all laboratory results (including mNGS and CMT), clinical presentation, imaging, antimicrobial adjustments and outcomes; pulmonary infection per CDC/NHSN surveillance definitions. Also compared against CMT.",
+  "comparator_2x2": {
+    "TP": 44,
+    "FP": 2,
+    "FN": 83,
+    "TN": 22,
+    "against": "Clinical composite diagnosis (CCD) for bacterial/fungal pulmonary infection; blood-mNGS (LRTS-mNGS 2x2 also given: TP 119, FP 3, FN 8, TN 21). Vs CMT: blood-mNGS 27/19/47/58; LRTS-mNGS 68/6/62/1.",
+    "unit": "case (episode)"
+  },
+  "diagnostic_yield": {
+    "n_tests": 127,
+    "n_positive_relevant_pathogens": 119,
+    "yield_percent": 93.7,
+    "basis": "LRTS-mNGS detected pulmonary pathogens in 119/127 (93.7%) BFPI cases vs blood-mNGS 44/127 (34.6%)."
+  },
+  "additional_yield_vs_conventional": "In 7 cases pathogens (all fungi) were detected only by blood-mNGS (2 Aspergillus spp., 1 Mucorales, 1 Pneumocystis spp. single infections; plus 3 mixed infections with additional fungi detected); in 10 cases pathogens detected only by CMT. Total genera detected: LRTS-mNGS 189/207 (91.3%), CMT 81/207 (39.1%), blood-mNGS 58/207 (28.0%).",
+  "turnaround_time": "described as short in introduction; no specific hours/days reported in main text",
+  "therapy_change": "mNGS positively influenced antimicrobial adjustments in 54.3% (69/127) of cases; negative impact in 1 case (0.8%); most common positive impact was addition of agents to target previously uncovered pathogens (37/69, 53.6%).",
+  "mortality_or_outcomes": "28-day mortality: 21/127 (16.5%) in BFPI cases, 3/24 (12.5%) in viral/non-infectious cases (Table 1).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear (expert panel had access to all results including mNGS - incorporation into CCD)",
+    "paired_data": true,
+    "overlap_risk": "CCD incorporates mNGS results, so mNGS-vs-CCD agreement overestimates true accuracy; CMT-referenced 2x2 provided as alternative. Retrospective, clinician-driven (non-consecutive) test ordering."
+  },
+  "quadas2_notes": "Excellent paired design (blood and LRTS within one week, same patients). Reference standard (CCD) includes mNGS -> incorporation bias in the CCD-referenced 2x2; the CMT-referenced 2x2 is also reported. Index test positive-reporting criteria in supplementary/previous publications only. Flow: 184 screened -> 156 patients/160 cases (4 incomplete records, 24 without CMT excluded); 9 uncertain-etiology cases excluded from accuracy analysis. Blood-mNGS false negatives dominate (83/127 vs CCD), while LRTS-mNGS dominates sensitivity.",
+  "evidence_quotes": [
+    {"claim": "retrospective, 160 cases, period, exclusions", "quote": "We retrospectively analyzed 184 patients with suspected pulmonary infections who underwent mNGS testing of blood and LRTS (with the two samples collected within one week of each other) in the Institute of Hematology and Blood Diseases Hospital from March 2021 to March 2024 (Fig. 1). ... After excluding 4 patients with incomplete medical records and 24 patients without CMT, a total of 156 patients (involving 160 cases and 320 mNGS tests) were finally enrolled.", "section": "Methods"},
+    {"claim": "blood-mNGS vs CCD 2x2", "quote": "Compared with CCD, the PPA of blood-mNGS and LRTS-mNGS was 34.6% (44/127) and 93.7% (119/127), respectively, while the NPA was 91.7% (22/24) and 87.5% (21/24)", "section": "Results"},
+    {"claim": "2x2 table values", "quote": "Blood-mNGS +44234.6 (26.4–43.6)91.7 (73.0–99.0)95.7 (85.2–99.5)21.0 (13.6–30.0)0.111, 43.7%Blood-mNGS -8322LRTS-mNGS +119393.7 (88.0-97.2)87.5 (67.6–97.3)97.5 (93.0-99.5)72.4 (52.8–87.3)0.749, 92.7%LRTS-mNGS -821", "section": "Table 2 (vs CCD: blood-mNGS + 44/2, - 83/22; LRTS-mNGS + 119/3, - 8/21)"},
+    {"claim": "vs CMT 2x2", "quote": "Blood-mNGS +271936.5 (25.6–48.5)75.3 (64.2–84.4)58.7 (43.2–73.0)55.2 (45.2–65.0)0.119, 56.3%Blood-mNGS -4758LRTS-mNGS +685691.9 (83.2–97.0)27.3 (17.7–38.6)54.8 (45.7–63.8)77.8 (57.7–91.4)0.189, 58.9%LRTS-mNGS -621", "section": "Table 2 (vs CMT)"},
+    {"claim": "CCD definition", "quote": "The clinical composite diagnosis (CCD) was determined based on all laboratory test results, including both mNGS and CMT, along with clinical presentation, imaging findings, antimicrobial adjustments, and patient outcomes.", "section": "Methods"},
+    {"claim": "blood-mNGS only fungi in 7 cases", "quote": "Importantly, in 7 cases, pathogens were only detected by blood-mNGS, all of which were fungi. Among these, 4 involved single fungal infections (2 caused by Aspergillus spp, 1 caused by Mucorales, and 1 by Pneumocystis spp.), while 3 were mixed fungal infections in which blood-mNGS identified additional fungal pathogens (2 Mucorales, and 1 both Mucorales and Aspergillus spp.) not detected by other methods.", "section": "Results"},
+    {"claim": "genera detected per method", "quote": "The numbers of genera detected by LRTS-mNGS, CTM and blood-mNGS were 189 (91.3%, 189/207), 81 (39.1%, 81/207), 58 (28.0%, 58/207), respectively.", "section": "Results"},
+    {"claim": "neutropenia subgroup", "quote": "Additionally, the PPA of blood-mNGS was significantly higher in patients with neutropenia compared to those without [56.8% (21/37) vs. 25.6% (23/90), P = 0.001]", "section": "Results"},
+    {"claim": "therapy change", "quote": "In terms of clinical value for antimicrobial adjustment, mNGS provided a positive impact in 69 out of 127 cases (54.3%), while only 1 case (0.8%) showed a negative impact.", "section": "Results"},
+    {"claim": "haemato subtypes and HSCT", "quote": "The most common underlying conditions were acute myeloid leukemia (44.2%, 65/147), acute lymphoblastic leukemia (17.7%, 26/147), and lymphoma (15.0%, 22/147). Among the 151 cases, 30.5% (46/151) were in the neutropenic phase, and 80.8% (122/151) had been exposed to antimicrobial agents prior to undergoing mNGS testing", "section": "Results"},
+    {"claim": "28-day mortality", "quote": "28-day mortality, n (%)21 (16.5)3 (12.5)", "section": "Table 1"},
+    {"claim": "specimen mix", "quote": "The LRTS included 90 (56.3%) BALF samples and 70 (43.8%) sputum samples.", "section": "Methods"}
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

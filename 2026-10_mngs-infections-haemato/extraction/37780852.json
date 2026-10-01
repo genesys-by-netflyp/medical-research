@@ -1,0 +1,118 @@
+{
+  "pmid": "37780852",
+  "pmcid": "PMC10533937",
+  "citation": "Huang Jiayu, Zhao Yeqian, Jiang Chuanhe, et al. Diagnostic efficiency of metagenomic next-generation sequencing for suspected infection in allogeneic hematopoietic stem cell transplant recipients: a multicenter retrospective study. Frontiers in Cellular and Infection Microbiology, 2023.",
+  "language": "English",
+  "study_design": "Multicenter retrospective cohort",
+  "study_period": "April 2021 to January 2023",
+  "population": {
+    "n_total": 153,
+    "n_haemato_or_transplant": 153,
+    "population_description": "Febrile allo-HSCT recipients with suspected infection; 271 paired mNGS/CMT samples, 258 samples analyzed after excluding 13 paired samples from the same febrile event",
+    "haemato_subtypes": "AML 88 (57.5%), ALL/LBL 32 (20.9%), MDS 20 (13.1%), MPAL 2, GS 2, other 9"
+  },
+  "neutropenic_status": "Samples grouped by neutropenic status at sampling: cohort A neutropenia n=92 samples, cohort B non-neutropenia n=179 samples",
+  "specimens": [
+    {
+      "type": "peripheral blood (plasma mNGS)",
+      "n_tests": 212
+    },
+    {
+      "type": "BALF",
+      "n_tests": 29
+    },
+    {
+      "type": "CSF",
+      "n_tests": 23
+    },
+    {
+      "type": "other (lung biopsy 2, urine 1, mucosal secretions 2, pleural effusion 2)",
+      "n_tests": 7
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS; positivity: bacteria/fungi SMRN >=3 at species level + genus relative abundance >30%; viruses SMRN >=3; parasites SMRN >=100",
+    "commercial_or_inhouse": "unclear",
+    "dna_and_or_rna": "unclear"
+  },
+  "reference_standard": "Independent clinical committee (two hematologists, one pulmonologist, one radiologist) adjudicated final diagnosis (clinically significant infection / infection without clinical significance / immune events / mixed) from symptoms, radiology, CMT and treatment response",
+  "comparator_2x2": {
+    "TP": 90,
+    "FP": 94,
+    "FN": 23,
+    "TN": 51,
+    "against": "conventional microbiological tests (CMT: smear, culture, G test, GM test, PCR for CMV/EBV etc.) - mNGS result vs CMT positivity, all 258 samples",
+    "unit": "sample"
+  },
+  "diagnostic_yield": {
+    "n_tests": 258,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "mNGS positive detection rate 76.4% vs CMT 43.8% (P<0.001). Versus clinical reference standard (clinically significant infection): mNGS sensitivity 81.1%, specificity 56.5%, PPV 80.7%, NPV 57.4% (all 258 samples); blood specimen mNGS sensitivity 77.4%, specificity 52.6%; combination protocol sensitivity 88.3%"
+  },
+  "additional_yield_vs_conventional": "Of 30 CMT-negative infected cases in cohort A, mNGS matched final causative pathogens in 20 (10 bacterial, 2 fungal, 5 viral, 3 polymicrobial); in cohort B mNGS verified 7 bacterial, 3 fungal, 26 viral, 5 polymicrobial infections in CMT-negative infected patients; P. jirovecii detected only by mNGS; 13/14 Aspergillus cases detected via mNGS vs 1 via CMT",
+  "turnaround_time": null,
+  "therapy_change": "Treatment success rate of targeted anti-infection strategy 85% (34/40) when based on mNGS vs 56.5% (26/46) with empirical therapy (P=0.004) in the 86 reviewed patients",
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Paired mNGS/CMT from same specimens; mNGS results part of adjudication material (incorporation risk); multiple samples per patient (258 samples/153 patients, non-independent)"
+  },
+  "quadas2_notes": "2x2 extracted from Table 3 (mNGS vs CMT, total specimens n=258: CMT+/mNGS+ 90, CMT+/mNGS- 23, CMT-/mNGS+ 94, CMT-/mNGS- 51). Note this 2x2 is against CMT positivity, not the clinical reference standard; against clinical diagnosis only sensitivity/specificity are given without raw counts.",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "We performed mNGS and CMT on samples obtained from 153 patients with suspected infection during allo-HSCT. ... we included 271 samples with parallel results for mNGS and CMT from 153 participants.",
+      "section": "Abstract/Methods, Results"
+    },
+    {
+      "claim": "period and centers",
+      "quote": "We retrospectively analyzed the medical records of patients who received allo-HSCT at Ruijin Hospital, the First Affiliated Hospital of Zhejiang University, and Liquan Hospital, GoBroad Medical Institute of Hematology (Shanghai Center) from April 2021 to January 2023.",
+      "section": "Study design"
+    },
+    {
+      "claim": "positive rates",
+      "quote": "The positive detection rate of mNGS was 76.4%, significantly higher than 43.8% of CMT (P<0.001).",
+      "section": "Results"
+    },
+    {
+      "claim": "2x2 vs CMT",
+      "quote": "Total(n=258) | CMT+ | 90 | 23 ... CMT- | 94 | 51",
+      "section": "Table 3 (cells: CMT+/mNGS+ 90, CMT+/mNGS- 23, CMT-/mNGS+ 94, CMT-/mNGS- 51)"
+    },
+    {
+      "claim": "accuracy vs clinical diagnosis",
+      "quote": "our results showed that the sensitivity of mNGS (81.1%) was significantly higher than that of CMT (53.6%) for clinical infection requiring intervention.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "Table 4 total",
+      "quote": "Total(n=258) | mNGS | 81.1 | 56.5 | 80.7 | 57.4 ... CMT | 53.6 | 95.2 | 92.9 | 40.7",
+      "section": "Table 4 (sensitivity, specificity, PPV, NPV)"
+    },
+    {
+      "claim": "neutropenia cohorts",
+      "quote": "We divided these samples into two cohorts based on neutropenic status at the time of sampling: cohort A (neutropenia [n=92]) and cohort B (non-neutropenia [n=179])",
+      "section": "Results"
+    },
+    {
+      "claim": "specimens",
+      "quote": "The most frequent mNGS sampling specimen was peripheral blood (78.2%), followed by BALF (10.7%), CSF (8.5%), and others (2.6%).",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy change",
+      "quote": "The overall treatment success rate (TSR) was 85% (34/40) for patients treated based on the mNGS results, and 56.5% for those receiving empirical therapy (26/46, P=0.004",
+      "section": "Results"
+    },
+    {
+      "claim": "immune events",
+      "quote": "Immune events were diagnosed in 57.4% (35/61) of the febrile events with negative mNGS results, and 33.5% (48/143) with negative CMT results (P=0.002).",
+      "section": "Abstract/Results"
+    }
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

@@ -1,0 +1,56 @@
+{
+  "pmid": "41660499",
+  "pmcid": "PMC12875665",
+  "citation": "Hensley MK, Sayed K, Haidar G, Wang X, Benos PV, Ito S, et al. Rapid Metagenomic Sequencing of Bronchoalveolar Lavage Fluid for Diagnosis of Infection in Patients With Hematologic Malignancies and Pulmonary Complications. CHEST Pulmonary. 2025;3(4):100173.",
+  "language": "English",
+  "study_design": "Prospective proof-of-concept observational cohort (RaMSeS), single centre (University of Pittsburgh)",
+  "study_period": "March 1, 2022 to October 30, 2022",
+  "population": {
+    "n_total": 30,
+    "n_haemato_or_transplant": 30,
+    "population_description": "30 adult inpatients with hematologic malignancy and pulmonary complications (hypoxemia or new/worsening radiographic abnormality) undergoing clinical diagnostic bronchoscopy; 10/30 (33.3%) had prior hematopoietic cell transplant.",
+    "haemato_subtypes": "AML 13 (43.3%); prior HCT 10 (33.3%). Clinical consensus groups: bacterial LRTI 4, viral LRTI 4, fungal LRTI 9, mixed LRTI 5, noninfectious PC 8."
+  },
+  "neutropenic_status": "Neutropenia defined as absolute neutrophil count < 500 cells/μL in the week before bronchoscopy: 18/30 (60.0%)",
+  "specimens": [
+    {"type": "bronchoalveolar lavage fluid (research aliquots; >=10 mL from same lobe as clinical BAL)", "n_tests": 30}
+  ],
+  "index_test": {
+    "platform_or_panel": "Two assays: 16S rRNA gene amplicon sequencing (Illumina MiSeq, bacterial only) and Nanopore metagenomic long-read sequencing (Oxford Nanopore MinION Mk1c, saponin-based human DNA depletion); threshold >=50 microbial reads",
+    "commercial_or_inhouse": "Inhouse (research, University of Pittsburgh Center for Medicine and the Microbiome)",
+    "dna_and_or_rna": "DNA only (16S: bacteria; Nanopore: bacteria, DNA viruses, fungi)"
+  },
+  "reference_standard": "Clinical consensus classification by 3 physicians integrating CMT results (culture/PCR/antigen), imaging, clinical course and treatment response; fungal LRTI per EORTC/MSG criteria; CMT itself used for concordance comparisons. No independent validated reference standard.",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 30,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "No single overall mNGS positivity rate reported. CMT identified plausible LRT pathogens in 16/30 (53%). 16S-Seq: positive concordance with CMT 4/6 (66.7%), negative concordance 3/7 (42.9%), additional plausible pathogens in 16/27 (59.3%). Nanopore: positive concordance 1/15 (6.7%), negative concordance 7/8 (87.5%), additional pathogens in 11/26 (42.3%)."
+  },
+  "additional_yield_vs_conventional": "16S-Seq identified additional plausible respiratory pathogens in 16/27 (59.3%) patients; Nanopore in 11/26 (42.3%). Per group: 16S additive yield bacterial LRTI 3/4, mixed 3/4, viral 3/4, fungal 5/8, noninfectious 2/7; Nanopore 2/3, 2/3, 2/4, 4/8, 1/8. Nanopore detected no abundant pathogenic fungal species in the 9 fungal LRTIs.",
+  "turnaround_time": "Nanopore real-time sequencing capable of species-level ID 'as early as 6 to 8 hours' (cited as general capability, not measured in study); no measured TAT reported",
+  "therapy_change": null,
+  "mortality_or_outcomes": "Respiratory failure 23/30 (76.7%), ICU transfer 15/30 (50.0%), mechanical ventilation 10/30 (33.3%), death within 30 days of bronchoscopy 10/30 (33.3%); median length of stay 17 days (IQR 4-39).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "unclear",
+    "paired_data": false,
+    "overlap_risk": "No full 2x2: Nanopore comparisons exclude 4 cases with >=99% human DNA; 3 16S samples unavailable; concordance denominators vary by subset (e.g. positive concordance 4/6 of 16 CMT-positive). Clinical consensus classification partially relies on CMT, and sequencing results were not used to define groups - limited incorporation risk but denominators incomplete."
+  },
+  "quadas2_notes": "Small proof-of-concept (n=30). No full 2x2 reconstructible from main text (e-Tables not available in XML); concordance reported only over analysable subsets with variable denominators. Index test: two distinct research assays, inhouse, no clinical validation thresholds. Reference standard: retrospective 3-physician consensus, subjective, CMT-based with limited sensitivity; all patients received antimicrobials before bronchoscopy (differential verification concerns). Nanopore performed poorly for molds (possible pre-analytic host-depletion/extraction artifact per authors).",
+  "evidence_quotes": [
+    {"claim": "prospective cohort of 30, period", "quote": "Prospective proof-of-concept cohort study of 30 adult inpatients with hematologic malignancies and PCs who underwent bronchoscopy for suspected lower respiratory tract infection.", "section": "Abstract"},
+    {"claim": "enrollment dates", "quote": "We prospectively enrolled adult (≥ 18 years of age) hospitalized patients with HM and a diagnosis of PCs (defined as hypoxemia or new/worsening radiographic abnormality) who underwent clinical diagnostic bronchoscopy from March 1, 2022, to October 30, 2022.", "section": "Study Design and Methods"},
+    {"claim": "neutropenia definition and rate", "quote": "18 (60.0%) were neutropenic (absolute neutrophil count < 500 cells/μL) in the week before bronchoscopy. Thirteen (43.3%) had acute myeloid leukemia, and 10 (33.3%) had prior hematopoietic cell transplantation", "section": "Results"},
+    {"claim": "concordance summary", "quote": "In total, CMT identified a pathogen via culture- or polymerase chain reaction-based testing in 53% of patients. 16S-Seq demonstrated 66.7% positive concordance, demonstrated 42.9% negative concordance with CMT, and identified additional plausible respiratory pathogens in 59.3% of patients. Nanopore demonstrated 6.7% positive concordance and 87.5% negative concordance with CMT, and it identified additional plausible respiratory pathogens in 42.3% of patients", "section": "Results"},
+    {"claim": "exclusions from Nanopore comparison", "quote": "Of the 30 cases, 4 (13.3%) had ≥ 99% human DNA by Nanopore and were excluded from further comparisons (e-Table 1, Fig 1). For 16S-Seq, 3 samples (10.0%) were not available due to operational reasons.", "section": "Results"},
+    {"claim": "Nanopore failed to detect molds", "quote": "Nanopore sequencing did not detect any abundant pathogenic fungal species in these 9 fungal LRTIs. However, C dubliniensis reads were detected in 7 of 9 cases (77.8%)", "section": "Results"},
+    {"claim": "clinical consensus groups", "quote": "Clinical consensus classifications (groups) defined 22 patients (73.3%) as having infectious PCs (4 bacterial, 4 viral, 9 fungal, 5 mixed) and 8 patients (26.7%) as having noninfectious PCs", "section": "Results"},
+    {"claim": "outcomes", "quote": "The median length of stay was 17 days (interquartile range, 4-39), 23 (76.7%) developed respiratory failure, 15 (50.0%) required ICU transfer, 10 (33.3%) required mechanical ventilation, and 10 (33.3%) died within 30 days of bronchoscopy.", "section": "Results"},
+    {"claim": "Nanopore real-time capability", "quote": "Nanopore's ability to produce long reads and analyze DNA in real time means that species-level identification and resistance profiling can be achieved in clinically relevant turnaround times, as early as 6 to 8 hours", "section": "Introduction"},
+    {"claim": "reference standard approach", "quote": "To address time-related diagnostic limitations, we used a retrospective consensus approach among 3 physicians to integrate clinical and microbiological data. Although our approach represents pragmatic physician diagnostic thinking on available CMT results, it introduces potential subjectivity.", "section": "Limitations"}
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No complete 2x2 vs reference standard or CMT reconstructible (variable, subset denominators; 4 Nanopore and 3 16S cases excluded); concordance/additive-yield data only. n=30 borderline small."
+}

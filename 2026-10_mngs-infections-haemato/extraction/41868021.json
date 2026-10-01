@@ -1,0 +1,63 @@
+{
+  "pmid": "41868021",
+  "pmcid": "PMC13005251",
+  "citation": "Zhan M, Tu S, Yang S, Yin Y, Wang Z, Zhang F, et al. Clinical Utility of Metagenomic Next-Generation Sequencing in Diagnosing Central Nervous System Infections in Hematopoietic Stem Cell Transplant Recipients: A Retrospective and Prospective Cohort Study. Infection and Drug Resistance. 2026;19:505-482 (Dove Press, doi:10.2147/IDR.S554425).",
+  "language": "English",
+  "study_design": "Mixed retrospective and prospective cohort (87 retrospective, 40 prospective), single centre (Peking University People's Hospital)",
+  "study_period": "May 2018 to August 2022",
+  "population": {
+    "n_total": 127,
+    "n_haemato_or_transplant": 85,
+    "population_description": "127 patients with suspected CNS infection (acute fever >38.5 C plus at least one neurologic sign) undergoing CSF mNGS. Underlying disease: allo-HSCT 70 (55.1%), hematologic malignancies 15 (11.8%), autoimmune disease 11 (8.7%), cerebrovascular disease 5, Guillain-Barre 3, others 7, not applicable elsewhere. N usable by us = 70 allo-HSCT + 15 HM = 85.",
+    "haemato_subtypes": "allo-HSCT 70 (55.1%); hematologic malignancies 15 (11.8%). Pathogens detected in 14/20 positives in allo-HSCT, 3/20 in HM."
+  },
+  "neutropenic_status": "not reported",
+  "specimens": [
+    {"type": "cerebrospinal fluid", "n_tests": 127}
+  ],
+  "index_test": {
+    "platform_or_panel": "In-house CSF mNGS: QIAamp DNA Microbiome Kit extraction, Illumina NextSeq 550Dx, 75-bp single-end, >=20 million reads/sample; Kraken2 taxonomy vs NCBI-derived database; positivity by species-specific RPM ratio (Rr) cutoffs from ROC analysis",
+    "commercial_or_inhouse": "Inhouse",
+    "dna_and_or_rna": "DNA only (RNA viruses would not be detected; DNA extraction only)"
+  },
+  "reference_standard": "Composite of conventional methods (culture, ink stain, cryptococcal antigen) OR Sanger sequencing (PCR-based orthogonal confirmation of mNGS/PCR findings); positive = any pathogen identified by conventional methods or Sanger sequencing",
+  "comparator_2x2": {
+    "TP": 19,
+    "FP": 1,
+    "FN": 4,
+    "TN": 103,
+    "against": "Reference criterion: any pathogen identified by conventional methods or Sanger sequencing (reconstructed from reported sensitivity 82.6% = 19/23, specificity 99.0% = 103/104, mNGS-positive n = 20, mNGS-negative n = 107)",
+    "unit": "patient"
+  },
+  "diagnostic_yield": {
+    "n_tests": 127,
+    "n_positive_relevant_pathogens": 20,
+    "yield_percent": 15.7,
+    "basis": "mNGS positive in 20/127 (15.7%) CSF samples; conventional methods positive in 4/127 (3.1%); Sanger sequencing positive in 19/127 (15.0%)."
+  },
+  "additional_yield_vs_conventional": "mNGS detected 20 pathogen-positive samples of which 19 were confirmed by Sanger sequencing; conventional methods detected only 4 positives, and all pathogen-positive samples by Sanger or mNGS were negative by conventional methods except the 4 conventional positives. Four mNGS/Sanger-negative cases were culture/CrAg positive (S. lugdunensis, C. minutissimum, R. marceus, one CrAg+).",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Major incorporation bias: 19 of the 23 reference-positive cases were defined by Sanger sequencing confirmation of mNGS findings, so mNGS effectively contributes to its own reference standard. Only 4 reference positives came from conventional methods."
+  },
+  "quadas2_notes": "2x2 reconstructed from Table 3 (mNGS positive 20/15.7%, negative 107; sensitivity 82.6%, specificity 99.0%, PPV 95.0%, NPV 96.3%) and is internally consistent. Reference standard heavily dependent on Sanger confirmation of mNGS targets - incorporation/verification bias; patients with negative mNGS and negative conventional tests counted as true negatives without clinical follow-up diagnosis. DNA-only panel (misses RNA viruses). Population is mixed (55% allo-HSCT, 12% HM, remainder non-haemato/neurologic), so haemato-stratified accuracy not available. Authors acknowledge non-random selection and reliance on Sanger for the ROC-positive definition.",
+  "evidence_quotes": [
+    {"claim": "127 patients, mixed retrospective/prospective, period", "quote": "A total of 127 patients with suspected CNSIs were prospectively enrolled for this study between May 2018 and August 2022.", "section": "Materials and Methods"},
+    {"claim": "sensitivity/specificity", "quote": "The specificity and sensitivity of mNGS were 99.0% and 82.6%, respectively (Table 3). Conventional methods and Sanger sequencing both demonstrated a specificity of 100.0%, while their sensitivities were 17.4% and 82.6%, respectively (Table 3). Notably, combining mNGS with conventional methods increased sensitivity to 100.0%, while specificity remained at 99.0%.", "section": "Results"},
+    {"claim": "2x2 components", "quote": "Conventional MethodsSanger SequencingmNGSCombined mNGS and Conventional MethodsPositive, n (%)4 (3.1)19 (15.0)20 (15.7)24 (18.9)Negative, n (%)123 (96.9)108 (85.0)107 (84.3)103 (81.1)Sensitivity (%, 95% CI)17.4 (0.6–39.5)82.6 (60.5–94.3)82.6 (60.5–94.3)100.0 (82.2–100.0)Specificity (%, 95% CI)100.0 (95.6–100.0)100.0 (95.6–100.0)99.0 (94.0–99.9)99.0 (94.0–99.9)", "section": "Table 3"},
+    {"claim": "reference criterion", "quote": "To evaluate the diagnostic performance of mNGS for pathogen detection in CSF, we established a reference criterion, defining a positive result as any pathogen identified by conventional methods or Sanger sequencing.", "section": "Results"},
+    {"claim": "mNGS 20 positives, 19 Sanger-confirmed, conventional 4", "quote": "Remarkably, mNGS detected 20 pathogen-positive cases, whereas conventional methods identified only four. Furthermore, 19 of the mNGS-positive cases were confirmed by Sanger sequencing.", "section": "Discussion"},
+    {"claim": "false negatives", "quote": "Three samples that tested positive by culture for S. lugdunensis, C. minutissimum, and R. marceu, as well as one CrAg-positive sample from a patient with severe CNSI symptoms, were not detected by mNGS (Supplemental Figure 2) or Sanger sequencing.", "section": "Discussion"},
+    {"claim": "underlying disease distribution", "quote": "The distribution of underlying disease varied significantly between the two cohorts (p <0.001), with allo-HSCT being the predominant condition in the retrospective cohort (64.4%)", "section": "Results"},
+    {"claim": "inclusion criteria", "quote": "The suspicion of CNS infections was based on the presence of acute fever (> 38.5°C) accompanied by at least one of the following clinical signs: (1) stiff neck, (2) altered consciousness, (3) increased anterior fontanelle tension, or (4) meningeal irritation.", "section": "Materials and Methods"},
+    {"claim": "platform", "quote": "Library preparation and sequences were performed using the NextSeq 550Dx High Output Reagent Kit v2.5 (Illumina). A 75-bp single-end sequencing was performed and at least 20 million sequencing reads were obtained for each sample.", "section": "Materials and Methods"},
+    {"claim": "pathogens by disease group", "quote": "Pathogens were most frequently detected in patients who had undergone allo-HSCT (14/20), followed by those with underlying hematological malignancies (HM) (3/20)", "section": "Results"}
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

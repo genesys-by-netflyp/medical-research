@@ -1,0 +1,106 @@
+{
+ "pmid": "35979088",
+ "pmcid": "PMC9376315",
+ "citation": "Retrospective study, Second Affiliated Hospital, Naval Medical University (Shanghai): mNGS for pulmonary aspergillosis in non-neutropenic patients, 2022",
+ "language": "English",
+ "study_design": "Retrospective case-control-type diagnostic accuracy study (mNGS vs conventional etiology and serum β-D-glucan, combined clinical diagnosis as reference)",
+ "study_period": "June 1, 2018 to January 31, 2022",
+ "population": {
+  "n_total": 33,
+  "n_haemato_or_transplant": null,
+  "population_description": "33 non-neutropenic patients with fungi detected by mNGS; 12 pulmonary aspergillosis, 21 non-pulmonary aspergillosis; underlying diseases predominantly diabetes (50%), malnutrition (41.7%), COPD (25%), solid tumors (25%) — largely NON-haemato-oncology population; some immunocompromised (corticosteroids 50%, cytotoxics 41.7%)",
+  "haemato_subtypes": [
+   "not a haemato-oncology cohort; solid tumors 25%, no haematologic malignancy/transplant subgroup reported"
+  ]
+ },
+ "neutropenic_status": "Non-neutropenic by design: neutropenia (absolute neutrophil count <1.5×10^9/L) was an exclusion criterion",
+ "specimens": [
+  {
+   "type": "BALF",
+   "n_tests": 27
+  },
+  {
+   "type": "blood",
+   "n_tests": 6
+  },
+  {
+   "type": "pleural fluid",
+   "n_tests": 1
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "mNGS by Beijing Genomics Institute (BGI), MGISEQ-2000 platform, single-end sequencing",
+  "commercial_or_inhouse": "commercial (BGI service)",
+  "dna_and_or_rna": "DNA only (DNA extraction and DNA library)"
+ },
+ "reference_standard": "Combined clinical diagnosis made by two medical doctors based on host risk factors, clinical symptoms, chest CT, laboratory findings, and response to treatment",
+ "comparator_2x2": {
+  "TP": 11,
+  "FP": 6,
+  "FN": 1,
+  "TN": 15,
+  "against": "combined clinical diagnosis of pulmonary aspergillosis (sensitivity 91.7%, 95% CI 0.598–0.996; specificity 71.4%, 95% CI 0.477–0.878; PPV 64.7%; NPV 93.8%); Table 2 reports mNGS+ 11 among 12 pulmonary aspergillosis and mNGS+ 6 among 21 non-pulmonary aspergillosis",
+  "unit": "patient (n=34 cases tested)"
+ },
+ "diagnostic_yield": {
+  "n_tests": 34,
+  "n_positive_relevant_pathogens": 17,
+  "yield_percent": null,
+  "basis": "mNGS-positive for Aspergillus in 11/12 pulmonary aspergillosis and 6/21 non-pulmonary aspergillosis patients; 13 putative mixed infections identified, co-pathogens detected in 84.6%"
+ },
+ "additional_yield_vs_conventional": "mNGS sensitivity 91.7% vs conventional etiological methods 33.3% and serum (1,3)-β-D-glucan 33.3%",
+ "turnaround_time": null,
+ "therapy_change": "Based on mNGS results, antimicrobial therapy was altered in 91.7% of patients: 58.4% had agents/spectrum adjusted, 50% started anti-Aspergillus drugs, 16.7% started TMP-SMZ, 25% started anti-viral drugs",
+ "mortality_or_outcomes": null,
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "case selection based on mNGS positivity (only patients with fungi identified by mNGS enrolled) — verification bias inflates sensitivity; reference diagnosis uses treatment response"
+ },
+ "quadas2_notes": "Case-control-style selection: enrolment required a positive mNGS fungal result, then classified by clinical diagnosis — high risk of spectrum/verification bias; accuracy not generalizable to unselected immunocompromised patients. NOT a haemato-oncology population (excluded neutropenic; mostly COPD/diabetes/solid tumors) — limited relevance for our pooled analysis.",
+ "evidence_quotes": [
+  {
+   "claim": "design and period",
+   "quote": "In this retrospective study, we successively enrolled 33 non-neutropenic patients whose mNGS results (BALF and/or blood and/or pleural fluid samples) identified fungi (e.g., Aspergillus, P. jirovecii, Candida, and Cryptococcus) and were admitted to the Department of Respiratory and Critical Care Medicine of Second Affiliated Hospital, Naval Medical University (Shanghai, China), from June 1, 2018, to January 31, 2022.",
+   "section": "Study design and subjects"
+  },
+  {
+   "claim": "12 vs 21 diagnosis split",
+   "quote": "Finally, 12 patients were diagnosed with pulmonary aspergillosis, and 21 were diagnosed with non-pulmonary aspergillosis.",
+   "section": "Study design and subjects"
+  },
+  {
+   "claim": "2x2 counts and accuracy",
+   "quote": "n = 34 mNGS+ 11 6 91.7% (0.598–0.996) 71.4% (0.477–0.878) 64.7% (0.386–0.847) 93.8% (0.677–0.997) 0.63 – 1 15",
+   "section": "Table 2"
+  },
+  {
+   "claim": "conventional comparison",
+   "quote": "mNGS managed to reach a sensitivity of 91.7% for diagnosing pulmonary aspergillosis, which was significantly higher than that of conventional etiological methods (33.3%) and serum (1,3)-β-D-glucan (33.3%).",
+   "section": "Abstract/Results"
+  },
+  {
+   "claim": "therapy change",
+   "quote": "based on the mNGS results, antimicrobial therapy was altered in 91.7% of patients, 58.4% had the antimicrobial agents or spectrum adjusted, 50% were started with anti-Aspergillus drugs, 16.7% were started with trimethoprim-sulfamethoxazole (TMP-SMZ), and 25% were started with anti-viral drugs.",
+   "section": "Results"
+  },
+  {
+   "claim": "reference standard",
+   "quote": "The combined clinical diagnosis of pulmonary aspergillosis or non-pulmonary aspergillosis was made by two medical doctors based on host risk factors, clinical symptoms, chest computed tomography images, laboratory findings, and response to treatment.",
+   "section": "Study design and subjects"
+  },
+  {
+   "claim": "exclusion of neutropenic",
+   "quote": "Patients were excluded from the study based on the following criteria: (1) age <18 years; (2) neutropenia (absolute neutrophil count <1.5×10 9 /L); (3) mNGS not performed; and (4) incomplete medical records.",
+   "section": "Study design and subjects"
+  },
+  {
+   "claim": "co-pathogens",
+   "quote": "This method showed satisfactory performance in identifying co-pathogens (84.6%), among which Aspergillus-bacteria, Aspergillus-bacteria-fungi, and Aspergillus-bacteria- P. jirovecii (PJP)-virus were most common.",
+   "section": "Results"
+  }
+ ],
+ "usable_for_pooled_analysis": "2x2",
+ "exclusion_reason": null
+}

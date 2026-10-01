@@ -1,0 +1,119 @@
+{
+  "pmid": "38725449",
+  "pmcid": "PMC11079123",
+  "citation": "Wang X, Zhang H, Zhang N, Zhang S, Shuai Y, Miao X, Liu Y, Qiu L, Ren S, Lai S, Han Y, Yao H, Zhang X, Fan F, Sun H, Yi H. Application value of metagenomic next-generation sequencing in hematological patients with high-risk febrile neutropenia. Frontiers in Cellular and Infection Microbiology. 2024;14:1366908.",
+  "language": "English",
+  "study_design": "Retrospective study (records of patients who underwent plasma mNGS for suspected infection)",
+  "study_period": "October 2020 to December 2022",
+  "population": {
+    "n_total": 164,
+    "n_haemato_or_transplant": 164,
+    "population_description": "Hematological patients (>18 y) with high-risk febrile neutropenia and poor response to empiric antibiotics (72-96 h), General Hospital of Western Theater Command, Chengdu; 37 (22.6%) had HSCT, 102 (62.2%) chemotherapy, 18 (11.0%) CAR-T",
+    "haemato_subtypes": "AML 75 (45.7%), ALL 46 (28.0%), lymphoma 15 (9.1%), aplastic anemia 9 (5.5%), MDS 7 (4.3%), other 12 (7.3%)"
+  },
+  "neutropenic_status": "High-risk FN: ANC <500/uL, single oral temperature >=38.3 C (or twice >=38.0 C), and anticipated prolonged severe neutropenia (ANC <100/uL for >7 days) and/or significant comorbid conditions (hypotension, pneumonia, abdominal pain, neurological changes)",
+  "specimens": [
+    {
+      "type": "peripheral blood (plasma cfDNA)",
+      "n_tests": "164 (collected D0, same sample for CMT and mNGS)"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "Plasma microbial cell-free DNA mNGS performed by Genoxor Medical Science and Technology Inc.",
+    "commercial_or_inhouse": "commercial (Genoxor Medical Science and Technology Inc.)",
+    "dna_and_or_rna": "DNA (cfDNA); RNA not mentioned"
+  },
+  "reference_standard": "Retrospective clinical adjudication by a clinical committee of presence of infection taking into account conventional microorganism tests and other clinical data; mNGS results interpreted in clinical context",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 164,
+    "n_positive_relevant_pathogens": "mNGS: 68 different pathogens in 111 patients (67.7%); CMT: 17 pathogen types in 36 patients",
+    "yield_percent": "67.7% mNGS positive rate vs CMT; diagnostic accuracy 82.3% vs conventional methods (exact comparator % and sensitivity/specificity in Supplementary Table 1, not in main text)",
+    "basis": "positive detection among 164 patients; accuracy vs clinical adjudication"
+  },
+  "additional_yield_vs_conventional": "mNGS identified 68 pathogens vs 17 by conventional methods; bacterial cultures positive in only 23 patients.",
+  "turnaround_time": "Median pathogen detection time with mNGS 24 h (range 24-72) vs significantly longer for conventional methods; electronic mNGS reports dispatched within 24 h for more than half of patients",
+  "therapy_change": "Anti-infective treatment plans adjusted per mNGS results in 84/164 (51.2%): change of antimicrobial spectrum 16 (9.8%), de-escalation 18 (11.0%), removing >=1 agent 37 (22.6%), removing all agents 16 (9.8%), adding >=1 agent 13 (7.9%); 33.5% predominantly de-escalating or reducing antibiotics",
+  "mortality_or_outcomes": "Death 23/164 (14.0%); sepsis 58 (35.4%), septic shock 37 (22.6%), pneumonia 67 (40.9%)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Single center; retrospective; many mNGS tests ordered after negative CMT and empiric-treatment failure (work-up bias against CMT)"
+  },
+  "quadas2_notes": "Numeric sensitivity/specificity/PPV/NPV and the CMT comparator rate are in Supplementary Table 1, not present in the full-text XML; only 67.7% vs CMT and overall accuracy 82.3% are quotable. Circularity risk: clinical committee used CMTs and clinical data but mNGS interpretation was clinical. Retrospective selection (testing after antibiotic failure).",
+  "evidence_quotes": [
+    {
+      "claim": "design, n, population",
+      "quote": "This retrospective study evaluated the results of plasma cfDNA sequencing in 164 hematological patients with high-risk febrile neutropenia.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "period and center",
+      "quote": "We performed a retrospective analysis of patient records who underwent a plasma mNGS test for suspected infections at the General Hospital of Western Theater Command in Chengdu, China, from October 2020 to December 2022.",
+      "section": "Methods"
+    },
+    {
+      "claim": "yield",
+      "quote": "mNGS identified 68 different pathogens in 111 patients, whereas conventional methods detected only 17 pathogen types in 36 patients.",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "positive rate",
+      "quote": "mNGS exhibited a significantly higher positive detection rate than conventional methods (67.7%",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "accuracy",
+      "quote": "The diagnostic accuracy of mNGS was remarkably superior to that of conventional methods (82.3%",
+      "section": "Results"
+    },
+    {
+      "claim": "neutropenia definition",
+      "quote": "High-risk FN patients had to fulfill the following criteria: (1) Absolute neutrophil count (ANC) < 500/μL; (2) Single oral temperature ≥ 38.3°C",
+      "section": "Methods"
+    },
+    {
+      "claim": "TAT",
+      "quote": "The median pathogen detection time with mNGS was significantly quicker than that with conventional methods: 24 h (range 24∼72)",
+      "section": "Results"
+    },
+    {
+      "claim": "same-day paired sampling",
+      "quote": "Peripheral blood samples were collected from the same site on the day of inclusion (D0) and sent for conventional microorganism testing and mNGS testing at the same time.",
+      "section": "Methods"
+    },
+    {
+      "claim": "therapy change",
+      "quote": "The anti-infective treatment plans for 51.2% (84/164) of the participants were adjusted mainly in accordance with the mNGS results",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy detail",
+      "quote": "In this study, 51.2% of all patients made adjustment to their antibiotics regimen, with 33.5% of patients predominantly de-escalating or reducing antibiotics based on mNGS results.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "mortality",
+      "quote": "Death, n (%) 23 (14.0%)",
+      "section": "Table 1"
+    },
+    {
+      "claim": "culture yield",
+      "quote": "Out of these, bacterial cultures were positively identified in only 23 patients.",
+      "section": "Results"
+    },
+    {
+      "claim": "adjudication",
+      "quote": "The clinical committee retrospectively evaluated the presence of infection, taking into account conventional microorganism tests and other clinical data.",
+      "section": "Methods"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "Acute myeloid leukemia 75 (45.7%) Acute lymphocytic leukemia 46 (28.0%) Lymphoma 15 (9.1%) Aplastic anemia 9 (5.5%) Myelodysplastic syndrome 7 (4.3%)",
+      "section": "Table 1"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "2x2 counts not reported in full text (Supplementary Table 1 not available in XML); accuracy vs clinical adjudication without blinding."
+}

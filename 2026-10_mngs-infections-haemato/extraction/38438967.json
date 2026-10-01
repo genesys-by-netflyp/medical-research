@@ -1,0 +1,124 @@
+{
+  "pmid": "38438967",
+  "pmcid": "PMC10910774",
+  "citation": "Yuan H, Ma X, Xu J, Han P, Rao G, Chen G, Zhang K, Yang R, Han C, Jiang M. Application of metagenomic next-generation sequencing in the clinical diagnosis of infectious diseases after allo-HSCT: a single-center analysis. BMC Infectious Diseases. 2024;24:452.",
+  "language": "English",
+  "study_design": "Retrospective single-center analysis (patients enrolled and tested Oct 2019 - Feb 2022; no prospective enrollment described)",
+  "study_period": "October 2019 to February 2022",
+  "population": {
+    "n_total": 54,
+    "n_haemato_or_transplant": 54,
+    "population_description": "Patients with fever of unknown origin after allo-HSCT (>7 days, axillary temperature >38 C, on immunosuppressants and/or anti-infective therapy) at First Affiliated Hospital of Xinjiang Medical University",
+    "haemato_subtypes": "AML 27 (50%), ALL 14 (25.9%), MDS 6 (11.1%), AA 3 (5.6%), CMML 4 (7.4%) (Table 1)"
+  },
+  "neutropenic_status": "Not defined/reported as a criterion; immunosuppressant use and persistent fever >7 days were the inclusion criteria",
+  "specimens": [
+    {
+      "type": "peripheral blood",
+      "n_tests": "39 initial samples (72.2% of 54 patients)"
+    },
+    {
+      "type": "BALF",
+      "n_tests": "13 initial samples (24.1%)"
+    },
+    {
+      "type": "CSF",
+      "n_tests": "2 initial samples (3.7%)"
+    },
+    {
+      "type": "total mNGS tests",
+      "n_tests": 61
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "In-house metagenomic next-generation sequencing, DNA only (fastp/Komplexity filtering; previously described pipeline [ref 16])",
+    "commercial_or_inhouse": "in-house",
+    "dna_and_or_rna": "DNA only (\"only DNA was sequenced by mNGS and any RNA viruses would likely not be detected\")"
+  },
+  "reference_standard": "Clinical diagnosis based on diagnostic criteria for infection after HSCT: mNGS result, CMTs, imaging, clinical manifestations; final classification made clinically (46 infectious, 8 non-infectious incl. interstitial pneumonia/bronchiolitis obliterans)",
+  "comparator_2x2": {
+    "TP": 17,
+    "FP": 31,
+    "FN": 1,
+    "TN": 5,
+    "against": "conventional microbiological tests (CMTs), Table 2, n=54 patients/initial samples",
+    "unit": "patient",
+    "note": "This is agreement with CMT, NOT against the final clinical diagnosis; final-diagnosis 2x2 not reported. Positive rates: mNGS 88.9% vs CMT 33.3%."
+  },
+  "diagnostic_yield": {
+    "n_tests": 61,
+    "n_positive_relevant_pathogens": "46 cases of infectious diseases diagnosed (22 viral, 13 fungal, 11 bacterial)",
+    "yield_percent": "88.9% positive detection rate of mNGS (vs 33.3% CMT)",
+    "basis": "positive mNGS tests among 54 patients initially tested; 46/54 (85.2%) had infectious disease diagnosis"
+  },
+  "additional_yield_vs_conventional": "Of 54 patients, 31 were mNGS-positive/CMT-negative, 17 both positive, 1 CMT-positive/mNGS-negative, 5 both negative (Table 2). 41 pathogens identified by both mNGS and CMTs.",
+  "turnaround_time": null,
+  "therapy_change": "Among 46 cases diagnosed by mNGS, 43 patients modified their treatment plans and experienced positive outcomes.",
+  "mortality_or_outcomes": "Two patients died from recurrent infection with fungi and drug-resistant bacteria after transplantation (Table 3); three cases resulted in fatalities due to severe bacterial bloodstream infections (2 Klebsiella pneumoniae, 1 Pseudomonas aeruginosa).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": null,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Single center, same patients contribute initial and repeat mNGS tests (7 patients re-tested); 61 tests in 54 patients"
+  },
+  "quadas2_notes": "Retrospective single-center; no consecutive/prospective enrollment stated; final clinical diagnosis incorporates mNGS results (incorporation/circularity risk for accuracy estimates); 2x2 available only vs CMT (Table 2), not vs final diagnosis; TAT not reported.",
+  "evidence_quotes": [
+    {
+      "claim": "n=54 febrile allo-HSCT patients, study period",
+      "quote": "Fifty-four patients who had fever following allo-HSCT from October 2019 to February 2022 were enrolled.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "61 mNGS tests, 46 infectious disease diagnoses",
+      "quote": "A total of 61 mNGS tests were performed, resulting in the diagnosis of 46 cases of infectious diseases.",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "positive rates",
+      "quote": "The positive detection rates of mNGS and CMT were 88.9% and 33.3%, respectively, with significant differences",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "specimens",
+      "quote": "Regarding the initial examination samples of the 54 patients, peripheral blood was the most commonly collected (39 cases, 72.2%), followed by BALF (13 cases, 24.1%), and CSF (2 cases, 3.7%).",
+      "section": "Results"
+    },
+    {
+      "claim": "2x2 vs CMT (Table 2)",
+      "quote": "Table 2 Agreement between mNGS and CMT mNGS-positive mNGS-negative Total CMT-positive 17 1 18 CMT-negative 31 5 36 Total 48 6 54",
+      "section": "Results/Table 2"
+    },
+    {
+      "claim": "DNA only",
+      "quote": "For patients with an undetermined pathogen, mNGS was performed on the DNA samples only.",
+      "section": "Methods"
+    },
+    {
+      "claim": "therapy change",
+      "quote": "Among 46 cases of patients with infectious diseases diagnosed by mNGS, 43 patients modified their treatment plans and experienced positive outcomes.",
+      "section": "Results"
+    },
+    {
+      "claim": "mortality",
+      "quote": "Two patients died from recurrent infection with fungi and drug-resistant bacteria after transplantation",
+      "section": "Results"
+    },
+    {
+      "claim": "85.2% had infection diagnosis",
+      "quote": "According to clinical and microbiological diagnosis, 46 cases (46/54, 85.2%) were determined to have infectious diseases",
+      "section": "Results"
+    },
+    {
+      "claim": "additional yield vs CMT",
+      "quote": "A total of 41 pathogens were identified by both mNGS and CMTs",
+      "section": "Results"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "AML 27(50%) ALL 14(25.9%) MDS 6(11.1%) AA 3(5.6%) CMML 4(7.4%)",
+      "section": "Table 1"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No 2x2 against final clinical diagnosis; only mNGS-vs-CMT agreement reported; final diagnosis incorporates mNGS (circularity)."
+}

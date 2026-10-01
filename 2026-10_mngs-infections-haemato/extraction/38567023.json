@@ -1,0 +1,102 @@
+{
+  "pmid": "38567023",
+  "pmcid": "PMC10985322",
+  "citation": "Zou H, Gao S, Liu X, Liu Y, Xiao Y, Li A, Jiang Y. Combination of metagenomic next-generation sequencing and conventional tests unraveled pathogen profiles in infected patients undergoing allogeneic hematopoietic stem cell transplantation in Jilin Province of China. Frontiers in Cellular and Infection Microbiology. 2024;14:1378112.",
+  "language": "English",
+  "study_design": "Retrospective single-center study",
+  "study_period": "February 2021 to August 2022",
+  "population": {
+    "n_total": 64,
+    "n_haemato_or_transplant": 64,
+    "population_description": "Patients undergoing HSCT with suspected infection at First Hospital of Jilin University",
+    "haemato_subtypes": "AML 20 (31.3%), ALL 14 (21.9%), MDS 9 (14.1%), aplastic anemia 1 (1.6%), CML 1 (1.6%), lymphoma 2 (3.1%)"
+  },
+  "neutropenic_status": "Not reported as enrollment criterion",
+  "specimens": [
+    {
+      "type": "blood",
+      "n_tests": "0.6 mL per sample used for DNA extraction (mNGS performed on all 64 patients)"
+    },
+    {
+      "type": "CSF",
+      "n_tests": "0.6 mL per sample"
+    },
+    {
+      "type": "BALF",
+      "n_tests": "1.0 mL per sample"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "Conventional mNGS and hybridization capture-based targeted mNGS (TIANamp Micro DNA Kit DP316, QIAseq Ultralow Input Library Kit); DNA only",
+    "commercial_or_inhouse": "in-house (conventional + hybridization capture)",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "Final clinical diagnoses and causative pathogens independently made by 2-3 clinicians with infectious-disease expertise, using mNGS results (positive and negative), complete laboratory examinations, treatment response, and clinical experience",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": "mNGS on all 64 patients; CT on 58 patients",
+    "n_positive_relevant_pathogens": "38 patients diagnosed as having infections",
+    "yield_percent": "more than 75% of infections were caused by viruses (CMV and EBV most common)",
+    "basis": "final clinical diagnoses as gold standard; numeric sensitivity/specificity/TCR values are shown only in Figure 5, not in the text"
+  },
+  "additional_yield_vs_conventional": "\"Differences in positive rate between mNGS and CT for different samples were found (Figure 4)\"; numeric per-sample comparison values are in Figure 4/Supplementary Table S1, not in text. Authors state mNGS performance was not better than CT overall.",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": null,
+    "blinding_of_index_result": "no (final diagnosis explicitly incorporated mNGS results)",
+    "paired_data": true,
+    "overlap_risk": "Single center; all patients HSCT; mNGS results part of the adjudication"
+  },
+  "quadas2_notes": "Sensitivity, specificity and total coincidence rate vs final clinical diagnosis are reported only graphically (Figure 5) - no quotable numeric 2x2 in text. Incorporation bias: adjudicators used mNGS results. No TAT reported.",
+  "evidence_quotes": [
+    {
+      "claim": "n=64, period, retrospective",
+      "quote": "From February 2021 to August 2022, 64 patients, admitted to the Department of Hematology of The First Hospital of Jilin University for HSCT and diagnosed as suspected infections, were retrospectively enrolled.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "38 infections",
+      "quote": "A total of 38 patients were diagnosed as having infections",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "mNGS on all, CT on 58",
+      "quote": "In our study, mNGS was performed on the whole patients enrolled, while CT was performed on 58 patients",
+      "section": "Results"
+    },
+    {
+      "claim": "viral predominance vs gold standard",
+      "quote": "Taking final clinical diagnoses as gold standard, we found that more than 75% of infections were caused by viruses, and CMV and EBV were found to be the most common pathogens.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "mNGS not better than CT",
+      "quote": "We found that the performance of mNGS in diagnosing infection was not better than that of CT",
+      "section": "Discussion"
+    },
+    {
+      "claim": "adjudication used mNGS",
+      "quote": "According to mNGS results (including both positive and negative mNGS results), complete laboratory examinations, the treatment response of the patients, and clinical experiences, the final clinical diagnoses and causative pathogens were independently made by 2-3 clinicians with expertise in infectious diseases.",
+      "section": "Methods"
+    },
+    {
+      "claim": "accuracy evaluated but numeric values in figure only",
+      "quote": "Besides, we also evaluated the performance of mNGS and CT against final clinical diagnosis, including sensitivity, specificity, and total coincidence rate (TCR).",
+      "section": "Introduction"
+    },
+    {
+      "claim": "DNA only, no RNA",
+      "quote": "RNA mNGS was not performed on the patients in this study",
+      "section": "Limitations"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "Aplastic anemia 1 (1.6%) Acute lymphoblastic leukemia 14 (21.9%) Acute myeloid leukemia 20 (31.3%) Myelodysplastic syndrome 9 (14.1%) Chronic myeloid leukemia 1 (1.6%) Lymphoma 2 (3.1%)",
+      "section": "Table 1"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No numeric 2x2 reported in text (Figure 5 only); adjudication incorporated mNGS results."
+}

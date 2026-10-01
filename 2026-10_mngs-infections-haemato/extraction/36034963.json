@@ -1,0 +1,97 @@
+{
+  "pmid": "36034963",
+  "pmcid": "PMC9417758",
+  "citation": "Li Wenzi, Zhu Hua, Wen Li, et al. Application Value of Metagenomics Next-Generation Sequencing (mNGS) in Detection of Mucormycosis after Chemotherapy in Children with Acute Leukemia. Evidence-based Complementary and Alternative Medicine, 2022.",
+  "language": "English",
+  "study_design": "Retrospective case series (7 patients)",
+  "study_period": "January 2020 to December 2021",
+  "population": {
+    "n_total": 7,
+    "n_haemato_or_transplant": 7,
+    "population_description": "Children with acute leukemia who developed mucormycosis after chemotherapy, diagnosed by mNGS; all were in agranulocytosis state during infection",
+    "haemato_subtypes": "6 ALL, 1 AML"
+  },
+  "neutropenic_status": "All 7 in agranulocytosis; duration 45 days in the AML case, 8-18 days in ALL cases",
+  "specimens": [
+    {
+      "type": "peripheral blood",
+      "n_tests": null
+    },
+    {
+      "type": "bronchoalveolar lavage fluid",
+      "n_tests": null
+    },
+    {
+      "type": "cerebrospinal fluid",
+      "n_tests": null
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS (platform not specified)",
+    "commercial_or_inhouse": "unclear",
+    "dna_and_or_rna": "unclear"
+  },
+  "reference_standard": "mNGS itself was the diagnostic basis in all 7 patients; one case confirmed by postoperative pathology (hexamine silver staining of resected lung lobe); conventional tests (blood/sputum culture, fungal smear, GM, G) were negative in all",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": null,
+    "n_positive_relevant_pathogens": 7,
+    "yield_percent": null,
+    "basis": "7/7 patients mNGS-positive for Mucorales (Rhizopus microsporus, R. delemar, Rhizomucor pusillus, Cunninghamella bertholletiae); no denominator of tested-suspected patients - all enrolled were mNGS-positive"
+  },
+  "additional_yield_vs_conventional": "All conventional microbiological tests (blood culture, sputum culture, sputum fungal smear, GM, G test) negative in all 7 children; only mNGS identified the pathogen in all cases; 1/7 had positive hexamine-silver staining on resected lung",
+  "turnaround_time": "1-2 days from specimen submission to mNGS report; time from symptom onset to pathogen diagnosis 2-15 days (mean 7.85 days)",
+  "therapy_change": null,
+  "mortality_or_outcomes": "1 died, 2 cured, 4 improved",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": false,
+    "overlap_risk": "Single-center pediatric case series; all patients selected because they were mNGS-positive (incorporation/selection bias)"
+  },
+  "quadas2_notes": "Case series with no comparator cohort and no consecutive sampling of suspected infections; mNGS used as diagnostic criterion (incorporation bias); patient flow diagram (reference 6) not reported; QUADAS-2 risk of bias high in patient selection and reference standard.",
+  "evidence_quotes": [
+    {
+      "claim": "7 patients",
+      "quote": "To retrospectively analyze the clinical data of 7 patients with acute leukemia combined with trichomoniasis after chemotherapy in the department of hematology and oncology of Hebei Children's Hospital",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "study period",
+      "quote": "In this study, we retrospectively analyzed seven children with acute leukemia who had early infection detected by the mNGS method after chemotherapy for leukemia from January 2020 to December 2021",
+      "section": "Introduction"
+    },
+    {
+      "claim": "subtypes and agranulocytosis",
+      "quote": "There were 6 males and 1 female. ... 6 cases of acute lymphoblastic leukemia and 1 case of acute myeloid leukemia. ... All 7 patients ... were in agranulocytosis state during the course of the disease. The blood culture, sputum culture, sputum fungal smear, galactomannan (GM test) and 1,3 β D glucan (G test) were all negative.",
+      "section": "Results (Methods, Table 1, Auxiliary Examination)"
+    },
+    {
+      "claim": "conventional tests negative",
+      "quote": "In our study, blood cultures, sputum cultures, fungal smears in sputum, G and GM tests were negative in all children sent for examination. Only one case of resected diseased lung lobe was positive for hexosamine-silver staining",
+      "section": "Discussion"
+    },
+    {
+      "claim": "turnaround time",
+      "quote": "In all cases, it took only 1–2 days from specimen submission to report the test results.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "time to diagnosis",
+      "quote": "The time from symptom onset to diagnosis of pathogenic bacteria in 7 cases was 2–15 days, with an average of 7.85 days.",
+      "section": "Results 3.1"
+    },
+    {
+      "claim": "outcomes",
+      "quote": "After treatment, 1 case died, 2 cases were cured, and 4 cases improved.",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "pathogens",
+      "quote": "In our study, we used the mNGS assay to obtain evidence of pathogenic bacteria by infecting children with PB, BAL, and CSF. Four different mucus genera were identified",
+      "section": "Discussion"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Small single-arm case series (n=7); all patients enrolled were mNGS-positive (no suspected-infection denominator); no reference standard independent of mNGS; no comparator 2x2 possible."
+}

@@ -1,0 +1,95 @@
+{
+ "pmid": "34595132",
+ "pmcid": "PMC8476959",
+ "citation": "Retrospective study, Affiliated Cancer Hospital of Zhengzhou University: mNGS for diagnosis of CNS infections after alternative donor allogeneic HSCT, 2021 (Frontiers-type article)",
+ "language": "English",
+ "study_design": "Retrospective cohort (diagnostic feasibility/sensitivity analysis of mNGS in CNS symptoms after AD-HSCT)",
+ "study_period": "February 2019 to December 2020",
+ "population": {
+  "n_total": 20,
+  "n_haemato_or_transplant": 20,
+  "population_description": "20 patients with CNS symptoms after AD-HSCT; 15 diagnosed with CNS infections (4 single, 11 mixed), 5 with noninfectious causes (PRES n=3, TA-TMA n=1, hypertensive transient seizure n=1)",
+  "haemato_subtypes": [
+   "SAA (n=7)",
+   "ALL (n=7)",
+   "AML (n=4)",
+   "CML in AML transformation (n=1)",
+   "MDS (n=2)"
+  ]
+ },
+ "neutropenic_status": null,
+ "specimens": [
+  {
+   "type": "CSF",
+   "n_tests": 29
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "mNGS on BGISEQ-200 platform (50 bp single-end), DNA library; Kraken2 bioinformatics with in-house microbial database and threshold criteria (SSRN/RPM)",
+  "commercial_or_inhouse": "inhouse workflow with BGI-style platform",
+  "dna_and_or_rna": "DNA only (DNA extraction with Humoral microbial DNA Kit; no RNA library described)"
+ },
+ "reference_standard": "Clinical diagnosis combining routine CSF testing, biochemistry, G/GM experiments, ink and acid-fast staining, bacterial culture, qPCR (CMV, EBV, BKPyV, HHV), neuroimaging (MRI/CT), and treatment response; negative patients attributed to PRES/TA-TMA/seizure",
+ "comparator_2x2": null,
+ "diagnostic_yield": {
+  "n_tests": 29,
+  "n_positive_relevant_pathogens": 15,
+  "yield_percent": null,
+  "basis": "21/29 tests positive; 15/20 patients diagnosed with CNS infections by mNGS-guided clinical diagnosis (5 fungal, 6 bacterial, 13 viral cases)"
+ },
+ "additional_yield_vs_conventional": "Thirteen patients tested positive for virus while the qPCR detection method of 6 identical specimens were below the minimum detection limit (<1×10^3 U/ml)",
+ "turnaround_time": null,
+ "therapy_change": "Treatment administered based on pathogen test results per AGIHO/DGHO guidelines; neurological symptoms improved in 10 of 20 patients after treatment",
+ "mortality_or_outcomes": "Twelve patients died (10 mainly of nervous system infection); median survival time of 15 patients with CNS infections 30 (7–152) days; survival 26.7% (4/15) with CNS infection vs 80% (4/5) without",
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "reference standard heavily incorporates mNGS results (negative patients classified as PRES/TA-TMA/seizure); all 15 mNGS-positive patients counted as infections — circularity prevents 2x2 construction"
+ },
+ "quadas2_notes": "Retrospective, single centre, n=20. No independent 2x2 vs final diagnosis reported; final infection classification is co-defined by mNGS positivity, so diagnostic accuracy cannot be estimated. Yield data usable. Adult and paediatric (median age 12).",
+ "evidence_quotes": [
+  {
+   "claim": "study period and population",
+   "quote": "We retrospectively analyzed the data of 20 patients with CNS symptoms who received AD-HSCT at the Affiliated Cancer Hospital of Zhengzhou University between February 2019 and December 2020.",
+   "section": "2.1 General Information"
+  },
+  {
+   "claim": "29 tests, 21 positive",
+   "quote": "A total of 29 tests were performed with 21 of them being positive.",
+   "section": "Abstract/Results 3.4"
+  },
+  {
+   "claim": "15 infected patients, 5 noninfectious",
+   "quote": "Of the five negative patients, three were diagnosed with a posterior reversible encephalopathy syndrome, one as having transplantation-associated thrombotic microangiopathy, and one with transient seizure caused by hypertension. Fifteen patients tested positive, of which four had single infections and eleven had mixed infections.",
+   "section": "Abstract/Results 3.4"
+  },
+  {
+   "claim": "pathogen classes",
+   "quote": "Five cases of fungal infections, six cases of bacterial infections, and 13 cases of viral infections were detected.",
+   "section": "Abstract/Results 3.4"
+  },
+  {
+   "claim": "qPCR negativity in 6 specimens",
+   "quote": "Thirteen patients tested positive for virus while the qPCR detection method of 6 identical specimens were below the minimum detection limit(<1×10 3  U/ml).",
+   "section": "Abstract"
+  },
+  {
+   "claim": "mNGS platform",
+   "quote": "According to the protocol of the BGISEQ-200 sequencing platform, the DNA library was constructed through DNA fragmentation, end-repair, adapter-ligation, and PCR amplification.",
+   "section": "2.2.1 Sample Processing and Sequencing"
+  },
+  {
+   "claim": "outcomes",
+   "quote": "Twelve patients died, and the main cause of death was a nervous system infection in 10 patients, and severe pneumonia and organ failure in two patients. Eight patients survived.",
+   "section": "3.6 Treatment and Prognosis"
+  },
+  {
+   "claim": "survival rates",
+   "quote": "The survival rate of patients without CNS infection was 80% (4/5), and the survival rate of patients with CNS infection was only 26.7% (4/15).",
+   "section": "3.6 Treatment and Prognosis"
+  }
+ ],
+ "usable_for_pooled_analysis": "yield-only",
+ "exclusion_reason": "No 2x2 vs independent reference standard; reference classification incorporates mNGS results (circularity). n=20 patients, retrospective, yield-only data usable."
+}

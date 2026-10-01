@@ -1,0 +1,88 @@
+{
+  "pmid": "38057898",
+  "pmcid": "PMC10698987",
+  "citation": "Jin Dian, Le Jing, Yang Qianqian, et al. Pneumocystis jirovecii with high probability detected in bronchoalveolar lavage fluid of chemotherapy-related interstitial pneumonia in lymphoma patients by metagenomic next-generation sequencing. Infectious Agents and Cancer, 2023.",
+  "language": "English",
+  "study_design": "Retrospective single-center case series with paired comparison (n=15)",
+  "study_period": "January 2016 to February 2022",
+  "population": {
+    "n_total": 15,
+    "n_haemato_or_transplant": 15,
+    "population_description": "Lymphoma patients with chemotherapy-related interstitial pneumonia (IP) who underwent bronchoscopy with BALF mNGS and conventional tests; consecutive eligible series (659 lymphoma patients screened, 38 developed IP, 15 eligible)",
+    "haemato_subtypes": "DLBCL 10, MCL 1, HL 1, FL 1, ENKL 1, PTCL-NOS 1"
+  },
+  "neutropenic_status": "Not a stratification variable; absolute neutrophil counts at IP diagnosis ranged 0.6-20.8 x 10^9/L (median 2.9)",
+  "specimens": [
+    {
+      "type": "BALF (mNGS, DNA and RNA)",
+      "n_tests": 15
+    },
+    {
+      "type": "BALF conventional (smear, culture for bacteria/fungi, AFB stain)",
+      "n_tests": 15
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "BALF mNGS (DNA or RNA libraries); positivity: species-level relative abundance >30% with pulmonary pathogenicity literature support; Mycobacterium SMRN >3",
+    "commercial_or_inhouse": "unclear (commercial mNGS company involved; performers blinded to patient information)",
+    "dna_and_or_rna": "DNA and RNA"
+  },
+  "reference_standard": "None independent of mNGS - comparison was mNGS vs traditional laboratory microbiology; IP diagnosis based on radiology, symptoms, labs, BAL and pathology",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 15,
+    "n_positive_relevant_pathogens": 14,
+    "yield_percent": 93.3,
+    "basis": "mNGS positive 14/15 patients (93.3%) vs traditional culture methods 2/15 (13.3%), P<=0.05. P. jirovecii 12/15 (80%), CMV 4/15 (26.7%), EBV 3/15 (20%)"
+  },
+  "additional_yield_vs_conventional": "mNGS yield 93.3% (14/15) vs 13.3% (2/15) traditional; the two culture positives (Klebsiella pneumoniae in P4, Staphylococcus aureus in P12) were NOT detected by mNGS; 4 CMV-positive patients all detected only by mNGS",
+  "turnaround_time": null,
+  "therapy_change": "All 15 treated with antimicrobials (TMP-SMX in 14/15); 5 patients recovered without therapeutic-dose glucocorticoids, suggesting infection-driven IP",
+  "mortality_or_outcomes": "All 15 patients recovered; recovery times 5 days to 1 year; 3 patients needed intubation",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "yes (mNGS company blinded to patient information)",
+    "paired_data": true,
+    "overlap_risk": "Small n=15; same BALF split for mNGS and culture; no clinical reference standard - colonization vs infection unresolved (authors acknowledge)"
+  },
+  "quadas2_notes": "No reference standard for infection; QUADAS-2 risk of bias high (patient selection: excluded patients without BALF culture result and those with prior TMP-SMX prophylaxis). Yield-only data.",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "Fifteen lymphoma patients with chemotherapy-related IP were tested for traditional laboratory microbiology, along with the mNGS of BALF. Then, the results of mNGS and traditional laboratory microbiology were compared.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "period and screening",
+      "quote": "All lymphoma patients who were treated in Ningbo Medical Treatment Centre Li Huili Hospital between January 2016 to February 2022 were retrospectively reviewed. ... 659 lymphoma patients received at least one course of chemotherapy and 38 (5.77%) of these patients developed IP. In total, 15 patients were eligible for this study",
+      "section": "Methods/Results"
+    },
+    {
+      "claim": "yield",
+      "quote": "The overall microbial yield was 93.3% (14/15 patients) for mNGS versus 13.3% (2 of 15 patients) for traditional culture methods, with significant difference (Table 2;P ≤ 0.05).",
+      "section": "Results"
+    },
+    {
+      "claim": "PJP",
+      "quote": "P. jirovecii was detected in 12 patients (12/15, 80%) by this method. Among the patients with P. jirovecii, 4 patients had single P. jirovecii infection, while the other 8 patients had mixed infections of P. jirovecii with other pathogens.",
+      "section": "Results"
+    },
+    {
+      "claim": "blinding",
+      "quote": "The performers and readers of mNGS company were blinded to patient information, including the symptoms and diagnosis.",
+      "section": "Methods: mNGS of BALF"
+    },
+    {
+      "claim": "culture discordance",
+      "quote": "Klebsiella pneumoniae and Staphylococcus aureus were respectively identified in P4 and P12 by culture of BALF, but not identified by mNGS.",
+      "section": "Results"
+    },
+    {
+      "claim": "outcomes",
+      "quote": "All of the patients with IP recovered after the applied treatments. ... It is worth noting that 5 patients recovered without the use of therapeutic doses of glucocorticoids (prednisone ≥ 20 mg daily).",
+      "section": "Results: Treatment"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": null
+}

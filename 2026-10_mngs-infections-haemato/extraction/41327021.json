@@ -1,0 +1,65 @@
+{
+  "pmid": "41327021",
+  "pmcid": "PMC12667041",
+  "citation": "Chen B, Shu W, Le J, Jin D. Application of metagenomic next-generation sequencing technology in hematologic malignancy patients with sepsis following antibiotic use. BMC Infectious Diseases. 2025;25:1678.",
+  "language": "English",
+  "study_design": "Retrospective single-centre analysis of haematological-malignancy patients with sepsis after >=3 days of antibiotics without improvement",
+  "study_period": "May 2022 to April 2025",
+  "population": {
+    "n_total": 119,
+    "n_haemato_or_transplant": 119,
+    "population_description": "All 119 patients had haematological malignancies with sepsis (Sepsis-3) after >=3 days antibiotic therapy without clinical improvement; 58 (48.73%) had antitumor-therapy-related neutropenia/granulocytopenia. No transplant subgroup reported.",
+    "haemato_subtypes": "Lymphoma 58 (48.73%), multiple myeloma 32 (26.89%), acute leukemia 29 (24.36%)."
+  },
+  "neutropenic_status": "58 patients (48.73%) developed neutropenia as a result of antitumor therapy (post-chemotherapy myelosuppression/drug-induced granulocytopenia); no ANC threshold quoted in main text (neutropenia defined by reference [16])",
+  "specimens": [
+    {"type": "peripheral blood (plasma for mNGS; paired blood culture)", "n_tests": 119}
+  ],
+  "index_test": {
+    "platform_or_panel": "Blood/plasma mNGS: Genewiz NGSmaster(TM) automated workflow, library prep with Genewiz bloodstream infection kit, Illumina Nextseq550, 50-bp single-end; Gentellix bioinformatics vs NCBI GenBank + Genewiz internal database",
+    "commercial_or_inhouse": "Commercial (Genewiz / Hangzhou Matridx Biotechnology Co., Ltd.)",
+    "dna_and_or_rna": "Both DNA and RNA (simultaneous reverse transcription; though limitations state RNA virus detection was not included)"
+  },
+  "reference_standard": "Paired blood culture (targeting bacteria and fungi) used as comparator; no independent final-diagnosis reference standard (culture was the 'gold standard' comparator). Sepsis defined per Sepsis-3.",
+  "comparator_2x2": {
+    "TP": 7,
+    "FP": 35,
+    "FN": 5,
+    "TN": 0,
+    "against": "Blood culture (bacteria and fungi) in the 47 patients with fungal and/or bacterial infection identified by either method",
+    "unit": "patient"
+  },
+  "diagnostic_yield": {
+    "n_tests": 47,
+    "n_positive_relevant_pathogens": 42,
+    "yield_percent": 89.36,
+    "basis": "Among 47 patients with fungal and/or bacterial infection, mNGS positive in 42 (89.36%) vs blood culture positive in 12 (25.53%)."
+  },
+  "additional_yield_vs_conventional": "35 cases (74.46%) exclusively mNGS-positive, 5 cases (10.64%) only culture-positive, 7 (14.90%) dual positive; mNGS identified more bacterial (42 vs 11) and fungal (16 vs 1) pathogens than culture; polymicrobial infection detection 25.00% vs 0.00% (P<0.001).",
+  "turnaround_time": "24-48 h",
+  "therapy_change": "Anti-infective treatment regimens modified based on blood mNGS results in 47 patients (39.49%); 18 cases (15.12%) continued initial therapy.",
+  "mortality_or_outcomes": "30-day mortality 18/119 (15.12%): lymphoma 8/58 (~13.79%), acute leukemia 7/29 (~24.14%), multiple myeloma 3/32 (~9.38%); neutropenic (observation) group 12/58 (20.69%) vs non-neutropenic control 6/61 (9.84%), P=0.099. Fever resolution 83.19%, septic shock improvement 40.00%.",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Only patients positive by EITHER blood culture or mNGS were included (inclusion criterion 3), so true test-negatives are excluded by design; the 2x2 is built on this enriched subset (TN=0 by construction), severely biasing accuracy estimates."
+  },
+  "quadas2_notes": "Patient selection: enrichment for culture- or mNGS-positive patients makes the 2x2 non-generalisable (specificity 0.00% and NPV 0.00% are artefacts of including only patients positive by either test). Index test well described (platform, QC, cutoffs not fully specified). Reference standard: blood culture alone, compromised by prior antibiotics >=3 days in all patients; incorporation/culture-bias concerns. Reported kappa inconsistent (-0.202 vs -0.229) and agreement 13.21% corresponds to 7/53 not 7/47 - internal inconsistency. Verbatim table 2 values used for the 2x2; reconstructed from the garbled table text, consistent with sensitivity 58.33% (7/12), specificity 0.00% (0/35), PPV 16.67% (7/42), NPV 0.00% (0/5).",
+  "evidence_quotes": [
+    {"claim": "retrospective, 119 patients, period", "quote": "A retrospective analysis was conducted on 119 patients with hematologic malignancies complicated by sepsis who were admitted to the Department of Hematology, Li Huili Hospital, Ningbo Medical Center between May 2022 and April 2025, and who showed poor therapeutic response after receiving antibiotic treatment for ≥ 3 days.", "section": "Materials and methods"},
+    {"claim": "inclusion enriched for positive tests", "quote": "Patients with hematologic malignancies presented to the Department of Hematology with fever and clinical signs of infection, and had positive results by either blood culture or mNGS, fulfilling the diagnostic criteria for definite sepsis", "section": "Materials and methods"},
+    {"claim": "mNGS vs culture positive rates", "quote": "For the detection of bacterial and fungal pathogens, mNGS demonstrated a significantly higher positive rate compared to blood culture (89.36% vs. 25.53%). The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) of mNGS were 58.33%, 0.00%, 16.67%, and 0.00%, respectively. The overall agreement rate between the two methods was 13.21% (kappa = -0.202).", "section": "Abstract/Results"},
+    {"claim": "2x2 table values", "quote": "Culture+Culture-TotalDiagnostic performance of mNGSmNGS1+73542Sensitivity%Specificity%PPV2%NPV3%mNGS-50558.330.0016.670.00Total123547", "section": "Table 2 (numbers: mNGS+ 7 culture+/35 culture-/42 total; mNGS- 5 culture+/0 culture-/5 total; 12/35/47)"},
+    {"claim": "concordance breakdown", "quote": "Furthermore, among the 47 patients with fungal or bacterial sepsis, 7 cases (14.90%) tested positive by both mNGS and culture, yielding an overall agreement rate of 13.21%. Concordance analysis revealed a kappa coefficient of -0.202, indicating poor agreement between the two methods (Table 2). In this cohort, 35 cases (74.46%) were exclusively positive by mNGS, while 5 cases (10.64%) were detected only by culture.", "section": "Results"},
+    {"claim": "additional pathogen yield", "quote": "Overall, mNGS identified a greater number of bacterial (42 vs. 11) and fungal (16 vs. 1) pathogens compared to culture (Fig. S1). Additionally, mNGS demonstrated a significantly higher detection rate of polymicrobial infections (involving two or more pathogens) than culture (25.00% vs. 0.00%, P < 0.001).", "section": "Results"},
+    {"claim": "therapy change", "quote": "A total of 47 cases (39.49%) underwent treatment modifications based on blood mNGS findings, while the remaining 18 cases (15.12%) continued the initial therapy, as the empirically administered antibiotics had already covered the identified pathogens", "section": "Results"},
+    {"claim": "turnaround time", "quote": "Additionally, the turnaround time for mNGS remained relatively consistent, typically ranging between 24 and 48 h.", "section": "Results"},
+    {"claim": "platform", "quote": "High-throughput sequencing was conducted on the Illumina Nextseq550 platform using Genewiz's Universal Sequencing Reaction Kit (reversible terminator sequencing method) with a 50-bp single-end sequencing mode", "section": "Materials and methods"},
+    {"claim": "neutropenia subgroup and outcomes", "quote": "Among them, 58 patients (48.73%) developed neutropenia [16] as a result of antitumor therapy.", "section": "Results"},
+    {"claim": "30-day mortality", "quote": "Despite active clinical interventions, the 30-day mortality rate reached 15.12%", "section": "Results"},
+    {"claim": "haemato subtypes", "quote": "All patients had confirmed diagnoses of hematological malignancies, including 58 cases of lymphoma, 32 cases of multiple myeloma, and 29 cases of acute leukemia.", "section": "Results"}
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

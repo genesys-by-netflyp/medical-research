@@ -1,0 +1,63 @@
+{
+  "pmid": "42755623",
+  "pmcid": "PMC13581634",
+  "citation": "Xu Z, Wang Y, Zhang X, Guo F, Chen J, Geng H, Li Y, Gao Y. Application of metagenomic next-generation sequencing in gastrointestinal infections in children after allogeneic hematopoietic stem cell transplantation. Frontiers in Cellular and Infection Microbiology. 2026;16:1868295.",
+  "language": "English",
+  "study_design": "Retrospective single-centre cohort (Children's Hospital of Soochow University) of pediatric allogeneic HSCT recipients with diarrhea",
+  "study_period": "March 2023 to October 2025",
+  "population": {
+    "n_total": 96,
+    "n_haemato_or_transplant": 96,
+    "population_description": "96 pediatric patients (70.83% male; mostly 1-12 years) who developed diarrhea after allogeneic HSCT for hematologic diseases; 185 fecal samples from diarrheal episodes tested by both mNGS and CMT. Donor source: unrelated 32 (33.33%), parents 39, siblings 3, unrelated+related 21, autologous 1.",
+    "haemato_subtypes": "AML 30 (31.25%), ALL 27 (28.13%), aplastic anemia 19 (19.79%), Wiskott-Aldrich syndrome 5 (5.21%), HLH 2, JMML 2, Fanconi anemia 2, other 9 (9.38%)."
+  },
+  "neutropenic_status": "not reported (early phase 1-30 days described as 'the period of neutropenia and mucositis' but no counts/definitions)",
+  "specimens": [
+    {"type": "feces/stool (diarrheal episodes)", "n_tests": 185}
+  ],
+  "index_test": {
+    "platform_or_panel": "Fecal mNGS: FastPrep-24 5G bead disruption, QIAamp Circulating Nucleic Acid kit + TIANamp magnetic DNA kit, Illumina NextSeq 550Dx, ~20 million reads; Kraken2 v2.0.7 vs database (>12,000 bacteria, >18,000 fungi, >4,600 viruses); positivity: >=1 species-specific read for MTB, >=3 non-overlapping reads for other bacteria/viruses, microbial-to-NTC reads-per-million ratio >=10",
+    "commercial_or_inhouse": "Inhouse",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "No independent final-diagnosis reference standard; mNGS results classified Certain/Possible/Unlikely by multidisciplinary review integrating CMT and clinical manifestations. Authors explicitly refrained from calculating sensitivity/specificity.",
+  "comparator_2x2": {
+    "TP": 29,
+    "FP": 109,
+    "FN": 7,
+    "TN": 40,
+    "against": "Conventional microbiological testing (fecal culture etc.) at specimen level (from Figure 1A: mNGS+CMT- 109, mNGS+CMT+ 29, mNGS-CMT- 40, mNGS-CMT+ 7)",
+    "unit": "specimen"
+  },
+  "diagnostic_yield": {
+    "n_tests": 185,
+    "n_positive_relevant_pathogens": 138,
+    "yield_percent": null,
+    "basis": "109 mNGS+CMT- + 29 mNGS+CMT+ = 138 mNGS-positive specimens (74.6%); 142 pathogen-positive specimens discussed (including 7 CMT-only). Predominant: Adenovirus 47, Pseudomonas spp. 28, Clostridioides spp. 28, Campylobacter spp. 25, Polyomavirus 34."
+  },
+  "additional_yield_vs_conventional": "109 specimens mNGS-positive/CMT-negative vs 7 CMT-positive/mNGS-negative; mNGS detected significantly more bacteria, viruses and atypical pathogens than CMT; among 142 pathogen-positive specimens: single bacterial 29, single viral 37, multiple bacteria 33, bacterial-viral co-infection 43.",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": "88/96 (91.67%) improved, 4 discharged against medical advice, 4 not cured, 0 recorded 'cured'; mean hospital stay 33.68 days (range 6-70).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "CMT is the only comparator and is an insensitive reference for stool pathogens; no independent clinical diagnosis reference (authors themselves declined sens/spec because their classification framework 'would likely categorize a substantial proportion of cases as true positives'). Many mNGS detections may represent colonization/translocation in immunocompromised children (acknowledged by authors)."
+  },
+  "quadas2_notes": "Pediatric allogeneic HSCT cohort - highly relevant population, but specimen-level (not patient-level) analysis with multiple samples per patient (185 specimens/96 patients, paired/clustered data - overlap risk for meta-analysis). Reference standard absent; the mNGS-vs-CMT 2x2 (29/109/7/40) comes from the Figure 1A caption and counts all detections regardless of clinical plausibility. Index test DNA-only. Authors: 'we refrained from interpreting the sensitivity and specificity of NGS in this study.'",
+  "evidence_quotes": [
+    {"claim": "96 children, 185 samples, period", "quote": "This study enrolled 96 pediatric patients who developed diarrhea following HSCT for hematologic malignancies at Children's Hospital of Soochow University between March 2023 and October 2025. A total of 185 feces collected during diarrheal episodes were subjected to mNGS analysis.", "section": "Study design and participants"},
+    {"claim": "2x2 vs CMT", "quote": "A total of 109 cases were positive for mNGS but negative for CMT, 29 cases were positive for both mNGS and CMT, and 40 cases were negative for both (Figure 1A).", "section": "Results"},
+    {"claim": "figure caption completing 2x2", "quote": "Panel A is a pie chart displaying the distribution of cases among four groups—mNGS+CMT- (blue, 109), mNGS+CMT+ (orange, 29), mNGS-CMT- (yellow, 40), and mNGS-CMT+ (green, 7).", "section": "Figure 1 caption"},
+    {"claim": "authors declined sens/spec", "quote": "Due to the absence of standardized criteria for interpreting mNGS results in this clinical context, and given that our proposed classification framework would likely categorize a substantial proportion of cases as true positives, we refrained from interpreting the sensitivity and specificity of NGS in this study.", "section": "Statistical analysis"},
+    {"claim": "pathogen spectrum", "quote": "Among the pathogens detected by mNGS in the 185 fecal samples, the predominant bacteria were Pseudomonas spp. (28 cases), Clostridioides spp. (28 cases), Campylobacter spp. (25 cases), Acinetobacter spp. (16 cases), and Staphylococcus aureus (13 cases). Regarding viruses, Adenovirus (47 cases), Polyomavirus (34 cases), Cytomegalovirus (8 cases)and Norovirus (7 cases) were the most prevalent", "section": "Abstract/Results"},
+    {"claim": "co-infections", "quote": "Among the 142 pathogen-positive specimens, single bacterial infections were identified in 29 cases, including 26 Gram-negative bacteria and 3 Gram-positive bacteria. Single viral infections were identified in 37 cases, including 34 DNA viruses and 3 RNA viruses. Co-infections included 33 cases of multiple bacteria, 43 cases of bacterial-viral co-infection", "section": "Results"},
+    {"claim": "haemato subtypes", "quote": "The primary types of hematologic diseases were Acute Myeloid Leukemia (AML), Acute Lymphoblastic Leukemia and Aplastic Anemia (AA).", "section": "Results"},
+    {"claim": "outcomes", "quote": "A total of 91.67% of pediatric patients improved, 4 cases were discharged against medical advice, and 4 cases were not cured. The average length of hospital stay was 33.68 days (range: 6–70 days)", "section": "Results"},
+    {"claim": "true positive definition", "quote": "A true positive was defined as a case in which the clinical presentation could plausibly be caused by the detected pathogen and where at least one diagnostic method yielded a positive result.", "section": "Methods"},
+    {"claim": "colonization caveat", "quote": "metagenomic sequencing alone cannot establish whether the detected presence of such organisms represents active infection, passive translocation, or mere colonization, leaving their causal relationship with the patient's clinical disease fundamentally unresolved.", "section": "Discussion"}
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

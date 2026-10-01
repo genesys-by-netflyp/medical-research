@@ -1,0 +1,55 @@
+{
+  "pmid": "41909845",
+  "pmcid": "PMC13021785",
+  "citation": "Wang C, Min M, Dai Z, Wang G, Wang Y, Hu T, et al. Diagnostic value of metagenomic next-generation sequencing in patients with febrile lung cancer with negative conventional microbiological tests and without neutropenia. Frontiers in Cellular and Infection Microbiology. 2026;16:1715563.",
+  "language": "English",
+  "study_design": "Single-centre retrospective cohort, consecutive screening (Cancer Center, Union Hospital, Wuhan)",
+  "study_period": "August 2023 to October 2024",
+  "population": {
+    "n_total": 53,
+    "n_haemato_or_transplant": 0,
+    "population_description": "All 53 primary-analysis patients had histologically confirmed LUNG CANCER (solid tumour) with fever and negative conventional microbiological tests; all were non-neutropenic by design (neutropenia was an exclusion criterion). Not a haemato-oncology or transplant population.",
+    "haemato_subtypes": "None - adenocarcinoma 27 (50.9%), squamous cell carcinoma 21 (39.6%), small-cell lung cancer 4 (7.5%), other 1 (1.9%)."
+  },
+  "neutropenic_status": "Non-neutropenic by design: neutropenia excluded, defined as ANC < 0.5 x 10^9/L within -24 to +24 h of fever onset",
+  "specimens": [
+    {"type": "plasma (EDTA whole blood 5-10 mL, cell-free DNA)", "n_tests": 53}
+  ],
+  "index_test": {
+    "platform_or_panel": "PMseq (BGI, Shenzhen) plasma cfDNA shotgun mNGS on Illumina or MGISEQ platforms; PMDB database (~17,500 taxa); >=20 million reads/sample; RPM thresholds plus enrichment over negative controls",
+    "commercial_or_inhouse": "Commercial (BGI PMseq)",
+    "dna_and_or_rna": "DNA (cell-free DNA)"
+  },
+  "reference_standard": "None - no independent gold standard; patients classified into mNGS-positive high-suspicion infectious fever (n=37) vs mNGS-negative high-suspicion tumor fever (n=16) based on mNGS results plus clinical adjudication (explicitly acknowledged limitation)",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 53,
+    "n_positive_relevant_pathogens": 37,
+    "yield_percent": 69.8,
+    "basis": "Among 53 CMT-negative patients, plasma mNGS identified >=1 pathogen in 37 (69.8%); 54 pathogen detections total (18 bacterial, 28 viral, 8 fungal)."
+  },
+  "additional_yield_vs_conventional": "All 53 patients were CMT-negative (blood cultures within <=24 h plus limited viral/atypical serology); mNGS was positive in 37 (69.8%) of them. No paired CMT comparison possible because CMT was uniformly negative and the conventional panel was limited (acknowledged by authors).",
+  "turnaround_time": "Defined as time from laboratory receipt to report availability; stated to be reported as median (IQR) but no numeric TAT value appears in the main text",
+  "therapy_change": "mNGS-positive reports prompted immediate result-guided antimicrobial adjustments (institutional practice); mNGS-negative cases continued oncological/supportive care without escalation. No counts reported.",
+  "mortality_or_outcomes": "No mortality reported; defervescence by 48 h post-t0: 73.0% (27/37) mNGS-positive vs 37.5% (6/16) mNGS-negative, p=0.029; by 96 h 89.2% (33/37) vs 68.8% (11/16), p=0.027; log-rank p=0.025, unadjusted HR 2.08 (95% CI 1.09-3.97).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "no (group assignment and management tied directly to mNGS result)",
+    "paired_data": false,
+    "overlap_risk": "mNGS result itself defines the classification (HSIF vs HSTF) - circular design; no independent reference standard; confounding by indication and guarantee-time bias acknowledged by authors."
+  },
+  "quadas2_notes": "WRONG POPULATION for this review: febrile lung cancer (solid tumour), non-neutropenic by design, no haematologic malignancy or HSCT patients. No 2x2 vs any reference standard (authors state interpretation 'is limited by the retrospective design and lack of an independent gold standard'). Retrospective, single-centre, 212 screened -> 87 analysed -> 53 CMT-negative (125 excluded mostly for incomplete data). Not usable for pooled diagnostic-accuracy analysis in haemato-oncology mNGS review.",
+  "evidence_quotes": [
+    {"claim": "lung cancer population, 53 CMT-negative, period", "quote": "We retrospectively analyzed 53 CMT-negative febrile lung cancer patients (August 2023–October 2024).", "section": "Abstract"},
+    {"claim": "no neutropenia required", "quote": "Nonneutropenia was required; neutropenia was an exclusion criterion defined as an absolute neutrophil count (ANC) < 0.5 × 109/L based on the closest complete blood count around fever onset.", "section": "Materials and methods"},
+    {"claim": "mNGS yield 69.8%", "quote": "Among the 53 CMT-negative patients, plasma mNGS identified ≥ 1 pathogen in 37 (69.8%) patients, whereas 16 (30.2%) were mNGS-negative. Across the 37 mNGS-positive cases, 54 pathogen detections were recorded: 18 bacterial, 28 viral, and eight fungal detections.", "section": "Results"},
+    {"claim": "pathogen spectrum", "quote": "The most frequent bacteria were Mycobacterium tuberculosis (n = 4) and Nocardia spp. (n = 3), whereas the leading fungi were Candida albicans (n = 4) and Aspergillus spp. (n = 3). The viral spectrum was dominated by herpes viruses, notably the Epstein–Barr virus (n = 6), cytomegalovirus (n = 5), and adenovirus (n = 5).", "section": "Results"},
+    {"claim": "no independent gold standard", "quote": "Third, the interpretation of mNGS results relies on clinical adjudication rather than an independent “gold standard” (e.g., histopathology).", "section": "Discussion"},
+    {"claim": "classification based on mNGS", "quote": "The latter were stratified a priori based on the mNGS result into two exploratory arms: mNGS-positive high-suspicion infectious fever (mNGS-HSIF) (n = 37) and mNGS-negative high-suspicion tumor fever (mNGS-HSTF) (n = 16)", "section": "Materials and methods"},
+    {"claim": "histology", "quote": "Non-small cell lung cancer was common, with adenocarcinoma accounting for 50.9% (27/53) and squamous cell carcinoma accounting for 39.6% (21/53) (combined 90.5%), whereas small cell lung cancer and other histologies accounted for 7.5% and 1.9%, respectively.", "section": "Results"},
+    {"claim": "platform", "quote": "Plasma mNGS was performed using a standardized shotgun workflow (PMseq®; BGI, Shenzhen, China) on Illumina or MGISEQ platforms", "section": "Materials and methods"},
+    {"claim": "outcomes", "quote": "by 48 h, the proportions were 73.0% versus 37.5% (p = 0.029); by 72 h, 78.4% versus 56.3% (p = 0.182); and by 96 h, 89.2% versus 68.8% (p = 0.027) (Table 4). Consistent with these landmark findings, Kaplan–Meier curves favored HSIF (log-rank p = 0.025), with an unadjusted HR for defervescence of 2.08 (95% CI, 1.09–3.97).", "section": "Results"}
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Wrong population (solid-tumour lung cancer, non-neutropenic by design; no haematologic malignancy or HSCT patients) and no independent reference standard / no 2x2 (groups defined by the index test itself)."
+}

@@ -1,0 +1,89 @@
+{
+ "pmid": "34835435",
+ "pmcid": "PMC8624204",
+ "citation": "Lin W-D, et al. 'Metagenomic Next-Generation Sequencing in the identification of pathogens in hematologic patients with sepsis' (National Taiwan University Hospital), Microorganisms-type journal, 2021",
+ "language": "English",
+ "study_design": "Prospective observational cohort (mNGS vs conventional microbiology in haematologic patients with sepsis)",
+ "study_period": "June 2019 to December 2019",
+ "population": {
+  "n_total": 24,
+  "n_haemato_or_transplant": 24,
+  "population_description": "Adults (≥20 y) with haematologic malignancies and clinical sepsis (qSOFA criteria); infections: pneumonia 9/24 (37.5%), intra-abdominal 7/24 (29.2%), BSI 3/24 (12.5%), UTI 2/24 (8.4%); 14/24 neutropenic",
+  "haemato_subtypes": [
+   "AML 9 (37.5%)",
+   "DLBCL 8 (33.3%)",
+   "MM 4 (16.7%)",
+   "ALL, T-LGLL, MCL 1 (4.2%) each"
+  ]
+ },
+ "neutropenic_status": "14 (58.3%) patients were diagnosed with neutropenia (absolute white blood cell < 500 cells/mm3) when sepsis developed",
+ "specimens": [
+  {
+   "type": "plasma (blood cfDNA)",
+   "n_tests": 24
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "shotgun cfDNA mNGS on MGISEQ-200 (MGI Tech), Kraken2 bioinformatics, MGI in-house + RefSeq NCBI databases",
+  "commercial_or_inhouse": "commercial (MGI service)",
+  "dna_and_or_rna": "DNA only (cfDNA; no RNA library described)"
+ },
+ "reference_standard": "Clinical diagnosis of sepsis/infection (qSOFA + ID physician exclusion of non-infectious processes) with conventional microbiology (blood cultures, galactomannan, cryptococcal antigen, CMV RT-PCR, site-specific cultures/PCRs); no formal final-diagnosis adjudication against a composite reference reported",
+ "comparator_2x2": null,
+ "diagnostic_yield": {
+  "n_tests": 24,
+  "n_positive_relevant_pathogens": 21,
+  "yield_percent": null,
+  "basis": "per-patient categories: 9 conventional equal to mNGS, 10 mNGS-only (additional pathogens), 3 conventional-only, 2 inconsistent; most mNGS detections were viruses"
+ },
+ "additional_yield_vs_conventional": "Of ten patients, mNGS was able to identify additional pathogens compared with conventional methods; most of the pathogens were virus. Seven patients CMV detected by mNGS, only 3 confirmed CMV viremia by conventional PCR.",
+ "turnaround_time": "Not timely available (time-consuming); specific TAT not reported. Interval between fever onset and mNGS sampling 0–4 days per patient.",
+ "therapy_change": "Impact on antimicrobial administration unclear (results not timely available due to high cost and time-consuming data interpretation)",
+ "mortality_or_outcomes": null,
+ "quality_flags": {
+  "prospective_consecutive_enrollment": true,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "no independent reference standard; positivity categories defined relative to conventional tests; colonisation/contamination acknowledged (e.g. B. cereus flagged as environmental contaminant by the pipeline yet confirmed bacteremic)"
+ },
+ "quadas2_notes": "n=24, no 2x2 vs final diagnosis; yield data only. No mortality/TAT numbers. mNGS performed by commercial lab; DNA-only panel (RNA viruses potentially missed).",
+ "evidence_quotes": [
+  {
+   "claim": "design and period",
+   "quote": "From June 2019 to December 2019, we conducted a prospected study at National Taiwan University Hospital, which is a tertiary medical center with 2400-beds, located in northern Taiwan.",
+   "section": "2.1. Study Population"
+  },
+  {
+   "claim": "neutropenia definition",
+   "quote": "Fourteen (58.3%) patients were diagnosed with neutropenia (absolute white blood cell < 500 cells/mm 3 ) when sepsis developed.",
+   "section": "3. Results"
+  },
+  {
+   "claim": "comparable results in 9, extra in 10",
+   "quote": "Of 24 patients enrolled, mNGS and conventional diagnostic methods (blood cultures, serology testing and virus RT-PCR) reached comparable positive results in 9 cases. Of ten patients, mNGS was able to identify additional pathogens compared with conventional methods; most of the pathogens were virus.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "CMV detection advantage",
+   "quote": "Overall, CMV were detected among seven patients by mNGS; only three patients were confirmed with CMV viremia by conventional viral PCR.",
+   "section": "4. Discussion"
+  },
+  {
+   "claim": "timing of blood draw",
+   "quote": "Blood test for mNGS was performed within 24 h after the onset of a hypotension episode.",
+   "section": "2.1. Study Population"
+  },
+  {
+   "claim": "therapy impact unclear",
+   "quote": "the results of mNGS were not timely available due to high cost and time-consuming data interpretation. Therefore, the impact of mNGS methods on the physicians' preference of antimicrobial agent administration remained unclear.",
+   "section": "4. Discussion"
+  },
+  {
+   "claim": "polymicrobial in neutropenic",
+   "quote": "eight (35.7%) of 14 neutropenic patients obtain equal or more microbiologic evidence via mNGS, and of which five patients were documented with polymicrobial infection.",
+   "section": "4. Discussion"
+  }
+ ],
+ "usable_for_pooled_analysis": "yield-only",
+ "exclusion_reason": "No 2x2 vs reference standard; comparison categories are relative to conventional testing only (yield-only)."
+}

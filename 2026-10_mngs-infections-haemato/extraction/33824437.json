@@ -1,0 +1,102 @@
+{
+ "pmid": "33824437",
+ "pmcid": "PMC8023769",
+ "citation": "Liu et al. Prospective comparison of metagenomic next-generation sequencing and conventional testing for CNS infections after allogeneic HSCT (Nanfang Hospital, China), 2021",
+ "language": "English",
+ "study_design": "Prospective cohort (diagnostic-accuracy comparison of mNGS vs conventional testing)",
+ "study_period": "July 2016 to March 2019",
+ "population": {
+  "n_total": 53,
+  "n_haemato_or_transplant": 53,
+  "population_description": "53 allo-HSCT recipients presenting with CNS disorders (from 567 patients undergoing allo-HSCT); 35 with CNS infection, 11 noninfectious CNS causes, 7 undetermined",
+  "haemato_subtypes": [
+   "AML (n=34)",
+   "ALL (n=11)",
+   "MDS (n=4)",
+   "CML (n=2)",
+   "primary myelofibrosis (n=2)"
+  ]
+ },
+ "neutropenic_status": null,
+ "specimens": [
+  {
+   "type": "CSF",
+   "n_tests": 53
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "mNGS performed by Beijing Genomics Institute per manufacturer protocol",
+  "commercial_or_inhouse": "commercial (BGI service)",
+  "dna_and_or_rna": "DNA and RNA (viruses' DNA/RNA; detailed criteria in supplementary appendix)"
+ },
+ "reference_standard": "Clinical diagnosis criteria: proven (neurological manifestations + pathogen identified in CSF + histopathology if needed) or probable CNS infection (neurological manifestations, absence of noninfectious aetiology, good response to antimicrobial treatment)",
+ "comparator_2x2": {
+  "TP": 34,
+  "FP": 1,
+  "FN": 1,
+  "TN": 17,
+  "against": "conventional testing vs final clinical diagnosis; mNGS sensitivity 97.1% (34/35), specificity 94.4% (17/18)",
+  "unit": "patient"
+ },
+ "diagnostic_yield": {
+  "n_tests": 53,
+  "n_positive_relevant_pathogens": 35,
+  "yield_percent": 66.0,
+  "basis": "35/53 patients diagnosed with CNS infection; viruses 28, bacteria 2, fungi 1, mixed 3, unknown 1"
+ },
+ "additional_yield_vs_conventional": "Among 35 CNS infections, mNGS identified 5 patients not identified by conventional testing; 6 pathogens detected by mNGS only (EBV, HHV-7, HSV-1, S. pneumoniae, R. felis, Aspergillus), 5 of 6 validated",
+ "turnaround_time": null,
+ "therapy_change": "Treatments given based on aetiology; of 34 CNS-infection patients treated, 24 good response and survived, 9 died of progressing CNS infection, 1 died of severe pneumonia",
+ "mortality_or_outcomes": "9/34 CNS-infection patients died of progressing CNS infection; 1-year and 2-year cumulative incidence of CNS infections 5.51% (95% CI 3.83–7.61%) and 6.59% (95% CI 4.65–8.96%)",
+ "quality_flags": {
+  "prospective_consecutive_enrollment": true,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "reference standard partly incorporates treatment response and pathogen detection; Sanger/PCR validation of mNGS-only findings creates incorporation risk"
+ },
+ "quadas2_notes": "All enrolled received both index and comparator (paired CSF testing). Reference standard is clinical (proven/probable criteria), acceptable but partially incorporates treatment response. mNGS-positive-only findings were validated by Sanger/PCR — incorporation bias risk. A single mNGS-only Aspergillus deemed false positive.",
+ "evidence_quotes": [
+  {
+   "claim": "prospective design, 53 patients",
+   "quote": "A total of 53 in the 567 patients undergoing allo-HSCT between July 2016 and March 2019 were enrolled in this prospective study.",
+   "section": "Results, Patients' characteristics"
+  },
+  {
+   "claim": "35 CNS infections among 53",
+   "quote": "A total of 35 patients were diagnosed as CNS infections, including 28 viral, 2 bacterial, 1 fungal, 3 mixed infections, and 1 infection with unknown pathogen.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "mNGS extra patients vs conventional",
+   "quote": "Among these 35 patients with CNS infections, mNGS identified 5 patients who were not identified by conventional testing. For the remaining 30 infections, mNGS made concurrent diagnoses with conventional testing in 29, while 1 was diagnosed according to the good response to the antimicrobial treatment without etiological evidence.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "sensitivity/specificity",
+   "quote": "The sensitivity of mNGS and conventional testing for diagnosing CNS infections post transplant were 97.1% and 82.9%, respectively (P = 0.106), while the specificity of mNGS and conventional testing were 94.4% and 100%, respectively (P = 1.000).",
+   "section": "Abstract/Results"
+  },
+  {
+   "claim": "false positive Aspergillus",
+   "quote": "Aspergillus was considered false positive for lack of validation via PCR as well as galactomannan detection in CSF sample.",
+   "section": "Results, Validation for the pathogens"
+  },
+  {
+   "claim": "specimen and index test",
+   "quote": "The methods for pathogens detection in CSF included conventional testing and mNGS. ... mNGS was performed by the Beijing Genomics Institute according to the manufacturer's protocol.",
+   "section": "Materials and methods, Etiological assessment"
+  },
+  {
+   "claim": "outcomes",
+   "quote": "Of the patients with CNS infections, 24 had good response to the treatments and survived, while 9 died because of CNS infections progressing and 1 died of severe pneumonia although with improving CNS disorders on the third day of treatment.",
+   "section": "Results, Treatment and outcome"
+  },
+  {
+   "claim": "etiology identified in 46/53",
+   "quote": "Etiology was identified in 46 of the 53 patients enrolled including CNS infections in 35 (66.0%) and noninfectious causes in 11 (20.8%) patients.",
+   "section": "Results, Etiology of CNS complications"
+  }
+ ],
+ "usable_for_pooled_analysis": "2x2",
+ "exclusion_reason": null
+}

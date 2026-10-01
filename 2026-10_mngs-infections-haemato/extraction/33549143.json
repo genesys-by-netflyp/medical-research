@@ -1,0 +1,71 @@
+{
+ "pmid": "33549143",
+ "pmcid": "PMC7868019",
+ "citation": "Cote M et al. (authors per article) 'No evidence of pathogens associated with pulmonary MALT lymphoma using metagenomic next-generation sequencing', haematology/oncology journal, 2021",
+ "language": "English",
+ "study_design": "Retrospective case-series (frozen tissue biopsies analysed by mNGS); aetiological study of lymphoma, NOT a diagnostic-accuracy study",
+ "study_period": null,
+ "population": {
+  "n_total": 23,
+  "n_haemato_or_transplant": 13,
+  "population_description": "13 patients with pulmonary MALT lymphoma plus 10 controls",
+  "haemato_subtypes": [
+   "pulmonary MALT lymphoma"
+  ]
+ },
+ "neutropenic_status": null,
+ "specimens": [
+  {
+   "type": "snap frozen lung biopsy",
+   "n_tests": 13
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "agnostic metagenomic NGS, reads classified with Kaiju v1.4.1",
+  "commercial_or_inhouse": "inhouse",
+  "dna_and_or_rna": "DNA and RNA"
+ },
+ "reference_standard": "Central histological review confirming MALT lymphoma; FISH for t(11;18)",
+ "comparator_2x2": null,
+ "diagnostic_yield": {
+  "n_tests": 13,
+  "n_positive_relevant_pathogens": 0,
+  "yield_percent": null,
+  "basis": "No specific pathogen identified in the 13 MALT samples; A. xylosoxidans in 4/13 patients and 4/10 controls"
+ },
+ "additional_yield_vs_conventional": null,
+ "turnaround_time": null,
+ "therapy_change": null,
+ "mortality_or_outcomes": null,
+ "quality_flags": {
+  "prospective_consecutive_enrollment": null,
+  "blinding_of_index_result": null,
+  "paired_data": null,
+  "overlap_risk": "aetiology study; no diagnostic-accuracy comparison"
+ },
+ "quadas2_notes": "Not a diagnostic-accuracy study of mNGS for infection in immunocompromised haemato-oncology patients; investigates microbial causes of lymphoma itself. Population not neutropenic/fever cohort.",
+ "evidence_quotes": [
+  {
+   "claim": "13 pulmonary MALT lymphoma samples and 10 controls analysed by mNGS",
+   "quote": "We included 13 samples from pulmonary MALT lymphoma (mean age: 60.3 years, 7 women, 3 with auto-immune background) and 10 controls.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "No pathogen identified",
+   "quote": "No evidence of the presence of a specific pathogen was clearly identified in the group of patients with pulmonary MALT lymphoma.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "A. xylosoxidans sequences",
+   "quote": "We identified A. xylosoxidans sequence in 4/13 patients and in 4/10 controls.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "method",
+   "quote": "The snap frozen large lung biopsies were analyzed by mNGS. After lung biopsies homogenization total nucleic acids (RNA and DNA) were extracted, amplified and classified according to their taxonomic assignment, after exclusion of host DNA.",
+   "section": "Abstract/Methods"
+  }
+ ],
+ "usable_for_pooled_analysis": "not-usable",
+ "exclusion_reason": "Aetiological study of lymphoma pathogenesis, not diagnostic accuracy of mNGS for infections; small case-series (<5 relevant patients per group, no 2x2)"
+}

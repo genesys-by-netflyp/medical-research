@@ -1,0 +1,93 @@
+{
+ "pmid": "35837477",
+ "pmcid": "PMC9273861",
+ "citation": "Retrospective study, First Affiliated Hospital of Zhengzhou University, pediatric hematology: mNGS on BALF in pediatric hematologic malignancy patients with pulmonary infection, 2022",
+ "language": "English",
+ "study_design": "Retrospective cohort (mNGS vs conventional microbiology; McNemar comparison of positivity rates)",
+ "study_period": "January 2020 to October 2021",
+ "population": {
+  "n_total": 55,
+  "n_haemato_or_transplant": 55,
+  "population_description": "55 paediatric (<16 y) patients with hematologic malignancy and pulmonary infection, all undergoing bronchoscopy with BALF for both mNGS and conventional tests; 31 (56.4%) neutropenic; 23 allo-HSCT recipients; all on antibiotics before mNGS",
+  "haemato_subtypes": [
+   "ALL 23 (41.8%)",
+   "AML 9 (16.4%)",
+   "allo-HSCT 23 (41.8%) (3 ALL, 7 AML, 11 aplastic anemia, 1 MDS, 1 CML)"
+  ]
+ },
+ "neutropenic_status": "31 of 55 patients had neutropenia (56.4%); threshold not stated in retrieved text",
+ "specimens": [
+  {
+   "type": "BALF",
+   "n_tests": 55
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "mNGS on Illumina NextSeq 550Dx, single-end 75 bp; DNA sequencing for all 55, plus RNA sequencing for 26; BLAST against NCBI nt with background subtraction",
+  "commercial_or_inhouse": "inhouse (lab-based pipeline with kits)",
+  "dna_and_or_rna": "DNA and RNA (RNA in 26 of 55)"
+ },
+ "reference_standard": "Final infection adjudication: 'patients' radiology, clinical characteristics and anti-infection outcomes were taken into consideration by three experienced physicians to make the final decision after obtaining the microbiological evidence'; pulmonary infection diagnosed per WHO clinical management guidelines; definite or probable microbial aetiology defined as mNGS combined with conventional tests",
+ "comparator_2x2": null,
+ "diagnostic_yield": {
+  "n_tests": 55,
+  "n_positive_relevant_pathogens": 48,
+  "yield_percent": 87.3,
+  "basis": "mNGS-positive in 48/55 (87.3%) vs conventional 19/55 (34.5%), P<0.001; bacteria 17/55 (30.9%), viruses 25/55 (45.5%), fungi 19/55 (34.5%), MP 2/55 (3.6%); mixed infections 17/55 (30.9%)"
+ },
+ "additional_yield_vs_conventional": "mNGS detected pathogens in 48 patients vs 19 by conventional; positive rate rose from 34.5% to 90.9% when mNGS combined with conventional tests; one culture-only pathogen (E. meningospetica) not reported by mNGS",
+ "turnaround_time": "Workflow from patient sample to results completed within 24 hours (2 h transport + 1 h extraction + 15 h library/sequencing + 6 h bioinformatics/reporting)",
+ "therapy_change": "Among 48 mNGS-positive cases, 29 (60.4%) were fully covered by empirical antibiotics; 12 reduced/downgraded antibiotics, 19 partly/uncovered cases all had antibiotic adjustment after mNGS",
+ "mortality_or_outcomes": "30-day mortality rate 7.3% (4/55 deceased); among mNGS-positive patients 3 died (1 fully covered non-adjusted, 2 partly/uncovered)",
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "final adjudication considers mNGS evidence and anti-infection outcomes; no independent 2x2 vs final diagnosis reported — only positivity rates and McNemar P"
+ },
+ "quadas2_notes": "Retrospective, single centre, n=55. No sensitivity/specificity or 2x2 vs final diagnosis reported. Yield + turnaround + therapy-change data usable. Adult comparison inappropriate (paediatric).",
+ "evidence_quotes": [
+  {
+   "claim": "design and inclusion",
+   "quote": "We retrospectively reviewed 73 pediatric patients with HM and pulmonary infection at the pediatric hematology department, the First Affiliated Hospital of Zhengzhou University from January 2020 to October 2021. With our inclusion criteria, 55 pediatric patients were enrolled for this study.",
+   "section": "Materials and Methods"
+  },
+  {
+   "claim": "positivity rates",
+   "quote": "The positive rate of pathogens detected by mNGS was 87.3% (48 of 55 patients), thus by conventional microbiological assays was only 34.5% (19 of 55 patients) (P <0.001).",
+   "section": "Results"
+  },
+  {
+   "claim": "combined yield and mixed infections",
+   "quote": "The overall positivity rate and the rate of mixed infections were 34.5% (19/55) and 7.3% (4/55) only using conventional microbiologic testing. Notably, they increased to 90.9% (50/55) and 30.9% (17/55) when combined with mNGS results, respectively.",
+   "section": "Discussions"
+  },
+  {
+   "claim": "pathogen classes by mNGS",
+   "quote": "bacteria, viruses, fungi and MP were detected in 17/55 (30.9%), 25/55 (45.5%), 19/55 (34.5%) and 2/55 (3.6%) cases by mNGS, respectively",
+   "section": "Results"
+  },
+  {
+   "claim": "neutropenia",
+   "quote": "Of the 55 pediatric patients, 31 had neutropenia (56.4%).",
+   "section": "Results, Sample and Patient Characteristics"
+  },
+  {
+   "claim": "turnaround",
+   "quote": "the workflow from patient sample to results was completed within 24 hours, saving precious time for these critically ill patients. Specifically, the BALF were separately sent to clinical microbiology laboratories within 2 h for analyses, followed by 1 h for nucleic acid extraction from the genome, 15 h for library preparation and sequencing, and 6 h for bioinformatics analyses and reporting.",
+   "section": "Discussions"
+  },
+  {
+   "claim": "antibiotic adjustment",
+   "quote": "The remaining 19 cases were partly covered or not covered by antibiotics before the pathogens were detected, and all these cases adjusted their antibiotics after the pathogens were detected.",
+   "section": "Results, The Impact of mNGS on Treatment and Prognosis"
+  },
+  {
+   "claim": "mortality",
+   "quote": "the 30-day mortality rate was 7.3%.",
+   "section": "Abstract/Discussions"
+  }
+ ],
+ "usable_for_pooled_analysis": "yield-only",
+ "exclusion_reason": "No 2x2 vs reference standard; yield-only (positivity rates and therapy change)."
+}

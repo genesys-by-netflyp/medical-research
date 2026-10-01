@@ -1,0 +1,116 @@
+{
+ "pmid": "35509305",
+ "pmcid": "PMC9058167",
+ "citation": "Retrospective evaluation of mNGS vs traditional pathogen detection in pediatric allo-HSCT recipients (China, Guangzhou/Beijing labs), 2022",
+ "language": "English",
+ "study_design": "Retrospective cohort (diagnostic-accuracy comparison; 2x2 contingency tables reported as sensitivity/specificity)",
+ "study_period": null,
+ "population": {
+  "n_total": 101,
+  "n_haemato_or_transplant": 101,
+  "population_description": "101 paediatric allo-HSCT recipients with 54 BALF, 32 blood and 15 CSF samples; 87 diagnosed with post-transplant infectious disease, 14 with non-infectious disease; median age at transplant 72 months (5–168); 61 tested within 3 months of HSCT",
+  "haemato_subtypes": [
+   "severe thalassemia 41 (40.59%)",
+   "AML 22 (21.78%)",
+   "ALL 10 (9.90%)",
+   "mucopolysaccharidosis 11",
+   "SAA 7",
+   "other anaemias/leukodystrophies 11"
+  ]
+ },
+ "neutropenic_status": null,
+ "specimens": [
+  {
+   "type": "BALF",
+   "n_tests": 54
+  },
+  {
+   "type": "blood",
+   "n_tests": 32
+  },
+  {
+   "type": "CSF",
+   "n_tests": 15
+  }
+ ],
+ "index_test": {
+  "platform_or_panel": "mNGS performed by BGI PathoGenesis Pharmaceutical Technology (BGI-Shenzhen) and Hugobiotech Co. Ltd., Beijing, per manufacturer protocol; criteria in supplementary appendix",
+  "commercial_or_inhouse": "commercial (BGI/Hugobiotech service)",
+  "dna_and_or_rna": "DNA and RNA (not further specified in retrieved text)"
+ },
+ "reference_standard": "Composite clinical diagnosis: bloodstream infections per NHSN criteria plus final diagnosis based on clinical manifestations, pathogen detection by conventional testing AND mNGS, treatment effect; pulmonary infection based on symptoms, imaging, conventional and NGS detection, rapid on-site evaluation, histopathology, expert opinion, treatment effect; CNS infection per Schmidt-Hieber proven/probable criteria",
+ "comparator_2x2": {
+  "TP": 78,
+  "FP": 3,
+  "FN": 9,
+  "TN": 11,
+  "against": "conventional pathogen detection vs final diagnosis (sensitivity mNGS 89.7% vs 21.8%; specificity 78.5% vs 92.9%; PPV 96.3 vs 95.0; NPV 55.0 vs 15.0); TP/FN/TN/FP back-derived from reported percentages with denominators 87 infected and 14 non-infected (78/87=89.7%, 11/14=78.5%)",
+  "unit": "patient (n=101)"
+ },
+ "diagnostic_yield": {
+  "n_tests": 101,
+  "n_positive_relevant_pathogens": 83,
+  "yield_percent": null,
+  "basis": "82.2% of 101 specimens from infected patients: BALF 44/48 (91.7%) mNGS-positive, blood 24/28 (85.7%), CSF 10/11 (90.9%)"
+ },
+ "additional_yield_vs_conventional": "pulmonary: 33 pathogens mNGS-only vs 11 by both; blood: 19 patients mNGS-positive only vs 5 by both and 1 conventional-only; CSF: 8 pathogens mNGS-only vs 2 by both",
+ "turnaround_time": null,
+ "therapy_change": "Treatments given based on pathogens; 40/48 pulmonary and 27/28 blood-infection patients responded well; empirical treatment for unclear pathogens",
+ "mortality_or_outcomes": "Died: 2 of pulmonary infection progression, 2 of TMA, 2 of aGVHD, 1 of multiple organ failure (blood infection group), 1 of progressing CNS infection (Mucor) and multiple organ failure",
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": "unclear",
+  "paired_data": true,
+  "overlap_risk": "High: final diagnosis incorporates mNGS results ('pathogen detection by conventional testing methods and mNGS') — incorporation bias; specificity computed against the same composite"
+ },
+ "quadas2_notes": "Reference standard explicitly includes mNGS findings → inflated accuracy risk. Specificity analysis limited by only 14 non-infected cases (authors note this). 2x2 integers back-derived from reported sens/spec percentages and denominators 87/14 — flagged as derived, not verbatim counts.",
+ "evidence_quotes": [
+  {
+   "claim": "101 records traced, specimens",
+   "quote": "In this study, we traced the records of 101 pediatric recipients with allo-HSCT to investigate the pathogens of infection, and collected 54 bronchoalveolar lavage fluid, 32 blood, and 15 cerebrospinal fluid samples. In these samples, 87 was with post-transplant infection and 14 without infection.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "sensitivity/specificity comparison",
+   "quote": "mNGS was more sensitive (89.7%) than conventional pathogen detection (21.8%), with a difference of 67.9% (P < 0.001), However, mNGS was less specific (78.5%) than traditional methods (92.9%), with a difference of 14.4% (P = 0.596).",
+   "section": "Abstract/Results"
+  },
+  {
+   "claim": "per-site sensitivities",
+   "quote": "The sensitivity of mNGS for diagnosing pulmonary infections, bloodstream infections or viremia, and CNS infections post-transplant were 91.7, 85.7, and 90.9%, respectively. In contrast, the sensitivity of conventional testing for diagnosing pulmonary infections, bloodstream infections or viremia, and CNS infections post-transplant were 22.9, 21.4, and 18.2%, respectively.",
+   "section": "Abstract/Results"
+  },
+  {
+   "claim": "PPV/NPV",
+   "quote": "The PPV and NPV of mNGS were 96.3 and 55.0%, respectively. In comparison, the PPV and NPV of traditional pathogen detection were 95.0 and 15.0%, respectively.",
+   "section": "Results"
+  },
+  {
+   "claim": "reference standard includes mNGS",
+   "quote": "For this study, the final diagnosis of bloodstream infections was made based on clinical manifestations, pathogen detection by traditional testing methods and mNGS, and treatment effect observations.",
+   "section": "Diagnosis of Bloodstream Infections..."
+  },
+  {
+   "claim": "blood yield detail",
+   "quote": "Among the 28 blood specimens of patients with bloodstream infections or viremia, five patients were tested positive by both mNGS and conventional methods, nineteen were positive by mNGS, and one was positive by conventional testing only.",
+   "section": "Results"
+  },
+  {
+   "claim": "CSF yield detail",
+   "quote": "Two pathogens were identified by mNGS and conventional testing both and eight by mNGS only.",
+   "section": "Results (CSF)"
+  },
+  {
+   "claim": "outcomes",
+   "quote": "Twenty-seven of the patients with bloodstream infections or viremia responded well during the treatments, while one died of multiple organ failure. Ten of the patients with CNS infections had a good response to the treatments, while one died because of CNS infections progressing (the pathogen of the patient was Mucor) and multiple organ failure.",
+   "section": "Treatment and Outcome"
+  },
+  {
+   "claim": "mNGS providers",
+   "quote": "mNGS was performed by the BGI PathoGenesis Pharmaceutical Technology, BGI-Shenzhen and Hugobiotech Co., Ltd., Beijing, China according to the manufacturer's protocol.",
+   "section": "Etiological Assessment"
+  }
+ ],
+ "usable_for_pooled_analysis": "2x2",
+ "exclusion_reason": null
+}

@@ -1,0 +1,99 @@
+{
+  "pmid": "38029249",
+  "pmcid": "PMC10644336",
+  "citation": "Zhu Ning, Zhou Daibing, Xiong Wanfeng, et al. Performance of mNGS in bronchoalveolar lavage fluid for the diagnosis of invasive pulmonary aspergillosis in non-neutropenic patients. Frontiers in Cellular and Infection Microbiology, 2023.",
+  "language": "English",
+  "study_design": "Retrospective single-center diagnostic accuracy study",
+  "study_period": "1 January 2018 to 30 August 2021",
+  "population": {
+    "n_total": 94,
+    "n_haemato_or_transplant": null,
+    "population_description": "Suspected invasive pulmonary aspergillosis (IPA) patients who underwent bronchoscopy/BALF mNGS at Huashan Hospital; NON-NEUTROPENIC emphasis (39 IPA, 55 non-IPA). Population is mixed immunocompromised/structural lung disease (COPD, TB, lung cancer, glucocorticoid use) - haemato-oncology share not quantified",
+    "haemato_subtypes": "Not reported; patients had pulmonary comorbidities and glucocorticoid use; hematologic malignancy share not stated"
+  },
+  "neutropenic_status": "Patients were non-neutropenic (study of IPA in non-neutropenic states); NEUT#/LYMPH# ratio reported (>=3.1: 40 patients)",
+  "specimens": [
+    {
+      "type": "BALF (mNGS)",
+      "n_tests": 94
+    },
+    {
+      "type": "BALF/lung biopsy traditional tests (fungal smear, culture, histopathology)",
+      "n_tests": 94
+    },
+    {
+      "type": "serum and BALF galactomannan",
+      "n_tests": 94
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "BALF mNGS on Illumina NextSeq CN500; BGI Genomics; ~13,000-genome database; positive if RPM or RPM-r >= 5",
+    "commercial_or_inhouse": "commercial (BGI Genomics, Shenzhen)",
+    "dna_and_or_rna": "DNA and RNA (cDNA via reverse transcription)"
+  },
+  "reference_standard": "EORTC/MSG 2020 guideline classification (proven/probable/possible IPA); non-IPA if lesion did not absorb after 3 months of regular antifungals. Final: 4 proven, 33 probable, 2 possible IPA",
+  "comparator_2x2": {
+    "TP": 36,
+    "FP": 4,
+    "FN": 3,
+    "TN": 51,
+    "against": "EORTC/MSG-based final clinical diagnosis of IPA vs non-IPA (BALF mNGS)",
+    "unit": "patient"
+  },
+  "diagnostic_yield": {
+    "n_tests": 94,
+    "n_positive_relevant_pathogens": 40,
+    "yield_percent": null,
+    "basis": "BALF mNGS positive in 36/39 IPA and 4/55 non-IPA patients; sensitivity 92.31% (79.10-98.40), specificity 92.73% (82.40-98.00), PPV 90.0% (77.70-95.90), NPV 94.40% (85.10-98.10), AUC 0.925 (0.852-0.969)"
+  },
+  "additional_yield_vs_conventional": "Among 39 IPA patients: 43.59% positive for both mNGS and traditional tests, 48.72% positive only by mNGS, 2.56% positive only by traditional tests; mNGS sensitivity 92.31% vs traditional tests 46.15% and serum GM (>=0.5) 17.95%; BALF GM (>=0.5) 66.67%",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Same specimen split for mNGS and conventional tests; EORTC/MSG classification uses mycological tests that partly overlap with index test results (probable IPA requires microbiological evidence); mNGS likely influenced final classification"
+  },
+  "quadas2_notes": "Clean 2x2 reported in Table 2 (BALF mNGS: IPA+ 36, non-IPA+ 4, IPA- 3, non-IPA- 51; n=94 checks out: 36+4+3+51=94). CAUTION for applicability: population is non-neutropenic suspected IPA with largely non-haematologic comorbidities (COPD, glucocorticoids); haemato-oncology patients likely a minority/not quantified - transferability to the haemato-oncology PICO limited.",
+  "evidence_quotes": [
+    {
+      "claim": "design, n, period",
+      "quote": "All patients with suspected pulmonary aspergillosis at Huashan Hospital, Fudan University were enrolled and retrospectively investigated from 1 January 2018 to 30 August 2021. ... Ninety-four patients were finally enrolled in this study. Thirty-nine patients were diagnosed with IPA, consisting of 4 proven patients, 33 probable patients, and 2 possible patients.",
+      "section": "Methods/Results"
+    },
+    {
+      "claim": "2x2",
+      "quote": "BALF mNGS ... Yes | 36 | 4 ... No | 3 | 51 | ... Sensitivity 92.31 (79.10, 98.40) | Specificity 92.73 (82.40, 98.00) | PPV 90.0 (77.70, 95.90) | NPV 94.40 (85.10, 98.10)",
+      "section": "Table 2"
+    },
+    {
+      "claim": "reference standard",
+      "quote": "All patients were diagnosed and excluded from invasive pulmonary aspergillosis based on the European Organization for the Treatment of Cancer/Mycoses Study Group (EORTC/MSG) guideline (Donnelly et al., 2020). Patients were recognized to have a non-IPA disease if the lesion did not absorb following a course of regular antifungals for 3 months.",
+      "section": "Methods"
+    },
+    {
+      "claim": "vs traditional",
+      "quote": "Among the 39 IPA patients, 43.59% of patients were positive both in the mNGS and traditional tests, 5.13% were negative both in the mNGS and traditional tests, 48.72% were positive only in the mNGS, and 2.56% were positive only in the traditional test",
+      "section": "Results/Figure 1B"
+    },
+    {
+      "claim": "platform",
+      "quote": "Library pools were then loaded onto an Illumina NextSeq CN500 sequencer for 75 cycles of single-end sequencing ... An average of 20 ml of BALF samples was divided into two parts and then separately sent to the BGI Genomics (Shenzhen, China) for mNGS analysis and conventional microbiological tests",
+      "section": "Methods"
+    },
+    {
+      "claim": "non-neutropenic",
+      "quote": "Our study demonstrated the important role of BALF detection by the mNGS platform for pathogen identification in IPA patients with non-neutropenic states",
+      "section": "Abstract"
+    },
+    {
+      "claim": "comorbidities",
+      "quote": "Patients who presented with underlying pulmonary diseases (23/33), especially COPD, pulmonary tuberculosis, lung cancer, etc., were more susceptible to IPA",
+      "section": "Results"
+    }
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

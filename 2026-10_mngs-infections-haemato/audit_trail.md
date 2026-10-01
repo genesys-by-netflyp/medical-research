@@ -1,0 +1,8 @@
+## Audit trail
+
+- 2026-10-01 — Topic #25 (mNGS for infections in haemato-oncology) selected by user after #14 failed the full-access gate and was cancelled (user decision). #15–#18 also failed the gate (pivotal phase-3 primaries paywalled: TRIUMPH/PEGASUS/PRINCE/COMMODORE/VIALE-A/MATCH; PMIDs logged in search_log.md). #19–#22, #20 assessed insufficient; #23/#24 moderate; #25 (123/162 = 75.9% OA) and #27 (~75% OA) passed; user chose #25.
+- 2026-10-01 — Search 1 (PubMed E-utilities) executed: 162 hits; OA check via Europe PMC; hits + abstracts saved to papers/search1_hits.csv.
+- 2026-10-01 — Automated title/abstract screening (heuristic classifier): 34 INCLUDE?, 17 MAYBE, 56 case reports excluded, 17 reviews/guidelines excluded, 38 out of scope. Output: screening_review.csv (screen_auto column; human review columns left blank per convention).
+- 2026-10-01 — Full-text download: 40 OA candidates with PMC deposit fetched from Europe PMC fullTextXML into papers/ (40 files). 11 non-OA INCLUDE?/MAYBE candidates logged as full-text-unavailable: PMIDs 42759762, 42502253, 42367641, 41547817, 41534561, 40506318, 39197493, 39088077, 38065767, 36908212, 37271194.
+- 2026-10-01 — Duplicate check (PubMed): prior mNGS MAs cover other populations/sites (spine, CNS, uveitis, pancreas, IPA-specific, pediatric sites; PMIDs 42208932, 41696622, 41680318, 41584315, 41500047, 40596444, 40438301, 40113108, 41270974, 41909838). No SR/MA restricted to haemato-oncology/HSCT populations found; niche appears open. PROSPERO registration to be prepared before screening sign-off.
+- 2026-10-01 — Full-text extraction delegated to 4 parallel subagents (10 papers each) against extraction/EXTRACTION_INSTRUCTIONS.md (verbatim-quote rule enforced in schema).

@@ -1,0 +1,58 @@
+{
+  "pmid": "42359352",
+  "pmcid": "PMC13290573",
+  "citation": "Lyu C, Zhou Q, Xiao X, Bai X, Pu Y, Zhu H, et al. Metagenomics next-generation sequencing of plasma combined with blood cells for improving the prognosis of early infection in patients with hematologic disorders: a real-world cohort study in northern China. Frontiers in Molecular Biosciences. 2026;13:1662559.",
+  "language": "English",
+  "study_design": "Retrospective single-centre real-world cohort (Department of Hematology, Tianjin First Central Hospital)",
+  "study_period": "June 2022 to March 2024",
+  "population": {
+    "n_total": 231,
+    "n_haemato_or_transplant": 231,
+    "population_description": "231 patients with haematological disorders (leukemia, lymphoma, myeloma, aplastic anemia, etc.) with suspected infection, all undergoing whole blood mNGS (plasma + blood cell fractions) and blood culture simultaneously. 208/231 (90.04%) classified as infected, 23 non-infected by final clinical diagnosis. HSCT 148/231 (64.07%); immunosuppressed 227/231 (98.27%).",
+    "haemato_subtypes": "AML 112 (48.48%), ALL 42 (18.18%), mixed lineage leukemia 4 (1.73%), MDS 37 (16.02%), aplastic anemia 11 (4.76%), CLL 2 (0.87%), malignant lymphoma 11 (4.76%), multiple myeloma 4 (1.73%), others (ITP, anemia, hemophagocytic syndrome) 6 (2.60%)."
+  },
+  "neutropenic_status": "Immunocompromised status defined to include neutropenia (including aplastic anemia) or current chemotherapy; no ANC threshold or neutropenia counts reported",
+  "specimens": [
+    {"type": "whole blood 5 mL (plasma cfDNA + blood-cell fraction, mNGS)", "n_tests": 231}
+  ],
+  "index_test": {
+    "platform_or_panel": "Whole blood mNGS: PathoXtract mcfDNA (plasma) + HemoCyte pathogen-enrichment (saponin lysis, bead beating) extraction kits (Willingmed); KAPA Hyper Prep / Illumina DNA Prep libraries; 75-bp single-end NextSeq 550Dx, >=20 million reads; Kraken2 vs NCBI GenBank/RefSeq/nt; positivity RPTM thresholds: viruses >=3, bacteria/fungi >=8, cryptococcus/mycobacteria >=1",
+    "commercial_or_inhouse": "Commercial kits (Willingmed) with in-house analysis",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "Final clinical diagnosis by two supervising clinicians (+ third adjudicator if disagreement) based on composite of all microbiological tests, radiology, and clinical findings; BSI per Chinese expert consensus, LRTI per Woodhead guidelines. mNGS findings classified definite/probable/possible vs unlikely per Karius-style criteria.",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 231,
+    "n_positive_relevant_pathogens": 178,
+    "yield_percent": 77.06,
+    "basis": "Whole blood mNGS positive rate 77.06% vs blood culture 21.65% (P<0.001), plasma mNGS 72.29% (P=0.285), CMT 82.68%. Reported vs final clinical diagnosis: whole blood mNGS sensitivity 81.73%, specificity 86.96%, PPV 98.27%, NPV 34.43%; plasma mNGS 76.44%/86.96%; CMT 45.19%/100%; BC 23.56%/100%."
+  },
+  "additional_yield_vs_conventional": "Whole blood mNGS identified 101 of 107 clinically relevant species (94.4%); plasma mNGS 88 (82.2%); 13 clinically relevant microorganisms (12.1%; 10 bacteria, 3 fungi incl. Rhizomucor pusillus, Aspergillus ruber) detected exclusively in the blood-cell fraction. Only 1% (2/231) positive by BC alone; pathogen-level agreement with BC 75% among co-positives and 55.26% with CMT.",
+  "turnaround_time": "15-20 h from sample receipt to report, median 17.5 h",
+  "therapy_change": "Whole blood mNGS positively influenced treatment in 72.73% of patients (initialization 47, escalation 47, de-escalation 19, confirmed empiric therapy 55); no impact 61; negative 2 (0.87%). In BSI patients positive impact 83.74%; pulmonary infections 75.15%; 77.88% of infected patients benefited.",
+  "mortality_or_outcomes": "In-hospital mortality 44/231 (19.05%); infected group 21.15% vs non-infected 0.00% (P=0.010); median hospital stay 26 days (IQR 14-37.5).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear (composite final diagnosis included all microbiological tests, i.e. mNGS itself)",
+    "paired_data": true,
+    "overlap_risk": "Final clinical diagnosis incorporates mNGS results (composite includes 'all microbiological tests') -> incorporation bias inflating sensitivity/PPV. Reported accuracy metrics are internally inconsistent: sensitivity 81.73% (170/208) with PPV 98.27% implies FP=3, but the reported positive rate 77.06% (178/231) implies FP=8; NPV 34.43% is inconsistent with specificity 86.96% given n=231. Full 2x2 therefore not reliably reconstructible."
+  },
+  "quadas2_notes": "Large all-haemato cohort with HSCT majority. No verbatim 2x2 table in main text (Figure 2B contingency tables are in image); the extracted accuracy metrics are arithmetically inconsistent (see overlap_risk), so no 2x2 recorded. Retrospective, single-centre; all patients received empiric antibiotics before mNGS. Index test well described (kits, thresholds). Whole-blood (plasma+cell) approach is novel; blood-cell fraction added 13 pathogens.",
+  "evidence_quotes": [
+    {"claim": "retrospective, 231 samples, period", "quote": "We retrospectively analyzed the results of whole blood mNGS testing from 231 blood samples of hematological disorders patients with suspected infections.", "section": "Abstract"},
+    {"claim": "screening flow", "quote": "Between June 2022 and March 2024, a total of 302 individuals who underwent whole blood mNGS testing were screened, of whom 231 met the inclusion criteria were included in the final analysis.", "section": "Results"},
+    {"claim": "detection rates", "quote": "Among the 231 enrolled patients, whole blood mNGS yielded a positive rate of 77.06%, which was significantly higher than that of blood culture (BC) (21.65%, P < 0.001), but no significantly different from plasma mNGS (72.29%, P = 0.285) or CMT (82.68%, P = 0.132)", "section": "Results"},
+    {"claim": "diagnostic performance", "quote": "Using the final clinical diagnosis as the reference standard, whole blood mNGS achieved the highest sensitivity, 81.73%, followed by plasma mNGS (76.44%), CMT (45.19%) and BC (23.56%). BC had the highest specificity, 100%, followed by whole blood mNGS and plasma mNGS (both 86.96%). Whole blood mNGS also demonstrated a higher positive predictive value (PPV, 98.27%) and negative predictive value (NPV, 34.43%) compared with the other methods", "section": "Results"},
+    {"claim": "infection classification", "quote": "Based on the final clinical assessment, 90.04% (208/231) of the patients were diagnosed with infection and were classified into the infection group, while the remaining 9.96% (23/231) were classified as the non-infected group.", "section": "Results"},
+    {"claim": "reference standard", "quote": "The final clinical diagnosis of infection was evaluated by two supervising clinicians based on the composite reference standard: combined results of all microbiological tests, radiological testing results, and a summary of the patient clinical examining results and symptoms.", "section": "Materials and methods"},
+    {"claim": "blood cell added yield", "quote": "A total of 107 clinically relevant microorganisms were identified across all patients by whole blood mNGS, BC and CMT (including BC), comprising 69 bacterial species (including 3 atypical pathogens), 24 fungal species, 12 viral species, and two parasitic species. Whole blood mNGS demonstrated superior detection capability, identifying 101 of the 107 total species (94.4%). When whole blood mNGS was partitioned into its plasma and cellular components, plasma mNGS detected 88 species (82.2%), while an additional 13 clinically relevant microorganisms (12.1%) were identified exclusively in the blood cell fraction", "section": "Results"},
+    {"claim": "turnaround", "quote": "The turnaround time (from sample receipt to report generation) for mNGS testing ranged between 15 and 20 h, with a median of 17.5 h.", "section": "Materials and methods"},
+    {"claim": "treatment impact", "quote": "Whole blood mNGS demonstrated the highest proportion of positive influence (72.73%), surpassing plasma mNGS (68.40%), CMT (incorporating BC, 37.66%), and BC (18.61%).", "section": "Results"},
+    {"claim": "mortality", "quote": "The in-hospital mortality rate was 19.05% (44/231), with a median length of hospital stay of 26 days (IQR 14–37.5)", "section": "Results"},
+    {"claim": "underlying diseases", "quote": "The majority had hematologic malignancies, primarily acute myeloid leukemia (AML, 48.48%, 112/231), acute lymphoblastic leukemia (ALL, 18.18%, 42/231), and myelodysplastic syndromes (MDS, 16.02%, 37/231). Overall, 64.07% (148/231) underwent hematopoietic stem cell transplantation (HSCT), and 98.27% (227/231) were immunosuppressed.", "section": "Results"},
+    {"claim": "platform thresholds", "quote": "viruses were considered positive when RPTM ≥3; bacteria and fungi required RPTM ≥8 for positivity determination. For specific pathogens with high clinical significance including cryptococcus and mycobacteria, a lower threshold of RPTM ≥1 was applied", "section": "Materials and methods"}
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No verbatim 2x2 in text (contingency tables only in figure image) and reported sensitivity/PPV/NPV/positive-rate values are mutually inconsistent, so a reliable TP/FP/FN/TN cannot be reconstructed; final clinical diagnosis also incorporates mNGS."
+}

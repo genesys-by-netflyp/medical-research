@@ -1,0 +1,98 @@
+{
+  "pmid": "37541984",
+  "pmcid": "PMC10505113",
+  "citation": "Shen Zaihong, Wang Ying, Bao Aihua, et al. Metagenomic Next-Generation Sequencing for Pathogens in Bronchoalveolar Lavage Fluid Improves the Survival of Patients with Pulmonary Complications after Allogeneic Hematopoietic Stem Cell Transplantation. Infectious Diseases and Therapy, 2023.",
+  "language": "English",
+  "study_design": "Prospective single-center study (registered NCT04051372); authors also call it 'single-center retrospective study' in limitations",
+  "study_period": "August 2019 to June 2021",
+  "population": {
+    "n_total": 101,
+    "n_haemato_or_transplant": 101,
+    "population_description": "134 pulmonary complication cases in 101 patients after allo-HSCT who underwent bronchoscopy with BALF mNGS and conventional tests",
+    "haemato_subtypes": "AML 44, MDS 18, ALL 16, lymphoma 13, CMML 6, mixed lineage leukemia 2, aplastic anemia 1, myelofibrosis 1"
+  },
+  "neutropenic_status": "Not reported as a stratification variable",
+  "specimens": [
+    {
+      "type": "BALF (mNGS)",
+      "n_tests": 134
+    },
+    {
+      "type": "BALF/sputum conventional tests (culture, GM, BDG, PCR for CMV/EBV/TB)",
+      "n_tests": 134
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "unbiased mNGS, DNA library, NCBI microbial databases (4945 viral, 6350 bacterial, 1064 fungal, 234 parasitic genomes); positivity threshold SDSMRN >= 3",
+    "commercial_or_inhouse": "unclear",
+    "dna_and_or_rna": "DNA (RNA not described)"
+  },
+  "reference_standard": "Comprehensive clinical diagnosis: two hematologists (plus respiratory physician for disagreement) reviewed clinical manifestations, chest radiology, laboratory and microbiological tests and treatment response to adjudicate causative pathogens",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 134,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "Diagnostic performance of mNGS vs comprehensive clinical diagnosis (all cases): sensitivity 80.99% (72.63-87.33), specificity 61.54% (32.28-84.87), PPV 95.15% (88.50-98.20), NPV 25.81% (12.54-44.93); PJ: sensitivity 100%, specificity 99.12%; virus sensitivity 93.94%, fungi (excl PJ) sensitivity 36%; 99 strains mNGS 'false positive' per clinical diagnosis, 30 'false negative'. Raw TP/FP/FN/TN counts not published."
+  },
+  "additional_yield_vs_conventional": "mNGS detected more pathogens than conventional tests (266 vs 120 strains); sensitivity 80.99% vs 59.50% (P<0.001); PJ detection rate 8.27% (22/266) by mNGS vs 1.67% (2/120) by conventional (P=0.013)",
+  "turnaround_time": null,
+  "therapy_change": "Antibiotic coverage narrowed in 32 cases, broadened in 47, maintained in 15 (of 134 cases, per mNGS results and clinical diagnosis)",
+  "mortality_or_outcomes": "Overall mortality 17.82% (18/101), pulmonary-complication mortality 10.89% (11/101); 6-month OS 88.89% in early-mNGS group (<=7 days, n=72) vs 65.52% late group (>7 days, n=29) (HR 0.287, 95% CI 0.101-0.819, P=0.006); NRM 9.72% vs 27.59% (P=0.019)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Same BALF specimen used for mNGS and conventional tests; mNGS results were part of the material reviewed for the composite clinical reference standard (potential incorporation bias); multiple BALs per patient (134 episodes/101 patients)"
+  },
+  "quadas2_notes": "Reference standard is composite clinical adjudication that itself included mNGS results (incorporation bias, index test result known to adjudicators). Raw 2x2 counts not reported, only derived sensitivity/specificity with CIs.",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "From August 2019 to June 2021, a prospective study was performed to comparatively analyze the pathogenic results of mNGS and conventional tests for bronchoalveolar lavage fluid (BALF) from 134 cases involving 101 patients with pulmonary complications after allo-HSCT.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "reference standard",
+      "quote": "Two hematologists independently reviewed the medical records of all cases including clinical manifestations, chest radiology, laboratory tests, microbiological tests (conventional tests and mNGS), and treatment response. The causative pathogens of pulmonary infection were determined according to the comprehensive clinical characteristics and available literature.",
+      "section": "Methods: Comprehensive Clinical Diagnosis"
+    },
+    {
+      "claim": "sensitivity/specificity mNGS all cases",
+      "quote": "mNGS All cases 95.15% (88.50–98.20%) 25.81% (12.54–44.93%) 80.99% (72.63–87.33%) 61.54% (32.28–84.87%)",
+      "section": "Table 2 (PPV, NPV, Sensitivity, Specificity)"
+    },
+    {
+      "claim": "yield vs conventional",
+      "quote": "In this study, mNGS performance better with detection of more pathogens (266 vs 120) and higher sensitivity (80.99% vs 59.50%, P < 0.001) than conventional tests",
+      "section": "Discussion"
+    },
+    {
+      "claim": "false pos/neg",
+      "quote": "Among the pathogens detected by mNGS (n = 266), 99 strains were considered as “false positive” results according to clinical diagnosis, which virus accounted for 89.90% (89/99) (Table S3); 30 strains of pathogens were considered “false negative” by mNGS",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy change",
+      "quote": "the antibiotic coverage was narrowed for 32 cases, broadened for 47 cases, while the original antibiotic coverage was maintained for 15 cases (Table S8)",
+      "section": "Results: Patient Management and Outcomes"
+    },
+    {
+      "claim": "survival",
+      "quote": "The 6-month overall survival (OS) of 88.89% in the early group was significantly higher than that of 65.52% (HR 0.287, 95% CI 0.101–0.819, P = 0.006) in the late group, while no-relapse mortality (NRM) of 9.72% was significantly lower than that of 27.59% (HR 0.313, 95% CI 0.099–0.986, P = 0.019)",
+      "section": "Results: Patient Management and Outcomes"
+    },
+    {
+      "claim": "mortality",
+      "quote": "The overall mortality was 17.82% (18/101) and the mortality of pulmonary complications was 10.89% (11/101).",
+      "section": "Results"
+    },
+    {
+      "claim": "PJ performance",
+      "quote": "As for PJ, both the sensitivity (100%) and specificity (99.12%) of mNGS were very high, while the sensitivity (9.52%) of conventional tests was very low, although the specificity (100%) was very high.",
+      "section": "Discussion"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "Sensitivity/specificity vs composite clinical diagnosis reported but raw TP/FP/FN/TN counts not published; cannot reconstruct exact 2x2 without assumptions."
+}

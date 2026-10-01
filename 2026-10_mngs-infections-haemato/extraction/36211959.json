@@ -1,0 +1,93 @@
+{
+  "pmid": "36211959",
+  "pmcid": "PMC9532739",
+  "citation": "Zhang Binglei, Gui Ruirui, Wang Qian, et al. Comparing the application of mNGS after combined pneumonia in hematologic patients receiving hematopoietic stem cell transplantation or chemotherapy. Frontiers in Cellular and Infection Microbiology, 2022.",
+  "language": "English",
+  "study_design": "Retrospective comparative cohort (single center)",
+  "study_period": "April 2020 to April 2022",
+  "population": {
+    "n_total": 84,
+    "n_haemato_or_transplant": 84,
+    "population_description": "Hematologic patients with respiratory symptoms, poor empirical anti-infective response and difficult sputum sampling who received BALF mNGS; 41 allo-HSCT recipients and 43 chemotherapy patients",
+    "haemato_subtypes": "Transplant group: 26 AML, 10 ALL, 2 AA, 3 CMML. Chemotherapy group: 14 AML, 7 ALL, 10 NHL, 9 MM, 2 AA, 1 CLL"
+  },
+  "neutropenic_status": "Not reported as a stratification variable",
+  "specimens": [
+    {
+      "type": "BALF mNGS",
+      "n_tests": 93
+    },
+    {
+      "type": "BALF conventional methods (culture, G test, GM test, qPCR)",
+      "n_tests": 84
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS on MGISEQ-200 (50 bp single-end); Nanjing Practice Medicine library kits; Kraken2 vs in-house NCBI-derived database",
+    "commercial_or_inhouse": "commercial/in-house hybrid",
+    "dna_and_or_rna": "DNA and RNA (separate libraries)"
+  },
+  "reference_standard": "None independent of mNGS - comparison was mNGS positivity vs conventional test positivity; final clinical adjudication not used as reference standard",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 93,
+    "n_positive_relevant_pathogens": 88,
+    "yield_percent": null,
+    "basis": "mNGS positive 47/48 tests (97.9%) in transplantation group and 41/45 tests (91.1%) in chemotherapy group; conventional methods positive 8/41 (19.5%) and 6/43 (14.0%) of patients respectively. Note: 48 + 45 = 93 mNGS tests. Positivity is detection rate, not accuracy vs a clinical reference standard."
+  },
+  "additional_yield_vs_conventional": "Detection rate of mNGS significantly higher than conventional in both groups (97.9% vs 19.5% transplantation; 91.1% vs 14.0% chemotherapy; all P<0.05); mixed infections common (mNGS mixed pathogens 39/47 transplant, 29/41 chemotherapy tests)",
+  "turnaround_time": null,
+  "therapy_change": "Anti-infective treatment guided by pathogen results; respiratory symptoms improved in 30/40 transplant and 37/39 chemotherapy patients",
+  "mortality_or_outcomes": "13 deaths in transplant group (10 mainly from severe pneumonia/respiratory failure), 12 deaths in chemotherapy group (2 from severe pneumonia); death due to pulmonary infection 76.9% vs 16.7% (P=0.003)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Same BALF specimen split for conventional tests and mNGS (paired); 3 patients had 2-3 mNGS tests (non-independent tests); no clinical reference standard, so 'positivity' may include colonization"
+  },
+  "quadas2_notes": "No independent reference standard; QUADAS-2 risk of bias high for reference standard (mNGS positivity vs conventional positivity, not clinical diagnosis). Some counting inconsistencies in the paper (41/43 patients vs 48/45 tests).",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "Here, we describe the use of metagenomic next-generation sequencing (mNGS) of bronchoalveolar lavage (BALF) fluid to identify pathogens in patients with hematologic comorbid respiratory symptoms in a retrospective study with 84 patients.",
+      "section": "Abstract"
+    },
+    {
+      "claim": "period",
+      "quote": "We retrospectively analyzed the clinical characteristics of 84 patients with respiratory symptoms who received allo-HSCT and/or chemotherapy at the Affiliated Cancer Hospital of Zhengzhou University and the Third People's Hospital of Zhengzhou from April 2020 to April 2022.",
+      "section": "Methods 2.1"
+    },
+    {
+      "claim": "yield vs conventional",
+      "quote": "In the transplantation group, 8 cases (19.5%) and 47 cases (97.9%) were positive for BALF by conventional method detection and mNGS detection, respectively, and 6 cases (14.0%) and 41 cases (91.1%) in chemotherapy group, respectively. The detection rate of mNGS in both groups was significantly higher than that of conventional detection methods (all P<0.05).",
+      "section": "Results 3.2"
+    },
+    {
+      "claim": "numbers of tests",
+      "quote": "In the transplantation and chemotherapy groups, 41 and 43 tests were performed by conventional methods, respectively, and 48 (3 tests in 2 patients and 2 tests in 3 patients) and 45 (2 tests in 1 patient) tests were performed by mNGS, respectively.",
+      "section": "Results 3.2"
+    },
+    {
+      "claim": "index test platform",
+      "quote": "Qualified DNBs were loaded into the flow cell and sequenced (50 bp, single-end) on the MGISEQ-200 platform.",
+      "section": "Methods 2.2.1"
+    },
+    {
+      "claim": "DNA and RNA",
+      "quote": "TIANamp Micro DNA Kit (DP316, TIANGEN Biotech, Beijing, China) and QIAamp Viral RNA Mini Kit RNA extraction kit (QIAGEN, Hilden, Germany) were used for DNA or RNA extraction according to the manufacturers' recommendation, respectively.",
+      "section": "Methods 2.2.1"
+    },
+    {
+      "claim": "mortality",
+      "quote": "The proportion of death due to pulmonary infection was significantly higher in the transplantation group than in the chemotherapy group (76.9% vs 16.7%, χ2 = 9.077, P=0.003)",
+      "section": "Results 3.4 / Abstract"
+    },
+    {
+      "claim": "treatment response",
+      "quote": "Among 40 infected patients in the transplantation group, 30 had improved respiratory symptoms after treatment and 10 had no significant improvement, and among 39 patients in the chemotherapy group, 37 had significant improvement in symptoms after treatment and 2 had no significant improvement.",
+      "section": "Results 3.4"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": null
+}

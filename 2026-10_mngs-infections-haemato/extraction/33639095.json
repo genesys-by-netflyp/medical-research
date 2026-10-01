@@ -1,0 +1,57 @@
+{
+ "pmid": "33639095",
+ "pmcid": "PMC9392121",
+ "citation": "Authors (per article) 'Next-generation metagenomic sequencing in acute leukemia patients with invasive infections' — case report series, 2021/2022",
+ "language": "English",
+ "study_design": "Case report series (3 acute leukaemia patients)",
+ "study_period": null,
+ "population": {
+  "n_total": 3,
+  "n_haemato_or_transplant": 3,
+  "population_description": "Three acute leukaemia patients with severe invasive infections (fungal, viral, protozoal)",
+  "haemato_subtypes": [
+   "acute myeloid leukaemia",
+   "acute leukaemia (others unspecified in retrieved text)"
+  ]
+ },
+ "neutropenic_status": "Febrile neutropenia reported in Case 1 during chemotherapy cycles",
+ "specimens": null,
+ "index_test": {
+  "platform_or_panel": "metagenomic next-generation sequencing (mNGS), details not in retrieved text",
+  "commercial_or_inhouse": null,
+  "dna_and_or_rna": null
+ },
+ "reference_standard": null,
+ "comparator_2x2": null,
+ "diagnostic_yield": null,
+ "additional_yield_vs_conventional": "mNGS improved diagnosis where conventional tests were insufficient (qualitative; no counts)",
+ "turnaround_time": "reported qualitatively only ('expedite access to the result')",
+ "therapy_change": "qualitative: mNGS provided opportunity for adequate therapy",
+ "mortality_or_outcomes": null,
+ "quality_flags": {
+  "prospective_consecutive_enrollment": null,
+  "blinding_of_index_result": null,
+  "paired_data": null,
+  "overlap_risk": "case reports, no denominators"
+ },
+ "quadas2_notes": "n=3 patients; no 2x2, no denominators; cannot contribute to pooled accuracy or yield estimates.",
+ "evidence_quotes": [
+  {
+   "claim": "three acute leukaemia patients with severe invasive infections",
+   "quote": "Herein, we report three acute leukemia patients who developed severe invasive infections due to different etiologies: fungi, viruses, and protozoa.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "mNGS improved diagnosis",
+   "quote": "mNGS improved the diagnosis of the infections and provided the opportunity for adequate therapy.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "febrile neutropenia in Case 1",
+   "quote": "She developed febrile neutropenia in all chemotherapy cycles without microbiological documentation.",
+   "section": "Case reports, Case 1"
+  }
+ ],
+ "usable_for_pooled_analysis": "not-usable",
+ "exclusion_reason": "Case reports (n=3 < 5 patients); no counts, no 2x2"
+}

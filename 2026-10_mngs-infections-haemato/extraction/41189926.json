@@ -1,0 +1,57 @@
+{
+  "pmid": "41189926",
+  "pmcid": "PMC12581695",
+  "citation": "Chen X, Qin H, Song Y, Lian Y, Long Q. Metagenomics next-generation sequencing for diagnosis of invasive fungal diseases in patients with hematological diseases. IJID Regions. 2025;17:100780.",
+  "language": "English",
+  "study_design": "Retrospective analysis of patients hospitalized with haematological disorders suspected of IFD (single-centre, non-consecutive enrollment by suspicion of IFD)",
+  "study_period": "January 1, 2023 to January 1, 2025",
+  "population": {
+    "n_total": 67,
+    "n_haemato_or_transplant": 67,
+    "population_description": "All 67 patients had haematological diseases (blood diseases) hospitalized in the Haematology Department, suspected of IFD; 32 formed the IFD group and 35 the non-IFD group. No HSCT recipients specifically identified.",
+    "haemato_subtypes": "IFD group: aplastic anemia 5, MDS 5, leukemia 10, lymphoma 2, myeloma 2, myelofibrosis 4, other 4. Non-IFD group: aplastic anemia 9, MDS 8, leukemia 11, lymphoma 2, multiple myeloma 1, myelofibrosis 1, other 3."
+  },
+  "neutropenic_status": "Neutropenia at initial diagnosis and duration of neutropenia (>10 days vs <=10 days) were analyzed as risk factors; specific ANC threshold for 'neutropenia' not reported",
+  "specimens": [
+    {"type": "bronchoalveolar lavage fluid", "n_tests": 27},
+    {"type": "blood", "n_tests": 37},
+    {"type": "pleural fluid and ascites", "n_tests": 6}
+  ],
+  "index_test": {
+    "platform_or_panel": "Metagenomic next-generation sequencing (mNGS), platform/kit not specified",
+    "commercial_or_inhouse": "not reported",
+    "dna_and_or_rna": "not reported (fungal detection)"
+  },
+  "reference_standard": "IFD diagnosed per EORTC/MSGERC criteria, IDSA guidelines and ECIL guidelines; '32 cases were diagnosed with IFD through mNGS and etiological culture' - the reference standard incorporates mNGS itself (incorporation bias)",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 67,
+    "n_positive_relevant_pathogens": 32,
+    "yield_percent": 47.76,
+    "basis": "Fungal pathogens detected by mNGS in 32/67 patients (47.76%). Culture detected fungi in 10/67 (14.93%), G test 8/67 (11.94%), GM test 2/67 (2.99%)."
+  },
+  "additional_yield_vs_conventional": "mNGS fungal detection rate 47.76% (32/67) vs conventional pathogenic microbial culture 14.93% (10/67), P = 3.4x10-5; vs beta-D-glucan assay 11.94% (8/67), P = 5x10-6; vs galactomannan assay 2.99% (2/67), p = 1.99x10-9. Cross-tabulation of mNGS vs culture positives not given, so exact additional-yield counts not derivable.",
+  "turnaround_time": null,
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Index test (mNGS) is part of the composite diagnostic classification of IFD ('diagnosed with IFD through mNGS and etiological culture') - incorporation bias; all patients were pre-selected as suspected IFD."
+  },
+  "quadas2_notes": "Retrospective single-centre study; 2x2 table against culture not reconstructible (only marginal counts reported). Patient selection: only patients suspected of IFD enrolled, likely unrepresentative and non-consecutive. Index test: platform, DNA/RNA and cut-offs not described. Reference standard: EORTC/MSGERC-based but mNGS is incorporated into the final diagnosis, risking incorporation bias. Also note internal inconsistency: results section reports 'Rhizomucor (four cases, 12.5%)' but discussion says 'Rhizomucor (four cases, 12.5%) and Sporothrix (four cases, 12.5%)'; discussion also gives CD4 OR = 7.43 vs 9.45 elsewhere.",
+  "evidence_quotes": [
+    {"claim": "67 patients, retrospective, Jan 2023 - Jan 2025", "quote": "From January 2023 to January 2025, 67 patients with blood diseases hospitalized at the Hematology Department who were suspected of infection with IFD underwent metagenomic next-generation sequencing (mNGS) and fungal pathogen detection. Their clinical characteristics and laboratory examinations were retrospectively analyzed.", "section": "Abstract"},
+    {"claim": "mNGS fungal yield 47.76% (32/67)", "quote": "Among 67 patients, 32 were detected with fungal pathogens by mNGS, with a fungal detection rate of 47.76% (32/67).", "section": "Results"},
+    {"claim": "culture yield 14.93% (10/67)", "quote": "Ten patients were detected with fungal pathogens by microbiological culture, with a fungal detection rate of 14.93% (10/67), showing a statistically significant difference compared to mNGS (P = 3.4×10–5, P <0.05).", "section": "Results"},
+    {"claim": "G test and GM test yields", "quote": "Eight patients tested positive in the G test, with a detection rate of 11.94% (8/67), showing a statistically significant difference compared to mNGS (P = 5×10–6, P <0.05). Two patients tested positive in the GM test, with a fungal detection rate of 2.99% (2/67), showing a statistically significant difference compared to mNGS (p = 1.99×10–9, P <0.05).", "section": "Results"},
+    {"claim": "specimen distribution", "quote": "In the IFD group, bronchoalveolar lavage fluid was used for mNGS in 16 patients, blood in 12 patients, and pleural fluid and ascites in four patients. In the non-IFD group, bronchoalveolar lavage fluid was used for mNGS in 11 patients, blood in 25 patients, and pleural fluid and ascites in two patients.", "section": "Results"},
+    {"claim": "haemato subtypes IFD group", "quote": "The clinical diagnosis was aplastic anemia in five cases, myelodysplastic syndromes in five cases, leukemia in 10 cases, lymphoma in two cases, myeloma in two cases, myelofibrosis in four cases, and other diseases in four cases.", "section": "Results"},
+    {"claim": "reference standard criteria", "quote": "diagnosis of IFD in accordance with the EORTC/MSGERC criteria, the Infectious Diseases Society of America (IDSA) guidelines, and the guidelines of the European Conference on Infections in Leukemia (ECIL)", "section": "Data and methods"},
+    {"claim": "32 IFD cases classified via mNGS and culture (incorporation)", "quote": "A cohort of 67 patients was enrolled in the study, among which 32 cases were diagnosed with IFD through mNGS and etiological culture, while no fungal pathogens were detected in the remaining 35 cases.", "section": "Abstract"},
+    {"claim": "pathogen distribution", "quote": "In the IFD group, Candida was detected in 15 cases (46.88%), Aspergillus in six cases (18.75%), Pneumocystis in four cases (12.5%), Rhizomucor in four cases (12.5%), Saccharomyces in two cases (6.25%), and Malassezia in one case (3.12%)", "section": "Results"}
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No 2x2 table vs reference standard or culture reconstructible (only marginal detection rates reported); mNGS incorporated into the IFD case definition."
+}

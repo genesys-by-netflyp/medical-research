@@ -1,0 +1,78 @@
+{
+  "pmid": "36531828",
+  "pmcid": "PMC9754844",
+  "citation": "Tao Huan, Hua Fang, Chen Yingying, et al. Metagenomic Next-Generation Sequencing (mNGS) for the Timely Diagnosis of Carbapenem-Resistant Klebsiella pneumoniae Infection in Leukemia Patients: A Report of Two Cases. Case Reports in Infectious Diseases, 2022.",
+  "language": "English",
+  "study_design": "Case report (2 cases)",
+  "study_period": "Not reported",
+  "population": {
+    "n_total": 2,
+    "n_haemato_or_transplant": 2,
+    "population_description": "Two adult leukemia patients with febrile neutropenia after chemotherapy and carbapenem-resistant K. pneumoniae (CrKP) bacteremia diagnosed by mNGS",
+    "haemato_subtypes": "1 acute myelogenous leukemia (24-year-old man), 1 acute monocytic leukemia (54-year-old man)"
+  },
+  "neutropenic_status": "Febrile neutropenia after first chemotherapy in both; case 1 WBC 0.16 x 10^9/L, neutrophil count 0",
+  "specimens": [
+    {
+      "type": "blood (mNGS)",
+      "n_tests": null
+    },
+    {
+      "type": "cerebrospinal fluid (mNGS, case 2)",
+      "n_tests": 1
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS (platform not detailed in text)",
+    "commercial_or_inhouse": "unclear",
+    "dna_and_or_rna": "unclear"
+  },
+  "reference_standard": "Blood culture (case 2: CrKP grew 4 days after mNGS) and clinical response; stool cultures showed CrKP colonization",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": null,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "Case 2 blood mNGS positive K. pneumoniae 225 unique reads at 16 h; case 1 CrKP bacteremia confirmed via stool culture/blood culture per narrative; CSF mNGS detected Aspergillus flavus (62 reads) and CMV (218 reads) with negative culture"
+  },
+  "additional_yield_vs_conventional": "In case 2, mNGS revealed K. pneumoniae after 16 hours while blood culture showed CrKP after 4 days; CSF mNGS detected A. flavus and CMV while 'the culture was negative'",
+  "turnaround_time": "16 hours (case 2 blood mNGS result)",
+  "therapy_change": "Zavicefta (ceftazidime-avibactam) given immediately based on mNGS; voriconazole started for intracranial fungal infection",
+  "mortality_or_outcomes": "Both patients improved ('After treatment, the patient's body temperature and blood pressure returned to normal'; headache relieved)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": null,
+    "blinding_of_index_result": "unclear",
+    "paired_data": null,
+    "overlap_risk": "None - isolated cases"
+  },
+  "quadas2_notes": "n=2; anecdotal; no denominators; QUADAS-2 not applicable for pooling.",
+  "evidence_quotes": [
+    {
+      "claim": "2 cases",
+      "quote": "Herein, we report two leukemia patients who developed severe infections due to carbapenem-resistant Klebsiella pneumoniae (CrKP).",
+      "section": "Abstract"
+    },
+    {
+      "claim": "TAT and reads",
+      "quote": "Sixteen hours later, mNGS revealed the presence of K. pneumoniae (225 unique reads) without drug resistance genes.",
+      "section": "Case 2"
+    },
+    {
+      "claim": "mNGS faster than culture",
+      "quote": "In case 2, the mNGS test revealed the presence of K. pneumoniae after 16 hours while blood culture showed CrKP after 4 days.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "CSF",
+      "quote": "Cerebrospinal fluid was detected by mNGS, and Aspergillus flavus (62 unique reads) and cytomegalovirus (218 unique reads) were detected, while the culture was negative.",
+      "section": "Case 2"
+    },
+    {
+      "claim": "outcome",
+      "quote": "After treatment, the patient's body temperature and blood pressure returned to normal.",
+      "section": "Case 2"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Case report (n=2 patients); no 2x2, no denominator."
+}

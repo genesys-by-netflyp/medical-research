@@ -1,0 +1,59 @@
+{
+  "pmid": "42058175",
+  "pmcid": "PMC13121371",
+  "citation": "Zhong H, Sun C, Lu Y, Cai X, Cao M, Wang L, et al. The clinical value of metagenomic next generation sequencing in the diagnosis of non-neutropenic invasive pulmonary aspergillosis. Frontiers in Cellular and Infection Microbiology. 2026;16:1731736.",
+  "language": "English",
+  "study_design": "Multicentre prospective cohort (12 hospitals in Jiangsu, China; part of ChiCTR2200063453 'PTX3 detection' study)",
+  "study_period": "October 2020 to February 2024",
+  "population": {
+    "n_total": 293,
+    "n_haemato_or_transplant": 0,
+    "population_description": "293 NON-NEUTROPENIC adults with suspected IPA (neutropenia was an exclusion criterion). Underlying diseases were predominantly non-haematological: diabetes 23.1%, bronchiectasis 22.0%, extrapulmonary (solid) malignancy 22.0%, hepatic/renal dysfunction 22.0%, circulatory disease 19.5%, COPD 18.6%, lung cancer 15.4%, tuberculosis 12.7% in IPA patients. 118 IPA (4 proven/113 probable/1 possible) and 175 non-IPA.",
+    "haemato_subtypes": "None reported - haematological malignancy and HSCT appear only as EORTC host-factor definitions; no haemato patients identified in this cohort (neutropenia excluded)."
+  },
+  "neutropenic_status": "Non-neutropenic by design; neutropenia listed as exclusion criterion (no ANC threshold given in main text)",
+  "specimens": [
+    {"type": "bronchoalveolar lavage fluid mNGS", "n_tests": 105},
+    {"type": "sputum mNGS", "n_tests": 9},
+    {"type": "blood/plasma mNGS", "n_tests": 17}
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS sent to Difei Medical Technology (Nanjing): cfDNA from plasma (QIAamp Circulating Nucleic Acid Kit) or DNA from sputum/BALF/tissue (TIANamp Magnetic DNA Kit, DTT liquefaction); Hieff NGS OnePot II library kit; 50-bp single-end on DIFSEQ-200 platform; in-house bioinformatics vs human hs37d5 + microbial database",
+    "commercial_or_inhouse": "Commercial (Difei Medical Technology Co., Ltd.)",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "EORTC/MSGERC 2019/2020 (and ICU) criteria for proven/probable/possible IPA - host factors, clinical/radiological features, microbiological evidence (culture, GM cutoffs serum>=1.0/BALF>=1.0 or serum>=0.7+BALF>=0.8, Aspergillus PCR), histology; cases reassessed by >=2 respiratory professors. mNGS itself is not part of the microbiological criteria used for classification.",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 105,
+    "n_positive_relevant_pathogens": 86,
+    "yield_percent": 81.9,
+    "basis": "BALF mNGS positivity for Aspergillus in IPA patients: 86/105 (81.9%); sputum mNGS 6/9 (66.7%); blood mNGS 10/17 (58.8%). Reported accuracy: BALF mNGS sensitivity 81.9%, specificity 92.2%, PPV 86.9%, NPV 89.1%."
+  },
+  "additional_yield_vs_conventional": "BALF mNGS 81.9% vs BALF culture 27.0% (p<0.001), BALF GM 64.4% (>=0.8, p=0.004) / 55.8% (>=1.0, p<0.001), sputum culture 30.0%. Sputum mNGS 66.7% vs sputum culture 30.0% (p=0.025). Blood mNGS 58.8% vs serum GM 24.1% (>=0.7, p=0.008) / 16.7% (>=1.0, p<0.001). mNGS additionally identified co-pathogens: pneumocystis (n=11), mucor (n=6, 5 solely by mNGS), cryptococcus (n=1), nocardia (n=1).",
+  "turnaround_time": "Most mNGS platforms complete analysis from sampling to results in 24-72 h (cited generally); time from admission to IPA diagnosis 4 days (mNGS group) vs 6 days (non-mNGS group), p=0.036",
+  "therapy_change": null,
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "unclear (IPA classification per EORTC criteria does not include mNGS, but adjudicators were not stated to be blinded to mNGS results)",
+    "paired_data": true,
+    "overlap_risk": "IPA classification relies partly on GM/culture which are the comparators (partial incorporation into reference standard); BALF mNGS denominator in the non-IPA group not reported, so full 2x2 cannot be reconstructed. Co-infection attribution partly clinical."
+  },
+  "quadas2_notes": "High-quality prospective multicentre design with consecutive enrollment, but POPULATION IS NON-HAEMATO (non-neutropenic IPA; COPD/diabetes/solid tumour predominant) - limited applicability to haemato-oncology mNGS review. 341 enrolled -> 48 excluded -> 293 analysed (118 IPA, 175 non-IPA). Sensitivity 81.9% = 86/105 IPA patients with BALF mNGS (13 of 118 IPA patients lacked BALF mNGS - possible differential verification); specificity 92.2% but non-IPA BALF mNGS denominator not stated -> no complete 2x2. Blood mNGS (n=17) and sputum mNGS (n=9) very small subgroups. One author employed by the sequencing company (Difei).",
+  "evidence_quotes": [
+    {"claim": "multicentre prospective, 293 patients, period", "quote": "This multi-center prospective study, as part of the 'PTX3 detection of peripheral blood and BALF for the diagnosis of IPA' study (ChiCTR2200063453), contained hospitalized patients referred to 12 hospitals in Jiangsu province, China from October 2020 to February 2024, who were all suspected IPA and conducted mNGS.", "section": "Materials and methods"},
+    {"claim": "flow", "quote": "From October 2020 to February 2024, a total of 341 non-neutropenic patients with suspected IPA who underwent mNGS were enrolled. After excluding 48 ineligible patients, 293 were included in the final analysis, comprising 118 patients in the IPA group and 175 in the non-IPA group", "section": "Results"},
+    {"claim": "BALF mNGS performance", "quote": "The sensitivity of bronchoalveolar lavage fluid (BALF) mNGS was significantly higher than BALF culture (81.9% vs. 27.0%, p<0.001) and BALF galactomannan (GM) (81.9% vs. 55.8% (GM≥1.0 cutoff value), p<0.001). The specificity of BALF mNGS was 92.2%, which was similar with BALF culture (98.5%) and BALF GM (94.7%). The combination of BALF mNGS and GM could increase the sensitivity to 88.7%, and had great negative predictive value (NPV, 92.3%).", "section": "Abstract/Results"},
+    {"claim": "blood and sputum mNGS", "quote": "The sensitivity of blood mNGS was significantly higher than serum GM (58.8% vs. 16.7%, p<0.001). And the sensitivity of sputum mNGS was 66.7%, which was significantly higher than sputum culture (30.0%, p=0.025).", "section": "Abstract/Results"},
+    {"claim": "mNGS positivity counts", "quote": "BALF mNGS was performed in 105 of the 118 IPA patients, with a positivity rate for Aspergillus detection of 81.9% (86/105). ... Sputum mNGS was performed in only 9 IPA patients, with a positivity rate of 66.7% (6/9) ... For blood samples, mNGS in IPA patients yielded a positivity rate of 58.8% (10/17)", "section": "Results"},
+    {"claim": "underlying diseases", "quote": "The most common underlying disease in the IPA group was diabetes (23.1%), followed by bronchiectasis (22.0%), extrapulmonary malignancy (22.0%), hepatic or renal dysfunction (22.0%), circulatory system disease (19.5%), COPD (18.6%), lung cancer (15.4%), and tuberculosis (12.7%).", "section": "Results"},
+    {"claim": "reference standard", "quote": "The 2019 EORTC/MSGERC update criteria was used to identify enrolled patients as IPA or not.", "section": "Materials and methods"},
+    {"claim": "exclusion of neutropenia", "quote": "Exclusion criteria: Patients were excluded if any of the following were present: (1) neutropenia; (2) treatment with anti-Aspergillus before enrollment; (3) undetermined diagnosis of IPA; (4) allergic bronchopulmonary aspergillosis (ABPA); (5) chronic pulmonary aspergillosis (CPA); (6) refusal to participate in the study.", "section": "Materials and methods"},
+    {"claim": "additional co-pathogens", "quote": "Compared with conventional microbiological methods, mNGS enabled rapid and comprehensive identification of additional causative pathogens—particularly viruses, fungi, and fastidious or uncultivable organisms such as pneumocystis (n=11), mucor (n=6), cryptococcus (n=1), and nocardia (n=1).", "section": "Results"},
+    {"claim": "diagnostic timeline", "quote": "The duration from hospital admission to IPA diagnosis was significantly shorter in the mNGS group than in the non-mNGS group (4 days vs. 6 days, p=0.036)", "section": "Results"},
+    {"claim": "Table 3 metrics", "quote": "BALF mNGS81.992.286.989.110.5270.1960.741", "section": "Table 3 (BALF mNGS: sensitivity 81.9, specificity 92.2, PPV 86.9, NPV 89.1)"}
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "Non-haematological population (non-neutropenic IPA, neutropenia excluded; COPD/diabetes/solid tumour predominant) and full 2x2 not reconstructible (non-IPA BALF mNGS denominator not reported). Sensitivity/specificity reported but population outside review scope."
+}

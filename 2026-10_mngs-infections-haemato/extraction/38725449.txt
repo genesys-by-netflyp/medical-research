@@ -1,0 +1,221 @@
+Abstract
+
+Background
+
+Methods
+
+Results
+
+Conclusions
+
+Introduction
+
+Methods
+
+Study patients
+
+CMT and mNGS
+
+Clinical adjudication
+
+Statistical analysis
+
+Results
+
+Patient characteristics
+
+Pathogens by mNGS and conventional methods
+
+Comparison of mNGS and conventional methods
+
+Clinical impact of plasma mNGS
+
+Discussion
+
+Data availability statement
+
+Ethics statement
+
+Author contributions
+
+Funding Statement
+
+Conflict of interest
+
+Publisher’s note
+
+Supplementary material
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement
+
+Abstract Background Metagenomic next-generation sequencing (mNGS) is a novel non-invasive and comprehensive technique for etiological diagnosis of infectious diseases. However, its practical significance has been seldom reported in the context of hematological patients with high-risk febrile neutropenia, a unique patient group characterized by neutropenia and compromised immune responses. Methods This retrospective study evaluated the results of plasma cfDNA sequencing in 164 hematological patients with high-risk febrile neutropenia. We assessed the diagnostic efficacy and clinical impact of mNGS, comparing it with conventional microbiological tests. Results mNGS identified 68 different pathogens in 111 patients, whereas conventional methods detected only 17 pathogen types in 36 patients. mNGS exhibited a significantly higher positive detection rate than conventional methods (67.7%  vs . 22.0%,  P  < 0.001). This improvement was consistent across bacterial (30.5%  vs . 9.1%), fungal (19.5%  vs . 4.3%), and viral (37.2%  vs . 9.1%) infections ( P  < 0.001 for all comparisons). The anti-infective treatment strategies were adjusted for 51.2% (84/164) of the patients based on the mNGS results. Conclusions mNGS of plasma cfDNA offers substantial promise for the early detection of pathogens and the timely optimization of anti-infective therapies in hematological patients with high-risk febrile neutropenia. Keywords:  metagenomic next-generation sequencing, febrile neutropenia, infection, pathogen diagnosis, cell-free DNA
+
+Introduction Febrile neutropenia (FN) is the most prevalent complication for hematological patients. It is estimated that over 80% of patients will develop FN as a result of the underlying disease, chemotherapy, high-dose radiotherapy, immunotherapy, and transplantation ( Keng and Sekeres, 2013 ). FN represents a significant burden to patients as it predisposes them to serious and recurring life-threatening infections, delays or reduces the intensity of chemotherapy treatment, and potentially shortens overall survival ( Klastersky et al., 2016 ;  Boccia et al., 2022 ). The timely identification of causative pathogens and immediate administration of appropriate anti-infective treatment is of major importance in reducing mortality and improving the quality of life ( Kuderer et al., 2006 ). However, the clinical symptoms of FN are often non-specific, with most patients only experiencing a fever ( Freifeld et al., 2011 ;  Schmidt-Hieber et al., 2019 ). Moreover, conventional microbiological tests (CMT) have a low efficiency and positivity rate in detecting pathogens, with less than 15% of FN patients being documented by blood cultures ( Blennow et al., 2014 ;  Feng et al., 2023 ). The pathogens and infection sites are also unclear. Therefore, there is still a lack of satisfactory detection methods for the rapid, accurate, and efficient identification of pathogens in FN patients. Metagenomic next-generation sequencing (mNGS) is a promising, hypothesis-free diagnostic approach that has the potential to directly detect common pathogens ( Blauwkamp et al., 2019 ;  Geng et al., 2021 ). Compared with conventional methods, mNGS has higher sensitivity and faster detection times ( Grumaz et al., 2016 ). Additionally, it has a unique advantage in identifying mixed and rare pathogen infections ( Doan et al., 2016 ;  Chen et al., 2021 ;  Gu et al., 2021 ;  Deng et al., 2023 ). In recent years, an increasing amount of research has demonstrated the great potential of mNGS in diagnosing clinical infectious diseases in hematological patients with FN ( Guo et al., 2022 ;  Zhang et al., 2022 ). However, the sample sizes of these studies are too small, and the results are controversial. Additionally, research on the impact of treatment outcomes and antibiotic administration using mNGS has been extremely limited. Furthermore, there is a lack of studies specifically targeting high-risk FN patients. The true significance of mNGS in hematological patients with high-risk FN remains unclear. Therefore, we conducted a retrospective study to assess the diagnostic performance of mNGS and its clinical impact on antimicrobial therapy, compared with conventional methods, in high-risk FN patients. Methods Study patients We performed a retrospective analysis of patient records who underwent a plasma mNGS test for suspected infections at the General Hospital of Western Theater Command in Chengdu, China, from October 2020 to December 2022. The Institutional Review Board and Ethics Committee of the Hospital approved this study. The approval number of the ethics committee is 2023EC5-ky087. Given the retrospective nature of the study, the need for informed written consent was waived. The inclusion criteria for the patients were as follows: (1) Diagnosis of a hematological disease; (2) Age over 18 years; (3) High-risk FN; (4) If the patient has received empirical antibiotic treatment but is currently showing poor efficacy (a decrease in peak fever of < 0.5°C or no significant change after receiving empirical treatment for 72∼96 hours); (5) The patient underwent conventional microorganism testing and mNGS testing simultaneously. Hematologic diseases mainly include leukemia, lymphoma, multiple myeloma, aplastic anemia, etc. High-risk FN patients had to fulfill the following criteria: (1) Absolute neutrophil count (ANC) < 500/μL; (2) Single oral temperature ≥ 38.3°C (axillary temperature ≥ 38.0°C), or twice consecutive oral temperature ≥ 38.0°C (axillary temperature ≥ 37.7°C for ≥ 1 h); (3) Anticipated prolonged and severe neutropenia (ANC < 100/μL) lasting for more than 7 days and/or significant medical co-morbid conditions, including hypotension, pneumonia, newly developed abdominal pain, or neurological changes ( Averbuch et al., 2013 ;  Chinese Society of Hematology, 2020 ). The exclusion criteria included: (1) Primary immunodeficiency or human immunodeficiency virus (HIV); (2) Fevers caused by medication or underlying diseases; (3) Incomplete medical records; (4) A clear diagnosis of infectious etiology at the time of enrollment. CMT and mNGS Peripheral blood samples were collected from the same site on the day of inclusion (D0) and sent for conventional microorganism testing and mNGS testing at the same time. Conventional microorganism tests consisted of blood cultures, polymerase chain reaction (PCR) tests (for CMV, EBV, HHV1, etc.), and sterile tissue smear microscopy or culture, with each culture lasting for a duration of 5 days. All the mNGS testing was undertaken by Genoxor Medical Science and Technology Inc., as outlined in a previous study ( Xu et al., 2022 ). Additional details on mNGS and bioinformatics analysis can be found in the  
+ Supplementary Methods 
+ . Only DNA-based pathogens were identified through mNGS. In real-time, the results of both conventional methods and mNGS were made available to the primary physician as soon as possible. Although the mNGS test was performed only once on D0, conventional microorganism tests were carried out multiple times based on clinical necessity. Simultaneously, procalcitonin tests, high-sensitivity C-reactive protein (CRP) assays, (1,3)-β-D-glucan tests (G tests), galactomannan tests (GM tests), T-SPOT, inflammatory cytokines, radiological examinations, and ultrasonic examinations were conducted multiple times, also depending on clinical need. Clinical adjudication If the pathogens detected were not commonly reported, the mNGS results were interpreted in the context of the patients’ clinical features. Otherwise, those detected reads were categorized as sequences of non-pathogenic microbes. A Clinical Expert Committee was created, which included a hematologist, a clinical microbiologist, and a radiologist. The clinical committee retrospectively evaluated the presence of infection, taking into account conventional microorganism tests and other clinical data. This data included laboratory findings, imaging and ultrasound results, and patient symptoms, among others. Prior to identifying the pathogen, all patients were administered empirical anti-infective treatment following the Chinese guidelines for the clinical application of antibacterial drugs for agranulocytosis with fever (2020) ( Chinese Society of Hematology, 2020 ). Adjustments to the subsequent anti-infective treatments were made primarily based on the evaluation of treatment effectiveness, results of microbiological tests, and other conventional tests. Conventional methods were deemed to yield positive results if pathogens were identified by conventional microorganism tests between D0 and day D7. Statistical analysis Statistical analysis and graphic presentation were carried out using SPSS 18.0 software (IBM), GraphPad Prism 8.0 (GraphPad Software), WPS Office software. Continuous variables were represented by medians and ranges, while categorical variables were indicated by counts and percentages. To compare categorical variables, we used either the Chi-square test or Fisher’s exact test. For continuous variables comparison, the Mann–Whitney U test was deployed. A 2×2 contingency table was set up to calculate sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV). A  P  value < 0.05 denoted statistical significance. Results Patient characteristics The study group consisted of 164 participants ( 
+ Supplementary Figure 1 
+ ). Patient characteristics were summarized in  
+ Table 1 
+ . The median age was 33 years (range 18∼70), with males comprising 69.5% (114/164) of the cohort. Acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) were the most common underlying diagnoses seen in 45.7% (75/164) and 28.0% (46/164) of subjects, respectively. Neutropenia, largely caused by chemotherapy, was observed in 62.2% (102/164) of the patients. Hematopoietic stem cell transplantation (HSCT) had been performed on 22.6% (37/164) of the participants, and chimeric antigen receptor T-cell therapy was administered in 11.0% (18/164) of cases. Elevated serum procalcitonin levels reaching or exceeding 0.5 ng/L were seen in 38.4% (63/164) of the participants, and high sensitivity C-reactive protein levels ≥ 50 mg/L were detected in 74.4% (122/164) of cases at Day 0. A vast majority, 92.1% (151/164), of participants had peripherally inserted central catheters or central venous catheters. Prior to mNGS tests, empiric anti-infective treatment was administered in 82.3% (135/164) of cases. Based on clinical diagnoses, patients were categorized into either infected group (140 cases, 85.4%) or non-infected group (24 cases, 14.6%). Pneumonia was the predominant infectious complication, presenting in 40.9% (64/164) of cases. Diagnostic criteria for sepsis and septic shock were met by 35.4% (56/164) and 22.6% (37/164) of participants, respectively. Patients maintained a median number of 4 (range 2∼8) blood cultures between Day 0 and Day 7. The in-hospital mortality rate within 28 days was 14.0% (23/164). Table 1 Clinical characteristics of enrolled patients in this study. Characteristics Patients Enrolled (n=164) Age (years), range 18∼70 Median (IQR) 33 (24∼45) Sex, n (%)  Male 114 (69.5%)  Female 50 (30.5%) Underlying diseases, n (%)  Acute myeloid leukemia 75 (45.7%)  Acute lymphocytic leukemia 46 (28.0%)  Lymphoma 15 (9.1%)  Aplastic anemia    9 (5.5%)  Myelodysplastic syndrome   7 (4.3%)  Other disease    12 (7.3%) Therapy of underlying diseases, n (%)  Chemotherapy    102 (62.2%)  Hematopoietic stem cell transplantation  37 (22.6%)  Chimeric antigen receptor T-cell therapy  18 (11.0%)  Other therapy 7 (4.3%) Procalcitonin      PCT < 0.5 ng/mL     101 (61.6%)  PCT ≥ 0.5 ng/mL     63 (38.4%) High-sensitivity C-reactive protein  HS-CRP < 50 mg/L 42(25.6%)  HS-CRP ≥ 50 mg/L 122(74.4%) Exposure to anti-infective agents prior to mNGS, n (%) 135 (82.3%) Venous catheter indwelling, n (%) 151 (92.1%) Number of blood culture, range 2-8  Median (IQR) 4 (3-5) Pneumonia, n (%) 67 (40.9%) Sepsis, n (%) 58 (35.4%) Septic shock, n (%) 37 (22.6%) Death, n (%) 23 (14.0%) IQR, interquartile range; PCT, procalcitonin; HS-CRP, high-sensitivity C-reactive protein. Pathogens by mNGS and conventional methods 
+ 
+ Figure 1 
+  showcases the most common pathogenic spectrum of infections detected by mNGS and conventional methods. In this study, mNGS successfully identified 68 different types of pathogens among 111 patients. The bacteria most frequently detected by mNGS included  Enterococcus faecium ,  Acinetobacter baumannii ,  Staphylococcus aureus ,  Escherichia coli , and  Klebsiella pneumoniae . Moreover, the most common fungi were  Candida tropicalis ,  Aspergillus flavus ,  Pneumocystis jirovecii ,  Lichtheimia ramose , and  Rhizopus microspores . As for viruses, the most frequently identified were Human cytomegalovirus, Epstein-Barr virus, Human herpesvirus 1, Human herpesvirus 6, and BK polyomavirus. Figure 1 Pathogenic microorganisms detected by mNGS and CMT. The conventional methods identified 17 types of pathogens across 36 patients. Out of these, bacterial cultures were positively identified in only 23 patients. The bacteria most commonly identified by these methods included  Acinetobacter baumannii ,  Escherichia coli ,  Enterococcus faecium ,  Klebsiella pneumoniae , and  Staphylococcus aureus .  Candida tropicalis  was the most common fungus identified, accounting for 85.7% (6/7) of detected fungi. A single case of mucormycosis was confirmed through a pathological examination. The viruses most often detected encompassed Human cytomegalovirus, Epstein-Barr virus, Human herpesvirus 1, and Human herpesvirus 6. Comparison of mNGS and conventional methods Electronic reports of mNGS results were usually dispatched to clinicians within 24 h for more than half of the patients studied. The median pathogen detection time with mNGS was significantly quicker than that with conventional methods: 24 h (range 24∼72)  vs . 96 h (range 24∼168), respectively (P < 0.001). Furthermore, mNGS demonstrated a significantly greater positive detection rate than conventional methods (67.7%  vs . 22.0%, P < 0.001) ( 
+ Figure 2 
+ ). This held true for bacterial (30.5%  vs . 9.1%) and fungal (19.5%  vs . 4.3%) species and viruses (37.2%  vs . 9.1%) (P < 0.001 for each comparison). It is also important to note that mNGS was markedly more effective in identifying mixed infections than conventional methods (31.7%  vs . 1.2%, P < 0.001). In individual patients, mNGS detected up to four pathogens, whereas conventional methods could only detect a maximum of two. Figure 2 Proportions of different types of infections. The consistency between mNGS and conventional methods was also explored ( 
+ Figure 3 
+ ). When both tests produced positive or negative results, we considered the results to be consistent. In 54.3% (89/164) of the cases, concordant results were observed, while discordant results were noticed in 45.7% (75/164) of the participants. In 22.0% (36/164) of cases, both mNGS and conventional methods produced positive results, whereas in 32.3% (53/164) of participants, the results were negative in both instances. For 45.7% (75/164) of the participants, mNGS yielded positive results, whereas conventional methods indicated negative results. All pathogens identified by conventional methods were also detected through mNGS. In cases where mNGS results were negative, the conventional methods also correspondingly yielded negative results. Figure 3 Venn network diagram depicting the number of infections. Each black dot represents a febrile neutropenia patient. The diagnostic accuracy of mNGS was remarkably superior to that of conventional methods (82.3%  vs . 36.6%, P < 0.001). The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) of mNGS and conventional methods were depicted in  
+ Supplementary Table 1 
+ . mNGS demonstrated a three-fold increase in sensitivity (79.3%  vs . 25.7%, P < 0.001), compared with conventional methods. Specificity did not differ between the two groups. Clinical impact of plasma mNGS The anti-infective treatment plans for 51.2% (84/164) of the participants were adjusted mainly in accordance with the mNGS results ( 
+ Table 2 
+ ). In addition, 9.8% (16/164) of the participants underwent a change in their antimicrobial spectrum, and 11.0% (18/164) started receiving de-escalation therapy. In 22.6% (37/164) of cases, at least one anti-infective agent was discontinued, of which the usage of all anti-infective agents was entirely ceased in 16 instances. Additionally, at least one anti-infective agent was introduced in the treatment plans for 7.9% (13/164) of the participants. Table 2 Clinical impact of plasma mNGS. Anti-infective Treatment Patients (n=164) Any change      84 (51.2%)  Changing antimicrobial spectrum     16 (9.8%)  Antimicrobial de-escalation     18 (11.0%)  Removing ≥ 1 anti-infective agent 37 (22.6%)  Removing all anti-infective agent 16 (9.8%)  Adding ≥ 1 anti-infective agent 13 (7.9%) Discussion Febrile neutropenia is a common complication in patients with hematologic diseases and is associated with high morbidity and mortality ( Rosa and Goldani, 2014 ). Most patients with FN will not have either an identifiable clinical focus of infection or positive cultures ( Escrihuela-Vidal et al., 2019 ). High-risk febrile neutropenia patients have an even higher mortality rate. Clinicians usually prescribe broad-spectrum antibiotics initially and often maintain antibiotic treatment until recovery from neutropenia. Inappropriate empirical antibiotic therapy can lead to increased bacterial resistance, adverse drug reactions, longer hospital stays, higher economic burdens, and increased mortality ( Martinez-Nadal et al., 2020 ). Moreover, overuse of antibiotics can reduce gut microbiota diversity and increase the risk of gastrointestinal graft-versus-host disease in allogeneic hematopoietic cell transplant recipients ( Holler et al., 2014 ). Consequently, timely and accurate pathogen identification is crucial for appropriate antibiotic use. In clinical practice, we commonly use biomarkers, such as procalcitonin, CRP, (1-3)-β-D-glucan, and galactomannan for the diagnosis of infections ( Guo et al., 2010 ;  Lu et al., 2011a ;  Wacker et al., 2013 ;  Li et al., 2015 ). However, these biomarkers cannot definitively identify the infecting pathogen. CMTs typically include pathogen culture, nucleic acid amplification tests, serological tests, and microscopic examination. Pathogen culture can identify the type of pathogens, but it has a low positivity rate and is time-consuming. The PCR method and serological tests can also be used to identify pathogens, but it requires a prior prediction of the possible types of pathogens ( Lu et al., 2011b ). Microscopic examination is often unfeasible in FN patients owing to an unclear clinical focus of infection and the difficulty in collecting samples. mNGS presents a rapid, non-culture-based, and unbiased method, which mainly avoids the limitations of traditional diagnostics. Ever since its first application in diagnosing neuroleptospirosis in 2014, mNGS has gained widespread recognition in scientific research and clinical practice ( Wilson et al., 2014 ). Although numerous studies have confirmed the efficacy of mNGS in enhancing pathogen detection among FN patients, most have only compared it with traditional methods at a single time point, thus failing to accurately reflect clinical practices ( Benamu et al., 2022 ;  Schulz et al., 2022 ). Typically, owing to cost concerns, mNGS testing is performed only once, whereas traditional methods can involve multiple tests. In most instances, an mNGS test is administered only to high-risk FN patients, particularly when conventional microbial cultures turn up negative, empirical treatments are ineffective, or the medical case is complex and multifaceted. Therefore, in this study, we evaluated the clinical utility of mNGS by comparing it with multiple conventional tests in high-risk FN patients. We aimed to gauge the applicability of mNGS in a setting that mirrors real-world clinical scenarios more closely. Our study highlighted several significant benefits of mNGS in high-risk FN patients. First, compared with the conventional methods, mNGS demonstrated remarkably higher sensitivity and clinical agreement in detecting potential pathogens. The specificity of mNGS showed no significant difference, compared with the conventional methods. Moreover, we found that the mNGS positive rate seems less likely to be influenced by prior antimicrobial use. Despite numerous microorganism culture tests, the positive rate remained low. The outcomes from conventional methods were linked to previous antimicrobial use. These observations aligned closely with prior studies ( Feng et al., 2023 ). The mNGS method was able to detect nearly all pathogens identified by traditional methods. If a pathogen could not be detected by the NGS method, it was unlikely to be identified by conventional methods. Second, mNGS technology uncovered a broader spectrum of infectious pathogens in FN patients. It detected a total of 68 pathogens, compared with the 17 identified by the conventional methods. However, there was a considerable overlap in the identification of the most commonly detected pathogens between mNGS and conventional methods. Many pathogens detected by mNGS, such as  Aspergillus flavus, Pneumocystis jirovecii , and BK polyomavirus, were never detected by conventional methods in our department. However, the clinical manifestations of patients were consistent with the results of mNGS. The mNGS methods also showcased significant advantages in detecting fungal infections, viral infections, and most importantly, mixed pathogen infections. It could identify bacteria, fungi, and viruses in a single test, while the positive detection rate for fungi and viruses is notably low with conventional testing ( Jerome et al., 2019 ). FN patients with weakened immune systems are particularly vulnerable to fungal and viral infections. Without available evidence, fungi and viruses are rarely identified as the cause of early fever in FN ( Boeriu et al., 2022 ). Traditional methods for detecting fungal and viral infections are limited and often lead to missed diagnoses. Our results affirmed that mNGS could detect more fungi and viruses. Moreover, the detection rate of mixed pathogen infections by mNGS was higher than that by conventional methods. We even detected four pathogens in a single mNGS test, including two bacteria, one fungus, and one virus. Rarely could conventional methods detect more than two pathogens concurrently. The mNGS method identified many rare pathogens, such as  Nocardia ,  Fusarium , and  Mucor . The bacterium most commonly detected by NGS was the gram-positive  Enterococcus faecium , and infections by gram-positive bacteria were slightly more prevalent. This contrasts with previous studies, which indicated the most identified bacteria were  Escherichia coli , and infections by gram-negative bacteria were significantly more prevalent ( Feng et al., 2023 ;  Xu et al., 2023 ). This discrepancy may be due to the fact that 82.3% of patients in our study received empiric anti-infective therapy prior to NGS testing, with the majority being treated with carbapenem antibiotics. Third, we found that the mNGS method serves as an alternative non-invasive diagnostic tool for focal infection pathogens. It detects the DNA fragments of pathogens emanating from the focal point of infection, rather than the living pathogens themselves. This is particularly beneficial for FN patients who, owing to thrombocytopenia, often struggle to tolerate invasive procedures, such as bronchoalveolar lavage and aspiration biopsy. Additionally, invasive procedures carry risks of developing complications like hypoxemia or endobronchial bleeding ( Choo et al., 2019 ). Our research indicated the relatively high success rate of plasma mNGS tests in diagnosing pulmonary infections. Fourth, mNGS offers a considerably faster diagnostic process, compared with conventional methods (24 h  vs.  96 h), thereby facilitating prompt clinical decision-making regarding diagnosis and treatment, especially with respect to adjusting antimicrobial therapy. Therefore, the consequences of delayed treatment are minimized, thereby enhancing the potential for successful interventions. Fifth, mNGS positively influences antimicrobial adjustments. It is widely recognized that the unnecessary use of antibiotics can contribute to the development of drug resistance. In this regard, mNGS has the potential to reduce the unnecessary prescription of antibiotics. In this study, 51.2% of all patients made adjustment to their antibiotics regimen, with 33.5% of patients predominantly de-escalating or reducing antibiotics based on mNGS results. This observation was similar to the report of previous studies ( Xu et al., 2023 ). The mortality rate of patients whose anti-infective treatment was adjusted according to mNGS was comparable with that of previous patients. No evidence was found to suggest that adjusting antibiotics regimen led to poor prognosis. Consequently, mNGS may offer valuable evidence for adjusting antibiotics regimen, potentially providing further benefits by preventing the overuse of antibiotics. Because this was a retrospective study and no randomization was performed, we did not further compare other factors, such as the total amount of antibiotics used, duration of antibiotic use, and adverse effects of drugs. In subsequent studies, we plan to further explore the impact of mNGS on the use of anti-infective drugs and prognosis through randomized controlled trials. Finally, implementing mNGS on a large scale could be feasible and cost-effective. Typically, the mNGS test is conducted only once owing to its high cost. However, with the declining price of mNGS, patients could potentially benefit from repeated testing over time. Currently, the cost of mNGS testing is under $200. Generally, optimizing the use of antibiotics based on mNGS results can reduce healthcare expenses related to antibiotics overuse. For instance, the cost of voriconazole, the most common antifungal agent for FN patients, over 2 days actually exceeds that of an mNGS test. Therefore, if the mNGS test results suggest that voriconazole could be discontinued 2 days earlier, both medical expenses and healthcare resources could be significantly reduced. Our study had several limitations. First, this is a retrospective study, with many NGS tests performed following the negative results of conventional methods and the ineffectiveness of empirical treatment, which affected the positive detection rate of conventional methods. Second, there is still a lack of rigorous standards for distinguishing whether a pathogen detected by mNGS is genuinely pathogenic or merely colonizing. Pathogens identified by mNGS have not undergone nucleic acid amplification tests for molecular verification. Moreover, it remains challenging to completely eliminate transient contaminations originating from the sampling procedure or laboratory environment. Consequently, the final outcome is often determined by the clinician’s subjective experience. This fact also contributed to the observed high specificity, and there is a possibility of false positives in the mNGS tests. Third, diagnosing infections and adjusting antibiotics regimen are inherently subjective processes often influenced by the interpretations of the treating physicians. Fourth, a low DNA load of pathogens might result in false-negative outcomes ( Purhonen et al., 2015 ). For example, the positive detection rate of  Mycobacterium tuberculosis  is often lower than the actual infection rate because it is difficult to extract its DNA. Finally, we only conducted testing for DNA pathogens and did not test for RNA viruses, which may have led to potential underdiagnosis. In conclusion, our research indicates that mNGS of plasma cfDNA holds significant potential for pathogen detection, especially in the diagnosis of fungal infections, which enables early optimization of anti-infective therapy in high-risk FN patients. This will facilitate the establishment of mNGS-based anti-infection guidelines in the future, which can further clarify the timing for initiating and discontinuing anti-infection treatments and make the use of anti-infection drugs more rational and evidence-based. Ultimately, it can reduce the use of antibiotics, curb the rise of drug resistance, decrease drug-related adverse reactions, and improve patient prognosis. Despite these potential advantages, mNGS is currently not the typical method for microbiological diagnosis in all settings. Conventional methods remain prevalent in many clinical laboratories owing to their user-friendly nature, low cost, and capacity to deliver quick results under particular conditions. However, with continuous improvements and wider accessibility of sequencing technologies, mNGS may gradually become a more commonplace tool for microbiological diagnosis. The combined use of mNGS and conventional tests may pave the way for the most effective diagnostic strategy. However, before mNGS testing garners widespread use in clinical practice, it is imperative that we further assess its clinical value through larger, multicenter randomized controlled studies. Data availability statement The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation. Ethics statement The studies involving humans were approved by The Institutional Review Board and Ethics Committee of the General Hospital of Western Theater Command. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation was not required from the participants or the participants’ legal guardians/next of kin because Given the retrospective nature of the study, the need for informed written consent was waived. Author contributions XW: Conceptualization, Funding acquisition, Investigation, Methodology, Project administration, Validation, Writing – original draft. HZ: Conceptualization, Data curation, Funding acquisition, Writing – original draft. NZ: Conceptualization, Data curation, Project administration, Writing – original draft. SZ: Investigation, Methodology, Writing – review & editing. YS: Methodology, Writing – review & editing. XM: Investigation, Methodology, Validation, Writing – review & editing. YL: Investigation, Methodology, Writing – review & editing. LQ: Investigation, Methodology, Writing – review & editing. SR: Investigation, Methodology, Writing – review & editing. SL: Investigation, Methodology, Writing – review & editing. YH: Investigation, Methodology, Writing – review & editing. HYa: Methodology, Software, Writing – review & editing. XZ: Methodology, Software, Visualization, Writing – review & editing. FF: Methodology, Software, Validation, Writing – review & editing. HS: Conceptualization, Writing – original draft. HYi: Conceptualization, Project administration, Writing – original draft. Funding Statement The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was supported by the Program of General Hospital of Western Theater Command (2024-YGLC-B21, and 2021-XZYG-A08), the Science and Technology Program of Sichuan Province (2019YJ0276), and the Postgraduate Research Innovation Fund Project of Chengdu Medical College (YCX2023-03-15). Conflict of interest The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. Publisher’s note All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher. Supplementary material The Supplementary Material for this article can be found online at:  https://www.frontiersin.org/articles/10.3389/fcimb.2024.1366908/full#supplementary-material 
+ Supplementary Table 1 Diagnostic efficiency of mNGS and CMT. PPV, positive predictive value; NPV, negative predictive value. References 
+Averbuch D., Orasch C., Cordonnier C., Livermore D. M., Mikulska M., Viscoli C., et al. (2013). European guidelines for empirical antibacterial therapy for febrile neutropenic patients in the era of growing resistance: summary of the 2011 4th European Conference on Infections in Leukemia. Haematologica
+98, 1826–1835. doi:  10.3324/haematol.2013.091025
+
+ 
+Benamu E., Gajurel K., Anderson J. N., Lieb T., Gomez C. A., Seng H., et al. (2022). Plasma microbial cell-free DNA next-generation sequencing in the diagnosis and management of febrile neutropenia. Clin. Infect. Dis.
+74, 1659–1668. doi:  10.1093/cid/ciab324
+
+ 
+Blauwkamp T. A., Thair S., Rosen M. J., Blair L., Lindner M. S., Vilfan I. D., et al. (2019). Analytical and clinical validation of a microbial cell-free DNA sequencing test for infectious disease. Nat. Microbiol.
+4, 663–674. doi:  10.1038/s41564-018-0349-6
+
+ 
+Blennow O., Ljungman P., Sparrelid E., Mattsson J., Remberger M. (2014). Incidence, risk factors, and outcome of bloodstream infections during the pre-engraftment phase in 521 allogeneic hematopoietic stem cell transplantations. Transpl Infect. Dis.
+16, 106–114. doi:  10.1111/tid.12175
+
+ 
+Boccia R., Glaspy J., Crawford J., Aapro M. (2022). Chemotherapy-induced neutropenia and febrile neutropenia in the US: A beast of burden that needs to be tamed? Oncologist
+27, 625–636. doi:  10.1093/oncolo/oyac074
+
+ 
+Boeriu E., Borda A., Vulcanescu D. D., Sarbu V., Arghirescu S. T., Ciorica O., et al. (2022). Diagnosis and management of febrile neutropenia in pediatric oncology patients-A systematic review. Diagnostics (Basel)
+12. doi:  10.3390/diagnostics12081800
+ 
+Chen Z., Cheng H., Cai Z., Wei Q., Li J., Liang J., et al. (2021). Identification of microbiome etiology associated with drug resistance in pleural empyema. Front. Cell Infect. Microbiol.
+11. doi:  10.1183/13993003.congress-2021.PA2019
+ 
+Chinese Society of Hematology  (2020). [Chinese guidelines for the clinical application of antibacterial drugs for agranulocytosis with fever, (2020)]. Zhonghua Xue Ye Xue Za Zhi
+41, 969–978. doi:  10.3760/cma.j.issn.0253-2727.2020.12.001
+
+ 
+Choo R., Naser N. S. H., Nadkarni N. V., Anantham D. (2019). Utility of bronchoalveolar lavage in the management of immunocompromised patients presenting with lung infiltrates. BMC Pulm Med.
+19, 51. doi:  10.1186/s12890-019-0801-2
+
+ 
+Deng W., Jiang Y., Qin J., Chen G., Lv Y., Lei Y., et al. (2023). Metagenomic next-generation sequencing assists in the diagnosis of mediastinal aspergillus fumigatus abscess in an immunocompetent patient: A case report and literature review. Infect. Drug Resist.
+16, 1865–1874. doi:  10.2147/IDR.S399484
+
+ 
+Doan T., Wilson M. R., Crawford E. D., Chow E. D., Khan L. M., Knopp K. A., et al. (2016). Illuminating uveitis: metagenomic deep sequencing identifies common and rare pathogens. Genome Med.
+8, 90. doi:  10.1186/s13073-016-0344-6
+
+ 
+Escrihuela-Vidal F., Laporte J., Albasanz-Puig A., Gudiol C. (2019). Update on the management of febrile neutropenia in hematologic patients. Rev. Esp Quimioter
+32, 55–58. 
+Feng S., Rao G., Wei X., Fu R., Hou M., Song Y., et al. (2023). Clinical metagenomic sequencing of plasma microbial cell-free DNA for febrile neutropenia in patients with acute leukaemia. Clin. Microbiol. Infect.
+30, 107–113. doi:  10.1016/j.cmi.2023.05.034
+
+ 
+Freifeld A. G., Bow E. J., Sepkowitz K. A., Boeckh M. J., Ito J. I., Mullen C. A., et al. (2011). Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the infectious diseases society of america. Clin. Infect. Dis.
+52, e56–e93. doi:  10.1093/cid/cir073
+
+ 
+Geng S., Mei Q., Zhu C., Fang X., Yang T., Zhang L., et al. (2021). Metagenomic next-generation sequencing technology for detection of pathogens in blood of critically ill patients. Int. J. Infect. Dis.
+103, 81–87. doi:  10.1016/j.ijid.2020.11.166
+
+ 
+Grumaz S., Stevens P., Grumaz C., Decker S. O., Weigand M. A., Hofer S., et al. (2016). Next-generation sequencing diagnostics of bacteremia in septic patients. Genome Med.
+8, 73. doi:  10.1186/s13073-016-0326-8
+
+ 
+Gu W., Deng X., Lee M., Sucu Y. D., Arevalo S., Stryke D., et al. (2021). Rapid pathogen detection by metagenomic next-generation sequencing of infected body fluids. Nat. Med.
+27, 115–124. doi:  10.1038/s41591-020-1105-z
+
+ 
+Guo F., Kang L., Zhang L. (2022). mNGS for identifying pathogens in febrile neutropenic children with hematological diseases. Int. J. Infect. Dis.
+116, 85–90. doi:  10.1016/j.ijid.2021.12.335
+
+ 
+Guo Y. L., Chen Y. Q., Wang K., Qin S. M., Wu C., Kong J. L. (2010). Accuracy of BAL galactomannan in diagnosing invasive aspergillosis: a bivariate metaanalysis and systematic review. Chest
+138, 817–824. doi:  10.1378/chest.10-0488
+
+ 
+Holler E., Butzhammer P., Schmid K., Hundsrucker C., Koestler J., Peter K., et al. (2014). Metagenomic analysis of the stool microbiome in patients receiving allogeneic stem cell transplantation: loss of diversity is associated with use of systemic antibiotics and more pronounced in gastrointestinal graft-versus-host disease. Biol. Blood Marrow Transplant.
+20, 640–645. doi:  10.1016/j.bbmt.2014.01.030
+
+ 
+Jerome H., Taylor C., Sreenu V. B., Klymenko T., Filipe A. D. S., Jackson C., et al. (2019). Metagenomic next-generation sequencing aids the diagnosis of viral infections in febrile returning travellers. J. Infect.
+79, 383–388. doi:  10.1016/j.jinf.2019.08.003
+
+ 
+Keng M. K., Sekeres M. A. (2013). Febrile neutropenia in hematologic Malignancies. Curr. Hematol. Malig Rep.
+8, 370–378. doi:  10.1007/s11899-013-0171-4
+
+ 
+Klastersky J., de Naurois J., Rolston K., Rapoport B., Maschmeyer G., Aapro M., et al. (2016). Management of febrile neutropaenia: ESMO Clinical Practice Guidelines. Ann. Oncol.
+27, v111–v118. doi:  10.1093/annonc/mdw325
+
+ 
+Kuderer N. M., Dale D. C., Crawford J., Cosler L. E., Lyman G. H. (2006). Mortality, morbidity, and cost associated with febrile neutropenia in adult cancer patients. Cancer
+106, 2258–2266. doi:  10.1002/cncr.21847
+
+ 
+Li W. J., Guo Y. L., Liu T. J., Wang K., Kong J. L. (2015). Diagnosis of pneumocystis pneumonia using serum (1-3)-β-D-Glucan: a bivariate meta-analysis and systematic review. J. Thorac. Dis.
+7, 2214–2225. doi:  10.3978/j.issn.2072-1439.2015.12.27
+
+ 
+Lu Y., Chen Y. Q., Guo Y. L., Qin S. M., Wu C., Wang K. (2011. a). Diagnosis of invasive fungal disease using serum (1→3)-β-D-glucan: a bivariate meta-analysis. Intern. Med.
+50, 2783–2791. doi:  10.2169/internalmedicine.50.6175
+
+ 
+Lu Y., Ling G., Qiang C., Ming Q., Wu C., Wang K., et al. (2011. b). PCR diagnosis of Pneumocystis pneumonia: a bivariate meta-analysis. J. Clin. Microbiol.
+49, 4361–4363. doi:  10.1128/JCM.06066-11
+
+ 
+Martinez-Nadal G., Puerta-Alcalde P., Gudiol C., Cardozo C., Albasanz-Puig A., Marco F., et al. (2020). Inappropriate empirical antibiotic treatment in high-risk neutropenic patients with bacteremia in the era of multidrug resistance. Clin. Infect. Dis.
+70, 1068–1074. doi:  10.1093/cid/ciz319
+
+ 
+Purhonen A. K., Juutilainen A., Vänskä M., Lehtikangas M., Lakkisto P., Hämäläinen S., et al. (2015). Human plasma cell-free DNA as a predictor of infectious complications of neutropenic fever in hematological patients. Infect. Dis. (Lond)
+47, 255–259. doi:  10.3109/00365548.2014.985711
+
+ 
+Rosa R. G., Goldani L. Z. (2014). Cohort study of the impact of time to antibiotic administration on mortality in patients with febrile neutropenia. Antimicrob. Agents Chemother.
+58, 3799–3803. doi:  10.1128/AAC.02561-14
+
+ 
+Schmidt-Hieber M., Teschner D., Maschmeyer G., Schalk E. (2019). Management of febrile neutropenia in the perspective of antimicrobial de-escalation and discontinuation. Expert Rev. Anti Infect. Ther.
+17, 983–995. doi:  10.1080/14787210.2019.1573670
+
+ 
+Schulz E., Grumaz S., Hatzl S., Gornicec M., Valentin T., Huber-Kraßnitzer B., et al. (2022). Pathogen detection by metagenomic next-generation sequencing during neutropenic fever in patients with hematological Malignancies. Open Forum Infect. Dis.
+9, ofac393. doi:  10.1093/ofid/ofac393
+
+ 
+Wacker C., Prkno A., Brunkhorst F. M., Schlattmann P. (2013). Procalcitonin as a diagnostic marker for sepsis: a systematic review and meta-analysis. Lancet Infect. Dis.
+13, 426–435. doi:  10.1016/S1473-3099(12)70323-7
+
+ 
+Wilson M. R., Naccache S. N., Samayoa E., Biagtan M., Bashir H., Yu G., et al. (2014). Actionable diagnosis of neuroleptospirosis by next-generation sequencing. N Engl. J. Med.
+370, 2408–2417. doi:  10.1056/NEJMoa1401268
+
+ 
+Xu C., Chen X., Zhu G., Yi H., Chen S., Yu Y., et al. (2023). Utility of plasma cell-free DNA next-generation sequencing for diagnosis of infectious diseases in patients with hematological disorders. J. Infect.
+86, 14–23. doi:  10.1016/j.jinf.2022.11.020
+
+ 
+Xu H., Hu X., Wang W., Chen H., Yu F., Zhang X., et al. (2022). Clinical application and evaluation of metagenomic next-generation sequencing in pulmonary infection with pleural effusion. Infect. Drug Resist.
+15, 2813–2824. doi:  10.2147/IDR.S365757
+
+ 
+Zhang M., Wang Z., Wang J., Lv H., Xiao X., Lu W., et al. (2022). The value of metagenomic next-generation sequencing in hematological Malignancy patients with febrile neutropenia after empiric antibiotic treatment failure. Infect. Drug Resist.
+15, 3549–3559. doi:  10.2147/IDR.S364525
+
+ Associated Data Supplementary Materials Supplementary Table 1 Diagnostic efficiency of mNGS and CMT. PPV, positive predictive value; NPV, negative predictive value. Data Availability Statement The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.

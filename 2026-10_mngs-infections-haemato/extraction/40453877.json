@@ -1,0 +1,136 @@
+{
+  "pmid": "40453877",
+  "pmcid": "PMC12125677",
+  "citation": "Ma R, Yin Y, Zhang J-P, Zhang M-X, Zhou J-R, He Y, Gai W, Zhang X-H, Wang Y, Xu L-P, Liu K-Y, Huang X-J, Sun Y-Q. Metagenomic Next-generation Sequencing Compared With Blood Culture as First-line Diagnostic Method for Bloodstream Infection in Hematologic Patients With Febrile Neutropenia: A Multicenter, Prospective Study. Open Forum Infectious Diseases. 2025;12:ofaf288.",
+  "language": "English",
+  "study_design": "Multicenter, prospective diagnostic accuracy study (4 Chinese hematologic centers; ClinicalTrials.gov NCT05149547); double-blinded with independent 4-specialist adjudication panel",
+  "study_period": "October 2021 to August 2022",
+  "population": {
+    "n_total": "300 FN events (265 patients; 35 with 2 events)",
+    "n_haemato_or_transplant": 300,
+    "population_description": "Hematologic patients >=15 y with neutropenia (ANC <0.5x10^9/L) and fever at FN onset; chemotherapy 192 (64%), auto-HSCT 23 (8%), allo-HSCT 85 (28%); classified as definite BSI 62, probable BSI 61, other infectious FN 116, noninfectious FN 55, indeterminate 6",
+    "haemato_subtypes": "AML 167 (56%), ALL 56 (19%), MDS 15 (5%), aplastic anemia 6 (2%), lymphoma 6 (4%), multiple myeloma 13 (4%), other 37 (12%)"
+  },
+  "neutropenic_status": "Neutropenia defined as ANC <0.5 x 10^9/L; peripheral blood collected at FN onset",
+  "specimens": [
+    {
+      "type": "peripheral blood (whole blood: plasma + blood cell layer mNGS)",
+      "n_tests": "300 FN events, simultaneous with BC"
+    },
+    {
+      "type": "blood culture",
+      "n_tests": "300 FN events (4 excluded for QC)"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS of whole blood (plasma cfDNA + blood cell layer) (Supplementary methods; details in supplement)",
+    "commercial_or_inhouse": "not stated in main text",
+    "dna_and_or_rna": "DNA (viruses excepted from positivity count; bacterial/fungal DNA)"
+  },
+  "reference_standard": "Independent expert panel (4 hematology specialists) adjudication into definite/probable BSI, other infectious FN, noninfectious FN, indeterminate; double-blinding of clinicians and mNGS analysis team",
+  "comparator_2x2": {
+    "TP": 59,
+    "FP": 3,
+    "FN": 3,
+    "TN": 52,
+    "against": "final adjudicated diagnosis (definite BSI, n=62 vs noninfectious FN, n=55); Table 3, whole blood mNGS",
+    "unit": "FN event",
+    "note": "Also reported: blood cell layer alone TP 24/FN 38/FP 0/TN 55 (sens 38.7%, spec 100%); plasma alone TP 56/FN 6/FP 3/TN 52 (sens 90.3%, spec 94.6%). Probable BSI (n=61) excluded from 2x2."
+  },
+  "diagnostic_yield": {
+    "n_tests": 300,
+    "n_positive_relevant_pathogens": "mNGS positive in 204/300 (68.0%, excluding viruses); 80/204 (39.2%) polymicrobial; BC positive 62/300 (20.7%); mNGS-BC positive agreement 79.0% (49/62), negative agreement 34.9% (83/238)",
+    "yield_percent": "mNGS positivity 68.0% vs BC 20.7%",
+    "basis": "among 300 FN events"
+  },
+  "additional_yield_vs_conventional": "Most Gram-positive bacteria and fungi detected exclusively by mNGS; of 62 definite BSI, mNGS positive in 60 vs BC 62 positive overall; 3 BC-positive/mNGS-negative definite BSI (contaminant-likely pathogens S. gordonii, P. mirabilis, P. humerusii); 3 mNGS-positive/noninfectious FN false positives.",
+  "turnaround_time": "mNGS 39.7 +/- 15.0 hours vs BC 119.8 +/- 31.9 hours (P significant)",
+  "therapy_change": "Secondary endpoint (antimicrobial management significance) - detailed counts in Supplementary Table 5, not in main text",
+  "mortality_or_outcomes": "14-day mortality 11 (4%) of FN events (Table 1)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "yes (clinical physician and mNGS analysis team double-blinded; adjudication by independent expert panel)",
+    "paired_data": true,
+    "overlap_risk": "35 patients contributed 2 FN events (event-level analysis); adjudication categories defined partly relative to mNGS/BC concordance"
+  },
+  "quadas2_notes": "Strongest study of the set: prospective, multicenter, consecutive, double-blinded, pre-registered. Caution: 'definite BSI' definition incorporates BC/mNGS concordance (mNGS concordant with BC = definite causative pathogen), creating partial incorporation for concordant cases; discordant cases adjudicated clinically. Probable BSI (n=61) excluded from 2x2.",
+  "evidence_quotes": [
+    {
+      "claim": "design, blinding",
+      "quote": "This study was prospectively performed in 4 Chinese hematologic centers. ... The clinical physician and mNGS analysis team were double-blinded, and the adjudication of the clinical diagnosis was evaluated by another expert panel of 4 specialists.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "performance",
+      "quote": "demonstrating high sensitivity (95.2%), specificity (94.6%), and significantly shorter turnaround time (39.7 vs 119.8 hours).",
+      "section": "Abstract"
+    },
+    {
+      "claim": "n=300, period",
+      "quote": "This multicenter prospective study was performed in 4 Chinese hematologic centers from October 2021 to August 2022.",
+      "section": "Methods"
+    },
+    {
+      "claim": "event classification",
+      "quote": "The diagnosis includes 62 definite BSI, 61 probable BSI, 116 infectious FN other than BSI, 55 non-infectious FN events, and 6 FN of indeterminate cause.",
+      "section": "Methods"
+    },
+    {
+      "claim": "Table 3 whole blood 2x2",
+      "quote": "mNGS using whole blood (N = 300) Definite BSI b 59 3 95.2 (86.5–99.0) 94.6 (84.9–98.9) 95.2 (86.5–99.0) 94.6 (84.9–98.9) Noninfectious FN 3 52",
+      "section": "Table 3"
+    },
+    {
+      "claim": "Table 3 blood cell layer",
+      "quote": "mNGS using blood cell (N = 300) Definite BSI b 24 38 38.7 (26.6–51.9) 100.0 (93.5–100.0) 100.0 (85.7–100.0) 59.1 (48.5–69.2) Noninfectious FN 0 55",
+      "section": "Table 3"
+    },
+    {
+      "claim": "Table 3 plasma",
+      "quote": "mNGS using plasma (N = 300) Definite BSI b 56 6 90.3 (80.1–96.4) 94.6 (84.9–98.7) 94.9 (85.6–98.9) 89.7 (78.8–96.1) Noninfectious FN 3 52",
+      "section": "Table 3"
+    },
+    {
+      "claim": "mNGS positivity",
+      "quote": "Among the 300 FN events, mNGS was positive in 204 (68.0%) cases (except viruses), and 80 of the 204 (39.2%) mNGS results were polymicrobial.",
+      "section": "Results"
+    },
+    {
+      "claim": "BC positivity",
+      "quote": "Among the 300 FN events, BC was positive in 62 (20.7%) cases.",
+      "section": "Results"
+    },
+    {
+      "claim": "agreement with BC",
+      "quote": "The positive and negative percentage agreements of mNGS with BC were 79.0% (49/62) and 34.9% (83/238), respectively.",
+      "section": "Results"
+    },
+    {
+      "claim": "TAT",
+      "quote": "Compared with BC, the diagnostic time of mNGS was significantly shorter (39.7 ± 15.0 vs 119.8 ± 31.9 hours",
+      "section": "Results"
+    },
+    {
+      "claim": "definite BSI mNGS results",
+      "quote": "Among the 62 definite BSI cases, mNGS was positive in 60. Among these 60 positive detections, mNGS results were adjudged as true positives in 59 cases (definite causative pathogen in 49 cases, probable causative pathogen in 7 cases, and possible causative pathogen in 3 cases).",
+      "section": "Results"
+    },
+    {
+      "claim": "14-d mortality",
+      "quote": "14-d mortality 11 (4)",
+      "section": "Table 1"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "Acute myeloid leukemia 167 (56) Acute lymphoblastic leukemia 56 (19) Myelodysplastic syndrome 15 (5) Aplastic anemia 6 (2) Lymphoma 6 (4) Multiple myeloma 13 (4)",
+      "section": "Table 1"
+    },
+    {
+      "claim": "registration",
+      "quote": "The study was registered at http://www.clinicaltrials.gov NCT05149547",
+      "section": "Methods"
+    }
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

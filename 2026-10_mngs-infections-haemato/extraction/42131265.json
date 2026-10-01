@@ -1,0 +1,64 @@
+{
+  "pmid": "42131265",
+  "pmcid": "PMC13167236",
+  "citation": "Cheng J, Ni J, Zhao Y, Jiang L, Huang Y, Zhang Y, et al. The clinical utility of metagenomic next-generation sequencing in the management of fever in patients with hematological disorders. Nagoya Journal of Medical Science. 2026;88(1):84-98.",
+  "language": "English",
+  "study_design": "Retrospective single-centre cohort (Nanfang Hospital, Southern Medical University, Guangzhou) of haematology patients with persistent fever despite >=72 h antibiotics",
+  "study_period": "January 1, 2022 to January 1, 2023",
+  "population": {
+    "n_total": 204,
+    "n_haemato_or_transplant": 204,
+    "population_description": "204 haematology patients (140 neutropenic, 64 non-neutropenic) with fever >38.3 C persisting after 72 h antibiotics, all undergoing peripheral blood mNGS and CMT within one week. HSCT 65 (31.9%), chemotherapy 112 (54.9%), CAR-T 11 (5.4%), immunosuppressive therapy 11 (5.4%). Median antibiotic exposure 22 days (range 3-99).",
+    "haemato_subtypes": "AML 101 (49.5%), ALL 47 (23%), MDS 24 (11.8%), lymphoma 18 (8.8%), other haematologic disorders 14 (6.9%)."
+  },
+  "neutropenic_status": "Neutropenia defined as absolute neutrophil count (ANC) < 500/mm3; 140/204 (68.6%) neutropenic (Group I), 64 non-neutropenic (Group II)",
+  "specimens": [
+    {"type": "peripheral blood (>=3 mL, mNGS)", "n_tests": 204}
+  ],
+  "index_test": {
+    "platform_or_panel": "In-house plasma mNGS: QIAamp Viral RNA Mini Kit DNA extraction (magnetic bead-based microbial kit), MGISEQ-2000 (BGI), alignment vs NCBI/RefSeq/FDA-ARGOS/Genome Taxonomy Database; positivity thresholds: genus relative abundance >30%, SMRN >=3 (species), any aligned reads for MTB/Pneumocystis, SMRN >=100 for parasites, SMRN above negative controls",
+    "commercial_or_inhouse": "Inhouse (Precision Medicine Center, Nanfang Hospital)",
+    "dna_and_or_rna": "DNA (plasma; kit named Viral RNA Mini Kit used for DNA extraction)"
+  },
+  "reference_standard": "Clinical composite diagnosis retrospectively assigned by committee (hematologists, microbiologists, radiologists) per CDC/NHSN surveillance definitions, integrating clinical symptoms, laboratory tests, imaging, and treatment response; mNGS interpretations categorized definite/probable/possible/unlikely/false-negative, with definite+probable+possible counted as composite-positive (partial incorporation of mNGS).",
+  "comparator_2x2": {
+    "TP": 127,
+    "FP": 16,
+    "FN": 35,
+    "TN": 26,
+    "against": "Composite clinical standard (sensitivity 78.4%, specificity 61.9%). Also vs CMT: mNGS+ 49 CMT+ / 90 CMT-, mNGS- 14 CMT+ / 51 CMT- (sensitivity 77.8%, specificity 36.2%); vs blood culture: 11/79/5/109 (sensitivity 68.8%, specificity 58.0%).",
+    "unit": "patient"
+  },
+  "diagnostic_yield": {
+    "n_tests": 204,
+    "n_positive_relevant_pathogens": 146,
+    "yield_percent": 68.1,
+    "basis": "Overall mNGS positivity 146/204 (68.1%) vs CMT 30.9% (P<0.001); neutropenic group 73.6% vs non-neutropenic 67.2%; CMT positivity 34.4% vs 12.5%."
+  },
+  "additional_yield_vs_conventional": "Vs blood culture: 79 cases (38.7%) mNGS-positive/culture-negative, 5 (2.5%) culture-positive/mNGS-negative, 11 double positive. Vs CMT: 90 specimens (44.1%) mNGS-positive/CMT-negative, 14 (6.8%) CMT-positive/mNGS-negative, 49 double positive. mNGS detected 19 drug-resistant strains vs 2 by blood culture (CRB 9/16, MRSA 3/16, MDR 2/16, VRSA/VRE/ESBL 1 each).",
+  "turnaround_time": null,
+  "therapy_change": "mNGS positively influenced diagnosis in 105/204 (51.5%), no impact 95 (46.6%), negative 5 (2.5%); positively influenced treatment in 89/204 (43.6%), antibiotic adjustment in 53 (26.0%). Neutropenic vs non-neutropenic: diagnosis 56.4% vs 40.6% (P=0.036), treatment 49.3% vs 31.3% (P=0.016).",
+  "mortality_or_outcomes": "30-day mortality 17.3% (24/139) in mNGS-positive vs 4.2% (1/65) in mNGS-negative patients (abstract reports 17.3% vs 1.5%, P<0.001; results section text states 24/139 and 1/65); overall 30-day mortality 25/204 (12.3%).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "no (mNGS results jointly interpreted by the clinical committee that assigned the composite diagnosis)",
+    "paired_data": true,
+    "overlap_risk": "Major incorporation: the composite clinical standard counted mNGS definite/probable/possible interpretations as positive, so the mNGS-vs-composite 2x2 is partly circular. The CMT- and culture-referenced 2x2s are cleaner but culture/CMT is an insensitive reference."
+  },
+  "quadas2_notes": "Large all-haemato cohort (well matched to review scope) with paired mNGS and CMT. Index test thresholds prespecified. Reference standard: retrospective committee composite with mNGS incorporated into classification (definite/probable/possible = positive) -> incorporation bias for the composite 2x2 (TP 127/FP 16/FN 35/TN 26 reconstructed from Table 2, consistent with sens 78.4% = 127/162, spec 61.9% = 26/42). Internal inconsistency: abstract reports mNGS-negative 30-day mortality 1.5% while results text reports 1/65 = 1.5% but figure text says 4.2% (1/65 is 1.5%; text '4.2% (1/65)' is arithmetically wrong). All blood-only specimens; retrospective, non-consecutive; no blinding.",
+  "evidence_quotes": [
+    {"claim": "retrospective, 204 patients, period", "quote": "We conducted a retrospective analysis of patients with hematologic conditions admitted to the Hematology Department of Nanfang Hospital, Southern Medical University, Guangzhou, China, between January 1, 2022 and January 1, 2023 who were suspected of infection and underwent mNGS testing.", "section": "Materials and Methods"},
+    {"claim": "neutropenia definition and counts", "quote": "Neutropenia was defined5 as an absolute neutrophil count (ANC) of <500/mm3.", "section": "Materials and Methods"},
+    {"claim": "204 samples, 140 neutropenic", "quote": "After excluding non-conforming cases, 204 clinical samples were enrolled in our study, comprising 140 patients with neutropenia and 64 patients without neutropenia (Figure 1).", "section": "Results"},
+    {"claim": "underlying diseases", "quote": "prevalent underlying diseases included acute myeloid leukemia (49.5%), followed by acute lymphoblastic leukemia (23%), myelodysplastic syndromes (11.8%), lymphoma (8.8%), and other hematologic disorders (6.9%), with HSCT in 31.9%, chemotherapy in 54.9%, chimeric antigen receptor T-cell therapy (CART-T) in 5.4%, accompanied by a median antibiotic exposure of 22 days (range, 3–99", "section": "Results"},
+    {"claim": "mNGS vs CMT positivity", "quote": "Among the 204 patients analyzed using the mNGS method for pathogen detection, 146 cases tested positive, yielding an overall positivity rate of 68.1%, compared to 30.9% for CMT (Figure 3C).", "section": "Results"},
+    {"claim": "composite standard 2x2 and accuracy", "quote": "Composite clinical standardd positive1273578.4%61.9%88.8%42.6%0.34575.0%<0.001Composite clinical standard negative1626", "section": "Table 2 (mNGS+ 127 composite+/16 composite-; mNGS- 35 composite+/26 composite-)"},
+    {"claim": "CMT 2x2", "quote": "Regarding CMT, 49 specimens (24.1%, 49/204) tested positive for both mNGS and CMT, 51 specimens (25.0%, 51/204) tested negative. Furthermore, 90 specimens (44.1%, 90/204) tested positive for mNGS but negative for CMT, and 14 specimens (6.8%, 14/204) tested positive for CMT but negative for mNGS. In comparison to CMT, mNGS exhibited a sensitivity of 77.8% and a specificity of 36.2%", "section": "Results"},
+    {"claim": "blood culture 2x2", "quote": "Among the 204 specimens analyzed, 11 cases (5.4%, 11/204) tested positive in both mNGS and culture, while 109 (53.4%, 109/204) tested negative in both method. There were 79 cases (38.7%) with positive mNGS but negative culture results and 5 cases (2.5%) with positive culture but negative mNGS results, with a sensitivity of 68.8% and a specificity of 58.0% (kappa, 0.086, 95%) when compared to blood culture.", "section": "Results"},
+    {"claim": "clinical impact", "quote": "Out of 204 cases, mNGS positively influenced the diagnosis in 105 cases (51.5%), had no discernible effect in 95 (46.6%), and adversely affected 5 (2.5%). In terms of treatment guidance, mNGS positively influenced 89 patients (43.6%) and had no impact on 115 patients (56.4%), with no instances of negative impact", "section": "Results"},
+    {"claim": "mortality", "quote": "A 30-day mortality rate of 17.3% (24/139) among individuals testing positive for mNGS, in contrast with a lower rate of 4.2% (1/65) among individuals testing negative", "section": "Results"},
+    {"claim": "drug resistance yield", "quote": "In contrast to the mere detection of two resistant strains by blood culture, mNGS identified 19 strains, with CRB being the most prevalent", "section": "Discussion"}
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

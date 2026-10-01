@@ -1,0 +1,51 @@
+{
+ "pmid": "35965849",
+ "pmcid": "PMC9364985",
+ "citation": "Case report: Rhizomucor pusillus pneumonia in an AML/HSCT patient detected by mNGS, 2022",
+ "language": "English",
+ "study_design": "Case report",
+ "study_period": null,
+ "population": {
+  "n_total": 1,
+  "n_haemato_or_transplant": 1,
+  "population_description": "56-year-old male with AML post-HSCT, R. pusillus pneumonia",
+  "haemato_subtypes": [
+   "AML with HSCT"
+  ]
+ },
+ "neutropenic_status": null,
+ "specimens": null,
+ "index_test": {
+  "platform_or_panel": "metagenomic next-generation sequencing (mNGS), details in article",
+  "commercial_or_inhouse": null,
+  "dna_and_or_rna": null
+ },
+ "reference_standard": "Clinical diagnosis with culture confirmation of clinical isolate R. pusillus JY54 (antifungal susceptibility testing)",
+ "comparator_2x2": null,
+ "diagnostic_yield": null,
+ "additional_yield_vs_conventional": "mNGS detected R. pusillus; conventional tools slow/less sensitive (qualitative)",
+ "turnaround_time": null,
+ "therapy_change": "Antifungal therapy guided by susceptibility; patient deteriorated and family gave up treatment, discharged",
+ "mortality_or_outcomes": "Patient deteriorated and was discharged at family decision",
+ "quality_flags": {
+  "prospective_consecutive_enrollment": false,
+  "blinding_of_index_result": null,
+  "paired_data": null,
+  "overlap_risk": "single case"
+ },
+ "quadas2_notes": "Single case report; no denominators; not usable for pooled analysis.",
+ "evidence_quotes": [
+  {
+   "claim": "case report of R. pusillus detected by mNGS",
+   "quote": "Here, we report a case of R. pusillus pneumonia in a haematopoietic stem cell transplantation (HSCT) patient, detected by the mNGS method.",
+   "section": "Abstract"
+  },
+  {
+   "claim": "outcome",
+   "quote": "With the continuous deterioration of symptoms, the patient's family decided to give up treatment, and the patient was discharged.",
+   "section": "Case Presentation"
+  }
+ ],
+ "usable_for_pooled_analysis": "not-usable",
+ "exclusion_reason": "Case report (n=1)"
+}

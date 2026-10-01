@@ -1,0 +1,121 @@
+{
+  "pmid": "40415957",
+  "pmcid": "PMC12098475",
+  "citation": "Zhang S, Guo Q, Gai W, Guo Y, Zheng Y. A comprehensive evaluation of plasma metagenomics sequencing for the diagnosis of suspected infection in pediatric patients with hematologic diseases. Frontiers in Cellular and Infection Microbiology. 2025;15:1584214.",
+  "language": "English",
+  "study_design": "Retrospective observational cohort study",
+  "study_period": "September 2023 to February 2024",
+  "population": {
+    "n_total": 73,
+    "n_haemato_or_transplant": 73,
+    "population_description": "Children with hematological disorders and suspected early infection who underwent blood mNGS at Anhui Children's Hospital (80 enrolled, 73 analyzed); 66 (90.41%) immunosuppressed mainly by chemotherapy; 64 infected vs 9 non-infected by final clinical diagnosis",
+    "haemato_subtypes": "ALL 37 (50.68%), AML 13 (17.81%), neuroblastoma 7 (9.59%), MDS 3 (4.11%), HLH 2 (2.74%), NHL 2 (2.74%), AA/other anemias 5 (6.85%), other 4 (6.25%)"
+  },
+  "neutropenic_status": "Not a formal inclusion criterion; neutropenia reported via NE counts (median 0.32x10^9/L); neutropenic patients more likely mNGS-positive",
+  "specimens": [
+    {
+      "type": "plasma (blood cfDNA)",
+      "n_tests": "73"
+    },
+    {
+      "type": "site-directed specimens for CMT (BALF, sputum, CSF, bone marrow, urine, PICC)",
+      "n_tests": "per suspected site (counts not given)"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "Plasma cfDNA mNGS (PathoXtract extraction, KAPA Hyper Prep library, MGISEQ-200, 50 bp single-end; WillingMed Technology Beijing involvement)",
+    "commercial_or_inhouse": "commercial (WillingMed Technology Beijing Co., Ltd.)",
+    "dna_and_or_rna": "DNA (cfDNA)"
+  },
+  "reference_standard": "Final clinical diagnosis (infected vs non-infected) determined by clinical symptoms, microbial test results, laboratory indexes, imaging features, and clinical treatment response",
+  "comparator_2x2": {
+    "TP": 19,
+    "FP": 31,
+    "FN": 3,
+    "TN": 20,
+    "against": "conventional microbiological tests (CMT), n=73 patients",
+    "unit": "patient",
+    "note": "This is mNGS-vs-CMT agreement, NOT vs final clinical diagnosis; the mNGS-vs-final-diagnosis 2x2 (infected n=64, non-infected n=9) is not reported numerically. Cells derived from reported percentages: both positive 19/73 (26.03%), both negative 20/73 (27.40%), CMT-only 3/73 (4.11%), mNGS-only 31/73 (42%)."
+  },
+  "diagnostic_yield": {
+    "n_tests": 73,
+    "n_positive_relevant_pathogens": "mNGS positive 69.86% (51/73) vs CMT 31.51% (23/73) vs blood culture 12.33% (9/73); 46 pathogens detected in infected patients, 34 only by mNGS, 5 only by CMT; 41 pathogens by mNGS vs 12 by CMT",
+    "yield_percent": "69.86% (mNGS) vs 31.51% (CMT)",
+    "basis": "positive detection among 73 patients; infected subgroup n=64"
+  },
+  "additional_yield_vs_conventional": "mNGS-only positives 42% (31/73); CMT-only 4.11% (3/73); among 19 double-positive patients only 4 (21.05%) exactly matched.",
+  "turnaround_time": null,
+  "therapy_change": "mNGS had positive effect on treatment in 65.75% (48/73): antibiotic initiation 8 (10.96%), escalation 11 (15.07%), de-escalation 18 (24.66%), confirmation of empirical treatment 11 (15.07%); no effect 25; negative effect 0",
+  "mortality_or_outcomes": "Not reported (discharge/death only appears as a no-effect category M6 with 0 cases)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Single center pediatric; retrospective; mNGS not always on same date; empiric antibiotics before mNGS common"
+  },
+  "quadas2_notes": "Retrospective; final clinical diagnosis used CMT/microbiology and clinical response - incorporation risk; no mNGS-vs-final-diagnosis 2x2 numerically reported (only infected n=64 vs non-infected n=9). No TAT.",
+  "evidence_quotes": [
+    {
+      "claim": "n, period, design",
+      "quote": "We retrospectively analyzed the clinical data of 73 children with hematological disorders suspected of early infection admitted to Anhui Children's Hospital between September 2023 and February 2024.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "positive rates",
+      "quote": "The positive rate of mNGS was significantly higher than that of CMT (69.86% vs 31.51%",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "vs blood culture",
+      "quote": "In patients with hematologic disease, the positive rate of plasma mNGS was significantly higher than that of BC (69.86% vs 12.33%",
+      "section": "Results"
+    },
+    {
+      "claim": "2x2 vs CMT components",
+      "quote": "26.03% (19/73) of patients were positive for both mNGS and CMT. 27.40% (20/73) of patients were negative. Positive pathogens were acquired by CMT alone in 4.11% (3/73) of patients and positive pathogens by plasma mNGS only in 42% of patients.",
+      "section": "Results"
+    },
+    {
+      "claim": "infected vs non-infected",
+      "quote": "They were classified into infected (n=64) and non-infected groups (n=9) based on their final clinical diagnosis, which was mainly determined by clinical symptoms, microbial test results, laboratory indexes, imaging features, and clinical treatment.",
+      "section": "Results"
+    },
+    {
+      "claim": "pathogens only by mNGS",
+      "quote": "A total of 46 pathogens were detected in all infected patients, of which 34 pathogens were detected only in plasma mNGS. 5 pathogens were detected only by CMT",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy impact",
+      "quote": "Among the 73 patients with suspected infection, plasma mNGS had a positive effect on the treatment of 65.75% (48/73) of patients",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy detail",
+      "quote": "M1 Initialization of the appropriate antibiotics treatment 8 (10.96%) M2 Antibiotic escalation 11 (15.07%) M3 Antibiotic de-escalation 18 (24.66%) M4 Confirmed empirical treatment 11 (15.07%)",
+      "section": "Table 2"
+    },
+    {
+      "claim": "BC rate",
+      "quote": "the positive rate of BC is only 12.33%",
+      "section": "Discussion"
+    },
+    {
+      "claim": "species counts",
+      "quote": "Forty-one pathogens were detected by mNGS, compared to only 12 by CMT.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "AML 13 (17.81%) ... ALL 37 (50.68%) ... aplastic anemia (AA) or other types of anemia, and 4 cases (6.25%) of other hematologic diseases",
+      "section": "Table 1"
+    },
+    {
+      "claim": "commercial",
+      "quote": "Medical Affairs Department, WillingMed Technology Beijing Co., Ltd.",
+      "section": "Affiliations"
+    }
+  ],
+  "usable_for_pooled_analysis": "yield-only",
+  "exclusion_reason": "No numeric 2x2 against final clinical diagnosis; only mNGS-vs-CMT agreement percentages; clinical adjudication not blinded."
+}

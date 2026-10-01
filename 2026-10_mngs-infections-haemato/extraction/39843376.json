@@ -1,0 +1,88 @@
+{
+  "pmid": "39843376",
+  "pmcid": "PMC11784336",
+  "citation": "Pichon M, Burucoa C, ADNEMIA Study Group. Diagnostic performance of the DISQVER metagenomic sequencing tool for the identification of pathogens in febrile neutropenic patients: the ADNEMIA trial. BMJ Open. 2025;15:e087773.",
+  "language": "English",
+  "study_design": "Study protocol (published protocol of a nationwide, prospective, multicentre, interventional, proof-of-concept trial; ClinicalTrials.gov NCT06075888)",
+  "study_period": "Trial planned at publication (protocol article; received 2024 Apr 18, accepted 2025 Jan 6)",
+  "population": {
+    "n_total": "200 planned",
+    "n_haemato_or_transplant": "planned: adults >=18 y with solid tumour or haematological malignancy, high-risk FN (MASCC <=21, expected neutropenia >=7 days)",
+    "population_description": "No results - protocol only",
+    "haemato_subtypes": "Not applicable (no enrolled patients reported)"
+  },
+  "neutropenic_status": "Neutropenia defined as ANC <1500/mm3; high-risk FN = MASCC score <=21 with expected neutropenia >=7 days",
+  "specimens": [
+    {
+      "type": "blood (plasma cfDNA in Streck tubes, shipped to Noscendo GmbH, Reutlingen)",
+      "n_tests": "planned 200"
+    },
+    {
+      "type": "conventional work-up specimens (blood culture, urine culture, EBV/CMV PCR, Aspergillus serology/antigen, beta-D-glucan)",
+      "n_tests": "planned 200"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS-DISQVER (Noscendo; CE-marked diagnostic device; proprietary database of >16,000 microbial genomes incl. 1500 pathogens)",
+    "commercial_or_inhouse": "commercial (Noscendo DISQVER)",
+    "dna_and_or_rna": "DNA (plasma cell-free DNA; bacteria, DNA viruses, fungi, parasites)"
+  },
+  "reference_standard": "Conventional work-up classification used as benchmark; independent blinded adjudication committee (blinded to mNGS results when adjudicating conventional results and vice versa)",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": "none yet (protocol)",
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "no results reported"
+  },
+  "additional_yield_vs_conventional": "Not reported (planned secondary outcome: microorganisms detected during routine care vs mNGS-DISQVER)",
+  "turnaround_time": "Planned: samples processed within 48 hours for metagenomic analysis",
+  "therapy_change": "Planned secondary outcome (escalation, maintenance, de-escalation or discontinuation of anti-infective treatment); no results",
+  "mortality_or_outcomes": null,
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "yes (blinded adjudication planned)",
+    "paired_data": true,
+    "overlap_risk": "Protocol: no results to assess"
+  },
+  "quadas2_notes": "This is a trial PROTOCOL with no results, yields, or diagnostic counts. Not extractable for meta-analysis; flag for future results of NCT06075888.",
+  "evidence_quotes": [
+    {
+      "claim": "protocol, planned n",
+      "quote": "This nationwide, prospective, multicentre, interventional, proof-of-concept clinical trial will enrol 200 patients.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "population",
+      "quote": "Will include patients≥18 years old, treated for malignancy, at high risk of FN (Multinational Association for Supportive Care in Cancer score≤21) with an expected duration of neutropenia≥ 7 days.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "registration",
+      "quote": "The trial has been registered on ClinicalTrials.gov (identifier NCT06075888",
+      "section": "Trial registration"
+    },
+    {
+      "claim": "index test",
+      "quote": "DISQVER is a digital analytical solution developed by Noscendo for the rapid, hypothesis-free identification of microorganisms in a patient’s blood sample from free circulating DNA.",
+      "section": "Introduction"
+    },
+    {
+      "claim": "blinded adjudication",
+      "quote": "interpretation of the conventional assessment and that provided by the mNGS-DISQVER tool will be blinded",
+      "section": "Methods"
+    },
+    {
+      "claim": "reference benchmark",
+      "quote": "The diagnostic abilities of the new mNGS-DISQVER test will be evaluated based on its sensitivity and specificity, using the conventional work-up classification as the benchmark.",
+      "section": "Statistical analysis"
+    },
+    {
+      "claim": "TAT plan",
+      "quote": "On receipt, the samples will be processed within 48 hours for metagenomic analysis using an accredited method as part of the mNGS-DISQVER diagnostic kit.",
+      "section": "Analysis"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Study protocol only - no results/data reported"
+}

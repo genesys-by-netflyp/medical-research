@@ -1,0 +1,108 @@
+{
+  "pmid": "40422860",
+  "pmcid": "PMC12210989",
+  "citation": "Zhang Y, Ge J, Wang Y, Tang Z, Ma X, Liu J, Wu D, Wu X. Clinical value of metagenomic next-generation sequencing in screening oropharyngeal colonization in patients undergoing allogeneic hematopoietic stem cell transplantation: a prospective observational study. Microbiology Spectrum. 2025;13:e00028-25.",
+  "language": "English",
+  "study_design": "Prospective observational cohort (registered ChiCTR2300069450), single center (First Affiliated Hospital of Soochow University)",
+  "study_period": "June 2022 to June 2023",
+  "population": {
+    "n_total": "145 enrolled; 128 analyzed (17 excluded)",
+    "n_haemato_or_transplant": 128,
+    "population_description": "Adults undergoing allo-HSCT; oropharyngeal swabs collected before conditioning and tested by both culture and mNGS",
+    "haemato_subtypes": "AML 53 (41.4%), MDS 26 (20.3%), AA/PNH/AA-PNH 20 (15.6%), ALL 15 (11.7%), lymphoma 4 (3.1%), MPAL 5 (3.9%), others 5 (3.9%)"
+  },
+  "neutropenic_status": "All patients received antimicrobial prophylaxis; levofloxacin/acyclovir/voriconazole prophylaxis before neutropenia, cefotaxime during neutropenia (not a diagnostic criterion)",
+  "specimens": [
+    {
+      "type": "oropharyngeal swab",
+      "n_tests": "128 (each tested by culture and mNGS); anal swabs also cultured"
+    },
+    {
+      "type": "oropharyngeal+anal swabs",
+      "n_tests": "all patients before conditioning"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS of oropharyngeal swabs (magnetic-bead free DNA extraction, NextSeq 550Dx sequencer, NCBI RefSeq/GenBank database, NTC controls, AMRFinderPlus resistance annotation)",
+    "commercial_or_inhouse": "in-house",
+    "dna_and_or_rna": "DNA"
+  },
+  "reference_standard": "None for infection diagnosis - this study evaluates COLONIZATION screening vs culture and the association of colonization with transplant outcomes (BSI, NRM, OS, PFS)",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 128,
+    "n_positive_relevant_pathogens": "oropharyngeal mNGS positive in 123/128 (only 5 negative); viruses detected in 91.4% (117/128); bacteria or fungi in 49.2% (63/128) vs 8.6% by culture; Enterobacteriaceae colonization in 23 patients; CRE colonization 5 patients",
+    "yield_percent": "mNGS detection rate significantly exceeded culture (8.6% vs 49.2% for bacteria/fungi)",
+    "basis": "colonization detection rates among 128 patients"
+  },
+  "additional_yield_vs_conventional": "mNGS detected bacteria/fungi in 49.2% vs 8.6% by culture of oropharyngeal swabs.",
+  "turnaround_time": "Culture-based identification 'can take several days' - no numeric TAT",
+  "therapy_change": "Not reported as counts",
+  "mortality_or_outcomes": "Enterobacteriaceae colonization associated with post-transplant BSI (39.1% vs 19.0%), higher NRM (HR 3.08, 95% CI 1.16-8.17), worse OS (HR 3.18, 95% CI 1.12-9.03) and PFS (HR 3.35, 95% CI 1.30-9.33) (multivariate); among 5 CRE-colonized patients, 4 developed BSI with same strain and 3 died early post-transplant",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": true,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Single center; same swab split for culture and mNGS; colonization (not infection) endpoint"
+  },
+  "quadas2_notes": "Endpoint is oropharyngeal COLONIZATION screening and its prognostic value, not infection diagnosis - no reference-standard 2x2 for infection. Not directly usable for diagnostic-accuracy pooling of infection diagnosis.",
+  "evidence_quotes": [
+    {
+      "claim": "design, registration, center",
+      "quote": "This study is a prospective, observational cohort investigation conducted at the First Affiliated Hospital of Soochow University.",
+      "section": "Methods"
+    },
+    {
+      "claim": "n enrolled/analyzed, period",
+      "quote": "From June 2022 to June 2023, we enrolled 145 patients who underwent allo-HSCT in the stem cell transplantation unit.",
+      "section": "Methods"
+    },
+    {
+      "claim": "mNGS positive 123/128",
+      "quote": "Among the 128 patients, only 5 exhibited negative oropharyngeal results mNGS, while 123 demonstrated positive results.",
+      "section": "Results"
+    },
+    {
+      "claim": "detection rates",
+      "quote": "mNGS detected viruses in 91.4% (117/128) of the patients and identified bacteria or fungi in 49.2% (63/128).",
+      "section": "Results"
+    },
+    {
+      "claim": "vs culture",
+      "quote": "The detection rate of mNGS significantly exceeded that of conventional culture methods (8.6% vs 49.2%",
+      "section": "Results"
+    },
+    {
+      "claim": "Enterobacteriaceae colonization",
+      "quote": "Based on the results from mNGS and culture analyses of oropharyngeal swabs, we identified 23 patients with Enterobacteriaceae oropharyngeal colonization prior to allo-HSCT.",
+      "section": "Results"
+    },
+    {
+      "claim": "outcomes",
+      "quote": "patients with oropharyngeal Enterobacteriaceae colonization had a higher incidence of post-transplant BSI (39.1% vs 19.0%",
+      "section": "Results"
+    },
+    {
+      "claim": "multivariate HRs",
+      "quote": "Enterobacteriaceae 2.41 1.10–5.28 0.028 ... NRM ... 3.46 1.33–8.96 0.011 ... OS ... 3.88 1.44–10.43 0.007 ... PFS ... 3.38 1.38–8.27 0.008",
+      "section": "Table 2"
+    },
+    {
+      "claim": "CRE cases",
+      "quote": "Among the five patients colonized with CRE, four developed BSIs from the same strain during transplantation, and three died early in the post-transplant period due to severe infections.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "AML 53 (41.4) ALL 15 (11.7) MDS 26 (20.3) AA/PNH/AA-PNH 20 (15.6)",
+      "section": "Table 1"
+    },
+    {
+      "claim": "paired testing",
+      "quote": "Oropharyngeal swabs were collected before the initiation of conditioning therapy and tested via both culture and mNGS.",
+      "section": "Methods"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Outcome is colonization screening (oropharyngeal swabs before conditioning), not infection diagnosis; no reference-standard 2x2 for infection."
+}

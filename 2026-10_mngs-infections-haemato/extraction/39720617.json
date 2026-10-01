@@ -1,0 +1,73 @@
+{
+  "pmid": "39720617",
+  "pmcid": "PMC11668312",
+  "citation": "Chen H, Qiu M, Xu H, Guo P, Peng Y. Application of Metagenomics Next-Generation Sequencing on Diagnosis of Disseminated Infection Caused by Rhizomucor pusillus. Infection and Drug Resistance. 2024;17:5707-5713.",
+  "language": "English",
+  "study_design": "Case report (single case)",
+  "study_period": "Not applicable (single case; pediatric ALL patient, First Affiliated Hospital of Sun Yat-sen University, Guangzhou)",
+  "population": {
+    "n_total": 1,
+    "n_haemato_or_transplant": 1,
+    "population_description": "4-year-old male with newly diagnosed ALL (day 18 fever during chemotherapy) with disseminated Rhizomucor pusillus infection",
+    "haemato_subtypes": "B-ALL (naive B cells ~41.4%; HLA-DR, CD34, CD10, CD19, CD20, CD22, CD79a, CD38+)"
+  },
+  "neutropenic_status": "Neutropenia during chemotherapy implied; neutropenia counts in case text (0.40 x 10^9/L leukocytes reported at admission)",
+  "specimens": [
+    {
+      "type": "BALF",
+      "n_tests": "1 (mNGS Table 1)"
+    },
+    {
+      "type": "other specimens during work-up",
+      "n_tests": "not systematically reported"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS of BALF (Table 1 lists reads/coverage/relative abundance); laboratory/vendor not specified in extracted text",
+    "commercial_or_inhouse": "not specified",
+    "dna_and_or_rna": "DNA (not specified)"
+  },
+  "reference_standard": "Clinical plus radiology and treatment response; conventional culture in this case did not detect R. pusillus",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 1,
+    "n_positive_relevant_pathogens": "R. pusillus detected in BALF by mNGS",
+    "yield_percent": null,
+    "basis": "single case"
+  },
+  "additional_yield_vs_conventional": "Culture did not detect R. pusillus; mNGS enabled prompt diagnosis of disseminated mucormycosis.",
+  "turnaround_time": null,
+  "therapy_change": "Treatment timeline (Figure 3) with antifungal changes; details not extractable as counts",
+  "mortality_or_outcomes": "Not extractable (outcome discussed in case narrative)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "no",
+    "paired_data": true,
+    "overlap_risk": "n/a - single case"
+  },
+  "quadas2_notes": "Case report, n=1. Per protocol rule 4, not usable for pooled analysis. No denominator, no 2x2.",
+  "evidence_quotes": [
+    {
+      "claim": "case report, ALL patient",
+      "quote": "A 4-year-old male was admitted to the hospital (the First Affiliated Hospital of Sun Yat sen University, Guangzhou, China) who was diagnosed with ALL for 1 week and returned to the hospital for chemotherapy.",
+      "section": "Case Presentation"
+    },
+    {
+      "claim": "mNGS diagnosis",
+      "quote": "mNGS facilitates prompt diagnosis of disseminated R. pusillus",
+      "section": "Conclusion"
+    },
+    {
+      "claim": "culture negative",
+      "quote": "Firstly, the conventional culture in this case did not detect R. pusillus",
+      "section": "Limitations"
+    },
+    {
+      "claim": "BALF mNGS table",
+      "quote": "Table 1 The Micro-Organisms in Bronchoalveolar Lavage Fluid (BALF) Were Detected by Metagenomics Next-Generation Sequencing Category Pathogens Reads Cover Relative BALF Fungi R. pusillus",
+      "section": "Table 1"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Case report (n=1 patient)"
+}

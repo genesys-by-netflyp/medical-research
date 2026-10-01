@@ -1,0 +1,111 @@
+{
+  "pmid": "38590441",
+  "pmcid": "PMC11000502",
+  "citation": "Zhang X, Zhang L, Li Y, Wang N, Zhang Y. Clinical performance of metagenomic next-generation sequencing for diagnosis of invasive fungal disease after hematopoietic cell transplant. Frontiers in Cellular and Infection Microbiology. 2024;14:1210857.",
+  "language": "English",
+  "study_design": "Retrospective single-center study",
+  "study_period": "June 2020 to October 2022",
+  "population": {
+    "n_total": "189 screened/at risk for IFD; 46 IFD patients analyzed",
+    "n_haemato_or_transplant": "46 (all HSCT recipients with IFD)",
+    "population_description": "HSCT recipients at risk of IFD (prolonged FN after >=96 h broad-spectrum antibiotics, FN recurrence, or other suspicion of fungal infection), Tongji Hospital, Huazhong University of Science and Technology; Table 1 reports n=46 with IFD",
+    "haemato_subtypes": "Among 46 IFD patients: AML 19 (41.30%), AA 12 (26.09%), ALL 7 (15.22%), MM 3 (6.52%), lymphoma 3 (6.52%), MDS 2 (4.35%)"
+  },
+  "neutropenic_status": "Enrollment criterion: prolonged fever with neutropenia after broad-spectrum antibiotics (>=96 h), or FN recurrence (febrile neutropenia per standard definition); 25/46 (54.35%) agranulocytic",
+  "specimens": [
+    {
+      "type": "plasma",
+      "n_tests": "3 mL blood collected; 300 uL plasma extracted (main specimen)"
+    },
+    {
+      "type": "BALF/CSF/hydrothorax",
+      "n_tests": "1.5-3 mL samples where collected"
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS, DNase-free DNA library, sequenced on MGISEQ-200/MGISEQ-2000 (DNB nanoball); DNA only",
+    "commercial_or_inhouse": "in-house (BGI-style pipeline; positivity criteria defined with RPM/NTC ratios)",
+    "dna_and_or_rna": "DNA only"
+  },
+  "reference_standard": "EORTC/MSGERC revised definitions plus Chinese guidelines: proven/probable/possible/undefined IFD classification (1 proven, 11 probable, 27 possible, 7 undefined among 46)",
+  "comparator_2x2": {
+    "TP": 15,
+    "FP": 24,
+    "FN": 2,
+    "TN": 5,
+    "against": "conventional microbiological testing (CMT) among the 46 IFD patients (Table 2)",
+    "unit": "patient",
+    "note": "Table printed vs CMT, not vs EORTC final classification; XML table totals garbled ('Total 9 7 46' likely 39/7/46; row 'Negative 24 5 28' sums to 29, not 28). Verify against PDF before pooling. Detectability: mNGS 84.78% vs CMT 36.96% of 46 patients."
+  },
+  "diagnostic_yield": {
+    "n_tests": "46 IFD patients tested",
+    "n_positive_relevant_pathogens": "mNGS positive in 39/46 (84.78%); CMT positive 17/46 (36.96%); 15 concordant positive",
+    "yield_percent": "84.78% (mNGS) vs 36.96% (CMT)",
+    "basis": "detectability of fungal pathogens among 46 IFD patients"
+  },
+  "additional_yield_vs_conventional": "mNGS detected fungi in 24 patients who were CMT-negative; CMT-positive/mNGS-negative in 2 patients (one Candida albicans bloodstream infection missed by mNGS); 15 patients concordant.",
+  "turnaround_time": "\"The detection time was significantly reduced using mNGS\" - numeric TAT not extractable from text",
+  "therapy_change": "Antifungal therapy regimens reported per pathogen group (Table 3); 35/46 (76.09%) on prophylactic therapy; no explicit mNGS-driven therapy-change counts",
+  "mortality_or_outcomes": "The fungi-related mortality rate was 18.82% (95% CI, 9.08%-30.72%); median time from fungal infection to death or end of follow-up was 11.79 months (Table 3: improved/death counts per group).",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "unclear",
+    "paired_data": true,
+    "overlap_risk": "Single center; only 46 of 189 at-risk patients analyzed (IFD cases); mNGS part of EORTC-compatible work-up"
+  },
+  "quadas2_notes": "Retrospective; reference standard is EORTC classification (microbiology/GM/CT/imaging) but the numeric mNGS-vs-EORTC 2x2 is not given in text - Table 2 is mNGS vs CMT with garbled XML totals. Possible incorporation bias as mNGS could inform classification. No numeric TAT.",
+  "evidence_quotes": [
+    {
+      "claim": "189 patients, period",
+      "quote": "We retrospectively studied 189 patients who underwent HSCT and were considered at risk of IFD at the Hematopoietic Stem Cell Transplantation Center, Tongji Hospital, affiliated with Huazhong University of Science and Technology, between June 2020 and October 2022.",
+      "section": "Methods"
+    },
+    {
+      "claim": "46 IFD patients with EORTC classes",
+      "quote": "In total, 46 patients were diagnosed with IFD, and the prevalence of proven, probable, possible, and undefined IFD was 2.18% (1), 23.91% (11), 58.69% (27), and 15.22% (7), respectively.",
+      "section": "Results"
+    },
+    {
+      "claim": "Table 2 vs CMT",
+      "quote": "Table 2 Performance of mNGS and CMT in all patients with IFD. mNGS CMT Positive Negative Total Positive 15 2 17 Negative 24 5 28 Total 9 7 46",
+      "section": "Results/Table 2"
+    },
+    {
+      "claim": "detectability",
+      "quote": "The detectability increased significantly from 36.96% to 84.78%.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "concordance",
+      "quote": "The mNGS results for 15 patients were consistent with those of CMT.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "CMT+/mNGS- cases",
+      "quote": "In two incidents the CMT results in this study were positive, but the NGS produced a false negative in two patients.",
+      "section": "Discussion"
+    },
+    {
+      "claim": "neutropenia criterion",
+      "quote": "At least one of the following enrollment criteria was present: (1) prolonged fever with neutropenia (FN) after broad-spectrum antibiotics (≥ 96 h), (2) FN recurrence, or (3) anomalous conditions to consider fungal infections.",
+      "section": "Methods"
+    },
+    {
+      "claim": "fungal mortality",
+      "quote": "The fungi-related mortality rate was 18.82% (95% CI, 9.08%–30.72%).",
+      "section": "Results"
+    },
+    {
+      "claim": "platform",
+      "quote": "Quality-qualified libraries were pooled, and DNA Nanoball (DNB) was made and sequenced by MGISEQ-200/MGISEQ-2000 platform",
+      "section": "Methods"
+    },
+    {
+      "claim": "haemato subtypes",
+      "quote": "Protopathy AA 12(26.09%) ALL 7(15.22%) AML 19(41.30%) MDS 2(4.35%) MM 3(6.52%) Lymphoma 3(6.52%)",
+      "section": "Table 1"
+    }
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

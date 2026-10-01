@@ -1,0 +1,110 @@
+{
+  "pmid": "38371300",
+  "pmcid": "PMC10869557",
+  "citation": "Chen Yuhui, Wang Jinjin, Gan Xinai, et al. Application of plasma metagenomic next-generation sequencing improves prognosis in hematology patients with neutropenia or HSCT: a retrospective study. Frontiers in Cellular and Infection Microbiology, 2024.",
+  "language": "English",
+  "study_design": "Retrospective single-center cohort",
+  "study_period": "October 2020 to July 2023",
+  "population": {
+    "n_total": 153,
+    "n_haemato_or_transplant": 153,
+    "population_description": "Hematology patients with suspected infection undergoing first plasma mNGS with paired CMT within 3-7 days; 52 (33.99%) HSCT, 72 (47.06%) neutropenic at testing; 208 infection episodes recorded",
+    "haemato_subtypes": "AML 49 (32.03%), ALL 29 (18.95%), MDS 8 (5.23%), AA 5 (3.27%), MM 12 (7.84%), NHL 33 (21.57%), HL 3 (1.96%), other 14 (9.15%); HLH in 13"
+  },
+  "neutropenic_status": "Neutropenia defined as ANC <500/µL or <1000/µL with high probability of decreasing <500/µL within 2 days; 72/153 (47.06%) neutropenic at mNGS",
+  "specimens": [
+    {
+      "type": "blood plasma (mNGS)",
+      "n_tests": 153
+    },
+    {
+      "type": "CMT (cultures, smear, G test, GM test, T-SPOT, EBV/CMV PCR, pharyngeal swab PCR) within 3-7 days",
+      "n_tests": 153
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "plasma cfDNA mNGS on MGI2000; BGI PMDB (6350 bacterial, 1064 fungal, 4945 viral, 234 parasitic genomes); exclusion of RPM <3x negative control, sequence number <3 at species level",
+    "commercial_or_inhouse": "commercial (BGI-related Precision Medicine Center, Sichuan)",
+    "dna_and_or_rna": "DNA (RNA not described)"
+  },
+  "reference_standard": "Retrospective clinical diagnosis by two experienced clinicians using CDC/NHSN surveillance definitions; clinical relevance of mNGS classified as definite/probable/possible/likely/unlikely based on clinical features, CMT concordance and treatment response",
+  "comparator_2x2": {
+    "TP": 35,
+    "FP": 80,
+    "FN": 21,
+    "TN": 17,
+    "against": "conventional microbiological tests (CMT) as reference standard - mNGS vs CMT (Table 2, n=153)",
+    "unit": "patient/sample"
+  },
+  "diagnostic_yield": {
+    "n_tests": 153,
+    "n_positive_relevant_pathogens": null,
+    "yield_percent": null,
+    "basis": "mNGS positivity 88.24% (135/153) vs CMT 40.52% (62/153), P<0.001. Versus CMT reference: mNGS sensitivity 62.5% (48.5-74.8), specificity 17.53% (10.8-26.9), PPV 30.4%, NPV 44.7%. Versus blood culture reference: sensitivity 83.3% (57.7-95.6), specificity 71.5% (62.3-79.3). Versus CMV-PCR: sensitivity 70.0%, specificity 80.4%; EBV-PCR: sensitivity 61.9%, specificity 89.1%."
+  },
+  "additional_yield_vs_conventional": "76/153 (49.67%) mNGS-positive/CMT-negative; 3/153 (1.96%) CMT-positive/mNGS-negative; of 153 specimens mNGS detected 39 bacteria, 19 viruses, 19 fungi, 2 parasites vs CMT 24 bacteria, 6 viruses, 8 fungi, 1 parasite; 5 M. tuberculosis and 2 Leishmania infantum cases detected by mNGS",
+  "turnaround_time": null,
+  "therapy_change": "Antibiotics adjusted based on mNGS in 51/153 (33.33%); adjustment rate higher in neutropenia group (45.83% vs 22.22%, P<0.01); 7-day efficacy higher in adjustment group (82.35% vs 66.67%, P<0.05)",
+  "mortality_or_outcomes": "28-day mortality 29.41% (45/153); HSCT group 28-day mortality lower than non-HSCT (6.67% vs 38.89%, P<0.001); 3-day and 7-day efficacy higher in HSCT group (82.22% vs 58.65%; 88.89% vs 67.31%); neutropenia vs non-neutropenia mortality 29.17% vs 29.63% (ns)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": false,
+    "blinding_of_index_result": "no (clinicians evaluating treatment response knew mNGS results)",
+    "paired_data": true,
+    "overlap_risk": "mNGS and CMT results partly from same window (within 3-7 days); clinical relevance adjudication incorporated mNGS results and treatment response (incorporation bias); only first mNGS per hospitalization included"
+  },
+  "quadas2_notes": "2x2 vs CMT from Table 2: mNGS+/CMT+ 35, mNGS+/CMT- 80, mNGS-/CMT+ 21, mNGS-/CMT- 17 (n=153; checks: 35+80=135 mNGS+, 35+21=56... wait CMT+ = 35+21=56, but text says 62 CMT-positive (40.52%); Table 2 cells sum CMT+ 56, CMT- 97; slight discrepancy vs reported 62/153 - flag). Against clinical reference standard no raw counts. Usable 2x2 is only vs CMT positivity, not clinical diagnosis.",
+  "evidence_quotes": [
+    {
+      "claim": "design and n",
+      "quote": "A total of 153 hematology patients with suspected infection who underwent mNGS using plasma were enrolled in the study. ... From October 2020 to July 2023, we screened all patients who underwent mNGS with plasma at the Department of Hematology, West China Hospital.",
+      "section": "Abstract/Methods"
+    },
+    {
+      "claim": "positivity rates",
+      "quote": "In 153 plasma samples, mNGS yielded a higher positivity rate than CMT (total: 88.24% vs. 40.52%, P<0.001; bacteria: 35.95% vs. 21.57%, P < 0.01; virus: 69.93% vs. 21.57%, P<0.001; fungi: 20.26% vs. 7.84%, P<0.01).",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "2x2 vs CMT",
+      "quote": "Test system CMT (+) (-): mNGS (+) | 35 | 80 ; mNGS (-) | 21 | 17 ... Sen 62.5% (48.5%-74.8%) Spe 17.5% (10.8%-26.9%)",
+      "section": "Table 2"
+    },
+    {
+      "claim": "2x2 vs blood culture",
+      "quote": "Blood Culture (+) (-): mNGS (+) | 15 | 33 ; mNGS (-) | 3 | 83 ... Sen 83.3% (57.7%-95.6%) Spe 71.5% (62.3%-79.3%)",
+      "section": "Table 2"
+    },
+    {
+      "claim": "neutropenia definition",
+      "quote": "Neutropenia was defined as an absolute neutrophil count <500/μL or <1000/μL with a high probability of decrease <500/μL in the next 2 days.",
+      "section": "Study design"
+    },
+    {
+      "claim": "population",
+      "quote": "Of these patients, 141 (92.16%) had been treated with chemotherapy, ... 52 (33.99%) with hematopoietic stem cell transplant (HSCT). At the time of the mNGS test, 47.06% (72/153) of the patients had neutropenia. ... The majority of patients (150/153, 98.04%) were exposed to antibiotics prior to sampling. The 28-day mortality rate was 29.41% (45/153).",
+      "section": "Results: Basic characteristics"
+    },
+    {
+      "claim": "additional yield",
+      "quote": "In our 153 cases, 76 cases (76/153, 49.67%) were positive for mNGS and negative for CMT, and 3 cases (3/153, 1.96%) were positive for CMT and negative for mNGS.",
+      "section": "Results"
+    },
+    {
+      "claim": "therapy change",
+      "quote": "Overall, 51 (33.33%) were antibiotic adjusted by mNGS, and 102 (66.67%) were not adjusted. ... The antibiotic adjustment rate was higher in the neutropenia group than in the non-neutropenia group (45.83% vs. 22.22%, P < 0.01)",
+      "section": "Results"
+    },
+    {
+      "claim": "HSCT outcomes",
+      "quote": "both the 3-day and 7-day efficacy rates in the HSCT group were higher than those in the non-HSCT group (3-day: 82.22% vs. 58.65%, P < 0.01; 7-day: 88.89% vs. 67.31%, P < 0.01), and the 28-day mortality rate was lower in the HSCT group than in the non-HSCT group (6.67% vs. 38.89%, P < 0.000).",
+      "section": "Abstract/Results"
+    },
+    {
+      "claim": "CMT reference sen/spe",
+      "quote": "When CMT was used as the reference standard, the sensitivity and specificity of mNGS were 62.5% (95% CI: 48.5%-74.8%) and 17.53% (95% CI: 10.8%-26.9%), respectively.",
+      "section": "Results"
+    }
+  ],
+  "usable_for_pooled_analysis": "2x2",
+  "exclusion_reason": null
+}

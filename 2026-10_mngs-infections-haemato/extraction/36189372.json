@@ -1,0 +1,74 @@
+{
+  "pmid": "36189372",
+  "pmcid": "PMC9524479",
+  "citation": "Zhang Qing, Liu Xingchen, Liu Yanyan, et al. Nasal and cutaneous mucormycosis in two patients with lymphoma after chemotherapy and target therapy: Early detection by metagenomic next-generation sequencing: A case report and literature review. Frontiers in Cellular and Infection Microbiology, 2022.",
+  "language": "English",
+  "study_design": "Case report (2 cases) plus literature review",
+  "study_period": "June 2021 to February 2022 (case 1 admitted 27 June 2021; case 2 admitted 18 October 2021)",
+  "population": {
+    "n_total": 2,
+    "n_haemato_or_transplant": 2,
+    "population_description": "Two patients with hematologic malignancies (lymphoma) with nasal/cutaneous mucormycosis after chemotherapy/ibrutinib, diagnosed by peripheral blood mNGS and confirmed by secretion culture",
+    "haemato_subtypes": "1 T-lymphoblastic lymphoma (10-year-old girl), 1 chronic lymphocytic leukemia (64-year-old man on ibrutinib)"
+  },
+  "neutropenic_status": "Case 1 febrile neutropenia with ANC 0.02 x 10^9/L during induction; case 2 not neutropenic (ANC 21.15 x 10^9/L)",
+  "specimens": [
+    {
+      "type": "peripheral blood (plasma cfDNA mNGS)",
+      "n_tests": 2
+    }
+  ],
+  "index_test": {
+    "platform_or_panel": "mNGS on MGISEQ-2000 (MGI, Shenzhen); Genskey library kit; ~12,000-genome database",
+    "commercial_or_inhouse": "commercial (Genskey/MGI workflow)",
+    "dna_and_or_rna": "DNA"
+  },
+  "reference_standard": "Clinical diagnosis confirmed by fungal culture of local secretions (case 1: fluorescent staining of nasal secretions showing pauci-septate hyphae + multidisciplinary clinical diagnosis; case 2: secretion culture grew Mucor)",
+  "comparator_2x2": null,
+  "diagnostic_yield": {
+    "n_tests": 2,
+    "n_positive_relevant_pathogens": 2,
+    "yield_percent": null,
+    "basis": "2/2 PB mNGS positive for Mucorales (Lichtheimia ramosa 3330 reads; Mucor irregularis 55 reads)"
+  },
+  "additional_yield_vs_conventional": "Initial blood/secretion cultures and G/GM tests were negative before mNGS; mNGS preceded culture confirmation; 'Within 48 h, the mNGS results were released' while subsequent secretion culture confirmed",
+  "turnaround_time": "mNGS results released within 48 hours (case 2)",
+  "therapy_change": "Case 1: switched to amphotericin B cholesterol sulfate complex + nasal amphotericin + debridement; case 2: antifungal adjusted to ABCD after mNGS, plus ganciclovir",
+  "mortality_or_outcomes": "Both patients recovered ('both patients obtained successful outcomes'); no return of mucormycosis until Feb 2022 (case 1); skin wound completely healed (case 2)",
+  "quality_flags": {
+    "prospective_consecutive_enrollment": null,
+    "blinding_of_index_result": "unclear",
+    "paired_data": null,
+    "overlap_risk": "None - isolated cases; literature review table of other mucormycosis mNGS cases is not original data"
+  },
+  "quadas2_notes": "n=2; no applicability for pooled diagnostic accuracy; reference standard partly clinical (multidisciplinary diagnosis) plus culture.",
+  "evidence_quotes": [
+    {
+      "claim": "2 cases",
+      "quote": "Here we used mNGS to timely diagnose an infection with Lichtheimia ramosa and Mucor irregularis in two patients with hematologic malignancies",
+      "section": "Abstract"
+    },
+    {
+      "claim": "case 2 TAT",
+      "quote": "Within 48 h, the mNGS results were released: M. irregularis, human betaherpesvirus, human alphaherpesvirus, and Alphatorquevirus were detected",
+      "section": "Case presentation (Case 2)"
+    },
+    {
+      "claim": "reads",
+      "quote": "Fungus | Lichtheimia | 3414 | Lichtheimia ramosa | 3330 ... 2 | PB | Fungus | Mucor | 55 | Mucor irregularis | 55",
+      "section": "Table 1"
+    },
+    {
+      "claim": "confirmation",
+      "quote": "The subsequent fungal culture of the secretion revealed Mucor growth, confirming the cutaneous mucormycosis.",
+      "section": "Case presentation (Case 2)"
+    },
+    {
+      "claim": "outcome",
+      "quote": "Following treatment with amphotericin B cholesteryl sulfate complex, the symptoms were reduced significantly, and both patients obtained successful outcomes.",
+      "section": "Abstract"
+    }
+  ],
+  "usable_for_pooled_analysis": "not-usable",
+  "exclusion_reason": "Case report (n=2 patients, below threshold); no 2x2 or yield denominator."
+}
