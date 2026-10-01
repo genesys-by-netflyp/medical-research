@@ -1,21 +1,77 @@
-# References — <project title>
+# References — acute pesticide poisoning in agricultural workers (aggregated case series)
 
-Complete reference list. Format per target journal. Every entry carries identifiers so reviewers can retrieve the source. Mark verification status.
+All 73 sources with extracted case-level data. Every source was retrieved and analysed at full text (PMC XML). Language: English unless noted in extraction JSON.
 
-## Included sources (final cohort)
-| # | First author, year | Title | Journal | PMID | PMCID | DOI | URL | Full-text source | Verified by human? |
-|---|--------------------|-------|---------|------|-------|-----|-----|------------------|--------------------|
-| 1 | | | | | | | | PMC / publisher / author-provided | [ ] |
-
-## Excluded sources (with reason)
-| # | Title | PMID/DOI | Reason excluded |
-|---|-------|----------|-----------------|
-
-## Background references (cited in Introduction/Discussion)
-| # | Citation | PMID/DOI |
-|---|----------|----------|
-
-## Notes for the human reviewer
-- Check each "Included" row against the actual paper: correct population, correct outcome, correct numbers.
-- Confirm no duplicates (same case reported twice under different citations).
-- Mark any reference needing retraction checks (PubPeer/Retraction Watch) before submission.
+1. A Rare Presentation of Imidacloprid Poisoning. Cureus (2023). PMID: 36987471; PMCID: PMC10040141; DOI: 10.7759/cureus.35400. [VERIFIED: full text analysed]
+2. Intermediate Syndrome Due to Organophosphate Poisoning: A Case Report. Cureus (2023). PMID: 37362485; PMCID: PMC10285569; DOI: 10.7759/cureus.39368. [VERIFIED: full text analysed]
+3. Case report: Reversible splenial lesion syndrome caused by diquat poisoning. Front Neurol (2023). PMID: 37662033; PMCID: PMC10469624; DOI: 10.3389/fneur.2023.1178272. [VERIFIED: full text analysed]
+4. Acute paraquat poisoning complicated by acute kidney injury and lung fibrosis: a case report from Nepal. Ann Med Surg (Lond) (2023). PMID: 37811118; PMCID: PMC10553043; DOI: 10.1097/ms9.0000000000001166. [VERIFIED: full text analysed]
+5. Paraquat induced acute kidney and lung injury with a dramatic response to methylprednisolone: A case report. Toxicol Rep (2023). PMID: 37868809; PMCID: PMC10585619; DOI: 10.1016/j.toxrep.2023.10.008. [VERIFIED: full text analysed]
+6. Pyrethroid and Neonicotinoid Poisoning: A Good Prognosis. Cureus (2023). PMID: 37965403; PMCID: PMC10641856; DOI: 10.7759/cureus.47016. [VERIFIED: full text analysed]
+7. Acute Organophosphate Poisoning Case Review With Consideration of Off-Gassing During Postmortem Examination. Am J Forensic Med Pathol (2023). PMID: 37549027; PMCID: PMC10662577; DOI: 10.1097/paf.0000000000000870. [VERIFIED: full text analysed]
+8. Hemoadsorption and continuous venovenous hemodiafiltration in the management of paraquat poisoning during pregnancy: A case report. Toxicol Rep (2023). PMID: 38021470; PMCID: PMC10665814; DOI: 10.1016/j.toxrep.2023.11.003. [VERIFIED: full text analysed]
+9. Resurgence to Life: A Case Report on Inpatient Rehabilitation in Organophosphate Poisoning Followed by Intermediate Syndrome. Cureus (2023). PMID: 38125255; PMCID: PMC10731128; DOI: 10.7759/cureus.49069. [VERIFIED: full text analysed]
+10. Attempted suicidal poisoning with pretilachlor: case series of a herbicide simulating organophosphorus toxicity. Oxf Med Case Reports (2023). PMID: 38145261; PMCID: PMC10735555; DOI: 10.1093/omcr/omad139. [VERIFIED: full text analysed]
+11. Methamidophos poisoning: A paediatric case report. Toxicol Rep (2024). PMID: 38173652; PMCID: PMC10762317; DOI: 10.1016/j.toxrep.2023.12.001. [VERIFIED: full text analysed]
+12. Acute cypermethrin and other pyrethroid poisoning - An organophosphate-like poisoning: A case report and review. Toxicol Rep (2023). PMID: 38187114; PMCID: PMC10767630; DOI: 10.1016/j.toxrep.2023.06.013. [VERIFIED: full text analysed]
+13. Comparative analysis of organophosphorus versus carbamate pesticide poisoning: a case study. Arh Hig Rada Toksikol (2024). PMID: 38548379; PMCID: PMC10978098; DOI: 10.2478/aiht-2024-75-3781. [VERIFIED: full text analysed]
+14. Acute paraquat poisoning in an adolescent with compromised outcome: A case report. SAGE Open Med Case Rep (2024). PMID: 38559410; PMCID: PMC10981267; DOI: 10.1177/2050313x241240098. [VERIFIED: full text analysed]
+15. Case Report of Overlapping Pyloric Obstruction Due to Dichlorvos Poisoning and Cholelithiasis with Choledocholithiasis. Am J Case Rep (2024). PMID: 38532541; PMCID: PMC10985417; DOI: 10.12659/ajcr.943101. [VERIFIED: full text analysed]
+16. Two cases of diquat poisoning in adolescent children. Ital J Pediatr (2024). PMID: 38644498; PMCID: PMC11034119; DOI: 10.1186/s13052-024-01640-x. [VERIFIED: full text analysed]
+17. Accidental Aluminum Phosphide Intoxication Successfully Treated with Hyperbaric Oxygen Therapy: A Case Report. Toxics (2024). PMID: 38668495; PMCID: PMC11053606; DOI: 10.3390/toxics12040272. [VERIFIED: full text analysed]
+18. Acquired methemoglobinemia induced by indoxacarb poisoning: a case report. Pan Afr Med J (2024). PMID: 38799189; PMCID: PMC11126755; DOI: 10.11604/pamj.2024.47.92.34766. [VERIFIED: full text analysed]
+19. Methemoglobinemia Following Indoxacarb Ingestion: A Unique Toxicological Presentation. Cureus (2024). PMID: 38803711; PMCID: PMC11129105; DOI: 10.7759/cureus.59122. [VERIFIED: full text analysed]
+20. Severe Amitraz Poisoning: A Case of Successful Emergency Intervention. Cureus (2024). PMID: 39070393; PMCID: PMC11281941; DOI: 10.7759/cureus.63228. [VERIFIED: full text analysed]
+21. Oculomotor nerve palsy caused by imidacloprid at initial diagnosis: A case report. Medicine (Baltimore) (2024). PMID: 39093779; PMCID: PMC11296451; DOI: 10.1097/md.0000000000039160. [VERIFIED: full text analysed]
+22. A Comprehensive Physiotherapy Approach to Regain Functional Independence in Intermediate Syndrome Secondary to Organophosphate Poisoning: A Case Report. Cureus (2024). PMID: 39105001; PMCID: PMC11299130; DOI: 10.7759/cureus.63929. [VERIFIED: full text analysed]
+23. Severe and Recurrent Acute Kidney Injury Following Dichlorvos Exposure - A Case Report. Indian J Nephrol (2024). PMID: 39114389; PMCID: PMC11302508; DOI: 10.4103/ijn.ijn_158_23. [VERIFIED: full text analysed]
+24. Treatment of an accident of imidacloprid poisoning. Front Pharmacol (2024). PMID: 39114363; PMCID: PMC11303190; DOI: 10.3389/fphar.2024.1421437. [VERIFIED: full text analysed]
+25. Survival of Misdiagnosed 2,4-Dichlorophenoxyacetic Acid Poisoning Masquerading as Organophosphorus Poisoning: A Case Report. JNMA J Nepal Med Assoc (2024). PMID: 39369405; PMCID: PMC11455649; DOI: 10.31729/jnma.8699. [VERIFIED: full text analysed]
+26. Case Report: Copper sulphate related hemophagocytosis with lymphohistiocytosis. F1000Res (2024). PMID: 39429639; PMCID: PMC11487235; DOI: 10.12688/f1000research.147189.1. [VERIFIED: full text analysed]
+27. A case report on acute combined poisoning of Indoxacarb and Novoluron and its management. SAGE Open Med Case Rep (2025). PMID: 39803376; PMCID: PMC11724406; DOI: 10.1177/2050313x241307682. [VERIFIED: full text analysed]
+28. Acute Poisoning Due to an Intentional Overdose of 2,4-Dichlorophenoxyacetic Acid. Cureus (2025). PMID: 40051695; PMCID: PMC11882993; DOI: 10.7759/cureus.80116. [VERIFIED: full text analysed]
+29. Fatal paraquat poisoning: a case report and literature review on rapid deterioration and therapeutic challenges. Ann Med Surg (Lond) (2025). PMID: 40212197; PMCID: PMC11981316; DOI: 10.1097/ms9.0000000000003103. [VERIFIED: full text analysed]
+30. Pyrethroid Ingestion With Brain and Heart Involvement: A Case Report. Cureus (2025). PMID: 40406758; PMCID: PMC12095608; DOI: 10.7759/cureus.82748. [VERIFIED: full text analysed]
+31. Case Report: 2-PAM or not 2-PAM. Clin Pract Cases Emerg Med (2025). PMID: 40402047; PMCID: PMC12097250; DOI: 10.5811/cpcem.39703. [VERIFIED: full text analysed]
+32. Intravenous indoxacarb toxicity: A rare case of unusual exposure with clinical implications. Toxicol Rep (2025). PMID: 40612661; PMCID: PMC12223390; DOI: 10.1016/j.toxrep.2024.101876. [VERIFIED: full text analysed]
+33. Catastrophic Outcomes: Rapid Multi-Organ Failure from Paraquat Poisoning- A Case Report. Niger Med J (2025). PMID: 40703903; PMCID: PMC12280319; DOI: 10.71480/nmj.v66i2.730. [VERIFIED: full text analysed]
+34. Organophosphate poisoning presenting with paralytic ileus: A case report. World J Clin Pediatr (2025). PMID: 40881092; PMCID: PMC12305092; DOI: 10.5409/wjcp.v14.i3.106463. [VERIFIED: full text analysed]
+35. Delayed-onset status epilepticus without cholinergic features in organophosphate poisoning: a case report. Toxicol Rep (2025). PMID: 40821710; PMCID: PMC12356379; DOI: 10.1016/j.toxrep.2025.102106. [VERIFIED: full text analysed]
+36. Optimization of concentration-directed blood purification therapy in the management of diquat poisoning. Front Med (Lausanne) (2025). PMID: 41346989; PMCID: PMC12672530; DOI: 10.3389/fmed.2025.1713595. [VERIFIED: full text analysed]
+37. Paraquat Poisoning: A Case Series. Clin Case Rep (2025). PMID: 41356634; PMCID: PMC12680488; DOI: 10.1002/ccr3.71638. [VERIFIED: full text analysed]
+38. Acute kidney injury induced by mixed poisoning with brodifacoum and bromadiolone: a case report. Front Med (Lausanne) (2025). PMID: 41446851; PMCID: PMC12722966; DOI: 10.3389/fmed.2025.1667137. [VERIFIED: full text analysed]
+39. Secondary exposure to organophosphate in the emergency department: analysis of an incident. Singapore Med J (2025). PMID: 34823333; PMCID: PMC12747447; DOI: 10.11622/smedj.2021220. [VERIFIED: full text analysed]
+40. Acute tubular necrosis with secondary acute respiratory distress syndrome after organophosphate poisoning: A rare clinical case. Respir Med Case Rep (2026). PMID: 41583613; PMCID: PMC12824899; DOI: 10.1016/j.rmcr.2026.102366. [VERIFIED: full text analysed]
+41. Reversible Atrial Fibrillation and Cardiogenic Shock Following Acute Aluminum Phosphide Poisoning: A Case Report and Literature Review. Clin Med Insights Case Rep (2026). PMID: 41648043; PMCID: PMC12868594; DOI: 10.1177/11795476251410403. [VERIFIED: full text analysed]
+42. Bilateral Optic Neuritis Following Acute Glyphosate Inhalation: A Case Report. Neurol Int (2026). PMID: 41745723; PMCID: PMC12942672; DOI: 10.3390/neurolint18020039. [VERIFIED: full text analysed]
+43. Case Report: A case of subarachnoid hemorrhage secondary to elbow intravenous injection of diquat poisoning in young male. Front Public Health (2025). PMID: 41800321; PMCID: PMC12961694; DOI: 10.3389/fpubh.2025.1729214. [VERIFIED: full text analysed]
+44. Amitraz poisoning: A case report of rare pesticide poisoning from Nepal. Ann Med Surg (Lond) (2026). PMID: 41939114; PMCID: PMC13048672; DOI: 10.1097/ms9.0000000000004837. [VERIFIED: full text analysed]
+45. Acute fipronil toxicity in humans following intentional ingestion: a case report with favorable outcome from a resource-limited setting. Int J Emerg Med (2026). PMID: 41965502; PMCID: PMC13072598; DOI: 10.1186/s12245-026-01231-z. [VERIFIED: full text analysed]
+46. Bilateral basal ganglia hyperintensity and cerebellar dysfunction in avermectin poisoning: a case report. J Med Case Rep (2026). PMID: 41808223; PMCID: PMC13088479; DOI: 10.1186/s13256-026-05891-6. [VERIFIED: full text analysed]
+47. Acute 2,4-dichlorophenoxyacetic acid herbicide poisoning in rural India: clinical spectrum, multiorgan toxicity, and outcomes in an eight-patient observational study. Toxicol Rep (2026). PMID: 42088828; PMCID: PMC13137143; DOI: 10.1016/j.toxrep.2026.102260. [VERIFIED: full text analysed]
+48. Case Report: Avermectin poisoning-associated hemolytic uremic syndrome. Front Immunol (2026). PMID: 42112344; PMCID: PMC13149246; DOI: 10.3389/fimmu.2026.1753201. [VERIFIED: full text analysed]
+49. Delayed-Onset and Prolonged Laryngeal Edema Following Pyrethroid Insecticide Poisoning: A Case Report. Cureus (2026). PMID: 42158774; PMCID: PMC13180496; DOI: 10.7759/cureus.107257. [VERIFIED: full text analysed]
+50. Fatal pediatric paraquat poisoning following scalp application for head lice treatment: Public health implications for pesticide regulation and emergency care - A case series. Toxicol Rep (2026). PMID: 42179648; PMCID: PMC13195271; DOI: 10.1016/j.toxrep.2026.102272. [VERIFIED: full text analysed]
+51. Paraquat peril: An insight into a fatal poisoning case. J Family Med Prim Care (2026). PMID: 42257139; PMCID: PMC13241100; DOI: 10.4103/jfmpc.jfmpc_1782_24. [VERIFIED: full text analysed]
+52. Role of therapeutic plasma exchange in paraquat poisoning: Our experience. Asian J Transfus Sci (2026). PMID: 42344647; PMCID: PMC13290272; DOI: 10.4103/ajts.ajts_219_24. [VERIFIED: full text analysed]
+53. Acute toxic encephalopathy induced by chloropicrin: case report. Front Med (Lausanne) (2026). PMID: 42359056; PMCID: PMC13291128; DOI: 10.3389/fmed.2026.1865213. [VERIFIED: full text analysed]
+54. Intravenous Lipid Emulsion Therapy for Severe Emamectin Benzoate Poisoning: A Case Report. Cureus (2026). PMID: 42453816; PMCID: PMC13367297; DOI: 10.7759/cureus.110830. [VERIFIED: full text analysed]
+55. Intentional Large-Volume Diazinon Ingestion Complicated by Seizure and Acute Respiratory Failure: A Case Report. Cureus (2026). PMID: 42535217; PMCID: PMC13423573; DOI: 10.7759/cureus.111774. [VERIFIED: full text analysed]
+56. A tale of three mimickers: Amitraz, fipronil, and 2,4-dichlorophenoxyacetic acid poisoning confounding organophosphate toxicity. Turk J Emerg Med (2026). PMID: 42583459; PMCID: PMC13460704; DOI: 10.4103/tjem.tjem_314_25. [VERIFIED: full text analysed]
+57. Successful treatment of acute oral copper sulfate poisoning: a case report. Front Pharmacol (2026). PMID: 42625794; PMCID: PMC13490125; DOI: 10.3389/fphar.2026.1879318. [VERIFIED: full text analysed]
+58. Successful rescue of a patient with extensive lethal-dose aluminum phosphide poisoning complicated by multiple organ dysfunction syndrome. J Int Med Res (2026). PMID: 42627140; PMCID: PMC13498817; DOI: 10.1177/03000605261477529. [VERIFIED: full text analysed]
+59. Aortic dissection precipitated by superwarfarin (brodifacoum) poisoning: a case report and pathophysiological review. Front Surg (2026). PMID: 42688501; PMCID: PMC13534099; DOI: 10.3389/fsurg.2026.1756737. [VERIFIED: full text analysed]
+60. Fatal cardiogenic shock following inhalation of aluminum phosphide in a child requiring veno-arterial ECMO support: a rare case and review of extracorporeal strategies. J Cardiothorac Surg (2026). PMID: 42324466; PMCID: PMC13548518; DOI: 10.1186/s13019-026-04477-z. [VERIFIED: full text analysed]
+61. Favorable outcome in paraquat poisoning with acute kidney injury in a resource-limited setting: a case report. Ann Med Surg (Lond) (2026). PMID: 42724759; PMCID: PMC13561190; DOI: 10.1097/ms9.0000000000005589. [VERIFIED: full text analysed]
+62. Successful survival after severe aluminum phosphide poisoning complicated by cardiogenic shock, atrial fibrillation and severe metabolic acidosis: a case report. J Med Case Rep (2026). PMID: 42387583; PMCID: PMC13591919; DOI: 10.1186/s13256-026-06285-4. [VERIFIED: full text analysed]
+63. Delayed Myoclonus and Bilateral Globus Pallidus Lesions Following Organophosphate Poisoning: A Case Report. Am J Case Rep (2026). PMID: 42750240; PMCID: PMC13596013; DOI: 10.12659/ajcr.953336. [VERIFIED: full text analysed]
+64. A rare intravenous paraquat exposure presenting with novel and atypical severe clinical manifestations. Indian J Pharmacol (2026). PMID: 42683993; PMCID: PMC13610748; DOI: 10.4103/ijp.ijp_81_26. [VERIFIED: full text analysed]
+65. Amitraz Poisoning - Tale of an Unusual Pesticide Poisoning: A Case Report. JNMA J Nepal Med Assoc (2020). PMID: 32538930; PMCID: PMC7654463; DOI: 10.31729/jnma.4919. [VERIFIED: full text analysed]
+66. Cypermethrin poisoning manifesting with prolonged bradycardia: A case report. Toxicol Rep (2021). PMID: 33364178; PMCID: PMC7750177; DOI: 10.1016/j.toxrep.2020.12.005. [VERIFIED: full text analysed]
+67. Pneumothorax and Pneumomediastinum Complicating Organophosphate Poisoning: A Case Series of Complications Less Understood. Cureus (2022). PMID: 35345719; PMCID: PMC8942044; DOI: 10.7759/cureus.22481. [VERIFIED: full text analysed]
+68. A Case of Severe 2,4-Dichlorophenoxyacetic Acid Poisoning Causing Diagnostic and Treatment Challenges. Int Med Case Rep J (2022). PMID: 35935177; PMCID: PMC9346413; DOI: 10.2147/imcrj.s375882. [VERIFIED: full text analysed]
+69. The toxicokinetics of acute paraquat poisoning in specific patients: a case series. J Int Med Res (2022). PMID: 36138568; PMCID: PMC9511329; DOI: 10.1177/03000605221122745. [VERIFIED: full text analysed]
+70. Rare fatal poisoning through dermal exposure to paraquat. SAGE Open Med Case Rep (2022). PMID: 36545010; PMCID: PMC9761795; DOI: 10.1177/2050313x221139621. [VERIFIED: full text analysed]
+71. Management of Lambda-Cyhalothrin Poisoning in a North Indian Healthcare Setup: A Rare Case. Cureus (2022). PMID: 36686108; PMCID: PMC9851568; DOI: 10.7759/cureus.32746. [VERIFIED: full text analysed]
+72. Imidacloprid poisoning in a young female: a case report. J Med Case Rep (2023). PMID: 36765404; PMCID: PMC9921357; DOI: 10.1186/s13256-022-03742-8. [VERIFIED: full text analysed]
+73. Deltamethrin Poisoning Mimicking Organophosphate Poisoning: A Case Report. Cureus (2023). PMID: 36860220; PMCID: PMC9969900; DOI: 10.7759/cureus.34303. [VERIFIED: full text analysed]

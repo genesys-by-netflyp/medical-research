@@ -17,8 +17,8 @@ project; title/abstract screening will additionally catch untagged case reports/
 - Titles/abstracts screened: 186 (heuristic tagging + manual review of all exclusions; 6 wrongly-dropped records rescued)
 - Excluded at screening: 93 (animal studies, conference abstract collections, reviews/guidelines without per-case data, non-pesticide toxicology, topic drift)
 - Full texts assessed: 93 attempted → 88 retrieved (5 unavailable: 3 no PMC record, 2 empty fullTextXML — see analysis/raw/fulltext_status.json)
-- Excluded at full text (with reasons): pending
-- Included: pending full-text suitability verification
+- Excluded at full text (with reasons): 15 (aggregate-only cohorts n=5, reviews/guidelines without per-case data n=7, chronic-exposure n=2, non-pesticide n=1; exact list in extraction/*.json suitable=false)
+- Included: 73 sources → 102 individual cases (descriptive synthesis only; no pooled statistics pre-gate)
 
 ## Planned formal search strings (to execute next)
 PubMed / Europe PMC (same string both, subject to field syntax):

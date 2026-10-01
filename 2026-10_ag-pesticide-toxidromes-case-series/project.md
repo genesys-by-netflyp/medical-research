@@ -51,12 +51,12 @@ Pivotal multi-case OA sources confirmed. Full text retrievable for ≥80% of exp
 ## Status
 - [x] Protocol written
 - [x] Pilot/feasibility searches executed (2026-10-01; see search_log.md)
-- [ ] Formal search executed
-- [ ] Screening CSV generated → awaiting HUMAN SCREENING REVIEW
-- [ ] Full-text data extraction
+- [x] Formal search executed
+- [x] Screening CSV generated → awaiting HUMAN SCREENING REVIEW (93 include / 93 exclude; decisions+reasons recorded)
+- [x] Full-text data extraction (102 cases from 73 suitable papers; all quotes verbatim-verified)
 - [ ] Extraction spot-check → awaiting HUMAN EXTRACTION REVIEW
-- [ ] Statistical analysis + figures
-- [ ] Manuscript draft
+- [x] Statistical analysis + figures (descriptive only, pre-gate; figures 1-3 + cases_dataset.csv)
+- [x] Manuscript draft (manuscript/manuscript_v01.docx, CARE-structured, draft v0.1)
 - [ ] HUMAN FINAL REVIEW
 - [ ] Ready for submission
 
