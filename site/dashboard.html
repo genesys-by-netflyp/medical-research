@@ -33,6 +33,35 @@ label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
   <div class="card" id="profile"></div>
   <h2>My assignments</h2>
   <div id="assignments">Loading…</div>
+  <div id="assistant">
+    <h2>Pre-print Assistant</h2>
+    <div class="card" id="credits">Loading credits…</div>
+    <div class="card" id="submitbox">
+      <strong>Submit a title</strong> — one credit per submission ($99.99/credit; refunded if the title fails the feasibility gate).
+      <form id="subform">
+        <label>Paper type</label>
+        <select id="s_type"><option value="case-series">Case series</option><option value="sr-ma">Systematic review / meta-analysis</option></select>
+        <label>Working title (10–400 characters)</label>
+        <input id="s_title" type="text" maxlength="400" required style="width:100%">
+        <label style="font-weight:400;font-size:.82rem">
+          <input type="checkbox" id="s_ack" required> I understand I receive an AI-assisted <strong>draft</strong> plus a verification dossier; I must verify the content, disclose AI assistance per journal policy, and take author responsibility before submitting anywhere.
+        </label>
+        <button type="submit" style="margin-top:.6rem">Submit (spends 1 credit)</button>
+      </form>
+    </div>
+    <h3 style="font-size:.95rem;margin-top:1.2rem">My submissions</h3>
+    <div id="submissions">Loading…</div>
+  </div>
+  <div id="admin2" style="display:none">
+    <h2>Admin — grant assistant credits</h2>
+    <div class="card">
+      <form id="creditform">
+      <label>Approved user</label><select id="c_user" required></select>
+      <label>Credits (1–50)</label><input id="c_amount" type="number" min="1" max="50" value="1" required>
+      <button type="submit">Grant credits</button>
+      </form>
+    </div>
+  </div>
   <div id="admin" style="display:none">
     <h2>Admin — pending vetting</h2>
     <div id="pending"></div>
@@ -92,6 +121,53 @@ label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
     }));
   }
 
+  // ---- Pre-print Assistant ----
+  const approved=!!profile.approved;
+  const {data:crow}=await Auth.sb.from("assistant_credits").select("balance").eq("user_id",user.id).maybeSingle();
+  const bal=crow?crow.balance:0;
+  const credBox=document.getElementById("credits");
+  credBox.innerHTML="<strong>Credits:</strong> "+bal+
+    (approved?"":" — <em>account pending vetting; submissions unlock after approval.</em>")+
+    (bal===0&&approved?" — no credits yet. After approval, request an invoice by contacting the administrator ($99.99/credit).":"");
+  if(!approved){document.getElementById("submitbox").style.display="none";}
+
+  const subBox=document.getElementById("submissions");
+  async function loadSubs(){
+    const {data:subs,error:sErr}=await Auth.sb.from("assistant_submissions")
+      .select("id,paper_type,title,status,status_note,deliverable_paths,dossier_paths,created_at,completed_at")
+      .order("created_at",{ascending:false});
+    if(sErr){subBox.textContent="Failed to load submissions: "+sErr.message;return;}
+    if(!subs||!subs.length){subBox.innerHTML="No submissions yet.";return;}
+    subBox.innerHTML='<table><tr><th>Title</th><th>Type</th><th>Status</th><th>Submitted</th><th>Deliverables</th></tr>'+
+      (await Promise.all(subs.map(async s=>{
+        let files="";
+        const items=[...(s.deliverable_paths||[]),...(s.dossier_paths||[])];
+        if(s.status==="complete"&&items.length){
+          const links=[];
+          for(const it of items){
+            const {data:su}=await Auth.sb.storage.from("assistant-deliveries").createSignedUrl(it.path,3600);
+            if(su)links.push('<a href="'+su.signedUrl+'">'+esc(it.name||it.path)+"</a>");
+          }
+          files=links.join(" · ");
+        }
+        const badgeCls={queued:"pending",processing:"pending",review:"pending",complete:"approved",failed:"pending","no-go":"pending"}[s.status]||"pending";
+        const note=s.status_note?'<br><span style="font-size:.78rem;color:#555">'+esc(s.status_note)+"</span>":"";
+        return "<tr><td>"+esc(s.title)+note+"</td><td>"+esc(s.paper_type)+"</td><td><span class=\"badge "+badgeCls+"\">"+esc(s.status)+"</span></td><td>"+(s.created_at?s.created_at.slice(0,10):"")+"</td><td>"+(files||"—")+"</td></tr>";
+      }))).join("")+"</table>";
+  }
+  await loadSubs();
+
+  document.getElementById("subform").addEventListener("submit",async e=>{
+    e.preventDefault();
+    const m=document.getElementById("msg");m.textContent="";
+    const btn=e.target.querySelector("button[type=submit]");btn.disabled=true;
+    const {data:sid,error}=await Auth.sb.rpc("submit_assistant_request",{
+      p_paper_type:document.getElementById("s_type").value,
+      p_title:document.getElementById("s_title").value.trim()});
+    if(error){m.style.color="#8a2b2b";m.textContent="Submission failed: "+error.message;btn.disabled=false;}
+    else{m.style.color="#1a6b2f";m.textContent="Submitted to the production queue.";setTimeout(()=>location.reload(),900);}
+  });
+
   // ---- Admin ----
   if(!profile.is_admin)return;
   document.getElementById("admin").style.display="block";
@@ -115,6 +191,16 @@ label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
     Auth.sb.from("profiles").select("id,full_name,specialty").eq("approved",true).order("full_name"),
     Auth.sb.from("papers").select("id,title,status").neq("status","draft").order("created_at",{ascending:false})
   ]);
+  document.getElementById("admin2").style.display="block";
+  const cSel=document.getElementById("c_user");
+  cSel.innerHTML=(users||[]).map(u=>'<option value="'+u.id+'">'+esc(u.full_name)+"</option>").join("")||"<option value=''>No approved users</option>";
+  document.getElementById("creditform").addEventListener("submit",async e=>{
+    e.preventDefault();
+    const m=document.getElementById("msg");
+    const {error}=await Auth.sb.rpc("admin_grant_assistant_credits",{p_user:cSel.value,p_amount:parseInt(document.getElementById("c_amount").value,10)});
+    if(error){m.style.color="#8a2b2b";m.textContent="Credit grant failed: "+error.message;}
+    else{m.style.color="#1a6b2f";m.textContent="Credits granted.";}
+  });
   const uSel=document.getElementById("a_user"),pSel=document.getElementById("a_paper");
   uSel.innerHTML=(users||[]).map(u=>'<option value="'+u.id+'">'+esc(u.full_name)+(u.specialty?" — "+esc(u.specialty):"")+"</option>").join("")||"<option value=''>No approved users</option>";
   pSel.innerHTML=(papers||[]).map(p=>'<option value="'+p.id+'">'+esc(p.title)+"</option>").join("")||"<option value=''>No papers</option>";

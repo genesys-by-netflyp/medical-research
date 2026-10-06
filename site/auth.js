@@ -28,7 +28,7 @@ window.Auth = (function () {
     el.style.cssText = "max-width:760px;margin:0 auto;";
     el.innerHTML =
       '<nav style="font-size:.85rem;border-bottom:1px solid #ccc;padding-bottom:.5rem;margin-bottom:1.2rem">' +
-      '<a href="/index.html">Home</a> &nbsp;·&nbsp; <a href="/dashboard.html">Dashboard</a> &nbsp;·&nbsp; ' +
+      '<a href="/index.html">Home</a> &nbsp;·&nbsp; <a href="/assistant.html">Pre-print Assistant</a> &nbsp;·&nbsp; <a href="/dashboard.html">Dashboard</a> &nbsp;·&nbsp; ' +
       '<a href="/review.html">Submit a review</a> &nbsp;·&nbsp; <a href="/reviewers.html">Reviewers</a>' +
       '<span style="float:right"><a href="#" id="nav-auth">' + (user ? "Logout" : "Login") + "</a></span>" +
       "</nav>";
