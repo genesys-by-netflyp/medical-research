@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Create an account — AI-Assisted Medical Research Preprints</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/auth.js"></script>
+<style>
+body{font-family:Helvetica,Arial,sans-serif;max-width:720px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.6}
+h1{font-size:1.5rem;border-bottom:2px solid #8a2b2b;padding-bottom:.4rem}
+label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
+input,select,textarea{width:100%;padding:.5rem;border:1px solid #ccc;border-radius:5px;font-size:.95rem;box-sizing:border-box}
+button{background:#1f4e79;color:#fff;border:0;padding:.6rem 1.2rem;border-radius:5px;font-size:.95rem;margin-top:1rem;cursor:pointer}
+#msg{margin-top:.8rem;font-size:.9rem}
+a{color:#1f4e79}
+</style>
+</head>
+<body>
+<div id="nav"></div>
+<h1>Create an account</h1>
+<p>Accounts are vetted before you can be assigned as a reviewer or claimant. After signup, your profile is <strong>pending vetting</strong> — an administrator approves it before review/claimant assignment. You can still log in to see your dashboard meanwhile.</p>
+<form id="signup">
+<label>Email *</label><input name="email" type="email" required>
+<label>Password *</label><input name="password" type="password" minlength="8" required>
+<label>Full name *</label><input name="full_name" required>
+<label>Credentials (e.g. MD, MMed, PhD)</label><input name="credentials">
+<label>Medical council registration / licence no.</label><input name="registration_no">
+<label>Organisation / institution</label><input name="organisation">
+<label>Specialty</label><input name="specialty" placeholder="e.g. Clinical Haematology">
+<label>Position</label><input name="position" placeholder="e.g. Consultant, Lecturer, Senior Lecturer">
+<label>Country</label><input name="country">
+<label>ORCID (optional)</label><input name="orcid">
+<label>Short bio (optional)</label><textarea name="bio" rows="3"></textarea>
+<button type="submit">Create account</button>
+<div id="msg"></div>
+</form>
+<p>Already have an account? <a href="/login.html">Log in</a>.</p>
+<script>
+(async()=>{
+  await Auth.injectNav();
+})();
+document.getElementById("signup").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const m=document.getElementById("msg");
+  const f=Object.fromEntries(new FormData(e.target).entries());
+  m.style.color="#1a1a1a"; m.textContent="Creating account…";
+  const {data,error}=await Auth.sb.auth.signUp({email:f.email.trim(),password:f.password});
+  if(error){m.style.color="#8a2b2b";m.textContent="Signup failed: "+error.message;return;}
+  if(!data.user){m.style.color="#8a2b2b";m.textContent="Signup failed: no user returned.";return;}
+  // Build the profile row (id must equal the auth user id)
+  const row={id:data.user.id,email:f.email.trim(),full_name:f.full_name,
+    credentials:f.credentials||null,registration_no:f.registration_no||null,
+    organisation:f.organisation||null,specialty:f.specialty||null,
+    position:f.position||null,country:f.country||null,orcid:f.orcid||null,bio:f.bio||null};
+  const {error:pErr}=await Auth.sb.from("profiles").insert(row);
+  if(pErr){
+    // If email confirmation is on, the session may not be established yet; fall back to an upsert-with-user hint via a stored row attempt is not possible client-side.
+    // Report clearly either way.
+    m.style.color="#8a2b2b";
+    m.textContent="Account created, but the profile could not be saved yet ("+pErr.message+"). If your email requires confirmation, confirm it first, then log in at dashboard.html.";
+    return;
+  }
+  if(!data.session){
+    m.style.color="#1a6b2f";
+    m.textContent="Account created. A confirmation email has been sent to "+f.email+" — please confirm your email address, then log in. Your profile is pending vetting before review/claimant assignment.";
+  }else{
+    m.style.color="#1a6b2f";
+    m.innerHTML="Account created. Your profile is pending vetting before review/claimant assignment. Go to your <a href='/dashboard.html'>dashboard</a>.";
+    setTimeout(()=>window.location.href="/dashboard.html",3000);
+  }
+});
+</script>
+</body></html>

@@ -4,67 +4,223 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Submit a review — AI-Assisted Medical Research Preprints</title>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/auth.js"></script>
 <style>
 body{font-family:Helvetica,Arial,sans-serif;max-width:760px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.6}
 h1{font-size:1.5rem;border-bottom:2px solid #8a2b2b;padding-bottom:.4rem}
+h2{font-size:1.05rem;margin-top:1.8rem;border-bottom:1px solid #ddd;padding-bottom:.3rem}
 label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
 input,select,textarea{width:100%;max-width:100%;padding:.5rem;border:1px solid #ccc;border-radius:5px;font-size:.95rem;box-sizing:border-box}
 select{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 button{background:#1f4e79;color:#fff;border:0;padding:.6rem 1.2rem;border-radius:5px;font-size:.95rem;margin-top:1rem;cursor:pointer}
+button.mini{background:#1f4e79;padding:.35rem .8rem;font-size:.8rem}
+button.remove{background:#8a2b2b;padding:.35rem .8rem;font-size:.8rem;margin-left:.4rem}
 #msg{margin-top:.8rem;font-size:.9rem}
 .reviewers{background:#eef2f7;border:1px solid #cdd6e0;border-radius:6px;padding:.7rem 1rem;font-size:.85rem;margin:.6rem 0}
+.spot-row{display:grid;grid-template-columns:1fr 1fr 1fr 1fr auto;gap:.5rem;align-items:end;margin-top:.5rem}
+.spot-row .fld label{font-weight:600;font-size:.75rem}
+fieldset{border:1px solid #ccc;border-radius:6px;padding:.9rem;margin-top:1rem}
+legend{font-weight:600;font-size:.85rem}
+.hint{font-size:.8rem;color:#555;margin:.3rem 0}
 a{color:#1f4e79}
 </style>
 </head>
 <body>
+<div id="nav"></div>
 <p><a href="/">← All preprints</a></p>
 <h1>Submit a review</h1>
-<p>Select the paper, enter the email you registered with, complete the checklist, and submit. Reviews are stored in the public audit database. Your name and credentials are displayed publicly with the paper unless you untick the disclosure box.</p>
-<form id="reviewform">
-<label>Paper</label><select id="paper" required></select>
-<label>Your registered email *</label><input name="email" type="email" required>
-<fieldset style="border:1px solid #ccc;border-radius:6px;padding:.8rem;margin-top:1rem">
-<legend style="font-weight:600;font-size:.85rem">Review checklist</legend>
-<label style="margin:.4rem 0"><input type="checkbox" name="paper_suitable"> A. The listed papers are suitable for inclusion in this series/review</label>
-<label style="margin:.4rem 0"><input type="checkbox" name="extraction_checked"> B. I checked data extraction against the source papers (papers are linked in the GitHub audit trail)</label>
-<label style="margin:.4rem 0"><input type="checkbox" name="analysis_checked"> C. I checked the statistical analysis and figures</label>
-<label style="margin:.4rem 0"><input type="checkbox" name="manuscript_checked"> D. I reviewed the final manuscript (clinical interpretation, conclusions, disclosure)</label>
-<label>Overall rating (1–5) *</label><select name="rating" required><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select>
-<label>Decision *</label><select name="decision" required><option value="approve">Approve for publication</option><option value="revise">Revise (see suggestions)</option><option value="reject">Reject</option></select>
-<label>Suggestions / required revisions</label><textarea name="suggestions" rows="4" placeholder="Specific corrections, additions, data concerns..."></textarea>
-<label>Overall comment</label><textarea name="overall_comment" rows="3"></textarea>
-<label style="margin:.6rem 0"><input type="checkbox" name="disclosed" checked> Display my name and credentials publicly alongside this paper</label>
+<p>Reviews are stored in the public audit database and appear alongside the paper. Your name and credentials are displayed publicly with the paper unless you untick the disclosure box.</p>
+<div id="loginbox" style="display:none" class="reviewers">You must <a href="/login.html?next=%2Freview.html">log in</a> to submit a review.</div>
+<form id="reviewform" style="display:none">
+<label>Paper *</label><select id="paper" required></select>
+<div class="hint" id="assignmentnote" style="display:none"></div>
+
+<h2>Section A — Inclusion</h2>
+<fieldset>
+<legend>Suitability of the listed papers</legend>
+<label>Suitable for inclusion in this series/review *</label>
+<select id="a_suitable"><option value="">— select —</option><option value="yes">Yes</option><option value="no">No</option><option value="unsure">Unsure</option></select>
+<label>Justification (mandatory) *</label>
+<textarea id="a_justification" rows="3" placeholder="Which papers are included/excluded and why — cite the screening criteria applied."></textarea>
 </fieldset>
+
+<h2>Section B — Extraction verification</h2>
+<fieldset>
+<legend>Spot-checks against source papers (minimum 3)</legend>
+<div class="hint">Log each spot-check: the data point in the paper and the corresponding value in the original source. All fields are required per row.</div>
+<div id="spotrows"></div>
+<button type="button" class="mini" id="addrow">+ Add spot-check row</button>
+</fieldset>
+
+<h2>Section C — Analysis</h2>
+<fieldset>
+<legend>Statistical analysis and figures</legend>
+<label>What did you recompute or verify, and with what result? *</label>
+<textarea id="c_recomputed" rows="3" placeholder="e.g. Recomputed pooled risk ratio from the extracted 2x2 tables; matches Table 3 to 2 decimal places."></textarea>
+<label>Figures</label>
+<select id="c_figures_ok"><option value="">— select —</option><option value="yes">OK as presented</option><option value="minor">Minor issues</option><option value="major">Major issues</option><option value="unsure">Unsure</option></select>
+<label>Figure comment (required if any issues)</label>
+<textarea id="c_figures_comment" rows="2"></textarea>
+</fieldset>
+
+<h2>Section D — Manuscript</h2>
+<fieldset>
+<legend>Clinical interpretation, conclusions, disclosure</legend>
+<label>Clinical interpretation comment *</label>
+<textarea id="d_clinical" rows="3" placeholder="Is the clinical interpretation of the findings justified by the data? Any caveats omitted?"></textarea>
+<label>Conclusions</label>
+<select id="d_conclusions_ok"><option value="">— select —</option><option value="yes">Supported by the data</option><option value="overstated">Overstated</option><option value="unsupported">Not supported</option><option value="unsure">Unsure</option></select>
+<label>Disclosure statement</label>
+<select id="d_disclosure_ok"><option value="">— select —</option><option value="yes">Adequate</option><option value="no">Inadequate</option><option value="unsure">Unsure</option></select>
+</fieldset>
+
+<h2>Conflict of interest</h2>
+<fieldset>
+<legend>Your role and conflicts</legend>
+<label>Role *</label>
+<select id="coi_role"><option value="">— select —</option><option value="independent">Independent reviewer</option><option value="claimant">Claimant (I am connected to the work)</option></select>
+<label>Conflict of interest statement (required) *</label>
+<textarea id="coi_statement" rows="2" placeholder="e.g. None. / I received travel funding from ... / I am an author on one of the reviewed papers."></textarea>
+<label style="margin:.6rem 0"><input type="checkbox" id="disclosed" checked style="width:auto"> Display my name and credentials publicly alongside this paper</label>
+</fieldset>
+
+<h2>Decision</h2>
+<label>Overall rating (1–5) *</label><select id="rating" required><option value="">—</option><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select>
+<label>Decision *</label><select id="decision" required><option value="">—</option><option value="approve">Approve for publication</option><option value="revise">Revise (see suggestions)</option><option value="reject">Reject</option></select>
+<label>Suggestions / required revisions</label><textarea id="suggestions" rows="4" placeholder="Specific corrections, additions, data concerns..."></textarea>
+<label>Overall comment</label><textarea id="overall_comment" rows="3"></textarea>
 <button type="submit">Submit review</button>
 <div id="msg"></div>
 </form>
-<div class="reviewers" id="reviewers">Loading reviewer directory…</div>
+
 <script>
-const sb=window.supabase.createClient("https://zihmokjuleecudhjmsyw.supabase.co","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppaG1va2p1bGVlY3VkaGptc3l3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA1ODE0ODAsImV4cCI6MjEwNjE1NzQ4MH0.p262PYnfC0r-Mk7pZm4G1Bwsoa8g0DVCB_cFqINXDEE");
+let me=null,profile=null,assignmentId=null,paperParam=null;
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function m(){return document.getElementById("msg");}
+
 (async()=>{
-  const {data:papers,error:pErr}=await sb.from("papers").select("id,title,status").neq("status","draft").order("created_at");
+  await Auth.injectNav();
+  me=await Auth.currentUser();
+  if(!me){
+    document.getElementById("loginbox").style.display="block";
+    return;
+  }
+  profile=await Auth.getProfile();
+  document.getElementById("reviewform").style.display="block";
+  if(profile&&!profile.approved){
+    m().style.color="#8a2b2b";
+    m().textContent="Your profile is pending vetting. You can complete this form, but submission will fail until an administrator approves your account.";
+  }
+  const params=new URLSearchParams(window.location.search);
+  assignmentId=params.get("assignment"); paperParam=params.get("paper");
+  const {data:papers,error:pErr}=await Auth.sb.from("papers").select("id,title,status").neq("status","draft").order("created_at");
   const sel=document.getElementById("paper");
-  sel.innerHTML=(papers||[]).map(p=>`<option value="${p.id}">${p.title}</option>`).join("")||"<option value=\"\">Loading failed — no papers found</option>";
+  sel.innerHTML=(papers||[]).map(p=>`<option value="${p.id}">${esc(p.title)}</option>`).join("")||"<option value=\"\">Loading failed — no papers found</option>";
   if(pErr)console.error(pErr);
-  const {data:rev}=await sb.from("reviewers").select("full_name,credentials,organisation,specialty,position").order("created_at");
-  document.getElementById("reviewers").innerHTML="<strong>Registered reviewer directory</strong><br>"+((rev||[]).map(r=>`• ${r.full_name} — ${r.credentials||""}${r.specialty?", "+r.specialty:""}${r.organisation?", "+r.organisation:""}`).join("<br>")||"No reviewers registered yet. Be the first.");
+  if(assignmentId&&paperParam){
+    sel.value=paperParam; sel.disabled=true;
+    const note=document.getElementById("assignmentnote");
+    note.style.display="block";
+    note.textContent="Assignment #"+assignmentId+" — review linked to the selected paper. Submitting sets the assignment status to submitted.";
+  }else if(paperParam){sel.value=paperParam;}
+  addSpotRow();
 })();
+
+/* ---- Section B dynamic spot-check rows ---- */
+const FIELDS=["src","point","source_val","paper_val","match"];
+function addSpotRow(vals){
+  const wrap=document.createElement("div");
+  wrap.className="spot-row";
+  const lbls={src:"Source reference / label",point:"Data point checked",source_val:"Value in source",paper_val:"Value in paper"};
+  wrap.innerHTML=FIELDS.map(f=>{
+    if(f==="match")return '<div class="fld"><label>Match</label><select class="s-match"><option value="">—</option><option value="yes">Yes</option><option value="no">No</option></select></div>';
+    return '<div class="fld"><label>'+lbls[f]+'</label><input class="s-'+f+'" type="text"></div>';
+  }).join("")+'<div><button type="button" class="remove">Remove</button></div>';
+  wrap.querySelector("button.remove").addEventListener("click",()=>wrap.remove());
+  if(vals)FIELDS.forEach(f=>{if(f==="match")wrap.querySelector(".s-match").value=vals[f];else wrap.querySelector(".s-"+f).value=vals[f];});
+  document.getElementById("spotrows").appendChild(wrap);
+}
+document.getElementById("addrow").addEventListener("click",()=>addSpotRow());
+
+function collectSpots(){
+  return Array.from(document.querySelectorAll("#spotrows .spot-row")).map(r=>({
+    source_reference:r.querySelector(".s-src").value.trim(),
+    data_point_checked:r.querySelector(".s-point").value.trim(),
+    value_in_source:r.querySelector(".s-source_val").value.trim(),
+    value_in_paper:r.querySelector(".s-paper_val").value.trim(),
+    match:r.querySelector(".s-match").value
+  }));
+}
+function spotsComplete(rows){
+  return rows.length>=3&&rows.every(r=>r.source_reference&&r.data_point_checked&&r.value_in_source&&r.value_in_paper&&r.match);
+}
+
 document.getElementById("reviewform").addEventListener("submit",async e=>{
   e.preventDefault();
-  const f=Object.fromEntries(new FormData(e.target).entries());
+  const msg=m();
+  if(!me){msg.style.color="#8a2b2b";msg.textContent="Please log in first.";return;}
   const paperId=document.getElementById("paper").value;
-  const {data:me,error:meErr}=await sb.from("reviewers").select("id,status").eq("email",f.email.trim().toLowerCase());
-  const m=document.getElementById("msg");
-  if(meErr||!me||!me.length){m.style.color="#8a2b2b";m.textContent="No reviewer profile found for that email. Please register at reviewers.html first.";return;}
-  if(me[0].status!=="approved"){m.style.color="#8a2b2b";m.textContent="Your reviewer profile is not approved yet.";return;}
-  const row={paper_id:paperId,reviewer_id:me[0].id,
-    paper_suitable:!!f.paper_suitable,extraction_checked:!!f.extraction_checked,
-    analysis_checked:!!f.analysis_checked,manuscript_checked:!!f.manuscript_checked,
-    rating:parseInt(f.rating),decision:f.decision,suggestions:f.suggestions||null,
-    overall_comment:f.overall_comment||null,disclosed:!!f.disclosed};
-  const {error}=await sb.from("reviews").insert(row);
-  if(error){m.style.color="#8a2b2b";m.textContent="Submission failed: "+error.message;}
-  else{m.style.color="#1a6b2f";m.textContent="Review submitted — thank you. It is now part of the public audit record and will appear alongside the paper.";}
+  if(!paperId){msg.style.color="#8a2b2b";msg.textContent="Select a paper.";return;}
+
+  const aSuitable=document.getElementById("a_suitable").value;
+  const aJust=document.getElementById("a_justification").value.trim();
+  if(!aSuitable||!aJust){msg.style.color="#8a2b2b";msg.textContent="Section A: suitability and a justification are mandatory.";return;}
+  const rows=collectSpots();
+  if(!spotsComplete(rows)){
+    const n=rows.filter(r=>r.source_reference&&r.data_point_checked&&r.value_in_source&&r.value_in_paper&&r.match).length;
+    msg.style.color="#8a2b2b";
+    msg.textContent="Section B: at least 3 fully completed spot-check rows are required ("+n+" complete).";
+    return;
+  }
+  const cRec=document.getElementById("c_recomputed").value.trim();
+  const cFig=document.getElementById("c_figures_ok").value;
+  const cFigCom=document.getElementById("c_figures_comment").value.trim();
+  if(!cRec||!cFig){msg.style.color="#8a2b2b";msg.textContent="Section C: recomputation/verification note and figure status are mandatory.";return;}
+  if(cFig!=="yes"&&!cFigCom){msg.style.color="#8a2b2b";msg.textContent="Section C: a comment is required when figures have issues.";return;}
+  const dClin=document.getElementById("d_clinical").value.trim();
+  const dConc=document.getElementById("d_conclusions_ok").value;
+  const dDisc=document.getElementById("d_disclosure_ok").value;
+  if(!dClin||!dConc||!dDisc){msg.style.color="#8a2b2b";msg.textContent="Section D: clinical interpretation comment, conclusions and disclosure status are mandatory.";return;}
+  const coiRole=document.getElementById("coi_role").value;
+  const coi=document.getElementById("coi_statement").value.trim();
+  if(!coiRole||!coi){msg.style.color="#8a2b2b";msg.textContent="COI section: role and statement are required.";return;}
+  const rating=document.getElementById("rating").value;
+  const decision=document.getElementById("decision").value;
+  if(!rating||!decision){msg.style.color="#8a2b2b";msg.textContent="Rating and decision are mandatory.";return;}
+
+  const structured={
+    sectionA:{suitability:aSuitable,justification:aJust},
+    sectionB:{spot_checks:rows,min_required:3},
+    sectionC:{recomputed_or_verified:cRec,figures_ok:cFig,figures_comment:cFigCom},
+    sectionD:{clinical_interpretation_comment:dClin,conclusions_ok:dConc,disclosure_ok:dDisc},
+    coi:{role:coiRole}
+  };
+  const row={
+    paper_id:paperId,
+    user_id:me.id,
+    assignment_id:assignmentId||null,
+    paper_suitable:aSuitable==="yes",
+    extraction_checked:true,
+    analysis_checked:true,
+    manuscript_checked:true,
+    rating:parseInt(rating),
+    decision:decision,
+    suggestions:document.getElementById("suggestions").value.trim()||null,
+    overall_comment:document.getElementById("overall_comment").value.trim()||null,
+    disclosed:document.getElementById("disclosed").checked,
+    coi_statement:coi,
+    structured:structured
+  };
+  msg.style.color="#1a1a1a";msg.textContent="Submitting…";
+  const {error}=await Auth.sb.from("reviews").insert(row);
+  if(error){msg.style.color="#8a2b2b";msg.textContent="Submission failed: "+error.message;return;}
+  if(assignmentId){
+    const {error:aErr}=await Auth.sb.from("assignments").update({status:"submitted"}).eq("id",assignmentId);
+    if(aErr)console.error("assignment update:",aErr);
+  }
+  msg.style.color="#1a6b2f";
+  msg.innerHTML="Review submitted — thank you. It is now part of the public audit record and will appear alongside the paper."+(assignmentId?" Your assignment is marked <strong>submitted</strong>.":"");
+  window.scrollTo(0,0);
 });
 </script>
 </body></html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard — AI-Assisted Medical Research Preprints</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/auth.js"></script>
+<style>
+body{font-family:Helvetica,Arial,sans-serif;max-width:820px;margin:0 auto;padding:2.5rem 1.2rem;color:#1a1a1a;background:#fbfaf7;line-height:1.6}
+h1{font-size:1.5rem;border-bottom:2px solid #8a2b2b;padding-bottom:.4rem}
+h2{font-size:1.1rem;margin-top:2rem;border-bottom:1px solid #ddd;padding-bottom:.3rem}
+table{border-collapse:collapse;width:100%;font-size:.85rem;margin-top:.6rem}
+th,td{border:1px solid #ddd;padding:.45rem .6rem;text-align:left;vertical-align:top}
+th{background:#eef2f7}
+button{background:#1f4e79;color:#fff;border:0;padding:.4rem .9rem;border-radius:5px;font-size:.85rem;cursor:pointer}
+button:disabled{opacity:.5;cursor:not-allowed}
+.card{background:#eef2f7;border:1px solid #cdd6e0;border-radius:6px;padding:.9rem 1.1rem;margin-top:.8rem;font-size:.9rem}
+.badge{display:inline-block;padding:.15rem .55rem;border-radius:10px;font-size:.75rem;font-weight:600}
+.badge.pending{background:#f6e2d9;color:#8a2b2b}
+.badge.approved{background:#dcebdd;color:#1a6b2f}
+.badge.admin{background:#dde4ee;color:#1f4e79}
+select,input,textarea{padding:.4rem;border:1px solid #ccc;border-radius:5px;font-size:.9rem}
+#msg{margin-top:.8rem;font-size:.9rem}
+a{color:#1f4e79}
+label{display:block;font-weight:600;font-size:.85rem;margin:.8rem 0 .2rem}
+</style>
+</head>
+<body>
+<div id="nav"></div>
+<h1>Dashboard</h1>
+<div id="loading">Loading…</div>
+<div id="content" style="display:none">
+  <div class="card" id="profile"></div>
+  <h2>My assignments</h2>
+  <div id="assignments">Loading…</div>
+  <div id="admin" style="display:none">
+    <h2>Admin — pending vetting</h2>
+    <div id="pending"></div>
+    <h2>Admin — assign reviewer / claimant</h2>
+    <div class="card">
+      <form id="assignform">
+      <label>Approved user</label><select id="a_user" required></select>
+      <label>Paper</label><select id="a_paper" required></select>
+      <label>Capacity</label><select id="a_capacity"><option value="reviewer">Reviewer</option><option value="claimant">Claimant</option></select>
+      <button type="submit">Create assignment</button>
+      </form>
+    </div>
+  </div>
+</div>
+<div id="msg"></div>
+<script>
+(async()=>{
+  await Auth.injectNav();
+  const user=await Auth.requireLogin();
+  if(!user)return;
+  const profile=await Auth.getProfile();
+  if(!profile){document.getElementById("loading").textContent="Signed in, but no profile row found. Please contact an administrator.";return;}
+  document.getElementById("loading").style.display="none";
+  const content=document.getElementById("content");
+  content.style.display="block";
+  const statusHTML=profile.approved?'<span class="badge approved">Approved</span>':'<span class="badge pending">Pending vetting</span>';
+  document.getElementById("profile").innerHTML=
+    "<strong>"+esc(profile.full_name)+"</strong> "+(profile.credentials?esc(profile.credentials):"")+" "+statusHTML+
+    (profile.is_admin?' <span class="badge admin">Admin</span>':"")+"<br>"+
+    [profile.organisation,profile.specialty,profile.position,profile.country].filter(Boolean).map(esc).join(" · ")+"<br>"+
+    "<span style='font-size:.8rem;color:#555'>"+esc(user.email)+"</span>";
+
+  // ---- My assignments ----
+  const {data:assigns,error:aErr}=await Auth.sb.from("assignments")
+    .select("id,created_at,paper_id,user_id,capacity,status,papers(title)")
+    .eq("user_id",user.id).order("created_at",{ascending:false});
+  const box=document.getElementById("assignments");
+  if(aErr){box.textContent="Failed to load assignments: "+aErr.message;}
+  else if(!assigns||!assigns.length){box.innerHTML="No assignments yet. Assignments are made by an administrator after vetting.";}
+  else{
+    box.innerHTML='<table><tr><th>Paper</th><th>Capacity</th><th>Status</th><th>Assigned</th><th></th></tr>'+
+      assigns.map(a=>{
+        const title=a.papers&&a.papers.title?a.papers.title:a.paper_id;
+        let action="";
+        if(a.capacity==="reviewer"&&(a.status==="assigned"||a.status==="in_progress")){
+          const start=a.status==="assigned"?'<button class="start" data-id="'+a.id+'">Start review</button>':'';
+          action=start+' <a href="/review.html?assignment='+a.id+'&paper='+a.paper_id+'">Review form →</a>';
+        }
+        return "<tr><td>"+esc(title)+"</td><td>"+esc(a.capacity)+"</td><td>"+esc(a.status)+"</td><td>"+(a.created_at?a.created_at.slice(0,10):"")+"</td><td>"+action+"</td></tr>";
+      }).join("")+"</table>";
+    box.querySelectorAll("button.start").forEach(b=>b.addEventListener("click",async()=>{
+      b.disabled=true;
+      const {error}=await Auth.sb.from("assignments").update({status:"in_progress"}).eq("id",b.dataset.id);
+      const m=document.getElementById("msg");
+      if(error){m.style.color="#8a2b2b";m.textContent="Update failed: "+error.message;b.disabled=false;}
+      else{m.style.color="#1a6b2f";m.textContent="Assignment set to in_progress.";location.reload();}
+    }));
+  }
+
+  // ---- Admin ----
+  if(!profile.is_admin)return;
+  document.getElementById("admin").style.display="block";
+  const {data:pending}=await Auth.sb.from("profiles").select("id,created_at,full_name,credentials,registration_no,organisation,specialty,position,country,orcid,email").eq("approved",false).order("created_at");
+  const pbox=document.getElementById("pending");
+  if(!pending||!pending.length){pbox.innerHTML="No profiles awaiting vetting.";}
+  else{
+    pbox.innerHTML='<table><tr><th>Name</th><th>Details</th><th>Email</th><th></th></tr>'+
+      pending.map(p=>"<tr><td>"+esc(p.full_name)+"</td><td>"+[p.credentials,p.registration_no,p.organisation,p.specialty,p.position,p.country,p.orcid].filter(Boolean).map(esc).join(" · ")+"</td><td>"+esc(p.email||"")+"</td>"+
+      '<td><button class="approve" data-id="'+p.id+'">Approve</button></td></tr>').join("")+"</table>";
+    pbox.querySelectorAll("button.approve").forEach(b=>b.addEventListener("click",async()=>{
+      b.disabled=true;
+      const {error}=await Auth.sb.from("profiles").update({approved:true}).eq("id",b.dataset.id);
+      const m=document.getElementById("msg");
+      if(error){m.style.color="#8a2b2b";m.textContent="Approve failed: "+error.message;b.disabled=false;}
+      else{m.style.color="#1a6b2f";m.textContent="Profile approved.";location.reload();}
+    }));
+  }
+  // Assignment form: approved users + papers
+  const [{data:users},{data:papers}]=await Promise.all([
+    Auth.sb.from("profiles").select("id,full_name,specialty").eq("approved",true).order("full_name"),
+    Auth.sb.from("papers").select("id,title,status").neq("status","draft").order("created_at",{ascending:false})
+  ]);
+  const uSel=document.getElementById("a_user"),pSel=document.getElementById("a_paper");
+  uSel.innerHTML=(users||[]).map(u=>'<option value="'+u.id+'">'+esc(u.full_name)+(u.specialty?" — "+esc(u.specialty):"")+"</option>").join("")||"<option value=''>No approved users</option>";
+  pSel.innerHTML=(papers||[]).map(p=>'<option value="'+p.id+'">'+esc(p.title)+"</option>").join("")||"<option value=''>No papers</option>";
+  document.getElementById("assignform").addEventListener("submit",async e=>{
+    e.preventDefault();
+    const m=document.getElementById("msg");
+    const row={paper_id:pSel.value,user_id:uSel.value,capacity:document.getElementById("a_capacity").value,status:"assigned"};
+    const {error}=await Auth.sb.from("assignments").insert(row);
+    if(error){m.style.color="#8a2b2b";m.textContent="Assignment failed: "+error.message;}
+    else{m.style.color="#1a6b2f";m.textContent="Assignment created.";location.reload();}
+  });
+})();
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+</script>
+</body></html>
